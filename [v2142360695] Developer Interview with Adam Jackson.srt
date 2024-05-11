@@ -1,0 +1,6303 @@
+1
+00:02:00,000 --> 00:02:02,000
+I
+
+2
+00:02:30,000 --> 00:02:32,000
+I
+
+3
+00:03:00,000 --> 00:03:02,000
+I
+
+4
+00:03:30,000 --> 00:03:32,000
+I
+
+5
+00:04:00,000 --> 00:04:02,000
+I
+
+6
+00:04:13,000 --> 00:04:15,000
+No
+
+7
+00:04:30,000 --> 00:04:32,000
+I
+
+8
+00:05:00,000 --> 00:05:03,000
+I
+
+9
+00:05:30,000 --> 00:05:32,000
+I
+
+10
+00:05:51,000 --> 00:05:55,000
+Hello everybody welcome to stream today obviously you guys are here because
+
+11
+00:05:55,000 --> 00:05:57,000
+I
+
+12
+00:05:57,000 --> 00:05:58,000
+I
+
+13
+00:05:58,000 --> 00:05:59,000
+I
+
+14
+00:05:59,000 --> 00:06:01,000
+I
+
+15
+00:06:01,000 --> 00:06:03,000
+I
+
+16
+00:06:03,000 --> 00:06:04,000
+I
+
+17
+00:06:04,000 --> 00:06:06,000
+I
+
+18
+00:06:06,000 --> 00:06:07,000
+I
+
+19
+00:06:07,000 --> 00:06:09,000
+I
+
+20
+00:06:09,000 --> 00:06:11,000
+I
+
+21
+00:06:11,000 --> 00:06:12,000
+I
+
+22
+00:06:12,000 --> 00:06:13,000
+I
+
+23
+00:06:13,000 --> 00:06:14,000
+I
+
+24
+00:06:14,000 --> 00:06:15,000
+I
+
+25
+00:06:15,000 --> 00:06:16,000
+I
+
+26
+00:06:16,000 --> 00:06:17,000
+I
+
+27
+00:06:17,000 --> 00:06:18,000
+I
+
+28
+00:06:18,000 --> 00:06:19,000
+I
+
+29
+00:06:19,000 --> 00:06:20,000
+I
+
+30
+00:06:20,000 --> 00:06:21,000
+I
+
+31
+00:06:21,000 --> 00:06:22,000
+I
+
+32
+00:06:22,000 --> 00:06:23,000
+I
+
+33
+00:06:23,000 --> 00:06:24,000
+I
+
+34
+00:06:24,000 --> 00:06:25,000
+była
+
+35
+00:06:25,000 --> 00:06:26,000
+I
+
+36
+00:06:26,000 --> 00:06:27,000
+I
+
+37
+00:06:27,000 --> 00:06:28,000
+I
+
+38
+00:06:28,000 --> 00:06:29,000
+I
+
+39
+00:06:29,000 --> 00:06:32,000
+I
+
+40
+00:06:33,000 --> 00:06:34,000
+I
+
+41
+00:06:34,000 --> 00:06:35,000
+I
+
+42
+00:06:35,000 --> 00:06:36,000
+I
+
+43
+00:06:36,000 --> 00:06:38,000
+A
+
+44
+00:06:38,000 --> 00:06:39,000
+I
+
+45
+00:06:39,000 --> 00:06:41,000
+As
+
+46
+00:06:41,000 --> 00:06:42,000
+Boss
+
+47
+00:06:42,000 --> 00:06:44,000
+ministers
+
+48
+00:06:44,000 --> 00:06:47,000
+Yeah
+
+49
+00:06:47,000 --> 00:06:50,000
+We
+
+50
+00:06:50,000 --> 00:06:53,000
+have a
+
+51
+00:06:53,000 --> 00:07:04,000
+If you haven't seen any of the other ones, Blizzard has started going on to fellow content creators channels to do live interviews in which you can ask questions primarily about season 4, but be in the end
+
+52
+00:07:04,000 --> 00:07:09,000
+Diablo in general philosophy behind design principles and some specific questions as well.
+
+53
+00:07:09,000 --> 00:07:17,000
+The interview starts at 1pm PST which is in approximately 1 hour for them now.
+
+54
+00:07:17,000 --> 00:07:35,000
+We do have a pretty decent amount of questions in the rapid-fire section, but if there is anything in particular you guys really want to see and it's a good question, the me and my co-host guys who will join us shortly before the start of the podcast or interview I suppose this one is.
+
+55
+00:07:35,000 --> 00:07:38,000
+This is more an interview than a podcast we're not really going to be having.
+
+56
+00:07:38,000 --> 00:07:41,000
+There's many conversations as much as us asking questions.
+
+57
+00:07:41,000 --> 00:07:46,000
+I see people saying the mic needs to go up. I can boost it slightly for you guys. That's easy enough.
+
+58
+00:07:46,000 --> 00:07:52,000
+You can feel free to leave them in the chat and if we see a whole bunch of those, then we would do our best to get them added in as well.
+
+59
+00:07:52,000 --> 00:08:01,000
+How's the audio levels on my end of things? Let's make sure that we have audio levels are fine and all that to start.
+
+60
+00:08:01,000 --> 00:08:06,000
+Go ahead and put them both chats. I do have both chats open, both YouTube and Twitch.
+
+61
+00:08:06,000 --> 00:08:14,000
+Are we good? How's the quality? Everyone can see everything. You guys are able to hear the intro so therefore the audio is working.
+
+62
+00:08:14,000 --> 00:08:21,000
+Everything sounds good on your guys' end of it. Great audio thanks, peeking. A little sharp.
+
+63
+00:08:21,000 --> 00:08:34,000
+Okay, you can fix that. That should fix that a little bit there. Remove the threshold a bit, attenuation.
+
+64
+00:08:34,000 --> 00:08:44,000
+How is that? Is that work a little bit better for you guys? Should be slightly better there.
+
+65
+00:08:44,000 --> 00:08:57,000
+Ask what we have to load every player's stash items. We're going to try the stick to questions that are going to provide useful bits of information or things that could potentially come to the game.
+
+66
+00:08:57,000 --> 00:09:06,000
+We're not really going to ask a lot of questions that don't really do anything for the player base at the moment if that makes sense.
+
+67
+00:09:06,000 --> 00:09:11,000
+We're not going to ask when do we get another stash tab questions like that? Pretty much going to be avoided.
+
+68
+00:09:11,000 --> 00:09:20,000
+We're going to be trying to ask more like what is either the development process behind this or what is the potential for updates related to this.
+
+69
+00:09:20,000 --> 00:09:26,000
+Excelerate once you spoil all the questions that we're going to have. We're going to try to avoid useless questions as much as possible.
+
+70
+00:09:26,000 --> 00:09:31,000
+Basically, as some of them can not be so useful.
+
+71
+00:09:31,000 --> 00:09:38,000
+With that being said, if for the people that saw Riker and Rax's interview, you guys like the reviews, I watch both of them. They seem pretty good in the interviews.
+
+72
+00:09:38,000 --> 00:09:45,000
+Looks like Riker gave us more of like design philosophy. Rax kind of had more particulars about game play type of stuff. It seemed like.
+
+73
+00:09:45,000 --> 00:09:50,000
+How am I doing? I'm doing pretty good. Not live on Twitch. We're live on both platforms. YouTube as well.
+
+74
+00:09:50,000 --> 00:09:55,000
+So you can be able to see both of them in one hour, five minutes from now. Correct.
+
+75
+00:09:55,000 --> 00:10:02,000
+Do they plan on adding raids or raid mechanics to bosses? So this is one that has kind of come up significantly.
+
+76
+00:10:02,000 --> 00:10:12,000
+And we do actually have raids in the rapid fire portion. So at towards the end of this, what we're going to attempt to do is shoot off a whole bunch of these.
+
+77
+00:10:12,000 --> 00:10:19,000
+I think we have like 15 to 20 questions. We have like six major questions we're going to try to get answered, which were our primary ones.
+
+78
+00:10:19,000 --> 00:10:35,000
+And then we have a rapid fire, which is like everything from like PVP, solo cell found raids, map overlays, you know, filters, like all of the questions that people are consistently spam asking over and over again.
+
+79
+00:10:35,000 --> 00:10:43,000
+We do have that under the rapid fire portion. So if there are some of your questions that you guys are curious about seeing that you haven't seen some of the others.
+
+80
+00:10:43,000 --> 00:10:55,000
+If we can have enough time and get to the rapid fire portion, more than likely one of your common questions will be in that rapid fire portion.
+
+81
+00:10:55,000 --> 00:11:04,000
+Yes, isn't one hour correct. Shout out to woody's and the chance wins the interview. Yeah, one hour with you.
+
+82
+00:11:04,000 --> 00:11:16,000
+I see some other questions in here talking about skill tree skill tree was done on the previous interview with racks, though we do ask some non skill tree related build questions today.
+
+83
+00:11:16,000 --> 00:11:25,000
+Yeah. So like I say, we're not going to be double dipping on questions that were already primarily answered within the other interviews.
+
+84
+00:11:25,000 --> 00:11:34,000
+We're going to try to only do new things. We're going third, we're the last of the interviews, mean, gossies. So because of that, a lot of the questions have already been answered.
+
+85
+00:11:34,000 --> 00:11:50,000
+So if there is some of these like to give you an idea, let me poll like a common one, right, that went through previously, like asking about the nightmare dungeons, pinnacle content or like the roadmap for instance, those would have been answered in racks as interviews.
+
+86
+00:11:50,000 --> 00:12:01,000
+So we're not going to ask those again. So if you think like, oh, there seems like to be some major questions weren't asked like when is an armory coming like that's probably in the previous interview.
+
+87
+00:12:01,000 --> 00:12:12,000
+So just check, check those other interviews, shout out to those ones as well. If you don't see the question that you're super interested in, they might have been in the previous ones, which is why we didn't ask it.
+
+88
+00:12:12,000 --> 00:12:19,000
+I intros nice. Oh, thanks man. That's shout out to Jim Tindow for pointing together the intros. That's my other.
+
+89
+00:12:19,000 --> 00:12:28,000
+Can you ask them if they would add black dye? We actually do have a question related to some transmog relay questions which are to be fair.
+
+90
+00:12:28,000 --> 00:12:35,000
+Transmogs are at the bottom of the list. I think people care more about gameplay mechanics, etc. than they care about like transmog type of questions.
+
+91
+00:12:35,000 --> 00:12:43,000
+But we do have one of the questions that came up the chat was asking was like a hex wheel or more color chroma's, etc for transmog.
+
+92
+00:12:43,000 --> 00:12:51,000
+So that's all the way at the bottom of the list. But if we do get to that time, then we will be asking about can we give like a color wheel for instance around transmog.
+
+93
+00:12:51,000 --> 00:13:03,000
+So that is actually in the rapid fire portion scale, Paragon loadouts that would have already been answered in racks his previous interview, which would be which would have been yesterday.
+
+94
+00:13:03,000 --> 00:13:14,000
+And I would recommend checking out his his interview for that one because they talk about the armory system and to just give you a pseudo answer and what the answer on that was is basically we like that, but we can't talk about it.
+
+95
+00:13:14,000 --> 00:13:21,000
+We wink wink nudge nudge. So I don't know if that means it's coming in the expansion or something, but it seems like the potential was there.
+
+96
+00:13:21,000 --> 00:13:35,000
+What is their vision for PVP so PVP was a highly debated topic. It was very split about half of you guys did not want us to use interview time on PVP related question.
+
+97
+00:13:35,000 --> 00:13:45,000
+The other half was very much like, Hey, I only play the game for PVP. I understand and acknowledge there's a PVP community within this game that would like answers towards PVP.
+
+98
+00:13:45,000 --> 00:13:59,000
+So what we did is we added PVP question like what's the plan around PVP development of it to the rapid fire portion. It didn't get one of the primary slots for the questions because all of the questions we didn't even ask stuff about classes we want to know.
+
+99
+00:13:59,000 --> 00:14:10,000
+I don't have any questions in there around things that I personally wanted to know. They're all things that can apply to every player regardless of what class you're playing, regardless if you're consumer PC or how you play the game.
+
+100
+00:14:10,000 --> 00:14:26,000
+We're going for questions that apply to the majority of people. So I'm not going to ask like what's the plan with Druid companions. I would love to know, but that's not in there. So PVP is one of those questions that has a community that plays it, but is not like the majority of players.
+
+101
+00:14:26,000 --> 00:14:37,000
+So for that reason, we put that into the rapid fire portion of today. So if we get into the rapid fire, we will we will be able to ask what's the plan with PVP and which hopefully we can get a few second response on that.
+
+102
+00:14:37,000 --> 00:14:48,000
+It's for the people that are just joining us not started yet. It will be we have one hour into the interview starts. We are doing the last prep for now.
+
+103
+00:14:48,000 --> 00:14:58,000
+Guazi will join us shortly before the interview and then we will have a few moments in which we need to will probably actually go for an audio test about 15 minutes before the hour.
+
+104
+00:14:58,000 --> 00:15:05,000
+And that way we can make sure we have the audio and everything set up. They'll be on a holding screen and then we'll pop up the interview and then we'll go from there.
+
+105
+00:15:05,000 --> 00:15:17,000
+I do see a question related to legendary gems, charms, Paladin Diablo in Diablo for pit leader board, runes and achievements. So the pit stuff was already covered the Paladin etc.
+
+106
+00:15:17,000 --> 00:15:28,000
+That is related to potentially the expansion, right, because there's a new class coming with expansions or I've been talked about so they can't talk about new classes. So that one we're not able to cover because they're not talking about expansion information today.
+
+107
+00:15:28,000 --> 00:15:44,000
+Legendary gems and charms. We sort of have pseudo answered in our question or pseudo asked in the upcoming question. One of the questions we will be asking is around further development and progression of characters outside of only the skill tree as the skill tree specifically was answered in the previous interview.
+
+108
+00:15:44,000 --> 00:15:49,000
+So we are trying to ask about that stuff today as well.
+
+109
+00:15:49,000 --> 00:15:55,000
+PPP is the triven true in game for the genre for certain people.
+
+110
+00:15:55,000 --> 00:16:07,000
+Let's see what else do we have here mercenaries plan or considered. We do have a question related to pet slash followers in the rapid fire portion is pets do seem to come up pretty often.
+
+111
+00:16:08,000 --> 00:16:12,000
+When is the interview start top of the hour.
+
+112
+00:16:12,000 --> 00:16:17,000
+Expansion price they're not going to be talking about shop or price related things today.
+
+113
+00:16:17,000 --> 00:16:23,000
+Room words, room words were covered in a previous interview with Riker.
+
+114
+00:16:23,000 --> 00:16:36,000
+So that one has already been discussed if we get into the rapid fire portion then we can for sure spend a little bit of time trying to dig deeper into that but that has been asked.
+
+115
+00:16:36,000 --> 00:16:46,000
+And keep in mind this is a very short interview this is only 45 minutes is what we have available to us so because of the 45 minutes that we have available.
+
+116
+00:16:46,000 --> 00:16:59,000
+We have to ask as many honed questions as we can and then get into the rapid fire which would be a little bit quicker hopefully so we aren't.
+
+117
+00:16:59,000 --> 00:17:28,000
+Aren't able to get all of the questions today so if there's some that people are willing to see that you don't get I'm sorry for instance I see many questions about the cow level that's in the rapid fire portion but we don't have meme questions in here like I'm not going to ask him have you heard of the you know d4 bad radio you to like we're not going to ask useless questions we're trying to ask mostly things that can apply to most players at most levels basically or at least try to have the opportunity to have an answer with new information.
+
+118
+00:17:28,000 --> 00:17:55,000
+That is our primary focus of the day and keep in mind normally mean gaussie with these tavern talks these are podcasts like the one we did with P O E for instance was almost three hours we don't have that amount of time so this is going to be a lot less of give and take of me talking with the person and more so mean guys are going back and forth shooting like here's my question here's his question and then listening to the answers acknowledging the answers then hitting again with the next question.
+
+119
+00:17:55,000 --> 00:17:56,000
+We have six primary questions we would like to get through this evening and then after that we have like over a dozen secondary questions if we get to will be in there to ask specifically about the cow level I'm seeing a million of those the cow level is in the rapid fire portion but that's a meme question like the no dev has ever even referred to the existence of the cow level in any diablo game as far as I'm aware so it's an ongoing joke that if you ask him it'll be like I don't know what you're talking about there's no cow level so therefore it's sort of a
+
+120
+00:18:25,000 --> 00:18:37,000
+useless use of time for the people that are watching this interview today so for that reason we're not really going to spend a lot of time diving into the cow level group finder they didn't really ask
+
+121
+00:18:37,000 --> 00:18:47,000
+answer racks about it so questions that were asked but not answer them the depth of which the audience would have enjoyed will not be reiterated upon because we've already had the
+
+122
+00:18:47,000 --> 00:19:15,000
+opportunity to see what they would answer that with if they didn't have an answer available for group finder and I ask him again literally the day after the same person who was just asked about group finder he's going to give us the same answer nothing has changed within 24 hours of his previous answer it would be a misuse of our opportunity of time here so for that reason like I mentioned previously questions such as group finder in which we didn't get a satisfactory answer to your liking would not be re asked as we already know how they would choose to answer it.
+
+123
+00:19:17,000 --> 00:19:27,000
+Any bosses getting quality of life changes for season 4 we do have a question related to world bosses here which we could dive into a little bit.
+
+124
+00:19:27,000 --> 00:19:37,000
+Scotry expansion this was covered in raxx's interview which I would recommend watching from yesterday.
+
+125
+00:19:37,000 --> 00:19:47,000
+What about the gold level slash puzzle ring slash D3 we do have that specific question within the rapid fire portion yes actually.
+
+126
+00:19:47,000 --> 00:20:05,000
+Why are all the devs doing interviews with streamers all of a sudden this time they're probably on a promotional run if I had to guess the expansion is coming I believe it's coming this year and season 4 is sort of a rework of reborn of the game is the word they're using for it.
+
+127
+00:20:05,000 --> 00:20:34,000
+They're hitting up all of the content creators to talk about it it would make sense they're also probably trying to communicate better as they do seem to be trying to listen to the feedback on the feedbacks that the devs have had is that people would like more communication within the game so I think it's a two handed of it's a promotional run which I don't have any problems doing being someone who could use the interview as well as they are trying to go under the feedback that we have been giving them about communicate more to the audience I think.
+
+128
+00:20:34,000 --> 00:20:39,000
+So when when that's how I see it anyway.
+
+129
+00:20:39,000 --> 00:21:03,000
+Bag stash size so I address this earlier we're not going to be talking about stash size today are asking about stash tabs is this is one that is so well known of an issue that has been talked about and done feedback on and been represented multiple times in multiple livestreams so far so because of that it would be a misuse of our time today to talk about stash tabs we already know it's a dev technical limitation behind of it.
+
+130
+00:21:03,000 --> 00:21:33,000
+They've added one new stash tabs and more than likely if I had to guess the answer that would be well we know we need new stash tabs but we did just limit the amount of loot being dropped with this new loot reborn system we also have the codecs of power which is now more quality of life meaning your items are stored there meaning there will be less inventory use for you so you're kind of so they'll getting more stash space that I assume would be the answer which is the same question one of our prior or the same reason one of our primary questions today will not be about loot filters they will be in the rapid fire portion if we get to the
+
+131
+00:21:33,000 --> 00:22:02,000
+same answer because I do believe we will acquire the same answer from them if we asked about stash stores and loot filter are kind of going to get the same answer the same answer would be well with loot reborn there will be a significant reduction in the amount of things you have to store and I assume that would be the answer therefore it would be a misuse of time at the moment so we're going to go with other questions it is a good question however just not for the very limited amount of time we have currently.
+
+132
+00:22:02,000 --> 00:22:31,000
+Okay good they address loot filters in a video the other day true actually hardcore ssf and other game modes being looked at yes I do like that question Henry that is in the rapid fire portion it is at the top of the rapid fire portion my logic behind asking ssf modes as I know it doesn't appeal to everybody but with trading becoming larger in Diablo 4 now with legendaries being able to be trading in this season I do believe ssf has more of a place now they didn't used to be as people will want that tag therefore there's a question that we'll try to get to today.
+
+133
+00:22:32,000 --> 00:23:01,000
+Five dollars from Jordan saying getting uber mats is so monotoneous and I'm mispronouncing that and people buying them is a special issue just the uber space in general can we ask them for thoughts on this so this was pseudo covered in rax's previous interview where he talked about the trading in the game which does include boss material mats as well as rm t and third party site so this was very lightly touched upon in the previous one.
+
+134
+00:23:01,000 --> 00:23:30,000
+Now in terms of it being a labor to get uber mats we're not going to ask them if they're going to buff the rates or anything like that they seem to be pretty obvious about their intentions related to gathering the uber mats they now have up to three resplendent sparks for instance and they keep increasing the uber drop rates it seems like they already know that feedback so instead of hitting them with feedback they already know in which the answer will be that they'll tell us okay well we've done this and we've done this and this and this.
+
+135
+00:23:31,000 --> 00:23:36,000
+already increased super drop rates and the health hides now drop them and we have them as global drop rates etc
+
+136
+00:23:36,000 --> 00:23:39,000
+That's already pseudo answered with their actions
+
+137
+00:23:39,000 --> 00:23:42,000
+So more than likely we're not gonna get into
+
+138
+00:23:42,000 --> 00:23:50,000
+That one today, but I do agree with you for the record by the way that I don't like farming the materials either
+
+139
+00:23:51,000 --> 00:23:53,000
+So I would agree with you there Jordan
+
+140
+00:23:54,000 --> 00:23:56,000
+under the next one
+
+141
+00:23:56,000 --> 00:24:02,000
+Detail about the Star there's set I can ask about that on the rapid fire portion that was
+
+142
+00:24:03,000 --> 00:24:07,000
+Something that was not entirely covered in the previous interviews
+
+143
+00:24:07,000 --> 00:24:13,000
+It was one of the questions that Rax wanted to get to which is the folks sets as Diablo IV is trending towards Diablo 3
+
+144
+00:24:13,000 --> 00:24:21,000
+That is our seventh question if we have time to get there about Diablo IV trending towards Diablo 3 and some follow-ups that
+
+145
+00:24:21,000 --> 00:24:25,000
+Rax wanted to get to he was not able to so if we have enough time for that
+
+146
+00:24:25,000 --> 00:24:34,000
+Then we we will be getting to that one as well, but that's our seventh question in line and is one of the bullet ports on this bullet points there on the seventh one
+
+147
+00:24:39,000 --> 00:24:46,000
+See when you ask pets can you mention mercenary specifically we have a very fast rapid fire question about pets and followers if we can get there
+
+148
+00:24:46,000 --> 00:24:52,000
+Which is like okay pets and followers coming to the game wink wink nudge nudge pretty much like that level of question
+
+149
+00:24:52,000 --> 00:24:55,000
+Pretty fast because when we get to the rapid fire portion there's almost 20 of these questions
+
+150
+00:24:59,000 --> 00:25:05,000
+Can you ask if the fixed trophy achievements that are bugs specifically the exploiting one I can't platinum because of the bug that is
+
+151
+00:25:05,000 --> 00:25:10,000
+Interesting I haven't heard that one before I will add that into the rapid fire portion now
+
+152
+00:25:23,000 --> 00:25:26,000
+That sounds like it's specifically a ps5 prompt
+
+153
+00:25:33,000 --> 00:25:38,000
+Maybe anyone else can confirm they have that same issue I'll add that to the bomb of the rapid fire
+
+154
+00:25:40,000 --> 00:25:45,000
+Roomworks were partially answered in Rikers interview because we rapid fire a yes-no question for expansion
+
+155
+00:25:46,000 --> 00:25:48,000
+I
+
+156
+00:25:49,000 --> 00:25:55,000
+Can't ask about I would love to I can't ask about anything about expansions because they can't talk about expansion because they are
+
+157
+00:25:55,000 --> 00:26:00,000
+Their bottleneck on being able to talk about like they're they're not allowed to discuss
+
+158
+00:26:00,000 --> 00:26:07,000
+Expansion stuff today basically they don't have the freedom to discuss expansions so I can't talk about
+
+159
+00:26:08,000 --> 00:26:13,000
+I can't talk about the expansion basically today. I would love to ask them more about it
+
+160
+00:26:13,000 --> 00:26:20,000
+But we can't yet. I'm sure if the interviews are going well that what they will end up doing is doing more of these
+
+161
+00:26:21,000 --> 00:26:27,000
+As time goes on and as we actually get closer I would assume towards the expansion itself and which you could ask about the expansion
+
+162
+00:26:33,000 --> 00:26:37,000
+When is the interview it's the top of the hour so we are we're getting there
+
+163
+00:26:37,000 --> 00:26:44,000
+Actually a few minutes before the top of our we're going to go into a holding screen so that we can get people in
+
+164
+00:26:45,000 --> 00:26:47,000
+And get the audio balance etc
+
+165
+00:26:49,000 --> 00:26:55,000
+Did they fix napshouting I'm probably not going to spend too much of the the limited time we have talking about
+
+166
+00:26:58,000 --> 00:27:01,000
+Talking about bugs that could be fixed at the moment
+
+167
+00:27:01,000 --> 00:27:07,000
+I'm probably going to attempt to try to get new information as opposed to reporting bugs during this as
+
+168
+00:27:07,000 --> 00:27:11,000
+That is something that gets sent to feedback very often I
+
+169
+00:27:11,000 --> 00:27:15,000
+See on the twitch side of things things for the prime subs and the tier one subs
+
+170
+00:27:15,000 --> 00:27:19,000
+I appreciate that boys and for the people doing membership etc on YouTube. Thank you
+
+171
+00:27:21,000 --> 00:27:25,000
+Larger viewing angles what we just received the camera zoom out
+
+172
+00:27:30,000 --> 00:27:34,000
+Seasonal themes should be account-wide. Okay, so I'm seeing feedback related questions
+
+173
+00:27:34,000 --> 00:27:41,000
+The keep in mind we're trying to get new information not send feedback this interview
+
+174
+00:27:41,000 --> 00:27:45,000
+I we can send feedback at any time all of us creators are in a partner program
+
+175
+00:27:45,000 --> 00:27:53,000
+So when people send feedback like hey, can you guys fix this bug etc a lot of times we send that instead over to
+
+176
+00:27:53,000 --> 00:27:58,000
+The partner program where they can receive the bug you know the bug fixes and feedback etc
+
+177
+00:27:58,000 --> 00:28:01,000
+It would be a misuse of time to just report bugs during this interview
+
+178
+00:28:01,000 --> 00:28:05,000
+If you can squeeze a quick pvp question during rapid fire it'd be significant for us
+
+179
+00:28:05,000 --> 00:28:08,000
+So I talked about this earlier. I'm sure you just showed up
+
+180
+00:28:09,000 --> 00:28:14,000
+We are going to have a rapid fire section and within the rapid fire section
+
+181
+00:28:14,000 --> 00:28:17,000
+We do specifically ask about pvp for that pvp community
+
+182
+00:28:18,000 --> 00:28:22,000
+I'm not a pvp Andy. There's plenty of people that aren't pvp and ease, but there are people that are
+
+183
+00:28:22,000 --> 00:28:27,000
+So it's within one of the first I think three to four within the rapid fire question
+
+184
+00:28:27,000 --> 00:28:35,000
+We just ask very simply are there plans to further develop pvp basically to I know there's people out there that specifically play the game for pvp
+
+185
+00:28:35,000 --> 00:28:40,000
+I know there's people that don't give a rat's ass about pvp. I understand that so
+
+186
+00:28:40,000 --> 00:28:47,000
+I will do my best to make sure that gets fitted in if at a minimum as the very last question on this way out the door
+
+187
+00:28:47,000 --> 00:28:49,000
+I'll make sure we get that one fitted in okay
+
+188
+00:28:50,000 --> 00:28:52,000
+Thanks for the five by the way
+
+189
+00:28:52,000 --> 00:28:56,000
+Let me pull up some more questions here. I've been reading from YouTube chat. Let me read from twitch chat here
+
+190
+00:28:57,000 --> 00:29:01,000
+Rumble goblin poros again. We do have them the rapid fire portion
+
+191
+00:29:01,000 --> 00:29:04,000
+We try asking me if they're going to implement a few stuff to experience in the game
+
+192
+00:29:04,000 --> 00:29:08,000
+Which interact with streamers was streaming the game like bothers gate three did that's cool
+
+193
+00:29:08,000 --> 00:29:14,000
+But that's more something that benefits myself personally as opposed to information that people who are all the way from casual to like
+
+194
+00:29:14,000 --> 00:29:16,000
+Omega blasters would carry the here
+
+195
+00:29:16,000 --> 00:29:21,000
+So I'm not going to ask things that are only relevant really to myself being a streamer today
+
+196
+00:29:21,000 --> 00:29:25,000
+This is going to be questions related that the general audience cares about
+
+197
+00:29:26,000 --> 00:29:30,000
+So probably won't be asking about streamer benefits
+
+198
+00:29:32,000 --> 00:29:38,000
+Is the obo for still a thing or just a meme should I buy it now? All right? I don't know up to you bro go look at reviews
+
+199
+00:29:39,000 --> 00:29:43,000
+Can you ask if they plan to add rates to the game rates are within the rapid fire portion? Yes
+
+200
+00:29:44,000 --> 00:29:48,000
+You'll ruin pusset with the five tier one gifted. Thank you, sir. Very generous
+
+201
+00:29:49,000 --> 00:29:55,000
+Have Blizzard considered selling sharing a map editor on campaign editor more like an in-house
+
+202
+00:29:55,000 --> 00:29:59,000
+mod for D4 and or an instance creation that can be shared to other players
+
+203
+00:30:00,000 --> 00:30:06,000
+So one of the points that I thought would have been interesting in season three for the vault is instead of it being a vault
+
+204
+00:30:06,000 --> 00:30:12,000
+That we all go do and try to beat then what it actually is is a vault that you create the other players try to beat your trap vault
+
+205
+00:30:12,000 --> 00:30:17,000
+Sort of like a mighty loot for epic or a mighty quest for epic loot if you guys ever remember that game
+
+206
+00:30:17,000 --> 00:30:19,000
+Where you build a base the other p players rate
+
+207
+00:30:19,000 --> 00:30:25,000
+I thought that could have been a cool pvp way of doing it as well as a cool way to have something create yourself
+
+208
+00:30:25,000 --> 00:30:29,000
+I don't think that question in particular is actually going to make it in
+
+209
+00:30:29,000 --> 00:30:35,000
+To this today, but I do like where you're going with that one because I also like things like that
+
+210
+00:30:35,000 --> 00:30:37,000
+They'll allow you to be creative in games
+
+211
+00:30:38,000 --> 00:30:43,000
+But I don't think a dungeon editor is going to be very high up on the list of priorities for them if I had to imagine
+
+212
+00:30:49,000 --> 00:30:52,000
+That was talked about with Raxx for maps. I must have missed that one as I watch the interviews
+
+213
+00:30:55,000 --> 00:30:59,000
+Can you ask if specializations for every class are going to be improved upon?
+
+214
+00:31:00,000 --> 00:31:06,000
+He is the class lead designer today. We do have some class related questions towards the end of it
+
+215
+00:31:08,000 --> 00:31:14,000
+Asking them if the classes are basically going to become better isn't necessarily a great way to phrase that question so
+
+216
+00:31:15,000 --> 00:31:17,000
+we
+
+217
+00:31:17,000 --> 00:31:20,000
+Might not ask it in the words that you're asking here today
+
+218
+00:31:20,000 --> 00:31:26,000
+But we we are asking what their next focus typically is on in relation to
+
+219
+00:31:27,000 --> 00:31:33,000
+Like class fantasy for instance, which might be a way of getting close to your specialization
+
+220
+00:31:35,000 --> 00:31:42,000
+Ask about making sets as sets as set gyms not items so we don't ask about set items in particular
+
+221
+00:31:42,000 --> 00:31:44,000
+But we do actually talk about
+
+222
+00:31:44,000 --> 00:31:51,000
+Progression related two things outside of only this skill tree one of which
+
+223
+00:31:52,000 --> 00:31:54,000
+Basically being like gyms etc
+
+224
+00:31:55,000 --> 00:31:58,000
+Or in this game would be more referred to as glyphs
+
+225
+00:31:58,000 --> 00:32:17,000
+Adam specifically saying Raxx interview that questions that was the next priority or better than will you do this?
+
+226
+00:32:17,000 --> 00:32:24,000
+Yes, so part of our focus and our prep for the interview has been as much about wording it in a way that somebody is
+
+227
+00:32:24,000 --> 00:32:26,000
+Is allowed to speak on
+
+228
+00:32:26,000 --> 00:32:33,000
+As much as preparing for what questions are important like we're trying to the wording of these questions have to be
+
+229
+00:32:34,000 --> 00:32:40,000
+Making it where he can talk about it. I can't just ask him hey in the expansion is the pallet incoming
+
+230
+00:32:40,000 --> 00:32:43,000
+Like you just can't say things like that. We will get non-answer's
+
+231
+00:32:44,000 --> 00:32:50,000
+So we are doing our best to have our list of questions to be things that make it easy for him to have a good
+
+232
+00:32:50,000 --> 00:32:54,000
+Conversation on the interview as opposed to locking him down and putting them in defensively
+
+233
+00:32:55,000 --> 00:32:57,000
+Trying to make it like a good interview here
+
+234
+00:32:59,000 --> 00:33:01,000
+Or at least attempting to
+
+235
+00:33:02,000 --> 00:33:06,000
+Thoughts ungiving all classes equipment slot parody. I
+
+236
+00:33:07,000 --> 00:33:09,000
+Don't think that's gonna work as a barbarian, right?
+
+237
+00:33:09,000 --> 00:33:14,000
+You might ask him about trade board slash market would enable community engagement appreciate the 10
+
+238
+00:33:14,000 --> 00:33:17,000
+That is something that came up in the previous interview with Raxx
+
+239
+00:33:17,000 --> 00:33:20,000
+I do believe they said they're not gonna do an auction house if I'm remembering correctly and
+
+240
+00:33:21,000 --> 00:33:25,000
+We're not gonna double dip into the same questions that were already
+
+241
+00:33:27,000 --> 00:33:31,000
+Previously asked so while I like that question
+
+242
+00:33:31,000 --> 00:33:36,000
+I also do believe that trading I haven't made video talking about how the like trading is gonna be significantly different
+
+243
+00:33:36,000 --> 00:33:39,000
+going into season four that is something
+
+244
+00:33:40,000 --> 00:33:47,000
+That has sort of already been covered and I would be re-eathering upon the question that's already been covered
+
+245
+00:33:47,000 --> 00:33:52,000
+Can you ask for the final temper manuals? Yes, actually that is one of our questions is related to
+
+246
+00:33:53,000 --> 00:33:55,000
+Clarity of tempering manual changes, etc
+
+247
+00:33:58,000 --> 00:34:03,000
+The first question is to be why does such an awesome person like you joined before that's good one. I'm sure he would love that question
+
+248
+00:34:04,000 --> 00:34:08,000
+You know, I think for the subs. I see that a little fi high with the five tier one things buddy
+
+249
+00:34:08,000 --> 00:34:11,000
+Appreciate them and twitch side things with the hype train going on
+
+250
+00:34:11,000 --> 00:34:17,000
+We're gonna add new Uber Unix or update existing ones
+
+251
+00:34:19,000 --> 00:34:25,000
+So I we're not asking are you gonna have new Uber Unix because they've already been adding new Uber Unix
+
+252
+00:34:25,000 --> 00:34:31,000
+And so we can determine by previous information that they're going to continue that Uber Unix. It would be sort of a
+
+253
+00:34:31,000 --> 00:34:33,000
+Throw away question
+
+254
+00:34:34,000 --> 00:34:37,000
+Because we know that they'll be adding more they have been
+
+255
+00:34:38,000 --> 00:34:43,000
+Can you ask him if I could hold the dollar there's some really interesting questions in here, right?
+
+256
+00:34:45,000 --> 00:34:52,000
+Feel like I'm going to I'm getting trolled with some of these questions by the dollar for every cow level question. I'm getting
+
+257
+00:34:56,000 --> 00:34:58,000
+Can you ask if all
+
+258
+00:34:58,000 --> 00:35:03,000
+Ask if all pve will be pvp. I don't even know what that means I
+
+259
+00:35:04,000 --> 00:35:07,000
+Don't know if anyone in here knows what that means. I'll be honest
+
+260
+00:35:07,000 --> 00:35:09,000
+Pineapple on pts. Yes. No no for me
+
+261
+00:35:11,000 --> 00:35:14,000
+Can you ask if we'll be able to craft an Uber Unique?
+
+262
+00:35:15,000 --> 00:35:20,000
+So that is already in the game as a matter of fact you can get three resplendent sparks and
+
+263
+00:35:21,000 --> 00:35:27,000
+You have to get a drop of the fourth one to get the fourth spark which will allow you to craft a total
+
+264
+00:35:28,000 --> 00:35:30,000
+Uber Unique of whatever you want
+
+265
+00:35:30,000 --> 00:35:37,000
+That being said one of the rapid fire questions was are they ever going to add a fourth spark or is the design philosophy
+
+266
+00:35:38,000 --> 00:35:39,000
+about
+
+267
+00:35:39,000 --> 00:35:46,000
+Making it where you have to get the drop before you can pick the drop basically or if they would ever allow deterministic crafting the Uber Unix
+
+268
+00:35:50,000 --> 00:35:55,000
+Shop prices and plans for singular armor cosmetics for sale so both between the expansions as well as the shop or two things
+
+269
+00:35:55,000 --> 00:35:57,000
+They're not gonna dress they
+
+270
+00:36:00,000 --> 00:36:06,000
+Raxa was gonna coordinate with you with questions he wasn't able to get to are you gonna be asking about yes
+
+271
+00:36:06,000 --> 00:36:13,000
+We have plenty of questions from Raxa's pamphlet that he was not able to get through today shout out to Rax for being generous enough to pass along the torsions some questions
+
+272
+00:36:14,000 --> 00:36:16,000
+That did help significantly today with prep
+
+273
+00:36:24,000 --> 00:36:26,000
+Ask them if they're up for an AMA I'm read it
+
+274
+00:36:27,000 --> 00:36:29,000
+um
+
+275
+00:36:29,000 --> 00:36:31,000
+I don't think like I don't think that's an important question
+
+276
+00:36:31,000 --> 00:36:36,000
+I think that's an interesting one. I like that question, but I don't think that's an important use of time
+
+277
+00:36:36,000 --> 00:36:40,000
+If I had two hours here with gauzy where we could go back and forth and do a podcast
+
+278
+00:36:40,000 --> 00:36:42,000
+It's different this isn't our normal interview
+
+279
+00:36:42,000 --> 00:36:47,000
+We've done lots of interviews with P.O.E. and last epoch devs. We've done plenty of these
+
+280
+00:36:48,000 --> 00:36:50,000
+But in all of those we had two the three hours
+
+281
+00:36:51,000 --> 00:36:53,000
+This is 45 minutes
+
+282
+00:36:53,000 --> 00:36:59,000
+So this isn't going to be so much a conversation or a use of everything I want to know as much as like what can we
+
+283
+00:36:59,000 --> 00:37:05,000
+Cram in to this 45 minutes. It's it if you've seen the previous interviews you know they are short
+
+284
+00:37:06,000 --> 00:37:09,000
+So we're doing what we can to the priority for it
+
+285
+00:37:10,000 --> 00:37:15,000
+Now put priority for questions seems you have too many we only have six that are high priority the rest are rapid fire
+
+286
+00:37:16,000 --> 00:37:20,000
+Yeah, so we have actually put them in the priority list assuming that we don't get through all of them
+
+287
+00:37:21,000 --> 00:37:23,000
+We did that this morning
+
+288
+00:37:25,000 --> 00:37:27,000
+Think of the sub-sert
+
+289
+00:37:30,000 --> 00:37:37,000
+I need you to ask a simple question about clans please it doesn't need the complete rework all of this does how long is so and self-lying we command the clan
+
+290
+00:37:38,000 --> 00:37:45,000
+Yeah, I did see that question actually yesterday as a matter of fact during practice interview people were asking about that in the chat
+
+291
+00:37:46,000 --> 00:37:48,000
+So I will actually put that in the rapid fire portion for you hog
+
+292
+00:37:54,000 --> 00:37:57,000
+Now put it in the top five of the rapid fire for you sure
+
+293
+00:37:57,000 --> 00:38:06,000
+Uh, did you pass those six questions to Adam already yeah, we pretty much said hey, here's your prep like these of the questions we're gonna ask and
+
+294
+00:38:07,000 --> 00:38:13,000
+We haven't changed or removed any of them other than the charms question because charms are just something that
+
+295
+00:38:13,000 --> 00:38:17,000
+Is not able really to be spoken spoken speaking spoke
+
+296
+00:38:18,000 --> 00:38:24,000
+Upon so thanks our useless waste of time that he can't talk about have been removed and we only have one of those which is basically charms
+
+297
+00:38:25,000 --> 00:38:27,000
+Other than that everything's remain the same
+
+298
+00:38:28,000 --> 00:38:31,000
+The M. Can you begin streaming on YouTube streaming on YouTube right now my friend. Thank you very much
+
+299
+00:38:33,000 --> 00:38:35,000
+Five dollars from Throck no question they can throw
+
+300
+00:38:40,000 --> 00:38:42,000
+Uh, can you please
+
+301
+00:38:43,000 --> 00:38:48,000
+Ask if they address concerns over store pricing so I just brought this up store pricing expansions or things that won't be brought up today
+
+302
+00:38:49,000 --> 00:38:51,000
+Do you do the fact that they're it's things that people cannot speak on
+
+303
+00:38:52,000 --> 00:38:59,000
+So we're only asking things that we can actually get answers on we're not asking any questions that will the devs will basically say well
+
+304
+00:38:59,000 --> 00:39:04,000
+We can't talk about that right now we're trying to avoid situations where we basically box him in you a corner with five questions in the row
+
+305
+00:39:04,000 --> 00:39:11,000
+He's like I can't talk about that. I don't I get fire that can't talk about that like we're trying not to waste time with questions that we know can't be answered already
+
+306
+00:39:12,000 --> 00:39:14,000
+so these questions
+
+307
+00:39:14,000 --> 00:39:21,000
+Are going to be things that we can either get design intent behind or we can get intent
+
+308
+00:39:22,000 --> 00:39:28,000
+To develop or things that he could potentially actually talk about where we're trying to not put them in the corner
+
+309
+00:39:28,000 --> 00:39:33,000
+Plus if you look in the previous interview he we're we're interviewing Adam Jackson today
+
+310
+00:39:33,000 --> 00:39:36,000
+And one of the things I respected was in the previous interview
+
+311
+00:39:36,000 --> 00:39:44,000
+He stated that he does not talk about or or promise things that he knows he can't follow through on
+
+312
+00:39:44,000 --> 00:39:49,000
+And so I'm only going to ask him stuff that we can actually get an answer on basically
+
+313
+00:39:49,000 --> 00:39:55,000
+And if there's some of the things he can't talk about then so be it and he's going to say that he can't talk about it
+
+314
+00:39:55,000 --> 00:39:57,000
+We are trying a few of these
+
+315
+00:39:57,000 --> 00:39:59,000
+That we're hoping he can talk about
+
+316
+00:40:01,000 --> 00:40:04,000
+But they are things that haven't been asked about before and that
+
+317
+00:40:05,000 --> 00:40:08,000
+You know should promote conversation we're doing our best here
+
+318
+00:40:10,000 --> 00:40:15,000
+We watched all of the previous interviews and to be honest I respect the the not one need to do false promises
+
+319
+00:40:15,000 --> 00:40:20,000
+Plus it's one guy up there. He's got a whole team behind him if he goes up and promises like yes
+
+320
+00:40:20,000 --> 00:40:24,000
+Charms are coming next week then he's he's
+
+321
+00:40:24,000 --> 00:40:30,000
+Seving the entire team up for a promise that he might potentially not be able to fulfill on and it opens up to them to
+
+322
+00:40:31,000 --> 00:40:36,000
+Okay, well, you know you said it was coming but now it's not coming blizzard once again is failing on their promises like that
+
+323
+00:40:36,000 --> 00:40:44,000
+It's it's it's it's too hard for somebody who's being interviewed to be able to commit that heavily
+
+324
+00:40:45,000 --> 00:40:48,000
+As a singular person who's not like the actual
+
+325
+00:40:49,000 --> 00:40:54,000
+You know CEO here. So we're he's a class designer. So we're trying to ask questions
+
+326
+00:40:55,000 --> 00:40:58,000
+That are relative to his job and things he can talk about
+
+327
+00:40:59,000 --> 00:41:01,000
+Pretty much that simple
+
+328
+00:41:01,000 --> 00:41:08,000
+They're the interview happen already. No, it will be happening shortly. It starts in 30 minutes and about 15 will go the audio testing
+
+329
+00:41:14,000 --> 00:41:16,000
+You
+
+330
+00:41:24,000 --> 00:41:28,000
+I'm posting on twitter real quick for the people that follow there so that they know it's about to start
+
+331
+00:41:34,000 --> 00:41:39,000
+Any questions regarding Paragon boards you will be happy to hear that the first question is about Paragon
+
+332
+00:41:40,000 --> 00:41:45,000
+Uh, thank you for the 279 Paulo. No question or says message retracted
+
+333
+00:41:51,000 --> 00:41:55,000
+Can you ask if there are plans to add glyph leveling outside of nightmares?
+
+334
+00:41:56,000 --> 00:41:59,000
+I do like that question. I'll add that to the rapid fire actually
+
+335
+00:42:04,000 --> 00:42:07,000
+I'll put that one in there. See if we can get to that one. Love the Hawaii tan
+
+336
+00:42:08,000 --> 00:42:10,000
+tan in Hawaii as much as I burned for being us
+
+337
+00:42:15,000 --> 00:42:19,000
+Please ask about boss rotations group to get forex to the the solo player
+
+338
+00:42:19,000 --> 00:42:25,000
+You know, weren't this already addressed in the previous one. I think people talked about uh the balance around
+
+339
+00:42:27,000 --> 00:42:29,000
+The forex and one x
+
+340
+00:42:30,000 --> 00:42:34,000
+Uberdurio farming. I think this was a question that's already been spoke upon
+
+341
+00:42:35,000 --> 00:42:38,000
+If I remember so that one is not in our questions today
+
+342
+00:42:39,000 --> 00:42:44,000
+Like I say we are trying to stick to questions that have not been addressed
+
+343
+00:42:45,000 --> 00:42:47,000
+Even if they're pseudo answers
+
+344
+00:42:47,000 --> 00:42:54,000
+You're completely healed it is actually now. Yeah, I was glad to hear get it glad to hear that I did not have a loss of hearing
+
+345
+00:42:57,000 --> 00:42:59,000
+I went to the ear doc
+
+346
+00:43:00,000 --> 00:43:07,000
+Can you ask the dev how to bring back the D2 experience building your character in unique way not again looking and I grabbed where the character and where they complete the pit
+
+347
+00:43:08,000 --> 00:43:13,000
+Um, so we have a question related to progression of characters outside of the skill tree which because the skill tree portions been answered
+
+348
+00:43:14,000 --> 00:43:16,000
+So we're pseudo getting to that question
+
+349
+00:43:16,000 --> 00:43:21,000
+Um, ask them about golem mastery on equipment. You will be happy to hear that is in today's questions
+
+350
+00:43:21,000 --> 00:43:26,000
+I believe it's actually the second or third one that's specifically about the golem mastery is actually in there
+
+351
+00:43:30,000 --> 00:43:38,000
+What's their approach the balance between casuals and no lifers like us? I like that question is without one is something because that I actually had previously in the list
+
+352
+00:43:39,000 --> 00:43:41,000
+Which was about target demographic
+
+353
+00:43:41,000 --> 00:43:48,000
+Um, and who the games designed for is something I would love to hear more on I ended up cutting that one and the reason I cut it is because it wasn't something
+
+354
+00:43:48,000 --> 00:43:54,000
+I think everyone cares about which is it's that is more of a business philosophy which is hey
+
+355
+00:43:54,000 --> 00:44:01,000
+We're trying to acquire this audience or this audience and I don't think people care about that as much as what the game has in store
+
+356
+00:44:01,000 --> 00:44:09,000
+So we cut that one in lieu of focusing more on like what do you guys plan to do or development thoughts around things for the game as opposed to
+
+357
+00:44:09,000 --> 00:44:11,000
+Thoughts around business practices
+
+358
+00:44:12,000 --> 00:44:19,000
+So we do have that one as a backup question because I personally find the philosophy stuff more interesting and I find like the game balance stuff
+
+359
+00:44:19,000 --> 00:44:23,000
+Just personally, but we're not going with what I personally find more interesting today
+
+360
+00:44:25,000 --> 00:44:31,000
+Uh, when is it starting shortly in about 15 minutes we're going to go to audio tests it starts at the top of the hour here
+
+361
+00:44:33,000 --> 00:44:35,000
+That's the most important question
+
+362
+00:44:35,000 --> 00:44:42,000
+I think it's an important question as well, but for the reason stated is why that one is moved to a lower portion of the list just to answer you
+
+363
+00:44:44,000 --> 00:44:49,000
+Uh, let me look at some crab and reen a while YouTube chat. Let me move over the twitch chat here for a moment. Thanks for the sub buddy
+
+364
+00:44:50,000 --> 00:44:51,000
+I think I really
+
+365
+00:44:51,000 --> 00:44:54,000
+Ask if they ever tend to revamp arrogant boards pretty much the first question
+
+366
+00:44:57,000 --> 00:45:02,000
+Can you ask if I can get an interview too? I got 64 followers only like half of them are bots no problem buddy. I got you
+
+367
+00:45:05,000 --> 00:45:07,000
+Can we have a DPS meter in target dummies. That's a pretty cool one
+
+368
+00:45:09,000 --> 00:45:14,000
+Uh, I think that I think I remember that one being asked before but I'm going to add into the rapid fire
+
+369
+00:45:20,000 --> 00:45:27,000
+What about clan banks mailboxes etc. I believe expansion upon the clan system was something that was um
+
+370
+00:45:29,000 --> 00:45:31,000
+Covered previously
+
+371
+00:45:31,000 --> 00:45:35,000
+I don't think in particular like clan banks or something that's been addressed
+
+372
+00:45:36,000 --> 00:45:38,000
+That's not in the questions today
+
+373
+00:45:40,000 --> 00:45:42,000
+But we do have uh
+
+374
+00:45:43,000 --> 00:45:48,000
+The offline question related to clans and here's we have one clan related question for the rapid fire portion
+
+375
+00:45:50,000 --> 00:45:58,000
+What about the new horse actually one of the questions for rapid fire is
+
+376
+00:45:58,000 --> 00:46:01,000
+What do you think about doing mounts that like aren't horses?
+
+377
+00:46:02,000 --> 00:46:04,000
+You know like a maggot from maggot layer
+
+378
+00:46:06,000 --> 00:46:10,000
+Please ask about strong codes a new mechanic about it strong codes are in the questions today
+
+379
+00:46:10,000 --> 00:46:20,000
+Can you ask about making side quest rewards on par with other activities?
+
+380
+00:46:21,000 --> 00:46:26,000
+Uh, that's an interesting one we didn't get to that one though. I don't think that's going to make the list today by like that question
+
+381
+00:46:29,000 --> 00:46:32,000
+As some of the rapid fire portions are going to be a more detailed combat log um
+
+382
+00:46:34,000 --> 00:46:38,000
+We might be able to get to that one. I don't know our rapid fire portion is filling up pretty quickly here
+
+383
+00:46:40,000 --> 00:46:44,000
+Does your Tinder profile say skinny hippie Viking?
+
+384
+00:46:46,000 --> 00:46:51,000
+I'm gonna try hard not to say a your mom joke you know ask your mom. I tried I couldn't do it
+
+385
+00:46:53,000 --> 00:46:57,000
+Can you talk about how group plays the scourge in the pit? I see this question coming up all the time
+
+386
+00:46:57,000 --> 00:47:03,000
+I think like the group play versus solo player thing is very very very much
+
+387
+00:47:04,000 --> 00:47:06,000
+Like talked about already
+
+388
+00:47:07,000 --> 00:47:12,000
+Um, I think they even addressed this in the previous interview like the one literally from yesterday if I remember right
+
+389
+00:47:17,000 --> 00:47:21,000
+Can you ask some efficiency rebranding group or solo? Yes, you like this question is getting every 15 seconds
+
+390
+00:47:21,000 --> 00:47:23,000
+Yeah, I'm pretty sure that one was already addressed and they had to kind of
+
+391
+00:47:25,000 --> 00:47:27,000
+sue the answer in
+
+392
+00:47:30,000 --> 00:47:35,000
+Are you gonna be as interrupting as racks was invited to yesterday, but didn't I mean
+
+393
+00:47:35,000 --> 00:47:37,000
+I'm not gonna and if he's talking about something
+
+394
+00:47:37,000 --> 00:47:42,000
+I'm not gonna interrupt him to be like hey, can you tell explain to me like you're just as an example
+
+395
+00:47:42,000 --> 00:47:46,000
+This is a love of him. Can you explain to me? Why drew companions or the way they are something and he starts talking about it
+
+396
+00:47:46,000 --> 00:47:48,000
+And be like hey, that was great, but that's your time
+
+397
+00:47:49,000 --> 00:47:52,000
+Can you explain to me DPS me there's undumbly it's like I'm not gonna do that
+
+398
+00:47:53,000 --> 00:47:55,000
+He's on he's on an interview
+
+399
+00:47:56,000 --> 00:47:58,000
+and Adam in my opinion from when I saw it doesn't
+
+400
+00:47:59,000 --> 00:48:02,000
+Rambo a whole lot. He pretty much talks about it
+
+401
+00:48:03,000 --> 00:48:09,000
+And we have six major questions. We've only honed it down to a smaller amount of major questions
+
+402
+00:48:25,000 --> 00:48:29,000
+What about question regarding a season with more in-depth crafting mechanics
+
+403
+00:48:30,000 --> 00:48:35,000
+Uh, that's very open ended like hey are you guys gonna do a season where you do even more crafting
+
+404
+00:48:36,000 --> 00:48:41,000
+The answer will be what you think the answer will be you think he's gonna say yes season six actually we have this new mechanic
+
+405
+00:48:41,000 --> 00:48:47,000
+Let me spoil it for you like what he's gonna say if I ask that type of question is he's just gonna be like maybe
+
+406
+00:48:48,000 --> 00:48:53,000
+Or we'll see like wait that's all we would get out of that so I actually agree with someone in chat that says ask the right type of questions
+
+407
+00:48:53,000 --> 00:48:57,000
+You get the right type of answers. We're trying to put the majority of the work on things we can control
+
+408
+00:48:57,000 --> 00:49:05,000
+Which is the way that we phrase and ask our questions and the questions we choose to ask so we're not going to ask a whole bunch of stuff that
+
+409
+00:49:06,000 --> 00:49:09,000
+We can't do anything with we're trying very hard to ask good questions
+
+410
+00:49:10,000 --> 00:49:16,000
+Because we have a very limited amount of them we think we're gonna get maybe six questions from what we can tell the interview starts shortly
+
+411
+00:49:16,000 --> 00:49:19,000
+We're gonna be bringing the co-hosting gauzy TV here shortly
+
+412
+00:49:22,000 --> 00:49:24,000
+Yes, TMI is 25 minutes
+
+413
+00:49:27,000 --> 00:49:35,000
+You can ask for more body types for each class the answer that guarantee answer that will be that if I ask about that
+
+414
+00:49:35,000 --> 00:49:41,000
+Then he's going to say that animations would have to be retooled for every single different body type and that's a ton of work
+
+415
+00:49:41,000 --> 00:49:44,000
+So it'll be low on the priority list because you know
+
+416
+00:49:44,000 --> 00:49:46,000
+Maybe I want to play a skinny druid I get that
+
+417
+00:49:46,000 --> 00:49:52,000
+But then they're going to have to retool animations for all of them and I think they probably have other priorities at the moment
+
+418
+00:49:52,000 --> 00:49:54,000
+Please
+
+419
+00:49:55,000 --> 00:49:57,000
+I'm begging you give ideas to blizzard
+
+420
+00:49:57,000 --> 00:50:01,000
+I don't think blizzard needs to hear in the 45 minutes like my ideas for their game
+
+421
+00:50:02,000 --> 00:50:06,000
+I think what we want to hear is their ideas for their own game because that's what you guys care about
+
+422
+00:50:06,000 --> 00:50:10,000
+I don't think the people there are watching want to hear me develop their game for them in a 45 minute interview
+
+423
+00:50:10,000 --> 00:50:12,000
+So more than likely
+
+424
+00:50:12,000 --> 00:50:16,000
+I'm not going to be like here's what I think you should do because I can just do that in a video
+
+425
+00:50:16,000 --> 00:50:22,000
+I can do that in the feedback if I wanted to in the Diablo partner program this core that could just send information
+
+426
+00:50:22,000 --> 00:50:24,000
+So we're going to be focusing more on
+
+427
+00:50:26,000 --> 00:50:28,000
+Blizzard's answer in Blizzard's interview
+
+428
+00:50:32,000 --> 00:50:38,000
+Any future plans for world bosses that is actually one of our questions on the list that made the top priority
+
+429
+00:50:39,000 --> 00:50:45,000
+Yes, it is something that strong codes in world bosses or something we very much would like to know about the philosophy behind
+
+430
+00:50:45,000 --> 00:50:47,000
+And that is on our list today
+
+431
+00:50:53,000 --> 00:50:58,000
+Thoughts on additional cosmetics like weapon glows, etc. We have a couple minor cosmetic questions as well
+
+432
+00:51:01,000 --> 00:51:04,000
+Okay, so let's poke gauze in here and let's start prepping
+
+433
+00:51:05,000 --> 00:51:11,000
+For the interview here. I'm gonna call my co-host. We're gonna get him in here. We're gonna start stepping up the overlay and what have you
+
+434
+00:51:12,000 --> 00:51:14,000
+Here we go ring ring banana
+
+435
+00:51:15,000 --> 00:51:24,000
+All right, are we gonna do what the mic sound check in soup instead?
+
+436
+00:51:25,000 --> 00:51:27,000
+Yeah, we probably need to join the zoom right?
+
+437
+00:51:29,000 --> 00:51:31,000
+Yes
+
+438
+00:51:31,000 --> 00:51:33,000
+Okay, there's something there
+
+439
+00:51:34,000 --> 00:51:38,000
+Okay, let's yeah, let's go ahead and hop in the zoom start getting set up here
+
+440
+00:51:38,000 --> 00:51:45,000
+I'm gonna put the questions off to the side so I can see them easily
+
+441
+00:51:49,000 --> 00:51:53,000
+The interview is about to start boys, so we are now getting ready
+
+442
+00:51:53,000 --> 00:51:55,000
+I
+
+443
+00:52:04,000 --> 00:52:09,000
+Naoze we had in game content that scaled and definitely been not really with pit having a similar line thought
+
+444
+00:52:09,000 --> 00:52:12,000
+We have a mechanic i.e. a glyphic scale like that too
+
+445
+00:52:13,000 --> 00:52:15,000
+That's an interesting one
+
+446
+00:52:15,000 --> 00:52:21,000
+I'll see if I can add that to the rapid fire portion if we end up having time because we do have not infinitely scaling
+
+447
+00:52:21,000 --> 00:52:25,000
+But the pit is literally harder than aoze now as as pit
+
+448
+00:52:25,000 --> 00:52:31,000
+I believe it's pit 150 scales to aoc 25 was before so we actually have harder content now than we did before
+
+449
+00:52:31,000 --> 00:52:33,000
+Okay, so the live stream
+
+450
+00:52:33,000 --> 00:52:36,000
+Interview is about to start here. I'm gonna join the zoom
+
+451
+00:52:40,000 --> 00:52:46,000
+He'll be able to join for audio testing about five minutes. It sounds like so we're getting really close to the interview starting here boys
+
+452
+00:52:47,000 --> 00:52:51,000
+Okay, I'm gonna join the zoom now cosy
+
+453
+00:53:06,000 --> 00:53:08,000
+Okay, let's see how this works
+
+454
+00:53:13,000 --> 00:53:15,000
+Let's drop out discord
+
+455
+00:53:16,000 --> 00:53:18,000
+Okay, can you hear me guzzi
+
+456
+00:53:21,000 --> 00:53:28,000
+Okay, adjust your volume yeah, we need to adjust volumes we at the last minute here. We're kind of moving from discord to zoom so
+
+457
+00:53:29,000 --> 00:53:33,000
+Um, we're trying to get the audio and stuff set up here. Can you just start talking a little bit please?
+
+458
+00:53:35,000 --> 00:53:39,000
+Yes, how do I adjust the volume that I'm hearing from you
+
+459
+00:53:40,000 --> 00:53:43,000
+That's what I am currently figuring out here as well. I don't really use zoom
+
+460
+00:53:44,000 --> 00:53:46,000
+Am I too loud or too low?
+
+461
+00:53:48,000 --> 00:53:50,000
+Maybe how is how's guys just sound to you guys here?
+
+462
+00:53:51,000 --> 00:53:53,000
+Mike check Mike check 123 mic check
+
+463
+00:53:55,000 --> 00:53:57,000
+Too low you're too low so I need to adjust you higher
+
+464
+00:53:58,000 --> 00:54:00,000
+Okay, maybe participants
+
+465
+00:54:03,000 --> 00:54:07,000
+Too low. Okay, yeah, definitely low. Um, let's see what I can do about that here
+
+466
+00:54:07,000 --> 00:54:11,000
+Hmm
+
+467
+00:54:13,000 --> 00:54:17,000
+I'll find any menus of yeah, that's what I'm looking at too. I know I don't use
+
+468
+00:54:18,000 --> 00:54:21,000
+Zoom here. I thought we're gonna use discord. So let me
+
+469
+00:54:23,000 --> 00:54:25,000
+Let me adjust here. Okay, there's so there's settings
+
+470
+00:54:32,000 --> 00:54:37,000
+Sounds good compared to DM is way too low. Okay. Yeah, let me see what I can do here
+
+471
+00:54:37,000 --> 00:54:39,000
+Okay, can you try talking one more time here?
+
+472
+00:54:39,000 --> 00:54:42,000
+Mike check Mike check 123 123
+
+473
+00:54:44,000 --> 00:54:48,000
+Okay, you just alter the app sound or I oh I'll be asked it
+
+474
+00:54:49,000 --> 00:54:51,000
+Okay
+
+475
+00:54:51,000 --> 00:54:53,000
+Better sounds good good. Okay, so that would do it for
+
+476
+00:54:55,000 --> 00:55:00,000
+Could be louder a bit better. Okay, we just get everyone balanced. We'll have to take a couple minutes to balance everyone's audio
+
+477
+00:55:00,000 --> 00:55:02,000
+Before we get rolling here
+
+478
+00:55:08,000 --> 00:55:10,000
+Need more loud
+
+479
+00:55:10,000 --> 00:55:15,000
+Can't find a way to adjust your volume. Yeah, I know I'm working on two years
+
+480
+00:55:20,000 --> 00:55:23,000
+There's no individual volumes either for there's not
+
+481
+00:55:24,000 --> 00:55:30,000
+That's I'm just responded. I'd recommend via OBS or Windows level. I'll just fix it on my headset. It's probably fine. Okay
+
+482
+00:55:30,000 --> 00:55:32,000
+I
+
+483
+00:55:32,000 --> 00:55:37,000
+Mean I can I guess we have to balance so that our sounds are equal when we're more people though
+
+484
+00:55:39,000 --> 00:55:43,000
+Yeah, we'll have to balance each individual one here. Yeah, I've zoomed meeting all the way maxed out
+
+485
+00:55:44,000 --> 00:55:51,000
+On the on the windows and on OBS slider so I can add more gain to I can boost the audio levels too in the OBS if necessary
+
+486
+00:55:51,000 --> 00:55:59,000
+But we'll have to have my volume on Mike a little bit. Yeah, we'll have to change all of our individual mic levels to to level it out instead doing it in in app then
+
+487
+00:56:01,000 --> 00:56:03,000
+Yeah
+
+488
+00:56:03,000 --> 00:56:06,000
+So that'll be the way we'll have to you I can lower mine a little bit two people saying them a little bit louder
+
+489
+00:56:06,000 --> 00:56:09,000
+It as long as you can hear him then we'll be all right
+
+490
+00:56:10,000 --> 00:56:14,000
+And once he gets in here, we'll see what his audio level is like and we should be able to balance it that way
+
+491
+00:56:24,000 --> 00:56:26,000
+I have like 10 15%
+
+492
+00:56:27,000 --> 00:56:30,000
+Before I cap out on the interface
+
+493
+00:56:30,000 --> 00:56:35,000
+Like an increase I think okay, so in both chats both twitch and
+
+494
+00:56:35,000 --> 00:56:37,000
+YouTube I'm trusting your guys his feedback
+
+495
+00:56:37,000 --> 00:56:41,000
+Please give me a w if he sounds fine and we don't need to adjust anything for guisey
+
+496
+00:56:41,000 --> 00:56:46,000
+Please do an L if it's way too low way too high like there's a problem if it sounds fine
+
+497
+00:56:46,000 --> 00:56:50,000
+We don't draw us because the interview is about to start we need a crew feedback here
+
+498
+00:56:51,000 --> 00:56:55,000
+Like check mic check one two three one two three mic check
+
+499
+00:56:55,000 --> 00:56:59,000
+Okay, I'm seeing both chats are responding resounding w thank you very much
+
+500
+00:57:00,000 --> 00:57:02,000
+couple Ls for people
+
+501
+00:57:02,000 --> 00:57:04,000
+mostly w's
+
+502
+00:57:06,000 --> 00:57:11,000
+Should be louder that shits well now I'm seeing a lot of Ls keep talking keep talking keep talking all right
+
+503
+00:57:11,000 --> 00:57:16,000
+You want me to adjust the volume here just leave it as this I literally cannot adjust you any higher
+
+504
+00:57:16,000 --> 00:57:19,000
+It is physically impossible within zoom so you'll need to adjust your microphone
+
+505
+00:57:20,000 --> 00:57:24,000
+I have maxed it. I hope it's not too loud now. Okay, this is maxed out
+
+506
+00:57:25,000 --> 00:57:29,000
+Mic check mic check one two three mic check mic check that sounds better on my end
+
+507
+00:57:31,000 --> 00:57:36,000
+And I guess we'll just have to do the classic Joe Rogan fist from your face with the microphone speak into the mic directly
+
+508
+00:57:37,000 --> 00:57:43,000
+Oh, yeah, that's that's the position. I'm in okay perfect. Okay, now I'm seeing everyone saying that's significantly better
+
+509
+00:57:43,000 --> 00:57:49,000
+That's as good as it's going to get okay, so that sounds fine. So now we'll just once uh Adam arrives here
+
+510
+00:57:50,000 --> 00:57:52,000
+Then we'll get that going we need to get
+
+511
+00:57:52,000 --> 00:58:00,000
+Also the I'll have to get the layout setup here for the podcast once he joins then I can I can cut it out
+
+512
+00:58:06,000 --> 00:58:09,000
+Okay, zoom conference I'm getting
+
+513
+00:58:11,000 --> 00:58:13,000
+This setup now
+
+514
+00:58:19,000 --> 00:58:21,000
+Okay, that's the zoom
+
+515
+00:58:22,000 --> 00:58:24,000
+questions
+
+516
+00:58:30,000 --> 00:58:39,000
+We might end up having to bell on the podcast nice little overlay and do it differently because it looks like zoom is one of those ones that does not allow capturing
+
+517
+00:58:45,000 --> 00:58:48,000
+Really yeah, you can't window capture at least not that I can see
+
+518
+00:58:49,000 --> 00:58:51,000
+What server we connected to you
+
+519
+00:58:52,000 --> 00:58:54,000
+What server we connected to
+
+520
+00:58:57,000 --> 00:59:01,000
+We're soon guessing we're in one of the east coast servers, right? I do not know
+
+521
+00:59:03,000 --> 00:59:06,000
+By the way the interview starts and for people wondering it starts in 15 minutes
+
+522
+00:59:10,000 --> 00:59:13,000
+We will be starting in 15 minutes, but we're just doing the setup process right now
+
+523
+00:59:15,000 --> 00:59:19,000
+That's why we're saying here Messeran was studying success other I'm trying to get all of the setup properly
+
+524
+00:59:22,000 --> 00:59:27,000
+Okay, let me see if I can use I could probably use display capture duplicates then
+
+525
+00:59:30,000 --> 00:59:32,000
+That's a good old fashioned way to do it
+
+526
+00:59:33,000 --> 00:59:37,000
+The getaway my friend yeah, the absolute ghetto dogway
+
+527
+00:59:38,000 --> 00:59:40,000
+Well
+
+528
+00:59:40,000 --> 00:59:42,000
+Don't know wait too many times
+
+529
+00:59:44,000 --> 00:59:49,000
+You gotta love it. Yeah, it's it's one of those okay. We're gonna go with multi window capture here or multi
+
+530
+00:59:50,000 --> 00:59:52,000
+Display capture to get it up
+
+531
+00:59:57,000 --> 00:59:59,000
+Believe mercenaries is
+
+532
+01:00:00,000 --> 01:00:04,000
+No, our pets first about non-foment pets right in the rapid fire
+
+533
+01:00:07,000 --> 01:00:13,000
+Yeah, so like both cosmetic pets basically as well as the as well as the father were ones we can do one and two
+
+534
+01:00:14,000 --> 01:00:16,000
+Yeah, all right, so once you do that
+
+535
+01:00:17,000 --> 01:00:22,000
+SR-axi the problem with asking that question is like Dean was talking about earlier for I came in
+
+536
+01:00:23,000 --> 01:00:27,000
+Is that they can't tell us what they're going to potentially or going to introduce to the game
+
+537
+01:00:28,000 --> 01:00:33,000
+So they might just the answer will either be they can't talk about it or it sounds like a good idea, but we can't talk about it
+
+538
+01:00:41,000 --> 01:00:43,000
+You need anything from me for the setup for your good with everything
+
+539
+01:00:44,000 --> 01:00:53,000
+Uh, well at the moment I'm stuck waiting on when he joins because once he joins then I can I can get it visually set in the positions
+
+540
+01:00:55,000 --> 01:00:57,000
+Roger
+
+541
+01:00:57,000 --> 01:01:02,000
+But we're in the two person layout right now. So until we have the three person layout I can't adjust any near the visuals
+
+542
+01:01:03,000 --> 01:01:05,000
+I
+
+543
+01:01:11,000 --> 01:01:17,000
+Little low, uh, we were pretty much where I think we're gonna keep gauzy at the level. He's at this as well as we're able to get him currently
+
+544
+01:01:18,000 --> 01:01:20,000
+I mean, I can ramp it up on the compressor, but
+
+545
+01:01:22,000 --> 01:01:29,000
+You know that has that has consequences. Yeah, I think you sound about as well as I've ever heard you right now for me
+
+546
+01:01:30,000 --> 01:01:31,000
+All right
+
+547
+01:01:31,000 --> 01:01:37,000
+Okay, uh, I'm gonna so what we're gonna do in order to make the ads not hit during the interview here
+
+548
+01:01:37,000 --> 01:01:40,000
+Um, I'm going to disable ads on YouTube
+
+549
+01:01:46,000 --> 01:01:48,000
+Okay, I'm gonna
+
+550
+01:01:48,000 --> 01:01:50,000
+I'm laughing to it
+
+551
+01:01:50,000 --> 01:01:57,000
+Yep, uh, I'm just gonna disable ads and on it here put them the lowest I can
+
+552
+01:01:58,000 --> 01:02:00,000
+Which is conservative
+
+553
+01:02:01,000 --> 01:02:07,000
+Let me see if I can do it can I go all the way off with them
+
+554
+01:02:08,000 --> 01:02:13,000
+There's this new thing that twitch viewers can do pretty cool doesn't cost them anything either
+
+555
+01:02:14,000 --> 01:02:18,000
+It's called twitch prime. I know you guys have some just oh there's a pop them
+
+556
+01:02:19,000 --> 01:02:23,000
+Okay, so I there should be I believe I was able to fully disable
+
+557
+01:02:25,000 --> 01:02:30,000
+Hope that doesn't affect the like the things and some changing settings right now, but I took monetization
+
+558
+01:02:31,000 --> 01:02:36,000
+Off entirely on the YouTube ads for YouTube so you guys should just have like no ads at all and
+
+559
+01:02:37,000 --> 01:02:41,000
+Let me in order to stop ads from occurring during the interview
+
+560
+01:02:42,000 --> 01:02:45,000
+We're going to have to let's see if there's one running already now so I can hit the button
+
+561
+01:02:45,000 --> 01:02:49,000
+We have to run like the ad now to make it where it gets delayed for a while during the interview
+
+562
+01:02:51,000 --> 01:02:56,000
+So I have my snoozes which can snooze another 15 minutes plus the 15 minute gap. I'm gonna try to get it
+
+563
+01:02:56,000 --> 01:02:58,000
+We'll go the faux hour with no ads
+
+564
+01:02:58,000 --> 01:03:00,000
+So we'll get that set up too
+
+565
+01:03:01,000 --> 01:03:05,000
+And then once he joins we'll get his visual setup and then that should be everything we're pretty much good to go with the interview
+
+566
+01:03:11,000 --> 01:03:16,000
+I miss anything feels like it hasn't started that's because it hasn't it starts in like 10 minutes approximately
+
+567
+01:03:16,000 --> 01:03:18,000
+Give her take a few minutes. Why we're getting everything set up
+
+568
+01:03:28,000 --> 01:03:30,000
+Okay
+
+569
+01:03:31,000 --> 01:03:38,000
+For the people on twitch if I'm unable to get the the ads to stop by running them early because right now I have 26 minutes
+
+570
+01:03:39,000 --> 01:03:44,000
+Of no ads and I can add another 15 so I got 41 minutes in no ads the back like
+
+571
+01:03:45,000 --> 01:03:47,000
+10 minutes or something might hit you with a one minute ad
+
+572
+01:03:47,000 --> 01:03:52,000
+I'm trying to get those delays much possible YouTube will have zero ads right now. I have the completely disabled
+
+573
+01:03:53,000 --> 01:03:55,000
+Are you nervous?
+
+574
+01:03:56,000 --> 01:03:58,000
+Really, I mean it's like asking like six questions
+
+575
+01:03:59,000 --> 01:04:01,000
+I hope you guys like the questions we have at this point
+
+576
+01:04:01,000 --> 01:04:05,000
+We're just gonna be reading off the questions we have on the list. We did our best to make sure that they are
+
+577
+01:04:06,000 --> 01:04:11,000
+Like good good questions, but and stuff that hasn't been asked already. We'll do our best
+
+578
+01:04:12,000 --> 01:04:16,000
+But in terms of nervous. I was more nervous for the path of exile ones to be quiet with you
+
+579
+01:04:18,000 --> 01:04:24,000
+Because I never talked to those dudes probably the PLE ones were nervous maybe the last epoch one because I didn't know last epoch very well
+
+580
+01:04:24,000 --> 01:04:26,000
+When we did the interview
+
+581
+01:04:27,000 --> 01:04:31,000
+Oh, but I mean me coming off as a royal ass probably helped
+
+582
+01:04:32,000 --> 01:04:36,000
+I don't think I don't think you talk about that more than other people talk about that. I think you're
+
+583
+01:04:36,000 --> 01:04:38,000
+You're overhyping. It's really not that big video
+
+584
+01:04:39,000 --> 01:04:43,000
+I know I was a little bit embarrassed. Those like she didn't even realize it
+
+585
+01:04:45,000 --> 01:04:47,000
+But now I talked to them quite a lot, but um
+
+586
+01:04:48,000 --> 01:04:52,000
+They liked it. We're gonna have more of the witch reveal comes around. It's gonna be fun
+
+587
+01:04:57,000 --> 01:05:01,000
+All right, so let me just see here
+
+588
+01:05:03,000 --> 01:05:06,000
+Okay, so everything setup as much as I can get it setup currently
+
+589
+01:05:08,000 --> 01:05:09,000
+um
+
+590
+01:05:09,000 --> 01:05:15,000
+There you oh, there's our boy. Okay guys. I'm gonna put a real quick like BRBs screen here
+
+591
+01:05:15,000 --> 01:05:21,000
+While we are getting things set up because we're gonna do some audio tests and stuff on our end here and get the layout all setup
+
+592
+01:05:21,000 --> 01:05:27,000
+The boys here now. So give us a few moments and we will be right back with the interview
+
+593
+01:05:51,000 --> 01:05:54,000
+You
+
+594
+01:06:21,000 --> 01:06:24,000
+You
+
+595
+01:06:51,000 --> 01:06:54,000
+You
+
+596
+01:07:21,000 --> 01:07:24,000
+You
+
+597
+01:07:51,000 --> 01:07:54,000
+You
+
+598
+01:08:21,000 --> 01:08:24,000
+You
+
+599
+01:08:51,000 --> 01:08:54,000
+You
+
+600
+01:09:22,000 --> 01:09:24,000
+You
+
+601
+01:09:41,000 --> 01:09:47,000
+Okay, ladies and gentlemen we are here with the boy Adam Jackson. Thank you for coming on Adam. How are you doing today?
+
+602
+01:09:47,000 --> 01:09:49,000
+Hey, I'm doing great. How are you guys doing?
+
+603
+01:09:50,000 --> 01:09:52,000
+Doing pretty fantastic
+
+604
+01:09:52,000 --> 01:09:53,000
+Excited
+
+605
+01:09:53,000 --> 01:09:57,000
+The the interview questions are going to start because I know we're a little early
+
+606
+01:09:57,000 --> 01:10:02,000
+We're about four minutes later. So we're just gonna have a couple minute intro while the people wrote in here
+
+607
+01:10:03,000 --> 01:10:05,000
+It will be starting at exactly one pmpst
+
+608
+01:10:06,000 --> 01:10:11,000
+But outside of that how has the day been for you very easy icebreaker?
+
+609
+01:10:11,000 --> 01:10:13,000
+Is so we would waste the three minutes before we get going
+
+610
+01:10:14,000 --> 01:10:15,000
+Yeah, totally
+
+611
+01:10:15,000 --> 01:10:17,000
+Expand wild we've got so much stuff going on
+
+612
+01:10:18,000 --> 01:10:22,000
+Between working on season four more seasons and things coming up in the future
+
+613
+01:10:23,000 --> 01:10:26,000
+Locks-a-planting locks-a-talks the seasons is gonna be coming out soon
+
+614
+01:10:26,000 --> 01:10:32,000
+I expect a whole lot of feedback and reaction to that. So it's except busy time over here, but pretty exciting as well
+
+615
+01:10:33,000 --> 01:10:39,000
+Nice man. It sounds like you guys are going to have a pretty interesting launch because season four is coming out here
+
+616
+01:10:40,000 --> 01:10:44,000
+Very shortly and I think itemization is gonna be the big talk. We do have some questions
+
+617
+01:10:44,000 --> 01:10:50,000
+related to both itemization what's gonna be next etc for you to go through here on the list before we get started
+
+618
+01:10:51,000 --> 01:10:56,000
+We have to do a quick thing and make sure everyone here can hear the audio just fine. Can you hear gauzy? So gauzy? Can you say a sentence?
+
+619
+01:10:57,000 --> 01:11:02,000
+I can say a sentence absolutely super excited for the release minions. It's all I'm saying
+
+620
+01:11:03,000 --> 01:11:07,000
+And Adam if literally anything about all you want to say yeah test test
+
+621
+01:11:07,000 --> 01:11:11,000
+I also am a minion enjoyer it turns out so I've heard talk about them
+
+622
+01:11:12,000 --> 01:11:16,000
+Oh no don't give don't get guys you start the minions when we get going man
+
+623
+01:11:17,000 --> 01:11:25,000
+We've spent like the last few days to have told you you got to make sure that I don't go off on a rant here because we're gonna spend the next 45 minutes on that topic
+
+624
+01:11:25,000 --> 01:11:33,000
+So we've done our best to make sure we don't get stuck there. Okay, I'm trying to I'm trying to keep him on a leash from from the whole thing being
+
+625
+01:11:33,000 --> 01:11:38,000
+Necromancer interview, but we'll do what we have to do so I get it everyone has their thing some people
+
+626
+01:11:38,000 --> 01:11:45,000
+Extrude wolves some people it's necromanians some people it's breaking the game with bar permanently. Everybody's got their thing
+
+627
+01:11:46,000 --> 01:11:52,000
+All right, so with that being said, I think we've stalled enough to let the people roll in if you're not here by now
+
+628
+01:11:52,000 --> 01:11:57,000
+We're just gonna get going. We kind of had just we're wasting the minute or two because it's we're a couple minutes early
+
+629
+01:11:57,000 --> 01:12:04,000
+But with that being said, thank you everyone for joining across a different livestream platforms for this interview with blizzard's own Adam Jackson
+
+630
+01:12:04,000 --> 01:12:07,000
+Before we get going you wanted to say who you are
+
+631
+01:12:07,000 --> 01:12:11,000
+What your job is over there for the people that for some reason don't happen in now
+
+632
+01:12:12,000 --> 01:12:18,000
+Yeah, totally so hi everybody my name is Adam Jackson. I'm the lead class designer specifically on the live classes team
+
+633
+01:12:18,000 --> 01:12:24,000
+So our group handles a lot of the update all pretty much all of the balance updates that you see going into the game for classes
+
+634
+01:12:25,000 --> 01:12:29,000
+We also are heavily involved in systems and and the stuff that you see really in
+
+635
+01:12:29,000 --> 01:12:34,000
+seasonal and expansion releases that have to do with the things that you farm and why and the classes themselves
+
+636
+01:12:34,000 --> 01:12:37,000
+And the new legendaries unique going in that kind of stuff
+
+637
+01:12:38,000 --> 01:12:40,000
+And gaussie introduce yourself for the people that don't know
+
+638
+01:12:41,000 --> 01:12:44,000
+Um minion Andy. I guess it's the easiest way to describe it
+
+639
+01:12:45,000 --> 01:12:52,000
+um, I do most of everything guys called this very RPG games. You know most of you for you know path effects all the other four plus evil gracefully
+
+640
+01:12:53,000 --> 01:12:54,000
+uh
+
+641
+01:12:54,000 --> 01:12:56,000
+Just a hard
+
+642
+01:12:56,000 --> 01:12:58,000
+minion enjoyer. I can't get get enough of it
+
+643
+01:12:59,000 --> 01:13:03,000
+minion Andy gaussie and of course i'm DM and that being said we're gonna get going
+
+644
+01:13:03,000 --> 01:13:07,000
+So thank you first of all for joining us for the interviewer. There's now one pmp st
+
+645
+01:13:07,000 --> 01:13:10,000
+We're gonna start with our first question. So right out of the get go
+
+646
+01:13:10,000 --> 01:13:13,000
+We have some questions. Hopefully we can get to all of them if we don't it's all good
+
+647
+01:13:14,000 --> 01:13:22,000
+We're gonna start with the first one here, which is with the recent focus of gameplay being post 100 the one to 50 process a little faster than it used to be on launch right
+
+648
+01:13:23,000 --> 01:13:28,000
+Where the teams thoughts on progressing the paragon system and example being like new paragon boards etc
+
+649
+01:13:29,000 --> 01:13:31,000
+Yeah um
+
+650
+01:13:31,000 --> 01:13:33,000
+So i think
+
+651
+01:13:33,000 --> 01:13:37,000
+There's definitely room i believe and this is like my personal opinion talking here
+
+652
+01:13:37,000 --> 01:13:44,000
+But i think that there's definitely room to make paragon more interesting um adding new boards and things as always on the table
+
+653
+01:13:44,000 --> 01:13:48,000
+That is something that we can do um and probably is something that we will do
+
+654
+01:13:48,000 --> 01:13:54,000
+But i the way that we kind of think of paragon is that it's kind of your one stop shop where we try to make stats cool
+
+655
+01:13:54,000 --> 01:14:02,000
+Right like why you care about strength why you care about whatever stats you're chasing like it's one of those places where we try to make it a little bit more interesting to robust
+
+656
+01:14:02,000 --> 01:14:05,000
+Uh, i think we did a decent job at the launch game with paragon
+
+657
+01:14:05,000 --> 01:14:09,000
+But i think that there's more that we could add to the depth of the system to make it uh
+
+658
+01:14:10,000 --> 01:14:14,000
+Just more appealing you know, we did a little bit of that in season two if you remember we started adding um
+
+659
+01:14:15,000 --> 01:14:20,000
+Scaling mechanics where we turn some of your stats that are always additive into multiplicative scaling stats
+
+660
+01:14:20,000 --> 01:14:26,000
+Um like usually in legendary paragon nodes and other places, but that's kind of a little bit of experimentation in that regard
+
+661
+01:14:26,000 --> 01:14:27,000
+i would uh
+
+662
+01:14:27,000 --> 01:14:30,000
+Expect that we do more in the future of course nothing to announce
+
+663
+01:14:30,000 --> 01:14:33,000
+But that's kind of how we're thinking about it right now is that it it's cool
+
+664
+01:14:33,000 --> 01:14:37,000
+We think there's more opportunity to do cool things there um something simple like adding new boards
+
+665
+01:14:37,000 --> 01:14:40,000
+Yeah, i don't i don't think there's really a high risk there and it's something that i can totally see us doing
+
+666
+01:14:41,000 --> 01:14:44,000
+i'm curious to the idea of the further
+
+667
+01:14:45,000 --> 01:14:48,000
+Development of the paragon system because i know in the interview you had with raks
+
+668
+01:14:49,000 --> 01:14:54,000
+Uh the question regarding the skill tree was that the idea was to not further develop that to at least not too much
+
+669
+01:14:55,000 --> 01:14:58,000
+For the sake of new and newer players and then after a lot of 50
+
+670
+01:14:58,000 --> 01:15:02,000
+We see a progression of that part being the game focus for the company
+
+671
+01:15:03,000 --> 01:15:10,000
+But how do you see that well how does the team think about the progression of that development without making it too advanced for those players?
+
+672
+01:15:11,000 --> 01:15:13,000
+Yeah, good question uh
+
+673
+01:15:14,000 --> 01:15:18,000
+Paragon worth this in a different place than the skill tree right skill tree is like the very first thing you're introduced to
+
+674
+01:15:18,000 --> 01:15:21,000
+A player so keeping that experience um
+
+675
+01:15:22,000 --> 01:15:28,000
+Really easy to understand and robust for someone that's never played in a rpg before is a much harder task compared to paragon where
+
+676
+01:15:29,000 --> 01:15:32,000
+Paragon you've already gotten pretty far into the game or beat the campaign is our expectation
+
+677
+01:15:32,000 --> 01:15:37,000
+So we're uh we're allowed to add more complexity at that point in the game
+
+678
+01:15:37,000 --> 01:15:44,000
+Um that being said there are some like UX issues like we we know about with paragon like you know it can be a pain to reset and fill in all the
+
+679
+01:15:44,000 --> 01:15:48,000
+Many little blitz that you have to like i think those are actually more uh
+
+680
+01:15:48,000 --> 01:15:52,000
+concerning issues that i would rather see us tackle than only adding new content
+
+681
+01:15:52,000 --> 01:15:54,000
+I think we can do both of course
+
+682
+01:15:54,000 --> 01:15:59,000
+But these are kinds of the things of the problems that we're looking to solve i guess you could say with paragon
+
+683
+01:15:59,000 --> 01:16:01,000
+simplicity is always a
+
+684
+01:16:01,000 --> 01:16:06,000
+A factor because we do want people to understand our game and arpgs are notoriously a crunchy um
+
+685
+01:16:06,000 --> 01:16:10,000
+But if there is a place that we can be a little crunchier. I would say it is in paragon
+
+686
+01:16:11,000 --> 01:16:14,000
+Uh if anywhere in our game if that makes sense
+
+687
+01:16:14,000 --> 01:16:18,000
+That's fair um we can move on to the next question
+
+688
+01:16:18,000 --> 01:16:25,000
+And we have is that as many people are planning their bills in season four and we would like to ask for some clarity pre-launch regarding
+
+689
+01:16:25,000 --> 01:16:30,000
+tempering affixes mostly due to the fact that the patch notes state that they'd be balanced
+
+690
+01:16:30,000 --> 01:16:36,000
+But lack specific details and i guess the same question applies to core modifier such as ranks the goal of mastery
+
+691
+01:16:36,000 --> 01:16:38,000
+Being available on multiple item slots
+
+692
+01:16:39,000 --> 01:16:41,000
+Yeah lots of people like to ask about goal of mastery
+
+693
+01:16:42,000 --> 01:16:44,000
+So i guess what i would say is when it comes to
+
+694
+01:16:45,000 --> 01:16:49,000
+patch notes and what we showed a players between ptr and life is that
+
+695
+01:16:51,000 --> 01:16:56,000
+We kind of have rules and and guidelines for how we present patch notes and what we put in them um for
+
+696
+01:16:56,000 --> 01:17:00,000
+Between releases and ptr is kind of a special case because
+
+697
+01:17:00,000 --> 01:17:03,000
+ptr we're introducing new content to you for the first time
+
+698
+01:17:03,000 --> 01:17:10,000
+But then the live patch is actually when we introduce that content for real and i'm using air quotes right because not everybody is expected to play the ptr
+
+699
+01:17:11,000 --> 01:17:16,000
+ptr is also notoriously not balanced because it's way earlier in development than when we would normally release something
+
+700
+01:17:17,000 --> 01:17:22,000
+And so you know managing expectations and how we present patch notes is is something that we're still figuring out
+
+701
+01:17:23,000 --> 01:17:28,000
+And what that really means is you know when we introduce whole new systems to the game
+
+702
+01:17:29,000 --> 01:17:34,000
+We don't specify every single little detail of them as an example in the ptr
+
+703
+01:17:34,000 --> 01:17:39,000
+You know when we introduce the recipes we don't list every single tempering recipe and what the numbers are right now
+
+704
+01:17:39,000 --> 01:17:42,000
+In the ptr notes because that like our notes are already huge. It would blow them out
+
+705
+01:17:43,000 --> 01:17:45,000
+Um and make them way bigger right and
+
+706
+01:17:46,000 --> 01:17:48,000
+Then if we you know
+
+707
+01:17:48,000 --> 01:17:52,000
+Don't put them in ptr, but then we put them in live then we blow out those notes and then it's like
+
+708
+01:17:52,000 --> 01:17:57,000
+Well, why didn't you put them in ptr and then if we only show the difference like only show the things that we change
+
+709
+01:17:57,000 --> 01:17:58,000
+Then people are wondering well
+
+710
+01:17:58,000 --> 01:18:02,000
+Why did you only show like half the tempering recipes because other of all those are the ones that you change
+
+711
+01:18:02,000 --> 01:18:07,000
+But you're not showing the rest and then it can get confusing of like well, where are the rest of the recipes
+
+712
+01:18:07,000 --> 01:18:10,000
+Right, like why don't you show it all and so like it's an easy kind of
+
+713
+01:18:12,000 --> 01:18:17,000
+Thing to get caught up and in what we show so in the future. I think we can show more
+
+714
+01:18:18,000 --> 01:18:20,000
+It just means that we would have to like commit to showing that in the ptr
+
+715
+01:18:20,000 --> 01:18:27,000
+Which that means there's more pressure on the ptr release to have those things in a better state and and actually quantify out the bigger list of changes, right?
+
+716
+01:18:28,000 --> 01:18:33,000
+Um, so it depends but as far as like specifics if you want to know some of the things like that are changing with tempering
+
+717
+01:18:34,000 --> 01:18:36,000
+There's a whole a whole lot of number changes
+
+718
+01:18:36,000 --> 01:18:38,000
+Most of them are minor and aren't really that big of a deal
+
+719
+01:18:39,000 --> 01:18:42,000
+We did shift around where a few of the recipes or not right
+
+720
+01:18:42,000 --> 01:18:46,000
+Yeah, like what stats are and what recipes and that kind of stuff did make more sense based on feedback
+
+721
+01:18:47,000 --> 01:18:49,000
+Um, and then we did adjust some things that were just
+
+722
+01:18:50,000 --> 01:18:54,000
+The typical this is early in development and wasn't intended at all, but it's ptr
+
+723
+01:18:54,000 --> 01:18:56,000
+So you know, this is when you get to see it
+
+724
+01:18:56,000 --> 01:19:01,000
+Uh, the ranks of golm masteries and that category. I think people were getting crazy like 25 plus or something ranks
+
+725
+01:19:01,000 --> 01:19:08,000
+No, it's supposed to be just like every single other passive that you get it's only in you know very few slots and it's very special when you get it
+
+726
+01:19:08,000 --> 01:19:12,000
+So, you know, if you were planning on making a golm build where they slam for two billion damage
+
+727
+01:19:13,000 --> 01:19:15,000
+Uh, you're not going to do it via mastery ranks
+
+728
+01:19:15,000 --> 01:19:17,000
+Um, but there I'm sure there's other ways to still make things crazy
+
+729
+01:19:18,000 --> 01:19:23,000
+All right, guys, you got this minion you got this minion question and got an answer there nice and early got it out of the way
+
+730
+01:19:23,000 --> 01:19:24,000
+Uh, so
+
+731
+01:19:24,000 --> 01:19:28,000
+I mean since we're talking about the ptr I just want to slip of an additional follow up to that
+
+732
+01:19:28,000 --> 01:19:31,000
+Did you guys get out of the ptr what you were hoping to get?
+
+733
+01:19:31,000 --> 01:19:36,000
+I know the players were excited to actually get their hands on the ptr and test that etc
+
+734
+01:19:36,000 --> 01:19:42,000
+But I'm curious if you guys got what you were hoping to get out of launch unique. Oh absolute absolutely uh in spades uh
+
+735
+01:19:44,000 --> 01:19:50,000
+When we released very large swaths of the game like I would say the launch was the closest to the season two is moderately close to this
+
+736
+01:19:50,000 --> 01:19:56,000
+But I think this is bigger than that because we have to do all vitaminization right um we gave people stats and powers that they never had access to
+
+737
+01:19:57,000 --> 01:20:02,000
+Not limited to uniques where we can very control like hey you get this very specific special powerful thing
+
+738
+01:20:02,000 --> 01:20:08,000
+But in items like you know tempering affixes and things where we let you get bonus projectiles across the board or area size
+
+739
+01:20:08,000 --> 01:20:12,000
+Those are very high risk things um from our point of view and by risk
+
+740
+01:20:12,000 --> 01:20:18,000
+I mean like not only are they scary because of balance but they're scary because of like pc performance and breaking servers and stuff
+
+741
+01:20:18,000 --> 01:20:24,000
+Um because a lot of our game wasn't made in mind with every projectile could not just have one more but be doubled in the amount
+
+742
+01:20:25,000 --> 01:20:30,000
+Or you know these the size of these skills were handcrafted to be this is the size and you know
+
+743
+01:20:30,000 --> 01:20:31,000
+We may have a back alley deal like yep
+
+744
+01:20:31,000 --> 01:20:33,000
+We're never gonna do that again have a handshake
+
+745
+01:20:33,000 --> 01:20:37,000
+We're never gonna increase it whatever because this is what the size is gonna be and then we're like oh wait
+
+746
+01:20:37,000 --> 01:20:40,000
+We want to double it and do more than actually we did more than double in ptr. We didn't even have a cap
+
+747
+01:20:41,000 --> 01:20:43,000
+Um and so we have to figure out like
+
+748
+01:20:44,000 --> 01:20:46,000
+How we're gonna manage these things for the long term be healthy in the game
+
+749
+01:20:47,000 --> 01:20:52,000
+PTR was incredibly helpful for that uh we got a ton of balance feedback which is is nice um
+
+750
+01:20:53,000 --> 01:20:57,000
+But let's see the bigger important one was like how does the game feel like the playing through the whole
+
+751
+01:20:57,000 --> 01:21:00,000
+Experience of tempering master working in that progression
+
+752
+01:21:01,000 --> 01:21:03,000
+Yeah, we can have an idea of it, but you know when you have
+
+753
+01:21:04,000 --> 01:21:09,000
+You know 50 100 200 even a thousand people playing it uh it's not nearly as much
+
+754
+01:21:09,000 --> 01:21:16,000
+Information as you would think compared to like 10 million people playing it right or whatever like when you when you throw numbers
+
+755
+01:21:16,000 --> 01:21:20,000
+At something you really see the cracks very quickly and very easily and they're more clear
+
+756
+01:21:20,000 --> 01:21:23,000
+Whereas when we're only testing things internally
+
+757
+01:21:23,000 --> 01:21:26,000
+We'll be like oh this could be a problem or oh this doesn't feel great
+
+758
+01:21:26,000 --> 01:21:30,000
+But it might be fine right like we can have a discussion and we're using our brains and figuring it out
+
+759
+01:21:31,000 --> 01:21:35,000
+But we don't have the surety that we do when we throw a ton of people at it
+
+760
+01:21:35,000 --> 01:21:42,000
+Especially people who are experts on ARPGs like you you guys and you know the our other creators and and even just hard work
+
+761
+01:21:42,000 --> 01:21:45,000
+Community members that really like to crunch these numbers and figure things out
+
+762
+01:21:45,000 --> 01:21:48,000
+They'll find things in five minutes that might take us five days
+
+763
+01:21:48,000 --> 01:21:50,000
+Right so it's just efficient. Okay, so yeah
+
+764
+01:21:51,000 --> 01:21:57,000
+All right, so yes incredibly useful but appreciate the insight on that one so moving on to the next question here
+
+765
+01:21:57,000 --> 01:22:03,000
+So one of the major things that are happening season four is obviously itemization that rework is now being complete with loot reborn
+
+766
+01:22:04,000 --> 01:22:08,000
+What would you guys like to focus on next is your next sort of major focus?
+
+767
+01:22:09,000 --> 01:22:11,000
+Yeah
+
+768
+01:22:11,000 --> 01:22:13,000
+Really good question
+
+769
+01:22:13,000 --> 01:22:18,000
+I can't get super specific details but I can give you ideas of how we're thinking about things right now sure
+
+770
+01:22:19,000 --> 01:22:25,000
+Immediate future. I think actually the focus of the team is on reacting to season four and this big up people that we made to the game
+
+771
+01:22:25,000 --> 01:22:32,000
+I am very sure that there will be cracks in tempering and master working and the player journey as far as you know
+
+772
+01:22:32,000 --> 01:22:38,000
+The pit and how all of this feels when put together of like how good the game actually is and those cracks are need to be
+
+773
+01:22:38,000 --> 01:22:41,000
+Gonna need to be iterated on and filled a little bit of like hey, you know
+
+774
+01:22:41,000 --> 01:22:46,000
+We need more temporary recipes here or hey the progression of the pit doesn't feel that great there or whatever right
+
+775
+01:22:47,000 --> 01:22:50,000
+Our immediate thing is because we help people so much in our game
+
+776
+01:22:50,000 --> 01:22:55,000
+You know your whole endgame way that you interact with the obel of four and your item progression is now a journey rather than just you
+
+777
+01:22:56,000 --> 01:22:58,000
+Hope the perfect items drops and you're done
+
+778
+01:22:58,000 --> 01:23:00,000
+Um those are huge foundational things in a RPG
+
+779
+01:23:01,000 --> 01:23:06,000
+So making those and refining those to be good is the immediate largest concern by a pretty good amount
+
+780
+01:23:07,000 --> 01:23:10,000
+Like when yeah, I think when you look at like what we're thinking of with updates with season five
+
+781
+01:23:11,000 --> 01:23:18,000
+Right now I'm being a little bit cagey of like I need to leave some reaction time for my team and myself to like really look at season four of
+
+782
+01:23:18,000 --> 01:23:25,000
+What are the things that we need to react to quickly that would be the most benefit you know the biggest biggest pain for your bucket season five for example
+
+783
+01:23:25,000 --> 01:23:29,000
+Um, but think it a little bit more long term like things that aren't immediate reactions to season four
+
+784
+01:23:30,000 --> 01:23:32,000
+I would say you know
+
+785
+01:23:32,000 --> 01:23:34,000
+We're definitely taking a stab at it in season four
+
+786
+01:23:34,000 --> 01:23:38,000
+But I think that there's still going to be room to try and make the end game uh better for longer
+
+787
+01:23:38,000 --> 01:23:44,000
+Like have that tail feel good for a longer period of time and have a little bit more refinement in that section of the game
+
+788
+01:23:44,000 --> 01:23:49,000
+So to speak so we're thinking and talking a lot about that because it's been a thing that we've been you know
+
+789
+01:23:49,000 --> 01:23:53,000
+Asked about by the community basically since we launched is like better end game better end game better end game
+
+790
+01:23:53,000 --> 01:23:55,000
+And so that's that's something that's on our mind
+
+791
+01:23:56,000 --> 01:23:56,000
+um
+
+792
+01:23:56,000 --> 01:24:05,000
+Also on the class side personally one of the things that's on my mind a lot is trying to catch up other classes to barbarian because barbarians have more weapons
+
+793
+01:24:06,000 --> 01:24:11,000
+Um, this has been a big thorn in our side for a very long time of that they kind of have two class mechanics and everybody else has one
+
+794
+01:24:12,000 --> 01:24:18,000
+Um, and so our our current plan is to kind of juice up those other classes so that they're really crazy impactful and good and feel awesome
+
+795
+01:24:18,000 --> 01:24:21,000
+So that they kind of make up for the lack of aspects that barbarians get
+
+796
+01:24:21,000 --> 01:24:25,000
+Um, and itemization makes barbarians stronger like there's a bunch of things that having more items
+
+797
+01:24:25,000 --> 01:24:34,000
+Makes difficult to balance I would say and so really having a firm solid answer to that we got we kind of addressed it a little bit in season four with the necromancer
+
+798
+01:24:34,000 --> 01:24:40,000
+Is our first whack at this where we just juice the book of the dead and made a crazy powerful good and tried to do in a way
+
+799
+01:24:40,000 --> 01:24:45,000
+That wasn't just numbers that you know like make it cool right is something I told by people a lot to focus on
+
+800
+01:24:45,000 --> 01:24:47,000
+um
+
+801
+01:24:47,000 --> 01:24:50,000
+And so we're gonna see how that goes, but well i want to do that for the other classes right um
+
+802
+01:24:50,000 --> 01:24:53,000
+So that's kind of one of the big things at the top of our mind on the class side
+
+803
+01:24:54,000 --> 01:24:56,000
+So with in game oh sorry go guys
+
+804
+01:24:57,000 --> 01:25:01,000
+I was just curious like we talked about end game that's the focus end game end game end game
+
+805
+01:25:02,000 --> 01:25:06,000
+I'm curious about the definition like what are we talking about when we say end game
+
+806
+01:25:06,000 --> 01:25:12,000
+Because that's different from it's very subjective right are we talking about level 50 to 100 or are we talking about post 100
+
+807
+01:25:13,000 --> 01:25:14,000
+Yep
+
+808
+01:25:14,000 --> 01:25:16,000
+So funny you ask i think joe
+
+809
+01:25:16,000 --> 01:25:20,000
+Do you mentioned it in an earlier interview we used to think of end game as everything after the campaign
+
+810
+01:25:20,000 --> 01:25:25,000
+Was our original definition we launched the game and we had to change our definition because that wasn't what players were
+
+811
+01:25:25,000 --> 01:25:28,000
+Thinking insane and the way that just people talked about our game
+
+812
+01:25:28,000 --> 01:25:32,000
+They thought end game was post 100 or maybe world tier 4 right and and
+
+813
+01:25:32,000 --> 01:25:35,000
+Right now i would say it's still not exactly
+
+814
+01:25:35,000 --> 01:25:42,000
+Perfect of what we think of when we say end game i think people still have various opinions my definition of end game is probably something close to
+
+815
+01:25:42,000 --> 01:25:44,000
+World tier 4 and when that starts or
+
+816
+01:25:44,000 --> 01:25:52,000
+When you get to level 100 is an obvious benchmark that people can have but in my mind it's when you have access to all of the
+
+817
+01:25:52,000 --> 01:25:54,000
+Activities that you can do in the game
+
+818
+01:25:55,000 --> 01:25:57,000
+Which to me would now probably be whenever you go into the pit
+
+819
+01:25:58,000 --> 01:26:03,000
+Because i don't there's no activity after that that is like a new activity that you could not access at all
+
+820
+01:26:03,000 --> 01:26:05,000
+So that's what i think of when i think of end game
+
+821
+01:26:05,000 --> 01:26:08,000
+But i think if you ask 10 different people you may get like three or four different answers
+
+822
+01:26:08,000 --> 01:26:12,000
+Um, but that's kind of how we think about it and talk about it mostly on the team either of that or level 100
+
+823
+01:26:13,000 --> 01:26:14,000
+You know if you want to think about it that way
+
+824
+01:26:15,000 --> 01:26:21,000
+So how do you deal with the difficulty of creating end game when players are able to consume the content quicker than almost any
+
+825
+01:26:21,000 --> 01:26:26,000
+Developers going to be able to produce the end game while also shrinking the beginning portion of the game
+
+826
+01:26:26,000 --> 01:26:30,000
+You level 200 faster than you ever have you're able to get into these end game activities
+
+827
+01:26:31,000 --> 01:26:34,000
+Faster than ever, but you're also either deficit in terms of in game content
+
+828
+01:26:34,000 --> 01:26:38,000
+So you're developing it while people are consuming a fast and you can how do you resolve these issues?
+
+829
+01:26:39,000 --> 01:26:39,000
+Oh god
+
+830
+01:26:39,000 --> 01:26:43,000
+This is a very long answer and i could go into it for a long time. So i'll try to keep it brief
+
+831
+01:26:44,000 --> 01:26:46,000
+It's a very difficult problem
+
+832
+01:26:46,000 --> 01:26:50,000
+And it is one that i think every our air PG has and it's one that we all have to kind of live with
+
+833
+01:26:50,000 --> 01:26:53,000
+Admitting but there isn't a perfect forever solution
+
+834
+01:26:53,000 --> 01:26:58,000
+Because really what you're saying is and this is like the the two things that are competing right is
+
+835
+01:26:59,000 --> 01:27:00,000
+uh
+
+836
+01:27:00,000 --> 01:27:02,000
+Players
+
+837
+01:27:02,000 --> 01:27:10,000
+Want content and our game is a power fantasy. That's what the RPGs are right they we sell you on you do things to become more powerful to
+
+838
+01:27:10,000 --> 01:27:17,000
+Have a new mountain to climb to be more powerful to have a new mountain to climb problem is there only so many mountains that we could make as a development team
+
+839
+01:27:17,000 --> 01:27:19,000
+Right because the the the mountains are usually content
+
+840
+01:27:20,000 --> 01:27:24,000
+And so the the difficulty that i think every air PG runs into is
+
+841
+01:27:25,000 --> 01:27:30,000
+You can only create so many mountains. So the first thing we try to do is create as many mountains as we can
+
+842
+01:27:30,000 --> 01:27:36,000
+Right have as many various end game activities and and things for you to do that are interesting and awesome and then
+
+843
+01:27:37,000 --> 01:27:38,000
+You know
+
+844
+01:27:38,000 --> 01:27:40,000
+Do that for as long as we can but like you said
+
+845
+01:27:40,000 --> 01:27:45,000
+People are crazy and they consume content really really quick some of them do some of them not so much
+
+846
+01:27:45,000 --> 01:27:48,000
+We have to balance between those two player types which is a whole other conversation
+
+847
+01:27:48,000 --> 01:27:49,000
+um
+
+848
+01:27:49,000 --> 01:27:51,000
+But then on the other side uh
+
+849
+01:27:52,000 --> 01:27:54,000
+You know for the people that can consume that content quickly
+
+850
+01:27:54,000 --> 01:28:01,000
+We want to make sure that there's things for them to do that are interesting and meaningful right and so this is why you see a very common way
+
+851
+01:28:01,000 --> 01:28:07,000
+The air PGs are designed is that we use a random generated dungeons and random generated content for the end game
+
+852
+01:28:07,000 --> 01:28:10,000
+And why we do things like scale things either
+
+853
+01:28:11,000 --> 01:28:17,000
+Pretty hard or infinitely so that you have a challenge against your player power right like player power goes up
+
+854
+01:28:17,000 --> 01:28:22,000
+You need something to fight against it as you're getting better if you don't have something to fight against it
+
+855
+01:28:22,000 --> 01:28:27,000
+Then really your answers are like make another character and do the journey again or you get bored leave come back later
+
+856
+01:28:27,000 --> 01:28:28,000
+Right
+
+857
+01:28:28,000 --> 01:28:33,000
+Um, and those are kind of the options that a player has or you know go against infinitely scaling content um
+
+858
+01:28:35,000 --> 01:28:41,000
+That's kind of like the box that we're in when we're designing and a lot of our work as designers is how do we make
+
+859
+01:28:41,000 --> 01:28:44,000
+Fun content and resolve these issues as best we can
+
+860
+01:28:44,000 --> 01:28:45,000
+um
+
+861
+01:28:45,000 --> 01:28:48,000
+A perfect solution is where it requires like a paradigm shift
+
+862
+01:28:48,000 --> 01:28:51,000
+I think of like you have to kind of change what an air PG is and like
+
+863
+01:28:52,000 --> 01:28:56,000
+Make your game air PG but also a little bit of something else that you don't have to worry about this problem
+
+864
+01:28:57,000 --> 01:28:59,000
+But in an air PG space, I think this is kind of just
+
+865
+01:29:00,000 --> 01:29:05,000
+What it is and how people progress through it is a challenge that we're forever gonna have and so you're gonna see us
+
+866
+01:29:06,000 --> 01:29:12,000
+You know kind of bounce back and forth of like infinitely scaling content but also matching that with milestone content or
+
+867
+01:29:13,000 --> 01:29:17,000
+aspirational content is another word that people like to use that I like of you know like uber little if or these things
+
+868
+01:29:17,000 --> 01:29:19,000
+Or it's like I get this thing
+
+869
+01:29:19,000 --> 01:29:21,000
+I see this thing. It's a fixed difficulty
+
+870
+01:29:21,000 --> 01:29:27,000
+I want to get good enough to beat that and then I feel good and I can either stop or try and go to the next thing until there's things that run out
+
+871
+01:29:27,000 --> 01:29:29,000
+And then I'm I'm happy and I leave happy
+
+872
+01:29:29,000 --> 01:29:35,000
+Right our goal at the higher higher level is that you leave happy right and whether that means you're doing aspirational
+
+873
+01:29:35,000 --> 01:29:38,000
+Or you do forever content for a while and then you kind of turn out
+
+874
+01:29:38,000 --> 01:29:40,000
+We want to make sure both of those experiences feel good
+
+875
+01:29:41,000 --> 01:29:43,000
+Sure
+
+876
+01:29:43,000 --> 01:29:47,000
+That's fair listening to that answer. I mean do you feel like or would it be fair to say that the teams
+
+877
+01:29:48,000 --> 01:29:55,000
+Focus on effort right now has gone from the early stage of focusing on new player acquisition to more of an
+
+878
+01:29:55,000 --> 01:30:01,000
+returning player focus and end game replay ability and longevity of the player base is that what we're the focus is without
+
+879
+01:30:01,000 --> 01:30:08,000
+We're focused on both I think my team right now is focused on the latter part
+
+880
+01:30:08,000 --> 01:30:12,000
+But remember Diablo 4 is a large team with many different sub teams. I'm on the live team
+
+881
+01:30:12,000 --> 01:30:17,000
+So my focus right now is kind of end game because that's just what we see as as a place we could do better
+
+882
+01:30:17,000 --> 01:30:22,000
+But there are people on the team absolutely focus on new player experience new player
+
+883
+01:30:23,000 --> 01:30:26,000
+How they interact with the game returning players that have you know
+
+884
+01:30:26,000 --> 01:30:28,000
+They played the the original campaign and then left and they're coming back
+
+885
+01:30:29,000 --> 01:30:32,000
+That's a discussion that we're having as well. How do we make that experience the best that we can so
+
+886
+01:30:33,000 --> 01:30:38,000
+There's actually a lot of different classes of players and the types of people that play Diablo 4 because it's such a large game
+
+887
+01:30:39,000 --> 01:30:45,000
+You know, we're trying to appeal to many different types of people that play RPGs and even those that this is their introductory game
+
+888
+01:30:45,000 --> 01:30:47,000
+So our task is a little different than
+
+889
+01:30:48,000 --> 01:30:54,000
+Then some other games where you know they have a more specific focus. We try to grab it all. We're greedy
+
+890
+01:30:55,000 --> 01:31:00,000
+But you know, we want to make sure that games good for both parties and that does means there's some sacrifices sometimes
+
+891
+01:31:00,000 --> 01:31:04,000
+We really are like trying to make it good for all of them
+
+892
+01:31:06,000 --> 01:31:09,000
+That's hard problem, but we that is actually what we're trying to do
+
+893
+01:31:10,000 --> 01:31:14,000
+Like high level vision. Let's just move on to the next question. It says we don't we're kind of limited in time
+
+894
+01:31:15,000 --> 01:31:22,000
+Yeah, let's talk about overworld contents and that is literally the identity defining for Diablo 4 right and
+
+895
+01:31:23,000 --> 01:31:29,000
+The question we have is what are the teams thoughts on the potentials of strongholds and bosses having a bigger role to play moving forward?
+
+896
+01:31:30,000 --> 01:31:32,000
+Oh strongholds and bosses
+
+897
+01:31:34,000 --> 01:31:39,000
+I guess I'll ask you a question back. I can give you a very easy answer and that answer will be we think they're cool
+
+898
+01:31:39,000 --> 01:31:44,000
+And we could work on them or I can give you like something I think is a lot more interesting. Okay, then maybe an in-depth discussion
+
+899
+01:31:44,000 --> 01:31:50,000
+I'll leave it up to you guys, but let's go for the latter. Yeah. All right, because I find this fast very interesting. Why strongholds?
+
+900
+01:31:52,000 --> 01:31:54,000
+Why we designed them and what we think about them in board bosses. So
+
+901
+01:31:56,000 --> 01:31:59,000
+Um, I think there's a concept that's very interesting
+
+902
+01:31:59,000 --> 01:32:04,000
+I would advise you and anyone that any of your followers would really want to get into game design or want to talk better about game design
+
+903
+01:32:04,000 --> 01:32:06,000
+There was a really great
+
+904
+01:32:06,000 --> 01:32:10,000
+GDC presentation made by a guy named Alex Jaffy
+
+905
+01:32:10,000 --> 01:32:15,000
+He's from Riot actually and he gave one of the best presentations I've ever seen on game design
+
+906
+01:32:15,000 --> 01:32:18,000
+And he gave the presentation on something called cursed problems in game design
+
+907
+01:32:19,000 --> 01:32:22,000
+And I promise this will lead back to strongholds very directly
+
+908
+01:32:22,000 --> 01:32:27,000
+Um, but what a cursed problem is in game design is this idea that
+
+909
+01:32:27,000 --> 01:32:34,000
+When you make a game of a certain archetype you immediately make a bunch of promises to the player and these promises
+
+910
+01:32:35,000 --> 01:32:37,000
+Come with problems that we call cursed problems
+
+911
+01:32:38,000 --> 01:32:43,000
+There are these things are so fundamental to the foundation of your game that you can't get away from them
+
+912
+01:32:43,000 --> 01:32:47,000
+And they're kind of your partner forever and or wait on your back that you have to deal with that you never get rid of
+
+913
+01:32:47,000 --> 01:32:49,000
+But you can mitigate
+
+914
+01:32:49,000 --> 01:32:53,000
+I'll give an example of a cursed problem in another genre and game. I used to work on heroes of the storm
+
+915
+01:32:53,000 --> 01:32:58,000
+Exo moba right like legal legends here are played legal legends. You'll hear this complaint a lot of
+
+916
+01:32:59,000 --> 01:33:08,000
+uh matchmaking and playing a fight a team-based game by having individual progression right the promise that you make when you play a moba or a team-based game is that you are playing with other people
+
+917
+01:33:08,000 --> 01:33:14,000
+But one of the big things that they sell you want when you play the game is that you have a ranking system that's based on your personal improvement
+
+918
+01:33:14,000 --> 01:33:20,000
+So you're being ranked individually, but you go into a team game with nine other people and those other people when can interact
+
+919
+01:33:20,000 --> 01:33:24,000
+You can have a game where you couldn't have one no matter how good you are because those gate people impact your performance
+
+920
+01:33:25,000 --> 01:33:28,000
+And so you commonly get the complaint of hey, I went into a team-based game
+
+921
+01:33:28,000 --> 01:33:34,000
+I did well, but my teammates suck and I'm mad because I lost ranked points, right? I play very common
+
+922
+01:33:34,000 --> 01:33:42,000
+This is a part this is a cursed problem of matchmaking based team-based games where your motivation that we promise you is individual performance
+
+923
+01:33:43,000 --> 01:33:46,000
+How about Diablo? Let's tie it back to Diablo a cursed problem
+
+924
+01:33:46,000 --> 01:33:52,000
+I would argue in ARPGs like Diablo and any other game you'll probably have seen this problem is that they are games of efficiency
+
+925
+01:33:53,000 --> 01:33:55,000
+We promise you
+
+926
+01:33:55,000 --> 01:34:02,000
+Player power is a big reason why you play these games is you want to go in you start off as this pion person that kind of sucks
+
+927
+01:34:02,000 --> 01:34:07,000
+And is it very strong and you grow into this really crazy master of magic or
+
+928
+01:34:07,000 --> 01:34:11,000
+Strength or whatever that can do incredible things, right?
+
+929
+01:34:11,000 --> 01:34:14,000
+And the way that we deliver you on that promise is we give you
+
+930
+01:34:15,000 --> 01:34:19,000
+Power as you play the game more and progress through the activities usually in the form of gear
+
+931
+01:34:19,000 --> 01:34:22,000
+But also in other ways too right skill points paragon whatever it is
+
+932
+01:34:23,000 --> 01:34:24,000
+um
+
+933
+01:34:24,000 --> 01:34:31,000
+What that translates to is that anything that you are doing in the game that isn't progressing your power is very hard to
+
+934
+01:34:31,000 --> 01:34:38,000
+Sell a player on sure to make them want to do it and it's even harder to sell them if it's a
+
+935
+01:34:39,000 --> 01:34:43,000
+If it's not a repeatable activity that they can keep doing to get stronger and stronger
+
+936
+01:34:43,000 --> 01:34:47,000
+The way that I describe cursed problems or think about it is like when you ask me
+
+937
+01:34:47,000 --> 01:34:53,000
+Hey Adam, what do you think of strongholds or world bosses or uberlilith balance or a whole lot of other problems
+
+938
+01:34:54,000 --> 01:34:56,000
+I would think of these cursed problems like a tree
+
+939
+01:34:57,000 --> 01:35:03,000
+And the cursed problem is actually the trunk the center of the game what the game actually is and why you come to play it
+
+940
+01:35:03,000 --> 01:35:06,000
+And you're asking me about a leaf at the very edge of the branch
+
+941
+01:35:06,000 --> 01:35:09,000
+And so I can give an answer like yeah the leaf yaks cool we could work on it
+
+942
+01:35:09,000 --> 01:35:12,000
+But like really the leaf connecting to the
+
+943
+01:35:12,000 --> 01:35:14,000
+The you know branch connecting to the trunk
+
+944
+01:35:14,000 --> 01:35:18,000
+This is what's actually causing the thing that you're asking the question about right?
+
+945
+01:35:18,000 --> 01:35:20,000
+So when it comes to strongholds
+
+946
+01:35:20,000 --> 01:35:24,000
+Why are strongholds? Why do you ask me the question like hey? What about strongholds? Can we make them better?
+
+947
+01:35:24,000 --> 01:35:29,000
+The reason why it's a question that people ask I think is because people
+
+948
+01:35:29,000 --> 01:35:35,000
+Strongholds are intended and why they are cool and why they go against the rest of our game and why it's really hard for us is that
+
+949
+01:35:36,000 --> 01:35:42,000
+They are meant to be one shot awesome kind of story-based really handcrafted curated content right
+
+950
+01:35:42,000 --> 01:35:45,000
+I would equate this to uberlilith statues where we got this question the other day
+
+951
+01:35:46,000 --> 01:35:49,000
+The campaign experience we get equate these are all actually the same question
+
+952
+01:35:49,000 --> 01:35:50,000
+Which is hey?
+
+953
+01:35:50,000 --> 01:35:55,000
+You people on d4 made this one shot experience that we really love and is cool
+
+954
+01:35:55,000 --> 01:35:57,000
+We want to do it more
+
+955
+01:35:57,000 --> 01:36:03,000
+The problem is the moment you cross that line from one shot in an it being cool to being a repeatable activity
+
+956
+01:36:04,000 --> 01:36:08,000
+Now that activity is competing with everything else in the game that is repeatable content
+
+957
+01:36:08,000 --> 01:36:13,000
+Because now strongholds has to compete against hell tide nightmare dungeons the pit
+
+958
+01:36:14,000 --> 01:36:17,000
+Gathering unique all of it or has to fit in there in some way
+
+959
+01:36:17,000 --> 01:36:24,000
+So one question about that then so what makes strongholds different like why can't we do an uber version of a strong
+
+960
+01:36:24,000 --> 01:36:29,000
+Code since people say they want to replay it but we can do an uber version of bosses that are already in the game
+
+961
+01:36:29,000 --> 01:36:33,000
+So we can do the love absolutely. Yeah, I understand your claim. We absolutely can't
+
+962
+01:36:33,000 --> 01:36:35,000
+Is the answer but then you've changed it
+
+963
+01:36:36,000 --> 01:36:39,000
+The fundamental relationship that you have as a player with strongholds is different now
+
+964
+01:36:40,000 --> 01:36:43,000
+You've changed it from one shot. This is a cool experience
+
+965
+01:36:43,000 --> 01:36:49,000
+That's very unique and that is what the fantasy is a people that like it now you've changed that to repeatable content that you're gonna do
+
+966
+01:36:50,000 --> 01:36:56,000
+10 20 a hundred times over and the thing is a lot of content and this is where it's kind of a curse problem
+
+967
+01:36:56,000 --> 01:37:03,000
+Air PG we think of every content type that we add this way is it repeatable is it not and the way that you design that content is
+
+968
+01:37:03,000 --> 01:37:08,000
+Very different because if it's repeatable that means that you have to design the content in such a way that it is fun
+
+969
+01:37:08,000 --> 01:37:14,000
+A hundred or a thousand times that puts a lot more design constraint and limitations of what you can make that content
+
+970
+01:37:15,000 --> 01:37:17,000
+As an example or many examples when you launch the game
+
+971
+01:37:18,000 --> 01:37:22,000
+Um, you can you can even think of some when you when you think of your experience with the game when you do something
+
+972
+01:37:23,000 --> 01:37:26,000
+500 times you care about things that you wouldn't care about if you did it one time
+
+973
+01:37:26,000 --> 01:37:27,000
+This is why for example
+
+974
+01:37:27,000 --> 01:37:31,000
+I get questions a lot of why can't can you let us reset boss rooms
+
+975
+01:37:31,000 --> 01:37:36,000
+Why do you want to reset boss rooms? It's because you do it 500 times and it sucks to do that every single time
+
+976
+01:37:36,000 --> 01:37:39,000
+If you had to do it one or two times ever you wouldn't care very much
+
+977
+01:37:39,000 --> 01:37:43,000
+Why did you have to ride your horse tonight meridungeons when we launch the game? It's fair
+
+978
+01:37:43,000 --> 01:37:49,000
+It was fun the first time world building immersion really cool doing it 500 times because that's all that you're doing at your end game
+
+979
+01:37:49,000 --> 01:37:56,000
+Not so fun, right? And so it would you be concerned about the same issue with the new 200 bosses if let's say we took some of the rewards
+
+980
+01:37:56,000 --> 01:37:58,000
+Okay, and added like
+
+981
+01:37:58,000 --> 01:38:00,000
+Uber this just for the sake of the debate here
+
+982
+01:38:00,000 --> 01:38:04,000
+So let's say we want to do a strong codes and you say well, you know, DM you liked it the first time
+
+983
+01:38:04,000 --> 01:38:07,000
+You might not like it the 100th time and I say fair enough
+
+984
+01:38:07,000 --> 01:38:09,000
+But then I come back with you and say okay
+
+985
+01:38:09,000 --> 01:38:12,000
+Well, what if we took some of the rewards that I would either get from the pit like a grab bag
+
+986
+01:38:12,000 --> 01:38:17,000
+We take some of the the pit rewards we take some of the uber level 200 rewards
+
+987
+01:38:17,000 --> 01:38:20,000
+And we throw almost like a world boss loop pinata as an option
+
+988
+01:38:20,000 --> 01:38:23,000
+To be one of these mountains that you mentioned earlier
+
+989
+01:38:23,000 --> 01:38:25,000
+Maybe we don't want to make it the best thing
+
+990
+01:38:25,000 --> 01:38:29,000
+Maybe we want to make it a breakup of the experience so that we can get basically the same resources
+
+991
+01:38:29,000 --> 01:38:31,000
+We got to get it literally anyway from something else
+
+992
+01:38:31,000 --> 01:38:33,000
+But it gives us variety in terms of gameplay
+
+993
+01:38:33,000 --> 01:38:35,000
+Now I'm not arguing. This is the best way to go with the game
+
+994
+01:38:35,000 --> 01:38:39,000
+I'm just curious about the thought I was behind that. I think that's a good question
+
+995
+01:38:40,000 --> 01:38:41,000
+The answer is yes, we can
+
+996
+01:38:41,000 --> 01:38:44,000
+Sometimes it works sometimes it doesn't usually it doesn't
+
+997
+01:38:44,000 --> 01:38:49,000
+The reason why in our in my experience designing a RPGs for a while now is
+
+998
+01:38:49,000 --> 01:38:54,000
+It's really hard to tell somebody hey you have option a and option b
+
+999
+01:38:55,000 --> 01:39:01,000
+Option a is a hundred percent efficient option b is 70 percent efficient. What does a hundred percent of players do
+
+1000
+01:39:02,000 --> 01:39:06,000
+Max will make skies. What is the best nightmare dungeon you want to do everybody makes guys?
+
+1001
+01:39:06,000 --> 01:39:10,000
+What is the quickest way to do the thing? What is the most efficient people are gonna do the thing
+
+1002
+01:39:10,000 --> 01:39:16,000
+And it's not like if something is a you know a hundred percent of vision versus 50 percent that 50 percent of players
+
+1003
+01:39:16,000 --> 01:39:20,000
+Do the 50 percent and the other half do the hundred that's now how it works out in player behavior
+
+1004
+01:39:20,000 --> 01:39:23,000
+It's 99 percent of people do the hundred percent of it's a fair counter
+
+1005
+01:39:24,000 --> 01:39:31,000
+That's a fair. I'm not sure I agree entirely like I'm a player that I guess I would qualify as a blaster
+
+1006
+01:39:31,000 --> 01:39:33,000
+Not a casual player
+
+1007
+01:39:33,000 --> 01:39:41,000
+But I feel like the what makes an ARPG great is to make people distracted from the fact that they are played in ARPG
+
+1008
+01:39:41,000 --> 01:39:43,000
+Is in reality in the RPG game is
+
+1009
+01:39:44,000 --> 01:39:50,000
+Honestly, the very definition of insanity. We are doing the same thing over and over over again with the only goal of
+
+1010
+01:39:50,000 --> 01:39:54,000
+Proving our character to continue doing the same thing over and over again to do the same thing
+
+1011
+01:39:54,000 --> 01:40:01,000
+And the best they are produced the game that you can play would be a game where you are distracted from the fact that you were doing the same thing over and over again
+
+1012
+01:40:01,000 --> 01:40:05,000
+So having options where they're not there slightly less rewarding is another part
+
+1013
+01:40:05,000 --> 01:40:06,000
+That's another topic
+
+1014
+01:40:06,000 --> 01:40:12,000
+But the fact that you have options to engage with for the sake of in game replayability longevity would allow you to be
+
+1015
+01:40:13,000 --> 01:40:18,000
+Distracted from that fact and actually enjoy your time. That's the way I see it. I'm not sure I entirely agree with that
+
+1016
+01:40:18,000 --> 01:40:22,000
+I completely agree with you. I want to premise this. I'm presenting to you the problem
+
+1017
+01:40:22,000 --> 01:40:27,000
+I'm not saying that a curse problem has no solutions and no ways to make it better
+
+1018
+01:40:27,000 --> 01:40:29,000
+The bulk of my time is spent trying to
+
+1019
+01:40:30,000 --> 01:40:33,000
+Answer the questions that you guys just asked and do it in a way that
+
+1020
+01:40:33,000 --> 01:40:38,000
+Does make it better even though I know it's a problem that will never be completely absolutely solved, right?
+
+1021
+01:40:38,000 --> 01:40:43,000
+We do do things like this some ways for example that we get you to do a variety of activities because we do want you to
+
+1022
+01:40:44,000 --> 01:40:48,000
+Is like a common strategy is we gate certain rewards behind certain activities
+
+1023
+01:40:48,000 --> 01:40:53,000
+Which makes you you need to go and do multiple things right like you have glyph xp and nightmare dungeons you have the hell tide
+
+1024
+01:40:55,000 --> 01:40:58,000
+The cinders and helltie that you couldn't really get very easily
+
+1025
+01:40:58,000 --> 01:41:01,000
+And I'm like we have things that are special to them to make you go around
+
+1026
+01:41:02,000 --> 01:41:07,000
+I think a better solution. We've kind of moved a little bit more in this is you you can get things
+
+1027
+01:41:08,000 --> 01:41:11,000
+You get some activities or materials or whatever from many places
+
+1028
+01:41:11,000 --> 01:41:13,000
+There is one place that is the most efficient
+
+1029
+01:41:13,000 --> 01:41:17,000
+But you're getting pseudo efficiency somewhere else and that feels really good example of this would be doing
+
+1030
+01:41:17,000 --> 01:41:24,000
+Heltides with whispers right if you're doing helltides and you want varshawn materials for whispers double dipping on that feels really good as a player
+
+1031
+01:41:24,000 --> 01:41:29,000
+And we want to do that and do that more and that I think it's kind of an answer for your uber strongholds question
+
+1032
+01:41:29,000 --> 01:41:33,000
+Is I'm not saying by the way my answer is not we can't do uber strongholds because of these problems
+
+1033
+01:41:33,000 --> 01:41:35,000
+What I'm saying is I'm trying to teach you
+
+1034
+01:41:35,000 --> 01:41:40,000
+Why it's not so easy as just like hey make uber strongholds replaceable and now everybody's gonna love them immediately
+
+1035
+01:41:41,000 --> 01:41:43,000
+Right, we were changing a content type from a one shot
+
+1036
+01:41:44,000 --> 01:41:50,000
+This is kind of similar to the campaign idea right but changing the campaign experience from a one shot to a feels good a hundred times
+
+1037
+01:41:51,000 --> 01:41:53,000
+we have to think about
+
+1038
+01:41:53,000 --> 01:41:57,000
+That we think about that content differently now totally and that requires a little more thought and care
+
+1039
+01:41:57,000 --> 01:42:01,000
+Not just some rewards, but how it feels to go through it over and over again, right because it's fixed
+
+1040
+01:42:01,000 --> 01:42:05,000
+That's very nice. I have some randomness to make it feel better as you're going through it over and over
+
+1041
+01:42:05,000 --> 01:42:08,000
+It's just there's more problems that we have to solve right? Okay, it's a consumer
+
+1042
+01:42:08,000 --> 01:42:10,000
+It's a design consumable
+
+1043
+01:42:10,000 --> 01:42:13,000
+You make it into something repetitive it changes the fundamentals of how you originally created it
+
+1044
+01:42:14,000 --> 01:42:19,000
+I can understand and take I appreciate that I'll move the conversation on here so we can get into some of the other questions
+
+1045
+01:42:19,000 --> 01:42:20,000
+We still have here
+
+1046
+01:42:20,000 --> 01:42:25,000
+So currently build variety in the game is mostly designed around item modifier
+
+1047
+01:42:25,000 --> 01:42:28,000
+So like unique items live this wall it's been one example
+
+1048
+01:42:28,000 --> 01:42:30,000
+It just fundamentally changes the way skill works here
+
+1049
+01:42:30,000 --> 01:42:36,000
+I'm has there been discussion from the team around modifying skills potentially outside of unique items like within
+
+1050
+01:42:36,000 --> 01:42:39,000
+Paragon boards other inventory based items whatever you want to call it
+
+1051
+01:42:40,000 --> 01:42:42,000
+Yeah
+
+1052
+01:42:42,000 --> 01:42:47,000
+Fun fact when we were originally designing things of the game a lot of the changing of the skills is actually in the skill tree
+
+1053
+01:42:47,000 --> 01:42:52,000
+And then we called them AB choices, but you know the the different upgrades you could get for your skill
+
+1054
+01:42:53,000 --> 01:42:59,000
+Um the original thought behind it was like you know you can make your you know frozen orb like option A is like
+
+1055
+01:43:00,000 --> 01:43:06,000
+Way different than option B where there are almost like different use cases for the skill right and we moved a little bit away from that
+
+1056
+01:43:06,000 --> 01:43:08,000
+Some of them are still a little transformative
+
+1057
+01:43:08,000 --> 01:43:11,000
+I think that we can make them a little bit more so in the skill tree as we do in the future
+
+1058
+01:43:11,000 --> 01:43:15,000
+That's one way that I think we can make the skill tree interesting without introducing a bunch of complexity
+
+1059
+01:43:16,000 --> 01:43:21,000
+My favorite example I give to people on my team is a kick you know kick isn't that popular of a skill
+
+1060
+01:43:21,000 --> 01:43:23,000
+But the difference between baseline kick and power kick
+
+1061
+01:43:24,000 --> 01:43:29,000
+The upgrade where it changes into a basically a core skill where it uses all your resource and does a buttload of damage to a person
+
+1062
+01:43:30,000 --> 01:43:32,000
+You know you went from thinking of you know
+
+1063
+01:43:32,000 --> 01:43:37,000
+This skill is like you think of the geometry of the game and kicking enemies into walls and it was too complex
+
+1064
+01:43:37,000 --> 01:43:39,000
+I think a little bit for probably laundry with this with the speed of our game
+
+1065
+01:43:40,000 --> 01:43:43,000
+But the idea was there of like one way is you're playing 40 chesting or rewarded
+
+1066
+01:43:43,000 --> 01:43:46,000
+And the other way is you chase a resource and you just you know
+
+1067
+01:43:46,000 --> 01:43:49,000
+This is spartus somebody and kill them with a for a billion damage right
+
+1068
+01:43:49,000 --> 01:43:52,000
+Completely different fantasies and ways that you interact with the skill
+
+1069
+01:43:53,000 --> 01:43:58,000
+I think we could probably do a little bit more there with other skills to kind of make them transformative like that
+
+1070
+01:43:58,000 --> 01:43:59,000
+um
+
+1071
+01:43:59,000 --> 01:44:06,000
+We ended up doing more legendaries and uniques as the space that we do that because we knew that items were so important and being excited for a
+
+1072
+01:44:06,000 --> 01:44:08,000
+A lake a item to drop was
+
+1073
+01:44:08,000 --> 01:44:10,000
+Was a very core part of the game
+
+1074
+01:44:10,000 --> 01:44:15,000
+We've kind of now made that a lot better with like greater affixes for example and things in season four
+
+1075
+01:44:15,000 --> 01:44:18,000
+So I think there is more room to make transformative
+
+1076
+01:44:19,000 --> 01:44:21,000
+upgrades in other places than items
+
+1077
+01:44:22,000 --> 01:44:23,000
+uh
+
+1078
+01:44:23,000 --> 01:44:28,000
+But we I also am very comfortable with the system that we have now and I kind of like it gives you obvious things to chase
+
+1079
+01:44:28,000 --> 01:44:32,000
+With items and it feels good to get an item that is a big upgrade that changes how you play
+
+1080
+01:44:33,000 --> 01:44:40,000
+So I guess we're I'd be open to feedback from people like is there a place that you think is superior to items to get these kinds of effects
+
+1081
+01:44:40,000 --> 01:44:47,000
+Like is it cooler to have it be deterministic in the paradigm board versus your farming for something and you see the moment that it drops the transforms your gameplay
+
+1082
+01:44:47,000 --> 01:44:50,000
+I mean I'd be in the boat of saying uh, you know
+
+1083
+01:44:50,000 --> 01:44:58,000
+Make the skill tweak going to grow into a tree that that's kind of the boat that I'm sitting in but and I also understand when the interview had with racks
+
+1084
+01:44:58,000 --> 01:45:00,000
+How that is um
+
+1085
+01:45:00,000 --> 01:45:02,000
+There's reasons for that to keep in that simplistic
+
+1086
+01:45:02,000 --> 01:45:10,000
+So it makes sense to have it in the endgame version of something dropping or you know jem or whatever you want to go for a power or unique item
+
+1087
+01:45:10,000 --> 01:45:14,000
+Yeah, but how unless you have any full-lock question that day and I wanted to ask you about the um
+
+1088
+01:45:15,000 --> 01:45:23,000
+The how that fits into the philosophy of a gay lead class designer when it comes to the fantasies that these altering skills or unique
+
+1089
+01:45:23,000 --> 01:45:26,000
+Whatever you want to go for would have an impact on the class design
+
+1090
+01:45:28,000 --> 01:45:31,000
+I'm sorry, not quite sure. I'm gonna try to reword that that was horrible
+
+1091
+01:45:34,000 --> 01:45:37,000
+I was wondering how the these unique items are skill altering
+
+1092
+01:45:38,000 --> 01:45:45,000
+It modifiers no matter where you get them how that would impact the class design when it comes to focusing on keeping or
+
+1093
+01:45:46,000 --> 01:45:48,000
+maintaining the specific fantasies of classes
+
+1094
+01:45:50,000 --> 01:45:52,000
+Yeah um
+
+1095
+01:45:52,000 --> 01:45:57,000
+So when I think of a build or a team thinks of a build we try and think of the entire package
+
+1096
+01:45:57,000 --> 01:46:00,000
+And we compare to the whole other package of a class. I don't think of a build like I don't know
+
+1097
+01:46:02,000 --> 01:46:03,000
+Frozen orb
+
+1098
+01:46:03,000 --> 01:46:08,000
+Let's say right when I think of like the total power and coolness and strength and all that if there's a journey
+
+1099
+01:46:08,000 --> 01:46:13,000
+The entity to be made but I think of it as you end with all the things right you end with the conjurations
+
+1100
+01:46:13,000 --> 01:46:16,000
+Cassie frozen orbs and you're blowing up everything on your screen. It's awesome, right?
+
+1101
+01:46:17,000 --> 01:46:22,000
+So when we think about like designing a new class or when we're first designing these classes
+
+1102
+01:46:22,000 --> 01:46:23,000
+We have to think of you know
+
+1103
+01:46:23,000 --> 01:46:30,000
+How do we make it interesting and good player journey from the beginning when you first use a skill making that as impactful and cool as possible
+
+1104
+01:46:31,000 --> 01:46:37,000
+While at the same time balancing against you need to leave room for growth and making things crazy and also to make it better
+
+1105
+01:46:38,000 --> 01:46:40,000
+Some skills are easier to do than others with that I would say
+
+1106
+01:46:41,000 --> 01:46:47,000
+We definitely had a lot of things before the game came out discussions about like hey this skill doesn't it feels really crappy early on
+
+1107
+01:46:47,000 --> 01:46:49,000
+And we're like yeah it gets really crazy later on though
+
+1108
+01:46:49,000 --> 01:46:52,000
+They're like yeah, but who's gonna pick it up if it feels really shitty early on right like
+
+1109
+01:46:53,000 --> 01:46:55,000
+You have to balance the two things and that one is like
+
+1110
+01:46:55,000 --> 01:47:00,000
+It's just a bunch of discussions and iteration even when the game is live of people complaining about it right and we're like
+
+1111
+01:47:00,000 --> 01:47:02,000
+Yeah, we agree and then we change it
+
+1112
+01:47:02,000 --> 01:47:06,000
+Example that would be like barbs and jurids for a while have been complaining that early game kind of sucks
+
+1113
+01:47:06,000 --> 01:47:09,000
+But then late game the powerhouses and that's kind of in the identity
+
+1114
+01:47:09,000 --> 01:47:13,000
+And so we've been like alleviating over and over again. Like basis skills are a little better. They're a little better
+
+1115
+01:47:13,000 --> 01:47:15,000
+We will why go too far, but we keep making them better right
+
+1116
+01:47:16,000 --> 01:47:18,000
+Um, so that's kind of how we think of it
+
+1117
+01:47:18,000 --> 01:47:21,000
+We think of the whole package and we try to make sure that your journey is enjoyable and good
+
+1118
+01:47:23,000 --> 01:47:27,000
+And that's true by the way with items and tempering and stuff right we tried to create that journey and our amazation
+
+1119
+01:47:27,000 --> 01:47:31,000
+That was the point of season four because we think that's what makes a good ARPG experience
+
+1120
+01:47:32,000 --> 01:47:33,000
+Absolutely
+
+1121
+01:47:33,000 --> 01:47:38,000
+So we have we're approaching about 10 minutes or so left here right around there
+
+1122
+01:47:38,000 --> 01:47:41,000
+So we do have some rapid fire section which I mean
+
+1123
+01:47:42,000 --> 01:47:47,000
+Then not all of these are just yes and no type thing so you feel free to talk about these don't have to just be like one more the answers
+
+1124
+01:47:47,000 --> 01:47:52,000
+But we have about 15 20 these I'm gonna try the blast through that are these are mostly primary
+
+1125
+01:47:52,000 --> 01:47:58,000
+Questions grab from YouTube comments grab from the the chats etc the community just continues to ask over and over again
+
+1126
+01:47:58,000 --> 01:48:02,000
+Some of these and may have already been asked apologize if they have but just because they've been spam quite a bit
+
+1127
+01:48:03,000 --> 01:48:08,000
+One of the ones that we're seeing quite often is people are asking about rates
+
+1128
+01:48:08,000 --> 01:48:16,000
+So we have overworld bosses right pretty cool people items like a big loop pin you out every now and then is there any plans of further developments or maybe guys thought about
+
+1129
+01:48:17,000 --> 01:48:22,000
+Potentially of raids like eight man ten man related to clans larger size
+
+1130
+01:48:22,000 --> 01:48:24,000
+basically yeah
+
+1131
+01:48:24,000 --> 01:48:28,000
+First I would say this is just Adam's personal opinion not the team
+
+1132
+01:48:28,000 --> 01:48:32,000
+Because I know everybody has different thoughts on it, but I think raids are interesting and cool
+
+1133
+01:48:33,000 --> 01:48:35,000
+I think that they would present quite a few
+
+1134
+01:48:36,000 --> 01:48:39,000
+Hurtles for us to overcome that make things tough
+
+1135
+01:48:40,000 --> 01:48:41,000
+I think they're probably doable
+
+1136
+01:48:41,000 --> 01:48:47,000
+But as an example of some of the the things I think of right away that are like oh my god. This is scary is like
+
+1137
+01:48:47,000 --> 01:48:50,000
+Even now we have a problem where we're always
+
+1138
+01:48:51,000 --> 01:48:55,000
+competing against solo players efficiency versus group play efficiency
+
+1139
+01:48:55,000 --> 01:49:00,000
+There's a lot of people that play Diablo and RPGs that really have a strong identity with wanting to play by themselves
+
+1140
+01:49:00,000 --> 01:49:02,000
+And not be required to go into a group
+
+1141
+01:49:02,000 --> 01:49:07,000
+And if we put in this type of content where we say hey you must go into a group to play this
+
+1142
+01:49:08,000 --> 01:49:13,000
+Then we you know, we have to reconcile that of like hey do we how do we either balance that around
+
+1143
+01:49:13,000 --> 01:49:16,000
+Solo players do we all as well and if they do the why is it group content or
+
+1144
+01:49:17,000 --> 01:49:20,000
+Yeah, too bad you have to also be in a group to engage with this and then
+
+1145
+01:49:21,000 --> 01:49:24,000
+That puts a lot of pressure on the rewards for that content because if we make the rewards
+
+1146
+01:49:25,000 --> 01:49:30,000
+Something that a solo player also needs then we're making them go into a group when they may not want to
+
+1147
+01:49:30,000 --> 01:49:31,000
+Sure
+
+1148
+01:49:31,000 --> 01:49:36,000
+But if we make the solo or do we make the rewards for that type of content the other way where it's not something you need
+
+1149
+01:49:36,000 --> 01:49:41,000
+Then why do people do it in the first place? So there's like there's a lot of questions there that are that are new to lead that are tough to answer
+
+1150
+01:49:42,000 --> 01:49:44,000
+Sure, but I'm really just describing the problem space
+
+1151
+01:49:44,000 --> 01:49:50,000
+I do think though that overall but the idea of getting with a group of your buddies or random strangers and doing like a 10-man fight on
+
+1152
+01:49:51,000 --> 01:49:53,000
+on a huge like you know
+
+1153
+01:49:53,000 --> 01:49:58,000
+Dungeon or whatever with a boss at the end that requires mechanics like that is really cool and appealing
+
+1154
+01:49:59,000 --> 01:50:01,000
+So then that's kind of how I think of it
+
+1155
+01:50:01,000 --> 01:50:03,000
+So I got two more quick ones here and I'll pass up to Gazi
+
+1156
+01:50:04,000 --> 01:50:08,000
+So in that case then if there's issues related to like having forcing group play basically
+
+1157
+01:50:08,000 --> 01:50:12,000
+Let's go the other way and say solo cell phone mode now that trading is more common here with legendary items etc
+
+1158
+01:50:13,000 --> 01:50:17,000
+Have we seen the potential for maybe adding an additional game mode or other game modes
+
+1159
+01:50:18,000 --> 01:50:21,000
+Um, I think it'd be cool nothing to announce today
+
+1160
+01:50:22,000 --> 01:50:28,000
+Fair enough next one pvp. There is a small but very passionate pvp community that is curious about further plans
+
+1161
+01:50:29,000 --> 01:50:33,000
+involving content specifically for these groups of people I promise them I'd ask this one for them
+
+1162
+01:50:34,000 --> 01:50:36,000
+Whether you're thought some pvp within the game
+
+1163
+01:50:36,000 --> 01:50:37,000
+sure um
+
+1164
+01:50:38,000 --> 01:50:44,000
+Don't have anything to announce when it comes to pvp specific content. I would say we
+
+1165
+01:50:45,000 --> 01:50:50,000
+I think we would be more interested for from those people like what would they want to see from us?
+
+1166
+01:50:50,000 --> 01:50:52,000
+I would actually be curious about of like
+
+1167
+01:50:53,000 --> 01:50:59,000
+What do you want? Do you want like an arena type system where we pre-program your gear for you? Do you like open world?
+
+1168
+01:50:59,000 --> 01:51:00,000
+Do you?
+
+1169
+01:51:00,000 --> 01:51:05,000
+Do you want some type of different progression system? You know kind of like the group versus solo play the pvp versus pv
+
+1170
+01:51:05,000 --> 01:51:10,000
+Discussion is a little similar of like the more that we emphasize it or give unique rewards to it
+
+1171
+01:51:10,000 --> 01:51:13,000
+The more that we're saying to everybody that doesn't want to do that
+
+1172
+01:51:13,000 --> 01:51:17,000
+Hey, you must do this to progress your character and that's back to that, you know
+
+1173
+01:51:17,000 --> 01:51:19,000
+cursed problem trunk theory like sure
+
+1174
+01:51:19,000 --> 01:51:21,000
+You know everything is about power progression
+
+1175
+01:51:21,000 --> 01:51:25,000
+So the moment we put power in an activity that's a little more niche
+
+1176
+01:51:25,000 --> 01:51:27,000
+then
+
+1177
+01:51:27,000 --> 01:51:30,000
+We can really make people unhappy if that's if they have to engage with that
+
+1178
+01:51:30,000 --> 01:51:33,000
+So like what would they want to see do they want to see a better way of interacting with pvp?
+
+1179
+01:51:34,000 --> 01:51:39,000
+Is it just let the balance is crazy because I think that people kind of embrace the crazy balance in dwp?
+
+1180
+01:51:39,000 --> 01:51:42,000
+Um, but that's where I think I would start the discussion. Thanks for the answer
+
+1181
+01:51:43,000 --> 01:51:45,000
+gosh, that's fair
+
+1182
+01:51:45,000 --> 01:51:48,000
+When it comes to these questions these rapid five questions we got them from chat and from youtube
+
+1183
+01:51:49,000 --> 01:51:54,000
+um and one of the questions that we wanted to ask was how can we see how long people have been offline in our plans?
+
+1184
+01:51:56,000 --> 01:51:59,000
+Climb management issues currently. Yeah. Yeah. Yeah
+
+1185
+01:52:00,000 --> 01:52:03,000
+I'm not involved with that group so I can't give it that actually. Don't know
+
+1186
+01:52:03,000 --> 01:52:06,000
+But I feel like that's very reasonable. I think we could breathe that back to the team pretty easily
+
+1187
+01:52:07,000 --> 01:52:11,000
+I will say we do have a team um that works on like UX issues user experience issues
+
+1188
+01:52:11,000 --> 01:52:14,000
+And they are the ones that kind of look at stuff like that like you know
+
+1189
+01:52:14,000 --> 01:52:17,000
+The ideas that we get over like group power finder or armory party finder
+
+1190
+01:52:18,000 --> 01:52:21,000
+This type of support we have a team that's looking at it
+
+1191
+01:52:21,000 --> 01:52:23,000
+I know that they're working on stuff
+
+1192
+01:52:23,000 --> 01:52:25,000
+But I actually don't have complete insight into what they're doing
+
+1193
+01:52:25,000 --> 01:52:27,000
+But that seems very reasonable to me
+
+1194
+01:52:27,000 --> 01:52:29,000
+Stuff I like it
+
+1195
+01:52:29,000 --> 01:52:33,000
+The next question is actually about pets in game and we're talking about non combat pets
+
+1196
+01:52:33,000 --> 01:52:40,000
+Ranging from cosmetics to maybe loot pets that might only loot gold or something. Is that something that's been discussed if so what can you share?
+
+1197
+01:52:42,000 --> 01:52:45,000
+We have discussed it. I think it'd be cool. Don't have anything to share
+
+1198
+01:52:46,000 --> 01:52:51,000
+All right next question would be uh so sorry. Oh go on. I was just gonna breathe the next one
+
+1199
+01:52:52,000 --> 01:52:57,000
+All right, it's just dps meter and dummies. I would love to see that because you can't really see it when you have a minion army hitting a dummy
+
+1200
+01:52:57,000 --> 01:53:01,000
+I'd like to have dps meters is that something we're gonna see in the future
+
+1201
+01:53:03,000 --> 01:53:05,000
+Yeah
+
+1202
+01:53:05,000 --> 01:53:07,000
+Think it's cool. Don't have any two doubts
+
+1203
+01:53:08,000 --> 01:53:12,000
+Fair enough. I yeah, but I'm actually thinking a little bit more about that
+
+1204
+01:53:12,000 --> 01:53:18,000
+Maybe feedback would be useful of like is it really only on dummies that you want to do it to test builds or would you want to see in the rest of the game?
+
+1205
+01:53:19,000 --> 01:53:22,000
+I'm seeing you know dps meters are kind of notorious and other game types
+
+1206
+01:53:22,000 --> 01:53:27,000
+But I'm not sure that we have the same problems sure of people being upset with each other for not doing as much damage
+
+1207
+01:53:28,000 --> 01:53:30,000
+and all that kind of stuff but
+
+1208
+01:53:30,000 --> 01:53:32,000
+Fair enough. I feel like it probably be fine or at least for a personal one
+
+1209
+01:53:33,000 --> 01:53:37,000
+I know this one's probably like you can't go anywhere with this but offline mode
+
+1210
+01:53:37,000 --> 01:53:41,000
+Is there any potential for an offline mode in the oblifore at any point?
+
+1211
+01:53:43,000 --> 01:53:47,000
+Uh, I have not heard any discussions about it. I would I would doubt it
+
+1212
+01:53:48,000 --> 01:53:50,000
+Okay, that one I think I'm a little more
+
+1213
+01:53:50,000 --> 01:53:54,000
+Sure, I could say but I don't see it on the horizon, but fair enough
+
+1214
+01:53:54,000 --> 01:53:56,000
+Also, I'm not in charge of those kinds of decisions
+
+1215
+01:53:56,000 --> 01:54:00,000
+glyph leveling and quality of life is there any potential for glyph leveling outside of
+
+1216
+01:54:01,000 --> 01:54:03,000
+Nightmare dungeons are we're gonna add experience to glyphs elsewhere in the game?
+
+1217
+01:54:05,000 --> 01:54:07,000
+Uh, we've talked about it a bit
+
+1218
+01:54:07,000 --> 01:54:08,000
+Nothing to announce. I think
+
+1219
+01:54:09,000 --> 01:54:12,000
+Kind of going back to that idea with health hides and and whispers
+
+1220
+01:54:13,000 --> 01:54:17,000
+I think it is cool to have a less efficient way to do something while you're being efficient doing something else
+
+1221
+01:54:18,000 --> 01:54:21,000
+That's my personal opinion though and kind of what I what I feel but
+
+1222
+01:54:21,000 --> 01:54:27,000
+I'm not on the systems team and don't know the nuances of glyph leveling specifically and why we keep it in one place
+
+1223
+01:54:27,000 --> 01:54:32,000
+But I wouldn't be surprised I guess is what I would say but I don't have a guarantee there
+
+1224
+01:54:33,000 --> 01:54:38,000
+How about things uh like surprise events like i.e. goblin vaults from d3 for example
+
+1225
+01:54:38,000 --> 01:54:46,000
+You get a ring you go to secondary you can pop out or you know poor those other types of things any surprise ambush related event type of stuff
+
+1226
+01:54:46,000 --> 01:54:49,000
+We have the goblin packs for instance. It's pretty cool indeed for rare, but cool
+
+1227
+01:54:50,000 --> 01:54:54,000
+Yeah, I was I say we've def we've added a couple in season four
+
+1228
+01:54:54,000 --> 01:55:01,000
+Kind of many events where like you have a chance when you kill an elite and it'll spawn into like a ton of gold or a ton of materials or things or give you way more than normal
+
+1229
+01:55:02,000 --> 01:55:06,000
+We like the idea of surprise events. I think you can expect us to make more in the future
+
+1230
+01:55:07,000 --> 01:55:09,000
+That is one way kind of like what I think it was uh
+
+1231
+01:55:10,000 --> 01:55:12,000
+Gaze I think you said of like
+
+1232
+01:55:14,000 --> 01:55:19,000
+Like we want to break up the monotony and we're trying to make sure that it feels different even though you're doing the same thing
+
+1233
+01:55:19,000 --> 01:55:23,000
+And I think surprise events is one of the ways that we do that um sometimes it's more successful than others
+
+1234
+01:55:24,000 --> 01:55:29,000
+But it's definitely something that we want to continue to chase because we think overall it's good. It's just about how exactly did we benefit
+
+1235
+01:55:30,000 --> 01:55:37,000
+That's fair uh what's the team's position on support bills like back in d3 we have cdps demon owners and barb style bills
+
+1236
+01:55:37,000 --> 01:55:39,000
+Do they have a place in d4 moving forward?
+
+1237
+01:55:40,000 --> 01:55:42,000
+Hmm that's a good question uh
+
+1238
+01:55:44,000 --> 01:55:46,000
+I think
+
+1239
+01:55:46,000 --> 01:55:48,000
+So but we have to be careful
+
+1240
+01:55:48,000 --> 01:55:51,000
+We were a lot more scared about it when we launched the game
+
+1241
+01:55:51,000 --> 01:55:56,000
+I remember people kept asking that I got him. We can we maybe we're support builds make more things like cross synergies really cool and I agree
+
+1242
+01:55:56,000 --> 01:55:57,000
+It's cool
+
+1243
+01:55:57,000 --> 01:56:00,000
+um the the other side of that is kind of that
+
+1244
+01:56:01,000 --> 01:56:06,000
+That issue we deal with forever of group versus solo play is that the better we make a support build the more we're saying the best way to play
+
+1245
+01:56:06,000 --> 01:56:10,000
+This game is to go with four people support your friends and you get multiplicative
+
+1246
+01:56:11,000 --> 01:56:14,000
+Massively increased amounts of output right so uh
+
+1247
+01:56:15,000 --> 01:56:20,000
+I think we do what we do want it we have it a little bit with barbarian shouts right and we've even had added some
+
+1248
+01:56:20,000 --> 01:56:24,000
+Legendaries that do it like there's a druid one that turns your blood howl into an aoe buff
+
+1249
+01:56:25,000 --> 01:56:26,000
+um
+
+1250
+01:56:26,000 --> 01:56:29,000
+But I don't think it's it's one of those we have to walk the line very carefully
+
+1251
+01:56:29,000 --> 01:56:32,000
+I think because it can be very detrimental to the game if we go too far
+
+1252
+01:56:33,000 --> 01:56:35,000
+But I'm not against it as an idea at all
+
+1253
+01:56:36,000 --> 01:56:40,000
+Okay, I'll jump over to the next one real quick with the opening community events
+
+1254
+01:56:41,000 --> 01:56:44,000
+Way back like blizzard a key openings in bull of warcraft for example
+
+1255
+01:56:45,000 --> 01:56:50,000
+Community designs a legendary any sort of that community events surrounding those things what you thoughts on that
+
+1256
+01:56:51,000 --> 01:56:53,000
+I think it'd be awesome. Uh, I'm not against it at all
+
+1257
+01:56:54,000 --> 01:56:58,000
+But those are checks that I can't cash so yeah, I would love to I'm not gonna make it
+
+1258
+01:56:58,000 --> 01:57:06,000
+But yes, I would love an acu event like that in in d4 or something or even community making the let community making a legendary
+
+1259
+01:57:06,000 --> 01:57:07,000
+Oh, how scared am I of that?
+
+1260
+01:57:07,000 --> 01:57:10,000
+Are you unique? I don't know probably but we could find a way to balance it out. I don't know
+
+1261
+01:57:11,000 --> 01:57:14,000
+I think it'd be cool. I think it'd be neat. Yeah, I'm on board
+
+1262
+01:57:14,000 --> 01:57:18,000
+I'm gonna throw you a quick one with something that's close to my heart and that's map overlay
+
+1263
+01:57:19,000 --> 01:57:23,000
+And before you say immersion I'd like to say that a lot of people will say
+
+1264
+01:57:24,000 --> 01:57:27,000
+Let us play the game we want to what's the thoughts of map overlay moving forward?
+
+1265
+01:57:30,000 --> 01:57:32,000
+Hmm
+
+1266
+01:57:33,000 --> 01:57:38,000
+This is personal atom atom thoughts not company thoughts because everybody has different opinions
+
+1267
+01:57:38,000 --> 01:57:41,000
+I think and we've talked about map overlay internally quite a bit um
+
+1268
+01:57:43,000 --> 01:57:45,000
+I think map overlay
+
+1269
+01:57:47,000 --> 01:57:51,000
+It's one of those where there's there's such obvious pros and cons and I think different types of players really
+
+1270
+01:57:52,000 --> 01:57:57,000
+Really want to engage in different ways. I personally am not completely against a map overlay being in the game
+
+1271
+01:57:57,000 --> 01:58:01,000
+But I understand why there are there are people that feel strongly that you know
+
+1272
+01:58:01,000 --> 01:58:05,000
+We really don't want to try and make a game where you're looking at your map the whole time and not all this
+
+1273
+01:58:05,000 --> 01:58:11,000
+Beautiful world and art and things that we've created to try and immerse the player and then they're so into the systems
+
+1274
+01:58:12,000 --> 01:58:16,000
+And the efficiency game that we pull them out of it and I think it kind of goes back to kind of what you said of like
+
+1275
+01:58:17,000 --> 01:58:19,000
+You know a RPGs we really want you to
+
+1276
+01:58:19,000 --> 01:58:22,000
+We know it's an efficiency game, but we don't want it to feel
+
+1277
+01:58:23,000 --> 01:58:26,000
+That exposed all the time that you must feel pressured to do
+
+1278
+01:58:26,000 --> 01:58:29,000
+Things perfectly all the time and a map overlay
+
+1279
+01:58:30,000 --> 01:58:31,000
+pushes that pretty hard
+
+1280
+01:58:32,000 --> 01:58:33,000
+um
+
+1281
+01:58:33,000 --> 01:58:38,000
+So I see both sides. I think I'm a little bit personally in favor of just having it because people want it
+
+1282
+01:58:38,000 --> 01:58:40,000
+But I understand
+
+1283
+01:58:40,000 --> 01:58:43,000
+It changes the game pretty fundamentally for a lot of people and there's a pressure there now
+
+1284
+01:58:44,000 --> 01:58:49,000
+It's got like DPS meters in many games too. I would equate it to like the moment you introduce that you kind of can't go back
+
+1285
+01:58:49,000 --> 01:58:51,000
+And you've changed how people interact with your game forever
+
+1286
+01:58:52,000 --> 01:58:55,000
+And so I even if people want it I see why it
+
+1287
+01:58:55,000 --> 01:58:57,000
+Exit tough topic
+
+1288
+01:58:57,000 --> 01:58:59,000
+We're actually doing pretty good on time. We're almost through the rapid fire
+
+1289
+01:58:59,000 --> 01:59:03,000
+We's got a few more here and then we pretty much are gg out the way out the door here
+
+1290
+01:59:03,000 --> 01:59:09,000
+So uh ultimate button is something gets brought a lot people have asked can we get separate button for the ultimate
+
+1291
+01:59:11,000 --> 01:59:13,000
+Yeah
+
+1292
+01:59:14,000 --> 01:59:19,000
+Maybe I'll say I'll explain the problem space of why yeah
+
+1293
+01:59:19,000 --> 01:59:23,000
+So when when we're thinking about Diablo and why we don't have
+
+1294
+01:59:23,000 --> 01:59:26,000
+More extra buttons or like an ultimate button or whatever is that we we
+
+1295
+01:59:28,000 --> 01:59:34,000
+We thought heavily and work long and hard uh deciding the number of buttons that you're gonna have total on your bar at all
+
+1296
+01:59:34,000 --> 01:59:41,000
+And those buttons were determined by thinking of how many different actions do we want a player to worry about at any given time
+
+1297
+01:59:41,000 --> 01:59:44,000
+And right now we have you know you have a Vade you have potion
+
+1298
+01:59:44,000 --> 01:59:49,000
+You have your regular ones on your bar and then your core and your basic right if you have a basic um
+
+1299
+01:59:49,000 --> 01:59:55,000
+Adding another button is something that we could do. I mean controller issues aside and making that feel good uh
+
+1300
+01:59:57,000 --> 02:00:02,000
+It's a matter of how complex do we want to expect every single player to interact and at the time at launching the game
+
+1301
+02:00:02,000 --> 02:00:09,000
+We we were as old back and forth with this a lot and are at the at the time our idea was we were rather have something like an avade button
+
+1302
+02:00:09,000 --> 02:00:15,000
+That really uh everybody can use and makes the game feel very different and it's kind of like this is very different than other RPGs
+
+1303
+02:00:16,000 --> 02:00:18,000
+Um then a specific ultimate button
+
+1304
+02:00:18,000 --> 02:00:24,000
+There's also would need to be a lot of rebalancing of ultimates when we fully expect people to have one versus that they can choose whether or not they do
+
+1305
+02:00:25,000 --> 02:00:27,000
+Uh that work we could do I think it's more of like
+
+1306
+02:00:28,000 --> 02:00:34,000
+Do I want to balance and and design everything assuming a player has an ultimate in addition to all of their other skills
+
+1307
+02:00:34,000 --> 02:00:37,000
+And what that means to how we have to change ultimates or do other things um
+
+1308
+02:00:38,000 --> 02:00:43,000
+I think it's doable, but I don't know that I'm very excited about the prospect unless there's a very clear win
+
+1309
+02:00:43,000 --> 02:00:46,000
+Okay, I can understand that a couple just fast ones
+
+1310
+02:00:46,000 --> 02:00:51,000
+Don't have to go and depth on just some transmog things people are asking maybe a color wheel for transmogs
+
+1311
+02:00:51,000 --> 02:00:55,000
+It's supposed to just like red green blue when any thoughts on adding like a color wheel
+
+1312
+02:00:57,000 --> 02:00:58,000
+Yeah, that seems cool
+
+1313
+02:00:58,000 --> 02:01:00,000
+It's not my guarantee, but yeah
+
+1314
+02:01:00,000 --> 02:01:07,000
+Non horse mounts pretty much all the mounts are horses. Can we get like a maggot or any anything of spider?
+
+1315
+02:01:08,000 --> 02:01:11,000
+I think I think we should and I wouldn't be surprised if we did it
+
+1316
+02:01:11,000 --> 02:01:15,000
+But I'm not involved in those conversations, but I I think I personally feel like it's a no-brainer
+
+1317
+02:01:15,000 --> 02:01:20,000
+Yeah, same. Same. I agree. I'm glad we agree on okay, uh wings kind of controversial, but a million people ask me
+
+1318
+02:01:20,000 --> 02:01:25,000
+Wings are we ever gonna see wings in D4? Yeah, that's a little more controversial uh
+
+1319
+02:01:28,000 --> 02:01:31,000
+I would say I don't know about the future. I can explain a little bit of where we're at now
+
+1320
+02:01:31,000 --> 02:01:36,000
+And I'm not even completely involved in this is a little bit of my opinion because I I didn't make these decisions
+
+1321
+02:01:36,000 --> 02:01:42,000
+But you know return to darkness was one of our big guiding philosophies when we when we were making D4 up to launch
+
+1322
+02:01:42,000 --> 02:01:47,000
+And this idea that hey this game is is you know going back to kind of D1 D2 routes of being scary and
+
+1323
+02:01:48,000 --> 02:01:53,000
+And a little more you know through some and dark and dreary and we even try even with the combat
+
+1324
+02:01:53,000 --> 02:01:58,000
+That's why we have a vade is like you have to dodge attacks and really plan because this world is dangerous
+
+1325
+02:01:59,000 --> 02:02:03,000
+Um in some ways we've learned that players, you know want to blast and they don't care as much
+
+1326
+02:02:03,000 --> 02:02:05,000
+uh
+
+1327
+02:02:05,000 --> 02:02:07,000
+As we maybe we like we over indexed a little bit on it
+
+1328
+02:02:08,000 --> 02:02:13,000
+We still but it is still something that we care about so like now it's does we like before Wings was kind of in that
+
+1329
+02:02:14,000 --> 02:02:18,000
+It's making the game a little bit. It doesn't fit the vibe we're going for but we we've moved a bit
+
+1330
+02:02:18,000 --> 02:02:22,000
+But have we moved enough that Wings are okay now? I don't know fair enough
+
+1331
+02:02:22,000 --> 02:02:26,000
+I'm it's like we're I think we're right there. I could I could see it be in either way
+
+1332
+02:02:26,000 --> 02:02:30,000
+But I that just explains kind of how we got here so fair enough
+
+1333
+02:02:30,000 --> 02:02:32,000
+I get that we only got like three questions left here really
+
+1334
+02:02:32,000 --> 02:02:36,000
+So the last transmog related or cosmic relay question is can we get cosmetics potentially for minions?
+
+1335
+02:02:36,000 --> 02:02:38,000
+I know gauzy probably would like this one
+
+1336
+02:02:40,000 --> 02:02:44,000
+Uh, I think it would be cool. It's a lot harder to do for minions and for players though
+
+1337
+02:02:44,000 --> 02:02:49,000
+Or even like a Wings because you can have a million minions on your screen and and how loud that is is a concern
+
+1338
+02:02:49,000 --> 02:02:53,000
+But I don't think it's an impossibility. I'd like to see it. I think it'd be cool
+
+1339
+02:02:53,000 --> 02:02:56,000
+Same with your transfer and transmogs. I think would be cool, but that's just my opinion
+
+1340
+02:02:57,000 --> 02:02:59,000
+All right, um, no for a gauzy
+
+1341
+02:03:00,000 --> 02:03:02,000
+Speaking of being ob scary
+
+1342
+02:03:03,000 --> 02:03:05,000
+What about a unicorn level?
+
+1343
+02:03:05,000 --> 02:03:10,000
+towel level is that ever something that's going to happen because we've all been hunting for it
+
+1344
+02:03:11,000 --> 02:03:14,000
+A unicorn level that sounds neat. I don't know what you're talking about with the other one
+
+1345
+02:03:15,000 --> 02:03:17,000
+There it is
+
+1346
+02:03:17,000 --> 02:03:19,000
+And uh shout out to racks uber tomb lord win
+
+1347
+02:03:22,000 --> 02:03:24,000
+Uh, I think it could be cool. I'm down
+
+1348
+02:03:25,000 --> 02:03:27,000
+Uh, whatever people want to fight. I mean we could make it
+
+1349
+02:03:28,000 --> 02:03:33,000
+All right, and we pretty much are hitting the end of the time here. Um, I want to thank you for your time
+
+1350
+02:03:34,000 --> 02:03:39,000
+I will submit there's a couple other like bug reports. I'll just DM over as well and then we skip those ones
+
+1351
+02:03:39,000 --> 02:03:42,000
+And uh, you know, we just had a 45 minutes. So I appreciate the time
+
+1352
+02:03:42,000 --> 02:03:44,000
+Thanks for answering all the questions
+
+1353
+02:03:44,000 --> 02:03:50,000
+And uh, we actually managed to get through pretty much the entire list including the rapid fire. So you done good
+
+1354
+02:03:51,000 --> 02:03:55,000
+So I'm not I appreciate it. Yeah, you know, any last words or anything you want to say?
+
+1355
+02:03:56,000 --> 02:04:00,000
+Um, I would say no first thanks to both of you for taking the time to talk to me
+
+1356
+02:04:00,000 --> 02:04:03,000
+If you really enjoy these conversations, I look forward to doing more
+
+1357
+02:04:04,000 --> 02:04:07,000
+Um, for everybody else, you know, one of the things I'm really passionate about like first, you know
+
+1358
+02:04:07,000 --> 02:04:11,000
+Go listen to that convert that to that presentation that I talked about on a cursed problems
+
+1359
+02:04:12,000 --> 02:04:15,000
+I really one of my goals with getting in front of people and talking with them
+
+1360
+02:04:15,000 --> 02:04:20,000
+And I've done this ever since I started as a developer you can go look at interviews with me years ago from heroes
+
+1361
+02:04:20,000 --> 02:04:26,000
+But I like having better discussions with you all and with players that are a little more informed
+
+1362
+02:04:26,000 --> 02:04:29,000
+So as people get passionate and want to learn about game design
+
+1363
+02:04:29,000 --> 02:04:33,000
+You know, it's easy just to be like hey, why don't you add this and we can answer those questions
+
+1364
+02:04:33,000 --> 02:04:39,000
+But I like more in depth ones and we do on the team of like hey, why does this work the way it does and can we find a way to make it work and get we
+
+1365
+02:04:39,000 --> 02:04:45,000
+What we want right like when you counter back at me with like the strong colds question like can we okay out of I listen to you
+
+1366
+02:04:45,000 --> 02:04:48,000
+I understand your problem space now that I thought about it
+
+1367
+02:04:48,000 --> 02:04:54,000
+Can we do this and why or why not like that to me is a better discussion and a better culture a better
+
+1368
+02:04:54,000 --> 02:04:57,000
+Of better world really if I want to get sappy of like
+
+1369
+02:04:57,000 --> 02:05:01,000
+You know be informed we're talking about things and care about it and think about it
+
+1370
+02:05:01,000 --> 02:05:05,000
+And don't just blast like hey, just do this right? Yeah, I mean I want to answer those
+
+1371
+02:05:05,000 --> 02:05:12,000
+But I saw like I was saying everyone has to get I just mean like if you care enough to really want to know
+
+1372
+02:05:12,000 --> 02:05:14,000
+like you know
+
+1373
+02:05:14,000 --> 02:05:19,000
+Think about it and have real discussion. So I want to be a force for that
+
+1374
+02:05:19,000 --> 02:05:22,000
+I guess in the community and I think other people on our team do as well. So thanks
+
+1375
+02:05:22,000 --> 02:05:25,000
+But I really enjoyed the time. So enjoy talking with you both
+
+1376
+02:05:25,000 --> 02:05:27,000
+I enjoyed it. I appreciate you enjoying Asian
+
+1377
+02:05:28,000 --> 02:05:31,000
+It was it was actually nice seeing the thought process behind it
+
+1378
+02:05:31,000 --> 02:05:36,000
+And like it kind of in real time because normally it's like you make a video maybe you get response about there's something
+
+1379
+02:05:36,000 --> 02:05:41,000
+It is kind of nice to see like in real time the feedback because you're right just during the very brief conversation about strong
+
+1380
+02:05:41,000 --> 02:05:44,000
+Code it's like it did actually I'm like oh you know it makes sense. It's a consumable design thing
+
+1381
+02:05:45,000 --> 02:05:49,000
+Kind of hard to turn into a repetitive experience. So thank you for opening up about that guys
+
+1382
+02:05:49,000 --> 02:05:50,000
+You got any last comments or thing you want to say?
+
+1383
+02:05:51,000 --> 02:05:54,000
+Not really. I mean, I know you're a minion lover. So
+
+1384
+02:05:54,000 --> 02:05:58,000
+I want to get in on a deep dive talk with you some day about that
+
+1385
+02:05:58,000 --> 02:06:00,000
+We do that on stream on this haven't talked some day as well
+
+1386
+02:06:01,000 --> 02:06:06,000
+Maybe we can someday know. Yeah, I my roots are an RTS where I manage a million little units
+
+1387
+02:06:06,000 --> 02:06:09,000
+And I love minion stuff and everything so
+
+1388
+02:06:09,000 --> 02:06:12,000
+That's good, but thanks for joining appreciate it
+
+1389
+02:06:12,000 --> 02:06:16,000
+All right. Yeah, thank you both very much. Well, let's you. We'll let you head on out the door here
+
+1390
+02:06:16,000 --> 02:06:20,000
+We'll wrap up and uh, all right. We're gonna cut back to the other screen and then
+
+1391
+02:06:21,000 --> 02:06:23,000
+Cut the audio and I will be back in just a moment everybody. Okay
+
+1392
+02:06:24,000 --> 02:06:26,000
+Yeah
+
+1393
+02:06:54,000 --> 02:06:56,000
+You
+
+1394
+02:07:25,000 --> 02:07:27,000
+You
+
+1395
+02:07:33,000 --> 02:07:35,000
+Sorry, yeah, I'm back. I was respawn. Ah
+
+1396
+02:07:36,000 --> 02:07:41,000
+All right, so we're back. Uh, we got through basically all of the questions
+
+1397
+02:07:42,000 --> 02:07:46,000
+Uh, that we were able to dig up that got honed down
+
+1398
+02:07:46,000 --> 02:07:49,000
+So there were some in there that like bug reports and some other stuff that we were able to get
+
+1399
+02:07:50,000 --> 02:07:56,000
+I'm significant amount of the questions during the rapid fire. I think he went like four or five minutes over time as well
+
+1400
+02:07:56,000 --> 02:07:59,000
+Just which was pretty cool. So that was nice
+
+1401
+02:08:00,000 --> 02:08:02,000
+um, but we are
+
+1402
+02:08:03,000 --> 02:08:04,000
+Interviews completed
+
+1403
+02:08:04,000 --> 02:08:10,000
+W if you like the interview L if you hated it and you think we all suck and uh, that was pretty much the gg on there
+
+1404
+02:08:10,000 --> 02:08:15,000
+I am actually curious what question you guys were the most interested in and I'll do the same thing here
+
+1405
+02:08:16,000 --> 02:08:19,000
+I'll put up a straw poll and we'll see how you guys actually felt about it
+
+1406
+02:08:21,000 --> 02:08:22,000
+up
+
+1407
+02:08:22,000 --> 02:08:24,000
+I'll put in a few of them
+
+1408
+02:08:26,000 --> 02:08:31,000
+That seems like pretty good feedback on it a couple people hated it other than that seemed like pretty good
+
+1409
+02:08:31,000 --> 02:08:35,000
+I'll put a straw poll up. We can actually get like a response you guys can see in there. Thanks for the five
+
+1410
+02:08:38,000 --> 02:08:40,000
+Okay, option one
+
+1411
+02:08:41,000 --> 02:08:45,000
+I'm gonna add a bunch of options in here. I'll put a link and you guys can vote on it
+
+1412
+02:08:46,000 --> 02:08:47,000
+It was great. It was good was mid
+
+1413
+02:08:48,000 --> 02:08:51,000
+Was bad and then was horrible
+
+1414
+02:08:51,000 --> 02:08:52,000
+So there's gonna be a variety of these being
+
+1415
+02:08:53,000 --> 02:08:55,000
+launch that
+
+1416
+02:08:55,000 --> 02:08:58,000
+And let's see what the feedback of it actually is
+
+1417
+02:08:59,000 --> 02:09:04,000
+And I I'm actually pretty satisfied myself personally. I thought it went pretty decent
+
+1418
+02:09:05,000 --> 02:09:06,000
+So
+
+1419
+02:09:06,000 --> 02:09:08,000
+I'm surprised we ever to get through all the questions
+
+1420
+02:09:08,000 --> 02:09:13,000
+I will admit I was a little worried we were not gonna have enough time to get through all of the questions
+
+1421
+02:09:14,000 --> 02:09:17,000
+Um, but we kind of blasted through there at the end
+
+1422
+02:09:17,000 --> 02:09:20,000
+Which was nice. Hopefully we didn't go too fast and then we were able to actually
+
+1423
+02:09:22,000 --> 02:09:25,000
+Keep up with it here. Okay, let me go ahead and grab there's the straw poll
+
+1424
+02:09:27,000 --> 02:09:29,000
+Boom throw that on screen
+
+1425
+02:09:30,000 --> 02:09:32,000
+Bang. Okay, here you go. So I'm gonna put the links in the chat
+
+1426
+02:09:34,000 --> 02:09:37,000
+There you go go ahead and vote on how you felt about the interview
+
+1427
+02:09:39,000 --> 02:09:41,000
+You
+
+1428
+02:09:49,000 --> 02:09:51,000
+There you go
+
+1429
+02:09:51,000 --> 02:09:54,000
+Mostly positive response about an eight or nine percent people didn't like it
+
+1430
+02:09:59,000 --> 02:10:01,000
+Glad we spent the time we did going through the prep. Yeah
+
+1431
+02:10:01,000 --> 02:10:12,000
+Yeah, I thought you had them to a really good job explaining the philosophy behind it and like tackling the questions that we were kind of curious about
+
+1432
+02:10:14,000 --> 02:10:19,000
+I keep it shy away from the questions. There wasn't very many like oh, I can't really answer that like it was
+
+1433
+02:10:20,000 --> 02:10:23,000
+Actually kind of like did his best to actually take a shot at them
+
+1434
+02:10:25,000 --> 02:10:28,000
+Which I'm glad for I was I was hoping it was gonna be something like that was
+
+1435
+02:10:29,000 --> 02:10:31,000
+Didn't want to be asking questions that we're gonna get anywhere
+
+1436
+02:10:32,000 --> 02:10:34,000
+Okay
+
+1437
+02:10:37,000 --> 02:10:39,000
+Okay, that seems like pretty good reception
+
+1438
+02:10:42,000 --> 02:10:46,000
+Now interview of the other interviewers about the interview. Yeah, do we need interview section here
+
+1439
+02:10:48,000 --> 02:10:51,000
+Now we need riker and racks and we all just seven group interviewing each other
+
+1440
+02:10:51,000 --> 02:10:57,000
+About how we felt about each one of our interviews for the the ultimate live stream reaction section
+
+1441
+02:11:02,000 --> 02:11:05,000
+Enjoyed the discussion on philosophy except their why bother other words otherwise
+
+1442
+02:11:05,000 --> 02:11:11,000
+I do enjoy actually hearing the thought process behind when they're developing the game itself
+
+1443
+02:11:15,000 --> 02:11:17,000
+Actually though around table over four seasons four lawns would be nice
+
+1444
+02:11:18,000 --> 02:11:20,000
+Yeah, that'd be cool
+
+1445
+02:11:23,000 --> 02:11:28,000
+Shout out to my boy Gazi also let me put a link to Gazi's channel if you're looking to watch the VOD itself
+
+1446
+02:11:29,000 --> 02:11:32,000
+Um, we will be posting just the cut out
+
+1447
+02:11:32,000 --> 02:11:37,000
+Interview of that on Gazi TV's channel as well. So I'm gonna have a link to that. I'll put down below
+
+1448
+02:11:38,000 --> 02:11:40,000
+There you go. Otherwise
+
+1449
+02:11:41,000 --> 02:11:44,000
+You can see it here in the live stream VODs boats on twitch and youtube
+
+1450
+02:11:51,000 --> 02:11:56,000
+You Gazi Crip as mingo woody joe and racks go go go do that's a ton of people around table
+
+1451
+02:11:58,000 --> 02:12:00,000
+I
+
+1452
+02:12:00,000 --> 02:12:04,000
+Hope everyone listens to Adam see back what kind of questions asked for the next round of interviews
+
+1453
+02:12:04,000 --> 02:12:06,000
+It is harder. I feel like it's harder than it seems
+
+1454
+02:12:07,000 --> 02:12:09,000
+To prepare questions that you think can actually get answers
+
+1455
+02:12:10,000 --> 02:12:11,000
+because
+
+1456
+02:12:11,000 --> 02:12:13,000
+When you're asking them
+
+1457
+02:12:13,000 --> 02:12:20,000
+You try to do things that are gonna open up the conversation and actually because you the point is you want to be able to hear right you want to actually be able to hear
+
+1458
+02:12:21,000 --> 02:12:23,000
+What people are saying
+
+1459
+02:12:23,000 --> 02:12:28,000
+Or what they're thinking when they're developing the game you don't just want to hear like our charms coming to the game
+
+1460
+02:12:28,000 --> 02:12:35,000
+Yes or no like you kind of do want to hear the thought process behind it so try to balance those with just getting factual responses as well
+
+1461
+02:12:44,000 --> 02:12:48,000
+People were saying horrible or bad or just ask those of the chat. I mean there's a
+
+1462
+02:12:49,000 --> 02:12:52,000
+There's a pretty limited number of people that were being a problem
+
+1463
+02:12:52,000 --> 02:12:55,000
+And cheflack everyone was actually pretty pretty nice and chat for the most bit
+
+1464
+02:12:59,000 --> 02:13:03,000
+Color acts for general discussion that is up to him if you want to do you can bring me
+
+1465
+02:13:08,000 --> 02:13:14,000
+Six hours of asmingo reacting yeah you guys can catch this interview also in asmingo's react for
+
+1466
+02:13:15,000 --> 02:13:17,000
+The next 12 hours maybe
+
+1467
+02:13:23,000 --> 02:13:25,000
+What up waffles thomper do that name
+
+1468
+02:13:32,000 --> 02:13:35,000
+Gazi was good in this one. Yeah, I thought so. Gazi had some good questions
+
+1469
+02:13:37,000 --> 02:13:40,000
+The only critical thing I'd say about the interview is I feel a bit rushed that's fair because
+
+1470
+02:13:41,000 --> 02:13:45,000
+It actually was rushed we did kind of have to move along the the
+
+1471
+02:13:46,000 --> 02:13:48,000
+We had to move along the questions
+
+1472
+02:13:49,000 --> 02:13:56,000
+Um, we couldn't we couldn't sit on the topic for too long even though I was enjoying the conversation personally around stronghodes for instance
+
+1473
+02:13:56,000 --> 02:14:00,000
+I did need to move the conversation the long quicker so we kind of had to
+
+1474
+02:14:01,000 --> 02:14:08,000
+We we had to cut it because if each question is 15 minutes we will have only got the first three but we were able to get about 20 in
+
+1475
+02:14:09,000 --> 02:14:11,000
+So I'll take it
+
+1476
+02:14:13,000 --> 02:14:15,000
+Are you posting on youtube today or later
+
+1477
+02:14:15,000 --> 02:14:21,000
+The vod is currently being uploaded to a google drive which gazi will upload on the channel that was linked
+
+1478
+02:14:21,000 --> 02:14:24,000
+There's also the live stream vod that I have today
+
+1479
+02:14:24,000 --> 02:14:30,000
+But you will have to pick through it to find it and we're going me and the editor are going to after this live stream record a recap video
+
+1480
+02:14:30,000 --> 02:14:32,000
+And which I do shorter simnopses
+
+1481
+02:14:32,000 --> 02:14:37,000
+So if you don't want to watch a fo 45 minutes there'll be a recap video shortly after this stream ends
+
+1482
+02:14:37,000 --> 02:14:42,000
+I'm going to sit down and record one with the editor in which will be like I asked this
+
+1483
+02:14:42,000 --> 02:14:45,000
+This was the response and like paraphrase effectively
+
+1484
+02:14:58,000 --> 02:15:02,000
+SSF coming I think that was the one that maybe perhaps we could
+
+1485
+02:15:02,000 --> 02:15:09,000
+Receive as the most information leaked maybe I mean you said can't confirm anything but we like it type of situation so
+
+1486
+02:15:09,000 --> 02:15:12,000
+um ssf sounds like it could be coming yeah
+
+1487
+02:15:15,000 --> 02:15:21,000
+Wish for more backfiring on the devs bad takes not like adding one bonus main skill tree because players can't handle it mistakes
+
+1488
+02:15:21,000 --> 02:15:25,000
+I don't think it matters what I think about what somebody else is saying
+
+1489
+02:15:25,000 --> 02:15:29,000
+I think what matters is that you get to hear more questions
+
+1490
+02:15:29,000 --> 02:15:34,000
+related to what they think about questions you would ask if you had the chance
+
+1491
+02:15:34,000 --> 02:15:39,000
+So I could be like well, I think that's a dumb take I think players can handle an ultimate button
+
+1492
+02:15:39,000 --> 02:15:44,000
+But what do you as the viewer actually gain from me snapping back at him
+
+1493
+02:15:45,000 --> 02:15:51,000
+You basically instead gaining something you lose one additional question answer during that time
+
+1494
+02:15:51,000 --> 02:15:56,000
+So I choose to not respond unless it's a critical point in which I was extremely curious
+
+1495
+02:15:56,000 --> 02:16:01,000
+So I couldn't help myself asking about for instance the uber strong holds when we got into that conversation
+
+1496
+02:16:01,000 --> 02:16:03,000
+Um outside of that
+
+1497
+02:16:03,000 --> 02:16:06,000
+I I don't think it's really worth time like arguing with people
+
+1498
+02:16:07,000 --> 02:16:11,000
+Because I don't really think that I'm the one developing the game now am I
+
+1499
+02:16:12,000 --> 02:16:19,000
+The job is to pull information out not try to teach him the job that he's doing right which I mean he's the one doing the job
+
+1500
+02:16:19,000 --> 02:16:21,000
+Not me. I didn't go to school for game dev
+
+1501
+02:16:21,000 --> 02:16:23,000
+So I actually do listen to what he says
+
+1502
+02:16:23,000 --> 02:16:25,000
+Where's that poll the poll is right here
+
+1503
+02:16:27,000 --> 02:16:29,000
+I'll hold on that's gots use the link to the channel. Let me put this here
+
+1504
+02:16:31,000 --> 02:16:33,000
+There's the poll
+
+1505
+02:16:51,000 --> 02:16:55,000
+Joe says tons of people take every genre because they don't understand the skill tree as it is yeah
+
+1506
+02:16:55,000 --> 02:17:01,000
+That's probably true. I think d4 you have to realize as a much wider audience than any of the previous diablo games
+
+1507
+02:17:02,000 --> 02:17:04,000
+But I don't think they
+
+1508
+02:17:05,000 --> 02:17:09,000
+I don't think they necessarily will stop progression of something like that
+
+1509
+02:17:09,000 --> 02:17:13,000
+Just because some people don't know how the skill tree works. I'm sure that there will be continued progression
+
+1510
+02:17:20,000 --> 02:17:25,000
+What was the name of the video we told us to go watch about the game dev you have to back up to see it in the vod
+
+1511
+02:17:25,000 --> 02:17:27,000
+I don't actually remember the name of it
+
+1512
+02:17:32,000 --> 02:17:37,000
+Trichest bit of interviewing is active listening not worrying about your next question took me a bit stop doing that with my production brain
+
+1513
+02:17:37,000 --> 02:17:39,000
+Yeah, you have to like listen and be able to follow up
+
+1514
+02:17:40,000 --> 02:17:45,000
+Um, in order to actually have a good conversation. I agree that part can be difficult
+
+1515
+02:17:47,000 --> 02:17:53,000
+There you go Jim has the link to the curse problems and game design. I'll link that on YouTube side of things too for the people that are curious over there
+
+1516
+02:17:55,000 --> 02:17:57,000
+You
+
+1517
+02:18:09,000 --> 02:18:13,000
+Sounds like the pvp folks need to speak up more. Yes more will be once what sounds like they haven't been hearing
+
+1518
+02:18:15,000 --> 02:18:17,000
+Yeah, I uh, I did ask for the pvp
+
+1519
+02:18:17,000 --> 02:18:22,000
+I I knew when I asking that that half the people were gonna be like what a waste and stupid question for the people
+
+1520
+02:18:22,000 --> 02:18:24,000
+They don't give a fuck about pvp
+
+1521
+02:18:24,000 --> 02:18:28,000
+But there's enough pvp players that like I wanted to get that one in there for you
+
+1522
+02:18:28,000 --> 02:18:30,000
+I'm sorry that we weren't able to get like well
+
+1523
+02:18:30,000 --> 02:18:35,000
+This is the next game of coming but like you know, you got what if you guys really do care about pvp
+
+1524
+02:18:35,000 --> 02:18:41,000
+It sounds like they're not giving enough feedback about that. So you need to put feedback in for that. That's what it sounds like
+
+1525
+02:18:41,000 --> 02:18:52,000
+What was the feature you personally would like to see come to d4 and why just curious
+
+1526
+02:18:54,000 --> 02:18:56,000
+That's a good question
+
+1527
+02:18:56,000 --> 02:19:00,000
+Why since we're on the pvp topic the thing that mainly comes to my head is you know how in lost arc there is a
+
+1528
+02:19:01,000 --> 02:19:03,000
+pvp
+
+1529
+02:19:03,000 --> 02:19:07,000
+Arena that's like one v one v one basically. I think that that is
+
+1530
+02:19:08,000 --> 02:19:09,000
+pretty
+
+1531
+02:19:09,000 --> 02:19:11,000
+phenomenal
+
+1532
+02:19:11,000 --> 02:19:14,000
+I like that like the elimination style it'd be cool if you could create a character
+
+1533
+02:19:14,000 --> 02:19:19,000
+It's like level 100 max out gear separate from like your actual one and have only a pvp character
+
+1534
+02:19:19,000 --> 02:19:23,000
+That would go into a one v one v one arena that would be pretty cool. I'm not or like a moba style or not moba
+
+1535
+02:19:23,000 --> 02:19:27,000
+But like a battle right style where I'll drop you into like plunderstorm. I think that would be pretty cool
+
+1536
+02:19:27,000 --> 02:19:29,000
+um
+
+1537
+02:19:29,000 --> 02:19:30,000
+But yeah, that's just because my brains on pvp right now
+
+1538
+02:19:31,000 --> 02:19:33,000
+I
+
+1539
+02:19:34,000 --> 02:19:41,000
+Will Smith be back to blizzard their forms read a post anywhere that stuff is heard discord
+
+1540
+02:19:42,000 --> 02:19:48,000
+Didn't mention mercenaries followers though. Yeah, I think I think that one had been covered already we did go into pets
+
+1541
+02:19:54,000 --> 02:19:57,000
+Yeah balance issue is one problem with pvp as well yet
+
+1542
+02:19:58,000 --> 02:20:03,000
+You're thoughts on d4 adding a new class. I think people would love to see a new class. I think that's
+
+1543
+02:20:04,000 --> 02:20:07,000
+Uh, pre self evident a lot of people would love to see it
+
+1544
+02:20:12,000 --> 02:20:17,000
+What about cow level answer he gave like why he said exactly what I said they would say
+
+1545
+02:20:18,000 --> 02:20:20,000
+Which is effectively
+
+1546
+02:20:20,000 --> 02:20:22,000
+What's a cow level we have no idea
+
+1547
+02:20:23,000 --> 02:20:29,000
+So vod available anywhere the vod is on youtube as well as on twitch you can find it on both platforms
+
+1548
+02:20:38,000 --> 02:20:40,000
+All right
+
+1549
+02:20:45,000 --> 02:20:51,000
+We had to not play in stupid. That's the ongoing joke like the so the cow level joke is is it's an ongoing gag
+
+1550
+02:20:52,000 --> 02:20:54,000
+Of basically you you say like what's a cow level
+
+1551
+02:20:58,000 --> 02:21:00,000
+And then they say oh with a cow level is this
+
+1552
+02:21:03,000 --> 02:21:05,000
+That's effectively out goes
+
+1553
+02:21:10,000 --> 02:21:12,000
+There is no cow level yeah exactly
+
+1554
+02:21:15,000 --> 02:21:17,000
+You frankly alive with the priming very much
+
+1555
+02:21:17,000 --> 02:21:22,000
+Okay, so shout out to all the people that watch this on twitch as well as youtube
+
+1556
+02:21:22,000 --> 02:21:27,000
+I appreciate you guys will probably do more youtube live streams going in the future for the start of season four
+
+1557
+02:21:27,000 --> 02:21:29,000
+If you have any interest in those you can hit the bell
+
+1558
+02:21:29,000 --> 02:21:35,000
+It will notify you when the live streams go live they probably be right around the same time as we did this one today as well
+
+1559
+02:21:38,000 --> 02:21:41,000
+I appreciate all the people that show that pretty good amount of people that did show up today
+
+1560
+02:21:43,000 --> 02:21:44,000
+Looks like most people enjoyed the interview
+
+1561
+02:21:45,000 --> 02:21:50,000
+Thank you for all your questions and for helping to the interview through the last 24 hours
+
+1562
+02:21:50,000 --> 02:21:55,000
+As we did the previous one also any questions unload out that was covered by raxons previous interview
+
+1563
+02:21:57,000 --> 02:22:03,000
+So I'm going to wrap it up. I'm going to go record a sort of highlights video talking about the recap of what we actually saw
+
+1564
+02:22:04,000 --> 02:22:06,000
+And then from there I will see you guys later
+
+1565
+02:22:08,000 --> 02:22:10,000
+Thanks for everything appreciate you watching
+
+1566
+02:22:11,000 --> 02:22:13,000
+Have a wonderful day
+
+1567
+02:22:14,000 --> 02:22:21,000
+And I'll see you on the recap video or on the next live stream. Don't forget you can watch just the interview raw cut out
+
+1568
+02:22:22,000 --> 02:22:24,000
+On gauze's channel as well
+
+1569
+02:22:24,000 --> 02:22:26,000
+Gauze TV on youtube
+
+1570
+02:22:26,000 --> 02:22:28,000
+That's about it
+
+1571
+02:22:28,000 --> 02:22:30,000
+See y'all when to run the outro
+
+1572
+02:22:31,000 --> 02:22:33,000
+And I'll see you guys tomorrow
+
+1573
+02:22:44,000 --> 02:22:46,000
+oh
+
+1574
+02:22:47,000 --> 02:22:49,000
+jer
+
+1575
+02:23:09,000 --> 02:23:11,000
+Um
+
+1576
+02:23:13,000 --> 02:23:29,000
+Thank you for the viewingunintelligible.
