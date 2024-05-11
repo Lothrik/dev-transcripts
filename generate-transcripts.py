@@ -25,7 +25,7 @@ def transcribe_audio(path):
 
 for source_file in source_files:
     source_path = (target_folder / source_file).as_posix()
-    target_path = (target_folder / source_file.replace(".webm", ".srt")).as_posix()
+    target_path = (target_folder / source_file.replace(".mp4", ".srt")).as_posix()
     transcript = transcribe_audio(source_path)
     with open(target_path, "w", encoding="utf-8") as f:
         f.write(transcript)
