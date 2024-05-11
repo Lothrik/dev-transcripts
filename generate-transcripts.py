@@ -14,8 +14,8 @@ def transcribe_audio(path):
 
     output = ""
     for segment in segments:
-        startTime = "0" + str(timedelta(seconds=int(segment['start']))) + ",000"
-        endTime = "0" + str(timedelta(seconds=int(segment['end']))) + ",000"
+        startTime = "0" + str(timedelta(seconds=int(segment["start"]))) + ",000"
+        endTime = "0" + str(timedelta(seconds=int(segment["end"]))) + ",000"
         text = segment["text"]
         segmentId = segment["id"] + 1
         segment = f"{segmentId}\n{startTime} --> {endTime}\n{text[1:] if text[0] is ' ' else text}\n\n"
