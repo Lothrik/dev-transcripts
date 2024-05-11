@@ -2,7 +2,7 @@ from datetime import timedelta
 from pathlib import Path
 import whisper
 
-target_folder = Path(__file__).parent
+target_folder = Path(__file__).parent / "transcripts"
 source_files = []
 
 model = whisper.load_model("base", device="cuda")
