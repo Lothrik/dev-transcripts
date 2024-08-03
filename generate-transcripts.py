@@ -18,7 +18,7 @@ def transcribe_audio(path):
         endTime = "0" + str(timedelta(seconds=int(segment["end"]))) + ",000"
         text = segment["text"]
         segmentId = segment["id"] + 1
-        segment = f"{segmentId}\n{startTime} --> {endTime}\n{text[1:] if text[0] is ' ' else text}\n\n"
+        segment = f"{segmentId}\n{startTime} --> {endTime}\n{text[1:] if text[0] == ' ' else text}\n\n"
         output = output + segment
 
     return output
