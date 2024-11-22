@@ -7,7 +7,7 @@ import torch
 
 target_folder = Path(__file__).parent / "transcripts"
 
-model = whisper.load_model("base", device="cuda")
+model = whisper.load_model("large", device="cuda")
 print("Whisper model loaded.")
 
 def transcribe_audio(path):
@@ -38,9 +38,9 @@ def ffmpeg_installed():
     
 def cuda_installed():
     if torch.cuda.is_available():
-        print(f"CUDA is available. Device: {torch.cuda.get_device_name(0)}")
+        return True
     else:
-        print("CUDA is not available or not installed.")
+        return False
 
 if __name__ == "__main__":
     source_string = sys.argv[1] if len(sys.argv) > 1 else ''
