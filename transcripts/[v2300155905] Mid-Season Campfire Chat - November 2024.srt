@@ -1,0 +1,5044 @@
+1
+00:01:00,000 --> 00:01:02,000
+I'm going to go to the next one.
+
+2
+00:01:02,000 --> 00:01:04,000
+I'm going to go to the next one.
+
+3
+00:01:04,000 --> 00:01:06,000
+I'm going to go to the next one.
+
+4
+00:01:06,000 --> 00:01:08,000
+I'm going to go to the next one.
+
+5
+00:01:08,000 --> 00:01:10,000
+I'm going to go to the next one.
+
+6
+00:01:10,000 --> 00:01:12,000
+I'm going to go to the next one.
+
+7
+00:01:12,000 --> 00:01:14,000
+I'm going to go to the next one.
+
+8
+00:01:14,000 --> 00:01:16,000
+I'm going to go to the next one.
+
+9
+00:01:16,000 --> 00:01:18,000
+I'm going to go to the next one.
+
+10
+00:01:18,000 --> 00:01:20,000
+I'm going to go to the next one.
+
+11
+00:01:20,000 --> 00:01:22,000
+I'm going to go to the next one.
+
+12
+00:01:22,000 --> 00:01:24,000
+I'm going to go to the next one.
+
+13
+00:01:24,000 --> 00:01:26,000
+I'm going to go to the next one.
+
+14
+00:01:26,000 --> 00:01:28,000
+I'm going to go to the next one.
+
+15
+00:01:28,000 --> 00:01:30,000
+I'm going to go to the next one.
+
+16
+00:01:30,000 --> 00:01:32,000
+I'm going to go to the next one.
+
+17
+00:01:32,000 --> 00:01:34,000
+I'm going to go to the next one.
+
+18
+00:01:34,000 --> 00:01:36,000
+I'm going to go to the next one.
+
+19
+00:01:36,000 --> 00:01:38,000
+I'm going to go to the next one.
+
+20
+00:01:38,000 --> 00:01:40,000
+I'm going to go to the next one.
+
+21
+00:01:40,000 --> 00:01:42,000
+I'm going to go to the next one.
+
+22
+00:01:42,000 --> 00:01:44,000
+I'm going to go to the next one.
+
+23
+00:01:44,000 --> 00:01:46,000
+I'm going to go to the next one.
+
+24
+00:01:46,000 --> 00:01:48,000
+I'm going to go to the next one.
+
+25
+00:01:48,000 --> 00:01:50,000
+I'm going to go to the next one.
+
+26
+00:01:50,000 --> 00:01:52,000
+I'm going to go to the next one.
+
+27
+00:01:52,000 --> 00:01:54,000
+I'm going to go to the next one.
+
+28
+00:01:54,000 --> 00:01:56,000
+I'm going to go to the next one.
+
+29
+00:01:56,000 --> 00:01:58,000
+I'm going to go to the next one.
+
+30
+00:01:58,000 --> 00:02:00,000
+I'm going to go to the next one.
+
+31
+00:02:00,000 --> 00:02:02,000
+I'm going to go to the next one.
+
+32
+00:02:02,000 --> 00:02:04,000
+I'm going to go to the next one.
+
+33
+00:02:04,000 --> 00:02:06,000
+I'm going to go to the next one.
+
+34
+00:02:06,000 --> 00:02:08,000
+I'm going to go to the next one.
+
+35
+00:02:08,000 --> 00:02:10,000
+I'm going to go to the next one.
+
+36
+00:02:10,000 --> 00:02:12,000
+I'm going to go to the next one.
+
+37
+00:02:12,000 --> 00:02:14,000
+I'm going to go to the next one.
+
+38
+00:02:14,000 --> 00:02:16,000
+I'm going to go to the next one.
+
+39
+00:02:16,000 --> 00:02:18,000
+I'm going to go to the next one.
+
+40
+00:02:18,000 --> 00:02:20,000
+I'm going to go to the next one.
+
+41
+00:02:20,000 --> 00:02:22,000
+I'm going to go to the next one.
+
+42
+00:02:22,000 --> 00:02:24,000
+I'm going to go to the next one.
+
+43
+00:02:24,000 --> 00:02:26,000
+I'm going to go to the next one.
+
+44
+00:02:26,000 --> 00:02:28,000
+I'm going to go to the next one.
+
+45
+00:02:28,000 --> 00:02:30,000
+I'm going to go to the next one.
+
+46
+00:02:30,000 --> 00:02:32,000
+I'm going to go to the next one.
+
+47
+00:02:32,000 --> 00:02:34,000
+I'm going to go to the next one.
+
+48
+00:02:34,000 --> 00:02:36,000
+I'm going to go to the next one.
+
+49
+00:02:36,000 --> 00:02:38,000
+I'm going to go to the next one.
+
+50
+00:02:38,000 --> 00:02:40,000
+I'm going to go to the next one.
+
+51
+00:02:40,000 --> 00:02:42,000
+I'm going to go to the next one.
+
+52
+00:02:42,000 --> 00:02:44,000
+I'm going to go to the next one.
+
+53
+00:02:44,000 --> 00:02:46,000
+I'm going to go to the next one.
+
+54
+00:02:46,000 --> 00:02:48,000
+I'm going to go to the next one.
+
+55
+00:02:48,000 --> 00:02:50,000
+I'm going to go to the next one.
+
+56
+00:02:50,000 --> 00:02:52,000
+I'm going to go to the next one.
+
+57
+00:02:52,000 --> 00:02:54,000
+I'm going to go to the next one.
+
+58
+00:02:54,000 --> 00:02:56,000
+I'm going to go to the next one.
+
+59
+00:02:56,000 --> 00:02:58,000
+I'm going to go to the next one.
+
+60
+00:02:58,000 --> 00:03:00,000
+I'm going to go to the next one.
+
+61
+00:03:00,000 --> 00:03:02,000
+I'm going to go to the next one.
+
+62
+00:03:02,000 --> 00:03:04,000
+I'm going to go to the next one.
+
+63
+00:03:04,000 --> 00:03:06,000
+I'm going to go to the next one.
+
+64
+00:03:06,000 --> 00:03:08,000
+I'm going to go to the next one.
+
+65
+00:03:08,000 --> 00:03:10,000
+I'm going to go to the next one.
+
+66
+00:03:10,000 --> 00:03:12,000
+I'm going to go to the next one.
+
+67
+00:03:12,000 --> 00:03:14,000
+I'm going to go to the next one.
+
+68
+00:03:14,000 --> 00:03:16,000
+I'm going to go to the next one.
+
+69
+00:03:16,000 --> 00:03:18,000
+I'm going to go to the next one.
+
+70
+00:03:18,000 --> 00:03:20,000
+I'm going to go to the next one.
+
+71
+00:03:20,000 --> 00:03:22,000
+I'm going to go to the next one.
+
+72
+00:03:22,000 --> 00:03:24,000
+I'm going to go to the next one.
+
+73
+00:03:24,000 --> 00:03:26,000
+I'm going to go to the next one.
+
+74
+00:03:26,000 --> 00:03:28,000
+I'm going to go to the next one.
+
+75
+00:03:28,000 --> 00:03:30,000
+I'm going to go to the next one.
+
+76
+00:03:30,000 --> 00:03:32,000
+I'm going to go to the next one.
+
+77
+00:03:32,000 --> 00:03:34,000
+I'm going to go to the next one.
+
+78
+00:03:34,000 --> 00:03:36,000
+I'm going to go to the next one.
+
+79
+00:03:36,000 --> 00:03:38,000
+I'm going to go to the next one.
+
+80
+00:03:38,000 --> 00:03:40,000
+I'm going to go to the next one.
+
+81
+00:03:40,000 --> 00:03:42,000
+I'm going to go to the next one.
+
+82
+00:03:42,000 --> 00:03:44,000
+I'm going to go to the next one.
+
+83
+00:03:44,000 --> 00:03:46,000
+I'm going to go to the next one.
+
+84
+00:03:46,000 --> 00:03:48,000
+I'm going to go to the next one.
+
+85
+00:03:48,000 --> 00:03:50,000
+I'm going to go to the next one.
+
+86
+00:03:50,000 --> 00:03:52,000
+I'm going to go to the next one.
+
+87
+00:03:52,000 --> 00:03:54,000
+I'm going to go to the next one.
+
+88
+00:03:54,000 --> 00:03:56,000
+I'm going to go to the next one.
+
+89
+00:03:56,000 --> 00:03:58,000
+I'm going to go to the next one.
+
+90
+00:03:58,000 --> 00:04:00,000
+I'm going to go to the next one.
+
+91
+00:04:00,000 --> 00:04:02,000
+I'm going to go to the next one.
+
+92
+00:04:02,000 --> 00:04:04,000
+I'm going to go to the next one.
+
+93
+00:04:04,000 --> 00:04:06,000
+I'm going to go to the next one.
+
+94
+00:04:06,000 --> 00:04:08,000
+I'm going to go to the next one.
+
+95
+00:04:08,000 --> 00:04:10,000
+I'm going to go to the next one.
+
+96
+00:04:10,000 --> 00:04:12,000
+I'm going to go to the next one.
+
+97
+00:04:12,000 --> 00:04:14,000
+I'm going to go to the next one.
+
+98
+00:04:14,000 --> 00:04:16,000
+I'm going to go to the next one.
+
+99
+00:04:16,000 --> 00:04:18,000
+I'm going to go to the next one.
+
+100
+00:04:18,000 --> 00:04:20,000
+I'm going to go to the next one.
+
+101
+00:04:20,000 --> 00:04:22,000
+I'm going to go to the next one.
+
+102
+00:04:22,000 --> 00:04:24,000
+I'm going to go to the next one.
+
+103
+00:04:24,000 --> 00:04:26,000
+I'm going to go to the next one.
+
+104
+00:04:26,000 --> 00:04:28,000
+I'm going to go to the next one.
+
+105
+00:04:28,000 --> 00:04:30,000
+I'm going to go to the next one.
+
+106
+00:04:30,000 --> 00:04:32,000
+I'm going to go to the next one.
+
+107
+00:04:32,000 --> 00:04:34,000
+I'm going to go to the next one.
+
+108
+00:04:34,000 --> 00:04:36,000
+I'm going to go to the next one.
+
+109
+00:04:36,000 --> 00:04:38,000
+I'm going to go to the next one.
+
+110
+00:04:38,000 --> 00:04:40,000
+I'm going to go to the next one.
+
+111
+00:04:40,000 --> 00:04:42,000
+I'm going to go to the next one.
+
+112
+00:04:42,000 --> 00:04:44,000
+I'm going to go to the next one.
+
+113
+00:04:44,000 --> 00:04:46,000
+I'm going to go to the next one.
+
+114
+00:04:46,000 --> 00:04:48,000
+I'm going to go to the next one.
+
+115
+00:04:48,000 --> 00:04:50,000
+I'm going to go to the next one.
+
+116
+00:04:50,000 --> 00:04:52,000
+I'm going to go to the next one.
+
+117
+00:04:52,000 --> 00:04:54,000
+I'm going to go to the next one.
+
+118
+00:04:54,000 --> 00:04:56,000
+I'm going to go to the next one.
+
+119
+00:04:56,000 --> 00:04:58,000
+I'm going to go to the next one.
+
+120
+00:04:58,000 --> 00:05:00,000
+I'm going to go to the next one.
+
+121
+00:05:00,000 --> 00:05:02,000
+I'm going to go to the next one.
+
+122
+00:05:02,000 --> 00:05:04,000
+I'm going to go to the next one.
+
+123
+00:05:04,000 --> 00:05:06,000
+I'm going to go to the next one.
+
+124
+00:05:06,000 --> 00:05:08,000
+I'm going to go to the next one.
+
+125
+00:05:08,000 --> 00:05:10,000
+I'm going to go to the next one.
+
+126
+00:05:10,000 --> 00:05:12,000
+I'm going to go to the next one.
+
+127
+00:05:12,000 --> 00:05:14,000
+I'm going to go to the next one.
+
+128
+00:05:14,000 --> 00:05:16,000
+I'm going to go to the next one.
+
+129
+00:05:16,000 --> 00:05:18,000
+I'm going to go to the next one.
+
+130
+00:05:18,000 --> 00:05:20,000
+I'm going to go to the next one.
+
+131
+00:05:20,000 --> 00:05:22,000
+I'm going to go to the next one.
+
+132
+00:05:22,000 --> 00:05:24,000
+I'm going to go to the next one.
+
+133
+00:05:24,000 --> 00:05:26,000
+I'm going to go to the next one.
+
+134
+00:05:26,000 --> 00:05:28,000
+I'm going to go to the next one.
+
+135
+00:05:28,000 --> 00:05:30,000
+I'm going to go to the next one.
+
+136
+00:05:30,000 --> 00:05:32,000
+I'm going to go to the next one.
+
+137
+00:05:32,000 --> 00:05:34,000
+I'm going to go to the next one.
+
+138
+00:05:34,000 --> 00:05:36,000
+I'm going to go to the next one.
+
+139
+00:05:36,000 --> 00:05:38,000
+I'm going to go to the next one.
+
+140
+00:05:38,000 --> 00:05:40,000
+I'm going to go to the next one.
+
+141
+00:05:40,000 --> 00:05:42,000
+I'm going to go to the next one.
+
+142
+00:05:42,000 --> 00:05:44,000
+I'm going to go to the next one.
+
+143
+00:05:44,000 --> 00:05:46,000
+I'm going to go to the next one.
+
+144
+00:05:46,000 --> 00:05:48,000
+I'm going to go to the next one.
+
+145
+00:05:48,000 --> 00:05:50,000
+I'm going to go to the next one.
+
+146
+00:05:50,000 --> 00:05:52,000
+I'm going to go to the next one.
+
+147
+00:05:52,000 --> 00:05:54,000
+I'm going to go to the next one.
+
+148
+00:05:54,000 --> 00:05:56,000
+I'm going to go to the next one.
+
+149
+00:05:56,000 --> 00:05:58,000
+I'm going to go to the next one.
+
+150
+00:05:58,000 --> 00:06:00,000
+I'm going to go to the next one.
+
+151
+00:06:00,000 --> 00:06:02,000
+I'm going to go to the next one.
+
+152
+00:06:02,000 --> 00:06:04,000
+I'm going to go to the next one.
+
+153
+00:06:04,000 --> 00:06:06,000
+I'm going to go to the next one.
+
+154
+00:06:06,000 --> 00:06:08,000
+I'm going to go to the next one.
+
+155
+00:06:08,000 --> 00:06:10,000
+I'm going to go to the next one.
+
+156
+00:06:10,000 --> 00:06:12,000
+I'm going to go to the next one.
+
+157
+00:06:12,000 --> 00:06:14,000
+I'm going to go to the next one.
+
+158
+00:06:14,000 --> 00:06:16,000
+I'm going to go to the next one.
+
+159
+00:06:16,000 --> 00:06:18,000
+I'm going to go to the next one.
+
+160
+00:06:18,000 --> 00:06:20,000
+I'm going to go to the next one.
+
+161
+00:06:20,000 --> 00:06:22,000
+I'm going to go to the next one.
+
+162
+00:06:22,000 --> 00:06:24,000
+I'm going to go to the next one.
+
+163
+00:06:24,000 --> 00:06:26,000
+I'm going to go to the next one.
+
+164
+00:06:26,000 --> 00:06:28,000
+I'm going to go to the next one.
+
+165
+00:06:28,000 --> 00:06:30,000
+I'm going to go to the next one.
+
+166
+00:06:30,000 --> 00:06:32,000
+I'm going to go to the next one.
+
+167
+00:06:32,000 --> 00:06:34,000
+I'm going to go to the next one.
+
+168
+00:06:34,000 --> 00:06:36,000
+I'm going to go to the next one.
+
+169
+00:06:36,000 --> 00:06:38,000
+I'm going to go to the next one.
+
+170
+00:06:38,000 --> 00:06:40,000
+I'm going to go to the next one.
+
+171
+00:06:40,000 --> 00:06:42,000
+I'm going to go to the next one.
+
+172
+00:06:42,000 --> 00:06:44,000
+I'm going to go to the next one.
+
+173
+00:06:44,000 --> 00:06:46,000
+I'm going to go to the next one.
+
+174
+00:06:46,000 --> 00:06:48,000
+I'm going to go to the next one.
+
+175
+00:06:48,000 --> 00:06:50,000
+I'm going to go to the next one.
+
+176
+00:06:50,000 --> 00:06:52,000
+I'm going to go to the next one.
+
+177
+00:06:52,000 --> 00:06:54,000
+I'm going to go to the next one.
+
+178
+00:06:54,000 --> 00:06:56,000
+I'm going to go to the next one.
+
+179
+00:06:56,000 --> 00:06:58,000
+I'm going to go to the next one.
+
+180
+00:06:58,000 --> 00:07:00,000
+I'm going to go to the next one.
+
+181
+00:07:00,000 --> 00:07:02,000
+I'm going to go to the next one.
+
+182
+00:07:02,000 --> 00:07:04,000
+I'm going to go to the next one.
+
+183
+00:07:04,000 --> 00:07:06,000
+I'm going to go to the next one.
+
+184
+00:07:06,000 --> 00:07:08,000
+I'm going to go to the next one.
+
+185
+00:07:08,000 --> 00:07:10,000
+I'm going to go to the next one.
+
+186
+00:07:10,000 --> 00:07:12,000
+I'm going to go to the next one.
+
+187
+00:07:12,000 --> 00:07:14,000
+I'm going to go to the next one.
+
+188
+00:07:14,000 --> 00:07:16,000
+I'm going to go to the next one.
+
+189
+00:07:16,000 --> 00:07:18,000
+I'm going to go to the next one.
+
+190
+00:07:18,000 --> 00:07:20,000
+I'm going to go to the next one.
+
+191
+00:07:20,000 --> 00:07:22,000
+I'm going to go to the next one.
+
+192
+00:07:22,000 --> 00:07:24,000
+I'm going to go to the next one.
+
+193
+00:07:24,000 --> 00:07:26,000
+I'm going to go to the next one.
+
+194
+00:07:26,000 --> 00:07:28,000
+I'm going to go to the next one.
+
+195
+00:07:28,000 --> 00:07:30,000
+I'm going to go to the next one.
+
+196
+00:07:30,000 --> 00:07:32,000
+I'm going to go to the next one.
+
+197
+00:07:32,000 --> 00:07:34,000
+I'm going to go to the next one.
+
+198
+00:07:34,000 --> 00:07:36,000
+I'm going to go to the next one.
+
+199
+00:07:36,000 --> 00:07:38,000
+I'm going to go to the next one.
+
+200
+00:07:38,000 --> 00:07:40,000
+I'm going to go to the next one.
+
+201
+00:07:40,000 --> 00:07:42,000
+I'm going to go to the next one.
+
+202
+00:07:42,000 --> 00:07:44,000
+I'm going to go to the next one.
+
+203
+00:07:44,000 --> 00:07:46,000
+I'm going to go to the next one.
+
+204
+00:07:46,000 --> 00:07:48,000
+I'm going to go to the next one.
+
+205
+00:07:48,000 --> 00:07:50,000
+I'm going to go to the next one.
+
+206
+00:07:50,000 --> 00:07:52,000
+I'm going to go to the next one.
+
+207
+00:07:52,000 --> 00:07:54,000
+I'm going to go to the next one.
+
+208
+00:07:54,000 --> 00:07:56,000
+I'm going to go to the next one.
+
+209
+00:07:56,000 --> 00:07:58,000
+I'm going to go to the next one.
+
+210
+00:07:58,000 --> 00:08:00,000
+I'm going to go to the next one.
+
+211
+00:08:00,000 --> 00:08:02,000
+I'm going to go to the next one.
+
+212
+00:08:02,000 --> 00:08:04,000
+I'm going to go to the next one.
+
+213
+00:08:04,000 --> 00:08:06,000
+I'm going to go to the next one.
+
+214
+00:08:06,000 --> 00:08:08,000
+I'm going to go to the next one.
+
+215
+00:08:08,000 --> 00:08:10,000
+I'm going to go to the next one.
+
+216
+00:08:10,000 --> 00:08:12,000
+I'm going to go to the next one.
+
+217
+00:08:12,000 --> 00:08:14,000
+I'm going to go to the next one.
+
+218
+00:08:14,000 --> 00:08:16,000
+I'm going to go to the next one.
+
+219
+00:08:16,000 --> 00:08:18,000
+I'm going to go to the next one.
+
+220
+00:08:18,000 --> 00:08:20,000
+I'm going to go to the next one.
+
+221
+00:08:20,000 --> 00:08:22,000
+I'm going to go to the next one.
+
+222
+00:08:22,000 --> 00:08:24,000
+I'm going to go to the next one.
+
+223
+00:08:24,000 --> 00:08:26,000
+I'm going to go to the next one.
+
+224
+00:08:26,000 --> 00:08:28,000
+I'm going to go to the next one.
+
+225
+00:08:28,000 --> 00:08:30,000
+I'm going to go to the next one.
+
+226
+00:08:30,000 --> 00:08:32,000
+I'm going to go to the next one.
+
+227
+00:08:32,000 --> 00:08:34,000
+I'm going to go to the next one.
+
+228
+00:08:34,000 --> 00:08:36,000
+I'm going to go to the next one.
+
+229
+00:08:36,000 --> 00:08:38,000
+I'm going to go to the next one.
+
+230
+00:08:38,000 --> 00:08:40,000
+I'm going to go to the next one.
+
+231
+00:08:40,000 --> 00:08:42,000
+I'm going to go to the next one.
+
+232
+00:08:42,000 --> 00:08:44,000
+I'm going to go to the next one.
+
+233
+00:08:44,000 --> 00:08:46,000
+I'm going to go to the next one.
+
+234
+00:08:46,000 --> 00:08:48,000
+I'm going to go to the next one.
+
+235
+00:08:48,000 --> 00:08:50,000
+I'm going to go to the next one.
+
+236
+00:08:50,000 --> 00:08:52,000
+I'm going to go to the next one.
+
+237
+00:08:52,000 --> 00:08:54,000
+I'm going to go to the next one.
+
+238
+00:08:54,000 --> 00:08:56,000
+I'm going to go to the next one.
+
+239
+00:08:56,000 --> 00:08:58,000
+I'm going to go to the next one.
+
+240
+00:08:58,000 --> 00:09:00,000
+I'm going to go to the next one.
+
+241
+00:09:00,000 --> 00:09:02,000
+I'm going to go to the next one.
+
+242
+00:09:02,000 --> 00:09:04,000
+I'm going to go to the next one.
+
+243
+00:09:04,000 --> 00:09:06,000
+I'm going to go to the next one.
+
+244
+00:09:06,000 --> 00:09:08,000
+I'm going to go to the next one.
+
+245
+00:09:08,000 --> 00:09:10,000
+I'm going to go to the next one.
+
+246
+00:09:10,000 --> 00:09:12,000
+I'm going to go to the next one.
+
+247
+00:09:12,000 --> 00:09:14,000
+I'm going to go to the next one.
+
+248
+00:09:14,000 --> 00:09:16,000
+I'm going to go to the next one.
+
+249
+00:09:16,000 --> 00:09:18,000
+I'm going to go to the next one.
+
+250
+00:09:18,000 --> 00:09:20,000
+I'm going to go to the next one.
+
+251
+00:09:20,000 --> 00:09:22,000
+I'm going to go to the next one.
+
+252
+00:09:22,000 --> 00:09:24,000
+I'm going to go to the next one.
+
+253
+00:09:24,000 --> 00:09:26,000
+I'm going to go to the next one.
+
+254
+00:09:26,000 --> 00:09:28,000
+I'm going to go to the next one.
+
+255
+00:09:28,000 --> 00:09:30,000
+I'm going to go to the next one.
+
+256
+00:09:30,000 --> 00:09:32,000
+I'm going to go to the next one.
+
+257
+00:09:32,000 --> 00:09:34,000
+I'm going to go to the next one.
+
+258
+00:09:34,000 --> 00:09:36,000
+I'm going to go to the next one.
+
+259
+00:09:36,000 --> 00:09:38,000
+I'm going to go to the next one.
+
+260
+00:09:38,000 --> 00:09:40,000
+I'm going to go to the next one.
+
+261
+00:09:40,000 --> 00:09:42,000
+I'm going to go to the next one.
+
+262
+00:09:42,000 --> 00:09:44,000
+I'm going to go to the next one.
+
+263
+00:09:44,000 --> 00:09:46,000
+I'm going to go to the next one.
+
+264
+00:09:46,000 --> 00:09:48,000
+I'm going to go to the next one.
+
+265
+00:09:48,000 --> 00:09:50,000
+I'm going to go to the next one.
+
+266
+00:09:50,000 --> 00:09:52,000
+I'm going to go to the next one.
+
+267
+00:09:52,000 --> 00:09:54,000
+I'm going to go to the next one.
+
+268
+00:09:54,000 --> 00:09:56,000
+I'm going to go to the next one.
+
+269
+00:09:56,000 --> 00:09:58,000
+I'm going to go to the next one.
+
+270
+00:09:58,000 --> 00:10:00,000
+I'm going to go to the next one.
+
+271
+00:10:00,000 --> 00:10:02,000
+I'm going to go to the next one.
+
+272
+00:10:02,000 --> 00:10:04,000
+I'm going to go to the next one.
+
+273
+00:10:04,000 --> 00:10:06,000
+I'm going to go to the next one.
+
+274
+00:10:06,000 --> 00:10:08,000
+I'm going to go to the next one.
+
+275
+00:10:08,000 --> 00:10:10,000
+I'm going to go to the next one.
+
+276
+00:10:10,000 --> 00:10:12,000
+I'm going to go to the next one.
+
+277
+00:10:12,000 --> 00:10:14,000
+I'm going to go to the next one.
+
+278
+00:10:14,000 --> 00:10:16,000
+I'm going to go to the next one.
+
+279
+00:10:16,000 --> 00:10:18,000
+I'm going to go to the next one.
+
+280
+00:10:18,000 --> 00:10:20,000
+I'm going to go to the next one.
+
+281
+00:10:20,000 --> 00:10:22,000
+I'm going to go to the next one.
+
+282
+00:10:22,000 --> 00:10:24,000
+I'm going to go to the next one.
+
+283
+00:10:24,000 --> 00:10:26,000
+I'm going to go to the next one.
+
+284
+00:10:26,000 --> 00:10:28,000
+I'm going to go to the next one.
+
+285
+00:10:28,000 --> 00:10:30,000
+I'm going to go to the next one.
+
+286
+00:10:30,000 --> 00:10:32,000
+I'm going to go to the next one.
+
+287
+00:10:32,000 --> 00:10:34,000
+I'm going to go to the next one.
+
+288
+00:10:34,000 --> 00:10:36,000
+I'm going to go to the next one.
+
+289
+00:10:36,000 --> 00:10:38,000
+I'm going to go to the next one.
+
+290
+00:10:38,000 --> 00:10:40,000
+I'm going to go to the next one.
+
+291
+00:10:40,000 --> 00:10:42,000
+I'm going to go to the next one.
+
+292
+00:10:42,000 --> 00:10:44,000
+I'm going to go to the next one.
+
+293
+00:10:44,000 --> 00:10:46,000
+I'm going to go to the next one.
+
+294
+00:10:46,000 --> 00:10:48,000
+I'm going to go to the next one.
+
+295
+00:10:48,000 --> 00:10:50,000
+I'm going to go to the next one.
+
+296
+00:10:50,000 --> 00:10:52,000
+I'm going to go to the next one.
+
+297
+00:10:52,000 --> 00:10:54,000
+I'm going to go to the next one.
+
+298
+00:10:54,000 --> 00:10:56,000
+I'm going to go to the next one.
+
+299
+00:10:56,000 --> 00:10:58,000
+I'm going to go to the next one.
+
+300
+00:10:58,000 --> 00:11:00,000
+I'm going to go to the next one.
+
+301
+00:11:00,000 --> 00:11:02,000
+I'm going to go to the next one.
+
+302
+00:11:02,000 --> 00:11:04,000
+I'm going to go to the next one.
+
+303
+00:11:04,000 --> 00:11:06,000
+I'm going to go to the next one.
+
+304
+00:11:06,000 --> 00:11:08,000
+I'm going to go to the next one.
+
+305
+00:11:08,000 --> 00:11:10,000
+I'm going to go to the next one.
+
+306
+00:11:10,000 --> 00:11:12,000
+I'm going to go to the next one.
+
+307
+00:11:12,000 --> 00:11:14,000
+I'm going to go to the next one.
+
+308
+00:11:14,000 --> 00:11:16,000
+I'm going to go to the next one.
+
+309
+00:11:16,000 --> 00:11:18,000
+I'm going to go to the next one.
+
+310
+00:11:18,000 --> 00:11:20,000
+I'm going to go to the next one.
+
+311
+00:11:20,000 --> 00:11:22,000
+I'm going to go to the next one.
+
+312
+00:11:22,000 --> 00:11:24,000
+I'm going to go to the next one.
+
+313
+00:11:24,000 --> 00:11:26,000
+I'm going to go to the next one.
+
+314
+00:11:26,000 --> 00:11:28,000
+I'm going to go to the next one.
+
+315
+00:11:28,000 --> 00:11:30,000
+I'm going to go to the next one.
+
+316
+00:11:30,000 --> 00:11:32,000
+I'm going to go to the next one.
+
+317
+00:11:32,000 --> 00:11:34,000
+I'm going to go to the next one.
+
+318
+00:11:34,000 --> 00:11:36,000
+I'm going to go to the next one.
+
+319
+00:11:36,000 --> 00:11:38,000
+I'm going to go to the next one.
+
+320
+00:11:38,000 --> 00:11:40,000
+I'm going to go to the next one.
+
+321
+00:11:40,000 --> 00:11:42,000
+I'm going to go to the next one.
+
+322
+00:11:42,000 --> 00:11:44,000
+I'm going to go to the next one.
+
+323
+00:11:44,000 --> 00:11:46,000
+I'm going to go to the next one.
+
+324
+00:11:46,000 --> 00:11:48,000
+I'm going to go to the next one.
+
+325
+00:11:48,000 --> 00:11:50,000
+I'm going to go to the next one.
+
+326
+00:11:50,000 --> 00:11:52,000
+I'm going to go to the next one.
+
+327
+00:11:52,000 --> 00:11:54,000
+I'm going to go to the next one.
+
+328
+00:11:54,000 --> 00:11:56,000
+I'm going to go to the next one.
+
+329
+00:11:56,000 --> 00:11:58,000
+I'm going to go to the next one.
+
+330
+00:11:58,000 --> 00:12:00,000
+I'm going to go to the next one.
+
+331
+00:12:00,000 --> 00:12:02,000
+I'm going to go to the next one.
+
+332
+00:12:02,000 --> 00:12:04,000
+I'm going to go to the next one.
+
+333
+00:12:04,000 --> 00:12:06,000
+I'm going to go to the next one.
+
+334
+00:12:06,000 --> 00:12:08,000
+I'm going to go to the next one.
+
+335
+00:12:08,000 --> 00:12:10,000
+I'm going to go to the next one.
+
+336
+00:12:10,000 --> 00:12:12,000
+I'm going to go to the next one.
+
+337
+00:12:12,000 --> 00:12:14,000
+I'm going to go to the next one.
+
+338
+00:12:14,000 --> 00:12:16,000
+I'm going to go to the next one.
+
+339
+00:12:16,000 --> 00:12:18,000
+I'm going to go to the next one.
+
+340
+00:12:18,000 --> 00:12:20,000
+I'm going to go to the next one.
+
+341
+00:12:20,000 --> 00:12:22,000
+I'm going to go to the next one.
+
+342
+00:12:22,000 --> 00:12:24,000
+I'm going to go to the next one.
+
+343
+00:12:24,000 --> 00:12:26,000
+I'm going to go to the next one.
+
+344
+00:12:26,000 --> 00:12:28,000
+I'm going to go to the next one.
+
+345
+00:12:28,000 --> 00:12:30,000
+I'm going to go to the next one.
+
+346
+00:12:30,000 --> 00:12:32,000
+I'm going to go to the next one.
+
+347
+00:12:32,000 --> 00:12:34,000
+I'm going to go to the next one.
+
+348
+00:12:34,000 --> 00:12:36,000
+I'm going to go to the next one.
+
+349
+00:12:36,000 --> 00:12:38,000
+I'm going to go to the next one.
+
+350
+00:12:38,000 --> 00:12:40,000
+I'm going to go to the next one.
+
+351
+00:12:40,000 --> 00:12:42,000
+I'm going to go to the next one.
+
+352
+00:12:42,000 --> 00:12:44,000
+I'm going to go to the next one.
+
+353
+00:12:44,000 --> 00:12:46,000
+I'm going to go to the next one.
+
+354
+00:12:46,000 --> 00:12:48,000
+I'm going to go to the next one.
+
+355
+00:12:48,000 --> 00:12:50,000
+I'm going to go to the next one.
+
+356
+00:12:50,000 --> 00:12:52,000
+I'm going to go to the next one.
+
+357
+00:12:52,000 --> 00:12:54,000
+I'm going to go to the next one.
+
+358
+00:12:54,000 --> 00:12:56,000
+I'm going to go to the next one.
+
+359
+00:12:56,000 --> 00:12:58,000
+I'm going to go to the next one.
+
+360
+00:12:58,000 --> 00:13:00,000
+I'm going to go to the next one.
+
+361
+00:13:00,000 --> 00:13:02,000
+I'm going to go to the next one.
+
+362
+00:13:02,000 --> 00:13:04,000
+I'm going to go to the next one.
+
+363
+00:13:04,000 --> 00:13:06,000
+I'm going to go to the next one.
+
+364
+00:13:06,000 --> 00:13:08,000
+I'm going to go to the next one.
+
+365
+00:13:08,000 --> 00:13:10,000
+I'm going to go to the next one.
+
+366
+00:13:10,000 --> 00:13:12,000
+I'm going to go to the next one.
+
+367
+00:13:12,000 --> 00:13:14,000
+I'm going to go to the next one.
+
+368
+00:13:14,000 --> 00:13:16,000
+I'm going to go to the next one.
+
+369
+00:13:16,000 --> 00:13:18,000
+I'm going to go to the next one.
+
+370
+00:13:18,000 --> 00:13:20,000
+I'm going to go to the next one.
+
+371
+00:13:20,000 --> 00:13:22,000
+I'm going to go to the next one.
+
+372
+00:13:22,000 --> 00:13:24,000
+I'm going to go to the next one.
+
+373
+00:13:24,000 --> 00:13:26,000
+I'm going to go to the next one.
+
+374
+00:13:26,000 --> 00:13:28,000
+I'm going to go to the next one.
+
+375
+00:13:28,000 --> 00:13:30,000
+I'm going to go to the next one.
+
+376
+00:13:30,000 --> 00:13:32,000
+I'm going to go to the next one.
+
+377
+00:13:32,000 --> 00:13:34,000
+I'm going to go to the next one.
+
+378
+00:13:34,000 --> 00:13:36,000
+I'm going to go to the next one.
+
+379
+00:13:36,000 --> 00:13:38,000
+I'm going to go to the next one.
+
+380
+00:13:38,000 --> 00:13:40,000
+I'm going to go to the next one.
+
+381
+00:13:40,000 --> 00:13:42,000
+I'm going to go to the next one.
+
+382
+00:13:42,000 --> 00:13:44,000
+I'm going to go to the next one.
+
+383
+00:13:44,000 --> 00:13:46,000
+I'm going to go to the next one.
+
+384
+00:13:46,000 --> 00:13:48,000
+I'm going to go to the next one.
+
+385
+00:13:48,000 --> 00:13:50,000
+I'm going to go to the next one.
+
+386
+00:13:50,000 --> 00:13:52,000
+I'm going to go to the next one.
+
+387
+00:13:52,000 --> 00:13:54,000
+I'm going to go to the next one.
+
+388
+00:13:54,000 --> 00:13:56,000
+I'm going to go to the next one.
+
+389
+00:13:56,000 --> 00:13:58,000
+I'm going to go to the next one.
+
+390
+00:13:58,000 --> 00:14:00,000
+I'm going to go to the next one.
+
+391
+00:14:00,000 --> 00:14:02,000
+I'm going to go to the next one.
+
+392
+00:14:02,000 --> 00:14:04,000
+I'm going to go to the next one.
+
+393
+00:14:04,000 --> 00:14:06,000
+I'm going to go to the next one.
+
+394
+00:14:06,000 --> 00:14:08,000
+I'm going to go to the next one.
+
+395
+00:14:08,000 --> 00:14:10,000
+I'm going to go to the next one.
+
+396
+00:14:10,000 --> 00:14:12,000
+I'm going to go to the next one.
+
+397
+00:14:12,000 --> 00:14:14,000
+I'm going to go to the next one.
+
+398
+00:14:14,000 --> 00:14:16,000
+I'm going to go to the next one.
+
+399
+00:14:16,000 --> 00:14:18,000
+I'm going to go to the next one.
+
+400
+00:14:18,000 --> 00:14:20,000
+I'm going to go to the next one.
+
+401
+00:14:20,000 --> 00:14:22,000
+I'm going to go to the next one.
+
+402
+00:14:22,000 --> 00:14:24,000
+I'm going to go to the next one.
+
+403
+00:14:24,000 --> 00:14:26,000
+I'm going to go to the next one.
+
+404
+00:14:26,000 --> 00:14:28,000
+I'm going to go to the next one.
+
+405
+00:14:28,000 --> 00:14:30,000
+I'm going to go to the next one.
+
+406
+00:14:30,000 --> 00:14:32,000
+I'm going to go to the next one.
+
+407
+00:14:32,000 --> 00:14:34,000
+I'm going to go to the next one.
+
+408
+00:14:34,000 --> 00:14:36,000
+I'm going to go to the next one.
+
+409
+00:14:36,000 --> 00:14:38,000
+I'm going to go to the next one.
+
+410
+00:14:38,000 --> 00:14:40,000
+I'm going to go to the next one.
+
+411
+00:14:40,000 --> 00:14:42,000
+I'm going to go to the next one.
+
+412
+00:14:42,000 --> 00:14:44,000
+I'm going to go to the next one.
+
+413
+00:14:44,000 --> 00:14:46,000
+I'm going to go to the next one.
+
+414
+00:14:46,000 --> 00:14:48,000
+I'm going to go to the next one.
+
+415
+00:14:48,000 --> 00:14:50,000
+I'm going to go to the next one.
+
+416
+00:14:50,000 --> 00:14:52,000
+I'm going to go to the next one.
+
+417
+00:14:52,000 --> 00:14:54,000
+I'm going to go to the next one.
+
+418
+00:14:54,000 --> 00:14:56,000
+I'm going to go to the next one.
+
+419
+00:14:56,000 --> 00:14:58,000
+I'm going to go to the next one.
+
+420
+00:14:58,000 --> 00:15:00,000
+I'm going to go to the next one.
+
+421
+00:15:00,000 --> 00:15:02,000
+I'm going to go to the next one.
+
+422
+00:15:02,000 --> 00:15:04,000
+I'm going to go to the next one.
+
+423
+00:15:04,000 --> 00:15:06,000
+I'm going to go to the next one.
+
+424
+00:15:06,000 --> 00:15:08,000
+I'm going to go to the next one.
+
+425
+00:15:08,000 --> 00:15:10,000
+I'm going to go to the next one.
+
+426
+00:15:10,000 --> 00:15:12,000
+I'm going to go to the next one.
+
+427
+00:15:12,000 --> 00:15:14,000
+I'm going to go to the next one.
+
+428
+00:15:14,000 --> 00:15:16,000
+I'm going to go to the next one.
+
+429
+00:15:16,000 --> 00:15:18,000
+I'm going to go to the next one.
+
+430
+00:15:18,000 --> 00:15:20,000
+I'm going to go to the next one.
+
+431
+00:15:20,000 --> 00:15:22,000
+I'm going to go to the next one.
+
+432
+00:15:22,000 --> 00:15:24,000
+I'm going to go to the next one.
+
+433
+00:15:24,000 --> 00:15:26,000
+I'm going to go to the next one.
+
+434
+00:15:26,000 --> 00:15:28,000
+I'm going to go to the next one.
+
+435
+00:15:28,000 --> 00:15:30,000
+I'm going to go to the next one.
+
+436
+00:15:30,000 --> 00:15:32,000
+I'm going to go to the next one.
+
+437
+00:15:32,000 --> 00:15:34,000
+I'm going to go to the next one.
+
+438
+00:15:34,000 --> 00:15:36,000
+I'm going to go to the next one.
+
+439
+00:15:36,000 --> 00:15:38,000
+I'm going to go to the next one.
+
+440
+00:15:38,000 --> 00:15:40,000
+I'm going to go to the next one.
+
+441
+00:15:40,000 --> 00:15:42,000
+I'm going to go to the next one.
+
+442
+00:15:42,000 --> 00:15:44,000
+I'm going to go to the next one.
+
+443
+00:15:44,000 --> 00:15:46,000
+I'm going to go to the next one.
+
+444
+00:15:46,000 --> 00:15:48,000
+I'm going to go to the next one.
+
+445
+00:15:48,000 --> 00:15:50,000
+I'm going to go to the next one.
+
+446
+00:15:50,000 --> 00:15:52,000
+I'm going to go to the next one.
+
+447
+00:15:52,000 --> 00:15:54,000
+I'm going to go to the next one.
+
+448
+00:15:54,000 --> 00:15:56,000
+I'm going to go to the next one.
+
+449
+00:15:56,000 --> 00:15:57,000
+I'm going to go to the next one.
+
+450
+00:15:57,000 --> 00:15:59,000
+We have to wait beyond my expectation.
+
+451
+00:15:59,000 --> 00:16:02,000
+It's like nothing that we had in D4.
+
+452
+00:16:02,000 --> 00:16:04,000
+Pure hatred.
+
+453
+00:16:04,000 --> 00:16:06,000
+They're Mifisto's army.
+
+454
+00:16:06,000 --> 00:16:09,000
+They're one of them to feel a little bit more different from your typical demon family.
+
+455
+00:16:09,000 --> 00:16:11,000
+Everyone's quality was top notch.
+
+456
+00:16:11,000 --> 00:16:14,000
+But at the time, we didn't know if it was going to work.
+
+457
+00:16:14,000 --> 00:16:17,000
+I think what we landed is going to turn some heads.
+
+458
+00:16:17,000 --> 00:16:19,000
+This is not your normal thing.
+
+459
+00:16:19,000 --> 00:16:21,000
+It's the living form of hatred.
+
+460
+00:16:27,000 --> 00:16:33,000
+The new monster class that we can introduce, they're called Hallows.
+
+461
+00:16:33,000 --> 00:16:36,000
+These Hallows have actually been around for like millennia.
+
+462
+00:16:36,000 --> 00:16:42,000
+Mephisto at some point did go to Nahanthu a long, long, long time ago, and these Hallows
+
+463
+00:16:42,000 --> 00:16:51,000
+were a reaction of Mephisto being in Nahanthu at the time, and then they went dormant.
+
+464
+00:16:51,000 --> 00:16:59,000
+Singing Mephisto in the Soul Stone seems like the right thing to do for Neyrael, but it
+
+465
+00:16:59,000 --> 00:17:06,000
+has a chain reaction that I don't think anybody was prepared for.
+
+466
+00:17:06,000 --> 00:17:13,000
+The Hallows are really rife throughout Nahanthu, now that Mephisto is back and just visually
+
+467
+00:17:13,000 --> 00:17:18,000
+like horribly discussed and sort of made up of the things that have been consumed by
+
+468
+00:17:18,000 --> 00:17:19,000
+the Hallows.
+
+469
+00:17:20,000 --> 00:17:26,000
+Yeah, they're an extension of evil, infecting wildlife and other monsters and people with
+
+470
+00:17:26,000 --> 00:17:31,000
+this thing called Icar, and they're just sort of going mad.
+
+471
+00:17:31,000 --> 00:17:40,000
+When we're designing the Hallows, the main thing that we wanted to push was just if hatred
+
+472
+00:17:40,000 --> 00:17:42,000
+came to life, what would it look like?
+
+473
+00:17:42,000 --> 00:17:49,000
+So we're thinking this black goo that's kind of like formless, but also have this red
+
+474
+00:17:49,000 --> 00:17:52,000
+anger energy inside of it.
+
+475
+00:17:52,000 --> 00:17:56,000
+And then with concept, we just want to make cool monsters.
+
+476
+00:17:56,000 --> 00:18:00,000
+What if it's three legs, what if it's no legs, what if it has like three arms?
+
+477
+00:18:00,000 --> 00:18:06,000
+So we pushed a lot of like options and exploration, and then from then on, like everyone from
+
+478
+00:18:06,000 --> 00:18:11,000
+narrative to design and concept we talk about is like, okay, we like this one and then
+
+479
+00:18:11,000 --> 00:18:16,000
+we can push it and move further.
+
+480
+00:18:16,000 --> 00:18:22,000
+The Hallows family is made up of four members, the swarmer, the spitter, the caster, and the
+
+481
+00:18:22,000 --> 00:18:23,000
+boots.
+
+482
+00:18:23,000 --> 00:18:29,000
+The big thing for me was that the family need to be overwhelming without just relying
+
+483
+00:18:29,000 --> 00:18:30,000
+on pure numbers.
+
+484
+00:18:30,000 --> 00:18:34,000
+So they're going to get stronger over time if you let them fester.
+
+485
+00:18:34,000 --> 00:18:36,000
+They're their hatred after all.
+
+486
+00:18:36,000 --> 00:18:41,000
+The swarmer can teleport and attack you from behind, from the sides, the spitter, there's
+
+487
+00:18:41,000 --> 00:18:43,000
+a slug with legs.
+
+488
+00:18:43,000 --> 00:18:46,000
+They spew out this monitor of goo.
+
+489
+00:18:46,000 --> 00:18:50,000
+The root is the big hulking slow guy of the family.
+
+490
+00:18:50,000 --> 00:18:54,000
+He has the shields that's buffing and making the rest of the army stronger.
+
+491
+00:18:54,000 --> 00:18:57,000
+The caster is responsible for creating new swarmers.
+
+492
+00:18:57,000 --> 00:19:03,000
+They also will channel onto a specific hollow and view them with an extra feature, make
+
+493
+00:19:03,000 --> 00:19:05,000
+some stronger and more deadly.
+
+494
+00:19:06,000 --> 00:19:12,000
+The hollow caster's role serve as an elegant, hovering, yet menacing, dinging cacto in
+
+495
+00:19:12,000 --> 00:19:15,000
+again, really informed many of our design ideas.
+
+496
+00:19:15,000 --> 00:19:18,000
+We want to make a new variant.
+
+497
+00:19:18,000 --> 00:19:25,000
+We want to know in which specific area we would go into see that character or creature.
+
+498
+00:19:25,000 --> 00:19:29,000
+Readability is like the main focus.
+
+499
+00:19:29,000 --> 00:19:34,000
+When through several iterations, the design, the textures, the materials, and the camera
+
+500
+00:19:34,000 --> 00:19:35,000
+testing.
+
+501
+00:19:35,000 --> 00:19:40,000
+The day after she gave me like, what was the 10 different variations of the game?
+
+502
+00:19:40,000 --> 00:19:42,000
+Don't be off talking.
+
+503
+00:19:42,000 --> 00:19:50,000
+The emission on the spikes really did an awesome job to both on the Citibat and also
+
+504
+00:19:50,000 --> 00:19:52,000
+to improve the readability.
+
+505
+00:19:52,000 --> 00:20:00,000
+In any way, have the version that way were both happy ways and handy over to the tech
+
+506
+00:20:00,000 --> 00:20:02,000
+artists.
+
+507
+00:20:02,000 --> 00:20:08,000
+We had some really strong narrative direction in understanding how big of a role hatred
+
+508
+00:20:08,000 --> 00:20:09,000
+played.
+
+509
+00:20:09,000 --> 00:20:14,000
+And we knew that we needed one look to tie it all together.
+
+510
+00:20:14,000 --> 00:20:17,000
+This hatred has one source and it's all about mefisto.
+
+511
+00:20:17,000 --> 00:20:23,000
+For the hollow specifically, we identified that we wanted to do some special work with
+
+512
+00:20:23,000 --> 00:20:26,000
+the materials, with the shaders for those characters.
+
+513
+00:20:26,000 --> 00:20:33,000
+The colors are the code that runs on the GPU that takes in all sorts of inputs like textures
+
+514
+00:20:33,000 --> 00:20:39,000
+and lighting and position and outputs what the object's surface is supposed to look like.
+
+515
+00:20:39,000 --> 00:20:44,000
+We wanted a shader that was capable of adding the sludge layer, this hatred layer over top
+
+516
+00:20:44,000 --> 00:20:49,000
+of it and making it dynamic and animating so that it really looks like it was constantly
+
+517
+00:20:49,000 --> 00:20:51,000
+undulating or writhing.
+
+518
+00:20:51,000 --> 00:20:56,000
+So once we had this shader function, we were able to kind of apply that in all these different
+
+519
+00:20:56,000 --> 00:21:02,000
+contexts like the monsters, like the environment, the character armors even.
+
+520
+00:21:02,000 --> 00:21:07,000
+Most of the shader work was done by Alex who really took that shader function and made
+
+521
+00:21:07,000 --> 00:21:09,000
+it work in all sorts of different contexts.
+
+522
+00:21:09,000 --> 00:21:15,000
+And we also have the hatred addons to these characters, these tentacles, these writhing
+
+523
+00:21:15,000 --> 00:21:20,000
+hatred, growths all over them, which was a procedurally generated process that was
+
+524
+00:21:20,000 --> 00:21:25,000
+largely run by sky on our team.
+
+525
+00:21:25,000 --> 00:21:31,000
+The hollows boss was kind of born of this idea of what does a pinnacle hollows really
+
+526
+00:21:31,000 --> 00:21:32,000
+look like.
+
+527
+00:21:32,000 --> 00:21:36,000
+We have the hollows family and that was pretty well defined by the time that the hollows
+
+528
+00:21:36,000 --> 00:21:38,000
+boss kind of came up with concepting.
+
+529
+00:21:38,000 --> 00:21:45,000
+Our artist Victor had a lot of cool ideas for core themes and really wanted to push visuals
+
+530
+00:21:45,000 --> 00:21:49,000
+with contortions and like breaking the neck of this monster all over the place.
+
+531
+00:21:49,000 --> 00:21:54,000
+That's where we had the option to go like can we push it and really get that idea of what
+
+532
+00:21:54,000 --> 00:21:57,000
+hatred and the hollows are all about.
+
+533
+00:21:57,000 --> 00:22:04,000
+It was a stinky black hiker that latched on to a once powerful spellcaster.
+
+534
+00:22:04,000 --> 00:22:10,000
+It was such a great source of power that this particular hollows monster turned into
+
+535
+00:22:10,000 --> 00:22:11,000
+the precess of hatred.
+
+536
+00:22:15,000 --> 00:22:34,000
+I'm Victor Lee, a principal concept artist on the Diablo team and I concepted the precess
+
+537
+00:22:34,000 --> 00:22:36,000
+of hatred.
+
+538
+00:22:36,000 --> 00:22:44,000
+Victor Lee is one of the OGs from Diablo and he's known for creating a lot of dark imagery
+
+539
+00:22:44,000 --> 00:22:51,000
+and every time we want to have a monster boss he's done all the greats even Diablo himself.
+
+540
+00:22:51,000 --> 00:22:57,000
+One of his monitors on the side of his desk is just like a dark black eye staring at him
+
+541
+00:22:57,000 --> 00:23:05,000
+and so when we needed something that's pure darkness like we had to tap Victor.
+
+542
+00:23:05,000 --> 00:23:11,000
+I feel like when we're talking about hatred I kind of imagine visualise it as like a black
+
+543
+00:23:11,000 --> 00:23:17,000
+webby like thing so I thought a spider configuration would work for this.
+
+544
+00:23:17,000 --> 00:23:25,000
+So I did a few variations some with souls, human souls trapped in the abdomen it's like
+
+545
+00:23:25,000 --> 00:23:29,000
+a purgatory because this creature consumes humans.
+
+546
+00:23:29,000 --> 00:23:36,000
+I have this nagging feeling for a long time that why I felt it's not working no matter
+
+547
+00:23:36,000 --> 00:23:39,000
+how interesting the design is.
+
+548
+00:23:39,000 --> 00:23:47,000
+I'm not pushing the boundaries so I basically rethought the whole thing.
+
+549
+00:23:47,000 --> 00:23:54,000
+A lot of our creatures are just like raw aggression this is musely and just brutal.
+
+550
+00:23:54,000 --> 00:23:57,000
+Maybe this one is more insidious.
+
+551
+00:23:57,000 --> 00:24:02,000
+What if the human figure is not controlling the hatred but it's the other way around.
+
+552
+00:24:02,000 --> 00:24:11,000
+Like the hatred is actually marking humanity it's like dragging a puppet around.
+
+553
+00:24:11,000 --> 00:24:17,000
+So what I did is I kept the human figure as a focal point but the rest of the creature
+
+554
+00:24:17,000 --> 00:24:24,000
+is this moving mass of basically a ball of hatred.
+
+555
+00:24:24,000 --> 00:24:31,000
+It broke a lot of rules but I felt I just felt like this just fits so I went ahead with
+
+556
+00:24:31,000 --> 00:24:40,000
+it and rendered it out.
+
+557
+00:24:40,000 --> 00:24:45,000
+I was looking at the concept for the first time with the designer on the feature Charles
+
+558
+00:24:45,000 --> 00:24:50,000
+and we were kind of in the stunned silence for a little bit because it was this reaction
+
+559
+00:24:50,000 --> 00:24:57,000
+of this thing is so cool and then we started thinking how are we even going to make this
+
+560
+00:24:57,000 --> 00:25:00,000
+thing move?
+
+561
+00:25:00,000 --> 00:25:04,000
+Typically our monsters are bipedal or their quadrupeds.
+
+562
+00:25:04,000 --> 00:25:05,000
+How is it going to move?
+
+563
+00:25:05,000 --> 00:25:07,000
+We can't rely on walk cycles anymore.
+
+564
+00:25:07,000 --> 00:25:08,000
+How is it going to rotate?
+
+565
+00:25:08,000 --> 00:25:12,000
+We can't rely on the built in rotation stuff without looking weird as hell.
+
+566
+00:25:12,000 --> 00:25:17,000
+It was clear that in order to make this like animate and look natural we were going to
+
+567
+00:25:17,000 --> 00:25:21,000
+have to pretty much dive into uncharted territory.
+
+568
+00:25:21,000 --> 00:25:23,000
+We wanted it to move in a very unique way.
+
+569
+00:25:23,000 --> 00:25:27,000
+We wanted it to summer solve through the air and be super unpredictable and zippy and
+
+570
+00:25:27,000 --> 00:25:33,000
+just have like ridiculous animations as those tentacles are flying all over the place.
+
+571
+00:25:33,000 --> 00:25:38,000
+We had that narrative and kind of drive to make it formless and with our conventional rigging
+
+572
+00:25:38,000 --> 00:25:40,000
+that we can do that.
+
+573
+00:25:40,000 --> 00:25:44,000
+We were doing prototyping before the feature even kicked off like we were already meeting
+
+574
+00:25:44,000 --> 00:25:49,000
+with animation in TechArt to say hey we have this thing we think it's really cool but
+
+575
+00:25:49,000 --> 00:25:51,000
+we need help figuring this out.
+
+576
+00:25:51,000 --> 00:25:56,000
+So we had a lot of early collaboration which was really what set us up for success.
+
+577
+00:25:56,000 --> 00:26:01,000
+When animator came back with it going from post to post rather than your normal animations
+
+578
+00:26:01,000 --> 00:26:02,000
+I was like yes that's it.
+
+579
+00:26:02,000 --> 00:26:08,000
+That's what hatred should feel like.
+
+580
+00:26:08,000 --> 00:26:14,000
+When you first find the priestess of hatred it's going to look like a lifeless human corpse
+
+581
+00:26:14,000 --> 00:26:16,000
+and you're like this doesn't look like a boss fight.
+
+582
+00:26:16,000 --> 00:26:18,000
+I'm in a boss arena what's going on.
+
+583
+00:26:18,000 --> 00:26:23,000
+But as you approach you see that the body gets pulled into a giant pool of hatred and
+
+584
+00:26:23,000 --> 00:26:30,000
+out of that pool of hatred comes this giant mass of tentacles and that is the boss.
+
+585
+00:26:30,000 --> 00:26:35,000
+So after animation it gets to come to me and I get to do all of the really cool visual
+
+586
+00:26:35,000 --> 00:26:40,000
+effects at the end show what those tentacles are doing when they impact the map when they
+
+587
+00:26:40,000 --> 00:26:49,000
+slap something when they hit the player it really brings the entire thing together.
+
+588
+00:26:49,000 --> 00:26:56,000
+The comedy attack is really gross because there's like this part of the torso of the humanoid
+
+589
+00:26:56,000 --> 00:27:00,000
+that has been kind of hollowed out and now has teeth.
+
+590
+00:27:00,000 --> 00:27:06,000
+The tentacles come out from the mass and they grab the humanoid and kind of pull the body
+
+591
+00:27:06,000 --> 00:27:12,000
+back so that the slit in the belly opens up and all of the hatred just pours out a straight
+
+592
+00:27:12,000 --> 00:27:13,000
+beam.
+
+593
+00:27:13,000 --> 00:27:16,000
+It's pretty gross.
+
+594
+00:27:16,000 --> 00:27:19,000
+The hollows are just such a unique family.
+
+595
+00:27:19,000 --> 00:27:24,000
+From the moment they spawn in on your screen you can tell that they are different.
+
+596
+00:27:24,000 --> 00:27:28,000
+They have just such unique behaviors and animations.
+
+597
+00:27:28,000 --> 00:27:31,000
+We were able to execute on a vision that's really just so different than what we typically
+
+598
+00:27:31,000 --> 00:27:32,000
+do.
+
+599
+00:27:32,000 --> 00:27:36,000
+The whole process I need to feel very proud of, I'll re-hold you.
+
+600
+00:27:36,000 --> 00:27:37,000
+Everyone just got it.
+
+601
+00:27:37,000 --> 00:27:39,000
+They understood what the monster was.
+
+602
+00:27:39,000 --> 00:27:41,000
+They got the vision and it just worked.
+
+603
+00:27:47,000 --> 00:27:52,000
+The eye on the screen has many functions.
+
+604
+00:27:52,000 --> 00:27:56,000
+It keeps me in the right frame of mind.
+
+605
+00:27:56,000 --> 00:27:59,000
+What we are doing is dark.
+
+606
+00:27:59,000 --> 00:28:01,000
+It should be horrifying.
+
+607
+00:28:01,000 --> 00:28:05,000
+I should feel the fear while I'm doing it.
+
+608
+00:28:05,000 --> 00:28:08,000
+It's a reminder of that.
+
+609
+00:28:08,000 --> 00:28:14,000
+The eye also serves as a warning.
+
+610
+00:28:14,000 --> 00:28:15,000
+I get moving.
+
+611
+00:28:15,000 --> 00:28:18,000
+Don't dwell too long and wander around.
+
+612
+00:28:18,000 --> 00:28:21,000
+Get this thing moving.
+
+613
+00:28:21,000 --> 00:28:23,000
+Get the work done.
+
+614
+00:28:44,000 --> 00:28:47,000
+I'm just like shuffling papers trying to grab something really quickly.
+
+615
+00:28:47,000 --> 00:28:49,000
+Welcome to another Diablo 4 campfire chat.
+
+616
+00:28:49,000 --> 00:28:50,000
+My name is Adam Fletcher.
+
+617
+00:28:50,000 --> 00:28:53,000
+I'm joined by two familiar faces on our campfire chat.
+
+618
+00:28:53,000 --> 00:28:55,000
+We have Mr. Adam Jackson, Mr. Colin Feiner.
+
+619
+00:28:55,000 --> 00:28:56,000
+Hello everyone.
+
+620
+00:28:56,000 --> 00:28:59,000
+It's been a little while since we've seen everyone.
+
+621
+00:28:59,000 --> 00:29:03,000
+We obviously have lots of have has changed since our last stream.
+
+622
+00:29:03,000 --> 00:29:07,000
+We ended up launching Vessel of Hatred, which is really awesome to see.
+
+623
+00:29:07,000 --> 00:29:12,000
+Tons of players online checking out all the new features within Diablo 4 and of course
+
+624
+00:29:12,000 --> 00:29:14,000
+the spirit born as well.
+
+625
+00:29:14,000 --> 00:29:17,000
+We've been hearing a lot about this year or more.
+
+626
+00:29:17,000 --> 00:29:19,000
+It seems a little awesome.
+
+627
+00:29:19,000 --> 00:29:20,000
+Awesome.
+
+628
+00:29:20,000 --> 00:29:21,000
+Yeah.
+
+629
+00:29:21,000 --> 00:29:22,000
+Awesome.
+
+630
+00:29:22,000 --> 00:29:23,000
+It's too weak.
+
+631
+00:29:23,000 --> 00:29:24,000
+It's too weak.
+
+632
+00:29:24,000 --> 00:29:25,000
+That's a lot more awesome.
+
+633
+00:29:25,000 --> 00:29:26,000
+Definitely.
+
+634
+00:29:26,000 --> 00:29:28,000
+What we must have definitely heard.
+
+635
+00:29:28,000 --> 00:29:33,000
+But no, it is a little strong and we've heard that from a lot of people.
+
+636
+00:29:33,000 --> 00:29:35,000
+We're talking about that a little bit today.
+
+637
+00:29:35,000 --> 00:29:41,000
+But first before we do jump in, I do want to talk about some plans, upcoming plans that
+
+638
+00:29:41,000 --> 00:29:43,000
+we have for streams.
+
+639
+00:29:43,000 --> 00:29:46,000
+Obviously, we're doing this stream right now for the mid season update.
+
+640
+00:29:46,000 --> 00:29:50,000
+The mid season update is actually currently scheduled to release next week.
+
+641
+00:29:50,000 --> 00:29:53,000
+We won't have patch notes immediately after this stream.
+
+642
+00:29:53,000 --> 00:29:56,000
+As you know, we're doing the stream on a Tuesday, which is a little bit of a different day
+
+643
+00:29:56,000 --> 00:29:58,000
+for us.
+
+644
+00:29:58,000 --> 00:30:01,000
+We typically end up doing these streams later in the week when we do release those
+
+645
+00:30:01,000 --> 00:30:02,000
+patch notes.
+
+646
+00:30:02,000 --> 00:30:04,000
+But you will have patch notes later this week.
+
+647
+00:30:04,000 --> 00:30:06,000
+We just need to get them through localization.
+
+648
+00:30:06,000 --> 00:30:08,000
+Make sure everyone sees them and we get through.
+
+649
+00:30:08,000 --> 00:30:11,000
+We get all the final changes in them before.
+
+650
+00:30:11,000 --> 00:30:12,000
+We actually do release them.
+
+651
+00:30:12,000 --> 00:30:16,000
+But you will have the final patch notes from mid season update later this week.
+
+652
+00:30:16,000 --> 00:30:19,000
+And then again, mid season update next week.
+
+653
+00:30:19,000 --> 00:30:22,000
+We will be back next week for another stream.
+
+654
+00:30:22,000 --> 00:30:25,000
+So back to back weeks for streams.
+
+655
+00:30:25,000 --> 00:30:26,000
+Lots of streams coming up.
+
+656
+00:30:26,000 --> 00:30:30,000
+So this one's going to be a pretty quick one to go over mid season update.
+
+657
+00:30:30,000 --> 00:30:36,000
+And then next week, we're actually going to talk about the season 7 PTR.
+
+658
+00:30:36,000 --> 00:30:42,000
+I should actually call it patch 2.1 PTR is specifically the name of it.
+
+659
+00:30:42,000 --> 00:30:46,000
+We're going to be talking about all the changes that are coming with patch 2.1.
+
+660
+00:30:46,000 --> 00:30:52,000
+That stream is also going to be a little earlier than when PTR is planning on actually starting.
+
+661
+00:30:52,000 --> 00:30:56,000
+That's only because for those here in the US that are aware of it, the Thanksgiving holiday
+
+662
+00:30:56,000 --> 00:30:59,000
+is coming up towards the end of November.
+
+663
+00:30:59,000 --> 00:31:01,000
+And we won't have people in the office.
+
+664
+00:31:01,000 --> 00:31:06,000
+So we want to make sure that we can do the stream a little early and talk to everyone
+
+665
+00:31:06,000 --> 00:31:11,000
+about the patch 2.1 PTR before the end of the month.
+
+666
+00:31:11,000 --> 00:31:18,000
+PTR itself is planning on starting after the holidays or after that Thanksgiving holiday
+
+667
+00:31:18,000 --> 00:31:19,000
+in the US.
+
+668
+00:31:19,000 --> 00:31:25,000
+And then for the notes regarding PTR, we'll have that before the holidays.
+
+669
+00:31:25,000 --> 00:31:31,000
+So everyone can get to, at least in the US, they can eat turkey, read patch notes.
+
+670
+00:31:31,000 --> 00:31:32,000
+And elsewhere.
+
+671
+00:31:32,000 --> 00:31:33,000
+Perfect thing.
+
+672
+00:31:33,000 --> 00:31:35,000
+They can just read patch notes.
+
+673
+00:31:35,000 --> 00:31:40,000
+So we have a lot of stuff coming up and a lot to talk about.
+
+674
+00:31:40,000 --> 00:31:47,000
+But before we do get towards some of the other items I know Colin, you want to talk a
+
+675
+00:31:47,000 --> 00:31:50,000
+little bit about where we're at with D4 at the moment?
+
+676
+00:31:50,000 --> 00:31:51,000
+Yeah, absolutely.
+
+677
+00:31:51,000 --> 00:31:56,000
+So I'll try and keep it short and sweet for the mid season.
+
+678
+00:31:56,000 --> 00:31:59,000
+We actually think, I just wanted to talk a little bit about how we think about the game
+
+679
+00:31:59,000 --> 00:32:00,000
+currently.
+
+680
+00:32:00,000 --> 00:32:02,000
+We've changed a lot over the past year.
+
+681
+00:32:02,000 --> 00:32:03,000
+We've changed our optimization.
+
+682
+00:32:03,000 --> 00:32:05,000
+We've changed all of the progression.
+
+683
+00:32:05,000 --> 00:32:10,000
+And generally, I think we've seen a ton of positive feedback around a lot of the progression
+
+684
+00:32:10,000 --> 00:32:13,000
+changes made in X1, which is fantastic.
+
+685
+00:32:13,000 --> 00:32:15,000
+We're really excited to make a lot of these changes.
+
+686
+00:32:15,000 --> 00:32:19,000
+I think it's hit a lot of the goals in terms of opening up what builds you can actually
+
+687
+00:32:19,000 --> 00:32:21,000
+play and experience a lot of the end game, which is great.
+
+688
+00:32:21,000 --> 00:32:25,000
+Of course, there's a spare-borne kicking ass and PTR 150.
+
+689
+00:32:25,000 --> 00:32:30,000
+But otherwise, there's a lot of builds that can cut it in the end game, starting in
+
+690
+00:32:30,000 --> 00:32:31,000
+Tourment 1.
+
+691
+00:32:31,000 --> 00:32:36,000
+And I think that's been successful for us.
+
+692
+00:32:36,000 --> 00:32:41,000
+And I also think a lot of the itemization changes we've made in terms of ancestral items,
+
+693
+00:32:41,000 --> 00:32:43,000
+we think that they're a little bit on the low side.
+
+694
+00:32:43,000 --> 00:32:48,000
+We'll talk a little bit more next week in the PTR in terms of buffing those.
+
+695
+00:32:48,000 --> 00:32:51,000
+But we think it's actually pretty cool that there's those chase items that people are
+
+696
+00:32:51,000 --> 00:32:53,000
+looking for.
+
+697
+00:32:53,000 --> 00:32:56,000
+And I think just generally, we're pretty happy with how a lot of things landed.
+
+698
+00:32:56,000 --> 00:33:00,000
+And right now, we're taking a step back and seeing, okay, now that we've made a lot of
+
+699
+00:33:00,000 --> 00:33:03,000
+these changes, what are the more iterative steps we're going to take in the next year
+
+700
+00:33:03,000 --> 00:33:06,000
+in terms of tightening up a lot of things?
+
+701
+00:33:06,000 --> 00:33:09,000
+Full disclosure, I think we missed the market a little bit on material tuning and things
+
+702
+00:33:09,000 --> 00:33:10,000
+like that.
+
+703
+00:33:10,000 --> 00:33:14,000
+So we're not looking at how to do a couple updates on material tuning.
+
+704
+00:33:14,000 --> 00:33:15,000
+Yeah, just a couple.
+
+705
+00:33:15,000 --> 00:33:21,000
+So we're really looking at tightening up a lot of those things and making more iterative
+
+706
+00:33:21,000 --> 00:33:23,000
+changes to the overall progression of the game.
+
+707
+00:33:23,000 --> 00:33:26,000
+And we hope that that creates some more stability.
+
+708
+00:33:26,000 --> 00:33:33,000
+And that lets us put more time and focus on balance and adding more things and leveling
+
+709
+00:33:33,000 --> 00:33:34,000
+up the game in that way.
+
+710
+00:33:34,000 --> 00:33:39,000
+Yeah, just thinking back a year ago, so much has changed in our systems.
+
+711
+00:33:39,000 --> 00:33:41,000
+We did all of our combat math over again.
+
+712
+00:33:41,000 --> 00:33:43,000
+We changed resistances.
+
+713
+00:33:43,000 --> 00:33:49,000
+We changed how Loot drops in the whole upgrade system there in season four.
+
+714
+00:33:49,000 --> 00:33:50,000
+Unique's got a big overhaul.
+
+715
+00:33:50,000 --> 00:33:52,000
+There's been so much change in things.
+
+716
+00:33:52,000 --> 00:33:55,000
+I'm looking forward to having a chance for things to settle down.
+
+717
+00:33:55,000 --> 00:33:59,000
+We can fine tune or refine the existing systems that we have now that we have so many ways
+
+718
+00:33:59,000 --> 00:34:02,000
+of progressing your character, making yourself stronger.
+
+719
+00:34:02,000 --> 00:34:05,000
+And I think there's a lot of room for improvement inside of these systems to make them kind
+
+720
+00:34:05,000 --> 00:34:07,000
+of better, which I know people who are requesting a lot.
+
+721
+00:34:07,000 --> 00:34:09,000
+So we're looking forward to that.
+
+722
+00:34:09,000 --> 00:34:11,000
+Yeah, it's really about refining what we currently have.
+
+723
+00:34:11,000 --> 00:34:14,000
+We feel like the structure is really strong right now.
+
+724
+00:34:14,000 --> 00:34:15,000
+Yeah, unless definitely.
+
+725
+00:34:15,000 --> 00:34:21,000
+And I know with this midseason update, we, of course, the biggest topic that we've been
+
+726
+00:34:21,000 --> 00:34:26,000
+hearing a lot is round class balance, specifically around like spirit born right now and how it
+
+727
+00:34:26,000 --> 00:34:29,000
+is performing very well compared to some of the other classes.
+
+728
+00:34:29,000 --> 00:34:31,000
+And so it's around him, Jackson.
+
+729
+00:34:31,000 --> 00:34:33,000
+I know you wanted to talk a little bit about some of the class balance.
+
+730
+00:34:33,000 --> 00:34:34,000
+Yeah, let's talk about classes.
+
+731
+00:34:34,000 --> 00:34:36,000
+We've got a lot to go over today.
+
+732
+00:34:36,000 --> 00:34:40,000
+So first, just to give an overview of what I'm going to talk about.
+
+733
+00:34:40,000 --> 00:34:44,000
+First, we're going to talk a little bit about kind of the state of season six and kind
+
+734
+00:34:44,000 --> 00:34:46,000
+of how we see things and how things are going.
+
+735
+00:34:46,000 --> 00:34:48,000
+And then we're going to give you a preview of some of the changes that we're going to be
+
+736
+00:34:48,000 --> 00:34:51,000
+doing for all of the classes.
+
+737
+00:34:51,000 --> 00:34:52,000
+And then we're going to talk about the normal disclaimer here.
+
+738
+00:34:52,000 --> 00:34:55,000
+You know, we're not going to be covering everything that we're going to do here in the past.
+
+739
+00:34:55,000 --> 00:34:58,000
+There could be a lot more notes than what I'm showing today, but just to kind of give you
+
+740
+00:34:58,000 --> 00:35:03,000
+an idea of what's coming for each class and kind of what you can look forward to.
+
+741
+00:35:03,000 --> 00:35:05,000
+So yeah, the current state of season six.
+
+742
+00:35:05,000 --> 00:35:08,000
+So, you know, a whole lot of people are enjoying the spirit born.
+
+743
+00:35:08,000 --> 00:35:11,000
+I think this class has been really successful.
+
+744
+00:35:11,000 --> 00:35:12,000
+You know, we've been hearing that it's a lot of fun.
+
+745
+00:35:12,000 --> 00:35:15,000
+And people are really liking kind of the way that you build, the way that you play.
+
+746
+00:35:15,000 --> 00:35:20,000
+And just the class in general, which is really gratifying for the team.
+
+747
+00:35:20,000 --> 00:35:25,000
+Just for some stats here, 62% of all players have played the spirit born.
+
+748
+00:35:25,000 --> 00:35:30,000
+So when you think the other six classes in the game now, and 62% of people are playing
+
+749
+00:35:30,000 --> 00:35:34,000
+it, that's kind of a lot of love for the class, which is pretty exciting to see.
+
+750
+00:35:34,000 --> 00:35:40,000
+And to give you a basis of comparison here, the Sorceress in season five was the most
+
+751
+00:35:40,000 --> 00:35:43,000
+played class, and she was at 32%.
+
+752
+00:35:43,000 --> 00:35:47,000
+So you know, like the idea that was, you know, lightning spear meta, and you know, this
+
+753
+00:35:47,000 --> 00:35:48,000
+class was really, really good.
+
+754
+00:35:48,000 --> 00:35:50,000
+A lot of people had fun.
+
+755
+00:35:50,000 --> 00:35:53,000
+And so you can kind of compare there just how many people kind of logged into the expansion
+
+756
+00:35:53,000 --> 00:35:54,000
+and enjoyed that.
+
+757
+00:35:54,000 --> 00:35:56,000
+So it's pretty exciting.
+
+758
+00:35:56,000 --> 00:35:58,000
+Yeah, just a few, right?
+
+759
+00:35:58,000 --> 00:36:03,000
+Yeah, so kind of the state of the game, you know, the spirit born is performing quite
+
+760
+00:36:03,000 --> 00:36:07,000
+a bit better than other classes, which you want to dig deep, you know, do a little bit
+
+761
+00:36:07,000 --> 00:36:11,000
+of a deep dive into how and why and how we think about it.
+
+762
+00:36:11,000 --> 00:36:15,000
+Largely, a big culprit of this is actually due to unintended interactions that the class
+
+763
+00:36:15,000 --> 00:36:19,000
+has with how something scale and other issues.
+
+764
+00:36:19,000 --> 00:36:22,000
+But then there's also another component that there are some balance issues with the class
+
+765
+00:36:22,000 --> 00:36:23,000
+itself.
+
+766
+00:36:23,000 --> 00:36:25,000
+And so it's pretty easy to conflate these two.
+
+767
+00:36:25,000 --> 00:36:28,000
+And they go, how much of the power is due to like, you know, bugs run in tenant interactions
+
+768
+00:36:28,000 --> 00:36:31,000
+and how much of it is just some things have high numbers.
+
+769
+00:36:31,000 --> 00:36:35,000
+We do think it's a bit of both, but the unintended interactions, I think, are the lion's share
+
+770
+00:36:35,000 --> 00:36:39,000
+of what's going on here.
+
+771
+00:36:39,000 --> 00:36:42,000
+But on the bright side, the other classes are actually performing fairly well when compared
+
+772
+00:36:42,000 --> 00:36:44,000
+to one another.
+
+773
+00:36:44,000 --> 00:36:48,000
+So if you look at, you know, barbarian, compared to necromancer or jurid, compared to sorceress,
+
+774
+00:36:48,000 --> 00:36:52,000
+they're actually pretty close and competitive when we see like, pitch your clears and other
+
+775
+00:36:52,000 --> 00:36:58,000
+content how they're doing, which is a really good sign for us.
+
+776
+00:36:58,000 --> 00:37:01,000
+So when we're thinking of kind of what we're going to do going forward and how we balance
+
+777
+00:37:01,000 --> 00:37:06,000
+the game, there's kind of two really statements that we need to think about when it comes to balance.
+
+778
+00:37:06,000 --> 00:37:10,000
+The first one that's really important is we want players to feel strong and powerful
+
+779
+00:37:10,000 --> 00:37:14,000
+and to kind of feel like they can break the game and find these crazy builds and do awesome
+
+780
+00:37:14,000 --> 00:37:16,000
+things with.
+
+781
+00:37:16,000 --> 00:37:19,000
+And then on the other side of the coin, we also want kind of, you know, class balance
+
+782
+00:37:19,000 --> 00:37:23,000
+and parity when it comes to a power level with one another, right?
+
+783
+00:37:23,000 --> 00:37:26,000
+You know, we don't want a situation that exists for a really long time where, you know,
+
+784
+00:37:26,000 --> 00:37:29,000
+the only answer is to play barbarian, for example, compared to everything else.
+
+785
+00:37:29,000 --> 00:37:33,000
+And that's all that you kind of be pushed into playing.
+
+786
+00:37:33,000 --> 00:37:35,000
+So these two things are kind of at odds with one another.
+
+787
+00:37:35,000 --> 00:37:38,000
+And we've kind of gone back and forth on our strategies here.
+
+788
+00:37:38,000 --> 00:37:42,000
+If you remember back when we launched the obel-four, we really actually prioritized class
+
+789
+00:37:42,000 --> 00:37:49,000
+parity and harmony over, you know, everything else over the power fantasy of the game.
+
+790
+00:37:49,000 --> 00:37:53,000
+And what this resulted in was every time that someone found a build that was really strong
+
+791
+00:37:53,000 --> 00:37:57,000
+and crazy, we just kind of would fix the bugs or nerf the build and we ended up kind of
+
+792
+00:37:57,000 --> 00:38:01,000
+playing Wacomal every time that player's found something cool.
+
+793
+00:38:01,000 --> 00:38:04,000
+And it ended up being that Blizzard kind of turned into the fun police, which players
+
+794
+00:38:04,000 --> 00:38:05,000
+really didn't like.
+
+795
+00:38:05,000 --> 00:38:09,000
+We got a pretty big reaction at the end of the launch period and into season one when
+
+796
+00:38:09,000 --> 00:38:14,000
+we tried to only think about class parity over kind of the power fantasy of Diablo.
+
+797
+00:38:14,000 --> 00:38:18,000
+And in season two, we kind of really turned things around in the way that we thought about
+
+798
+00:38:18,000 --> 00:38:22,000
+the game and we really prioritized, you know, power fantasy and this idea that our players
+
+799
+00:38:22,000 --> 00:38:25,000
+kind of want to break the game and be crazy.
+
+800
+00:38:25,000 --> 00:38:30,000
+The big, shiny example there was Bull Lightning for you source-sourced mains where that skill,
+
+801
+00:38:30,000 --> 00:38:32,000
+you know, had an unintended interaction.
+
+802
+00:38:32,000 --> 00:38:33,000
+It was really, really good.
+
+803
+00:38:33,000 --> 00:38:36,000
+But players really liked it and had a lot of fun.
+
+804
+00:38:36,000 --> 00:38:40,000
+And so if you remember a long time ago, we came on live stream and we talked about this
+
+805
+00:38:40,000 --> 00:38:44,000
+and we kind of said that we were going to allow players to kind of break the game in this
+
+806
+00:38:44,000 --> 00:38:47,000
+way until the next season, right?
+
+807
+00:38:47,000 --> 00:38:50,000
+There are some exceptions that we'll make where we'll fix things in the mid season if
+
+808
+00:38:50,000 --> 00:38:53,000
+it's impacting like the performance of the game or the experience of other players,
+
+809
+00:38:53,000 --> 00:38:57,000
+like if your build is causing a bunch of lag or something, then we'll fix it right away.
+
+810
+00:38:57,000 --> 00:39:02,000
+I think in season six, we have this example with the evade build with Spiritborn.
+
+811
+00:39:02,000 --> 00:39:06,000
+But overall players really like this strategy a whole lot more, right?
+
+812
+00:39:06,000 --> 00:39:11,000
+They got to enjoy this kind of the point of playing ARPGs in Diablo in particular of really
+
+813
+00:39:11,000 --> 00:39:15,000
+making a powerful character and being able to smash faces with it, right?
+
+814
+00:39:15,000 --> 00:39:20,000
+Yeah, and the sort of philosophy here is sort of goes even beyond classes, right?
+
+815
+00:39:20,000 --> 00:39:24,000
+If you remember season one, we were just nerfing every dungeon that was to perform in and
+
+816
+00:39:24,000 --> 00:39:28,000
+like any time, like there was content that was like a little bit out of budget, we'd
+
+817
+00:39:28,000 --> 00:39:29,000
+nerf it.
+
+818
+00:39:30,000 --> 00:39:34,000
+So it's really about sort of establishing a trust with you, the player during that season
+
+819
+00:39:34,000 --> 00:39:38,000
+and not trying to sort of force you to exploit the fun early and often.
+
+820
+00:39:38,000 --> 00:39:42,000
+And it's really about sort of making sure that when you play a season, you know that
+
+821
+00:39:42,000 --> 00:39:45,000
+that season is going to work the same throughout the season and we're not going to change
+
+822
+00:39:45,000 --> 00:39:46,000
+things midway on you.
+
+823
+00:39:46,000 --> 00:39:50,000
+Yeah, I think another factor I think about too is that now that we've added a lot of
+
+824
+00:39:50,000 --> 00:39:53,000
+progression like temporary and master working, there's a lot of time investment that goes
+
+825
+00:39:53,000 --> 00:39:57,000
+into making a build, even if you know something that might be unattended.
+
+826
+00:39:57,000 --> 00:40:01,000
+But it's really, really good and crazy and you spend you know, 40 plus 100 hours, whatever
+
+827
+00:40:01,000 --> 00:40:02,000
+making it.
+
+828
+00:40:02,000 --> 00:40:06,000
+And then if we kind of pull the rug out from under you, it's worrisome to do that to
+
+829
+00:40:06,000 --> 00:40:07,000
+players.
+
+830
+00:40:07,000 --> 00:40:08,000
+I think in the middle of a season.
+
+831
+00:40:08,000 --> 00:40:11,000
+It's all about respecting your time, right?
+
+832
+00:40:11,000 --> 00:40:12,000
+Yeah.
+
+833
+00:40:12,000 --> 00:40:17,000
+So in that vein, we are not planning to nerf the spirit born in the mid season patch
+
+834
+00:40:17,000 --> 00:40:20,000
+or I think is a thing that's on everybody's mind, like is Blizzard going to do it?
+
+835
+00:40:20,000 --> 00:40:25,000
+And we've decided that we think it's best for the game to not do it in the mid season.
+
+836
+00:40:25,000 --> 00:40:30,000
+So in season seven, and we'll be talking about this a little more in the livestream next
+
+837
+00:40:30,000 --> 00:40:35,000
+week, we are going to be fixing all the unintended interactions that we found with spirit born.
+
+838
+00:40:35,000 --> 00:40:39,000
+We'll also be making balance adjustments to bring them in line with the other classes.
+
+839
+00:40:39,000 --> 00:40:41,000
+So you can expect a lot of change there.
+
+840
+00:40:41,000 --> 00:40:44,000
+But until then, you know, enjoy what you've got now.
+
+841
+00:40:44,000 --> 00:40:45,000
+Yeah.
+
+842
+00:40:45,000 --> 00:40:46,000
+All it's there.
+
+843
+00:40:46,000 --> 00:40:49,000
+I think it's worth digging into the unintended interactions part two, right?
+
+844
+00:40:49,000 --> 00:40:54,000
+Because it's not necessarily like you picked one legendary paragon node and now you're
+
+845
+00:40:54,000 --> 00:40:55,000
+building this ridiculous, right?
+
+846
+00:40:55,000 --> 00:40:56,000
+Yeah, that's right.
+
+847
+00:40:56,000 --> 00:41:00,000
+It's like you're sort of, you know, for lack of a better word, abusing some of the mechanics,
+
+848
+00:41:00,000 --> 00:41:01,000
+right?
+
+849
+00:41:01,000 --> 00:41:05,000
+If we know, you know, Viscay Shield is scaling off of max HP, players of port tons of time
+
+850
+00:41:05,000 --> 00:41:09,000
+in effort trying to max masterwork their max life and getting all the perfect tempers and
+
+851
+00:41:09,000 --> 00:41:13,000
+item affixes, we don't want to take that away from you, right?
+
+852
+00:41:13,000 --> 00:41:17,000
+That's not something that we're trying to necessarily destroy all the time commitment you put
+
+853
+00:41:17,000 --> 00:41:18,000
+into your character by fixing these things.
+
+854
+00:41:18,000 --> 00:41:22,000
+So it's not as simple as just fixed unintended interaction, right?
+
+855
+00:41:22,000 --> 00:41:28,000
+But just reiterating, it is it, those unintended interactions are things that we will look at
+
+856
+00:41:28,000 --> 00:41:31,000
+when we get to season seven and we start off with season seven.
+
+857
+00:41:31,000 --> 00:41:37,000
+So obviously with midseason update, enjoy it, enjoy it through season six, but come season
+
+858
+00:41:37,000 --> 00:41:41,000
+seven and you'll see a preview of some of these changes with season seven in our PTR
+
+859
+00:41:41,000 --> 00:41:42,000
+stream next week.
+
+860
+00:41:42,000 --> 00:41:44,000
+You'll see some of the changes that we plan on.
+
+861
+00:41:44,000 --> 00:41:47,000
+Yeah, there's a lot coming there, but this isn't about that.
+
+862
+00:41:47,000 --> 00:41:52,000
+Yeah, that's a lot coming there for everybody that are really exciting.
+
+863
+00:41:53,000 --> 00:41:58,000
+But yeah, so, but the caveat to all this is if something does come up that impacts other
+
+864
+00:41:58,000 --> 00:42:02,000
+players in regards to the game's performance or you're causing lag for the server or whatever,
+
+865
+00:42:02,000 --> 00:42:07,000
+we will be fixing those types of interactions as soon as possible.
+
+866
+00:42:07,000 --> 00:42:08,000
+Like the evade build is our example, right?
+
+867
+00:42:08,000 --> 00:42:11,000
+We will fix those right away because we want to make sure that the game is, you know,
+
+868
+00:42:11,000 --> 00:42:14,000
+perform it for everybody.
+
+869
+00:42:14,000 --> 00:42:18,000
+So in the mid season though, we are going to be buffing all of the other classes in the
+
+870
+00:42:18,000 --> 00:42:21,000
+mid season patch, but I want to caveat this a little bit with.
+
+871
+00:42:21,000 --> 00:42:25,000
+It's not going to be to the level of spirit board right now because a lot of that power
+
+872
+00:42:25,000 --> 00:42:28,000
+is due to bugs and unintended things.
+
+873
+00:42:28,000 --> 00:42:32,000
+So we're really going to be buffing the classes to have more parity and harmony with each
+
+874
+00:42:32,000 --> 00:42:37,000
+other, but then also to kind of where we plan to bring the spirit board to after, you know,
+
+875
+00:42:37,000 --> 00:42:39,000
+the bugs and stuff has been fixed.
+
+876
+00:42:39,000 --> 00:42:43,000
+So you will be seeing number buffs, but you know, I wouldn't expect to be at the same level
+
+877
+00:42:43,000 --> 00:42:47,000
+as what spirit board is doing right now in the mid season just to be clear because of
+
+878
+00:42:47,000 --> 00:42:49,000
+that the bugs are actually a big part of the power level.
+
+879
+00:42:50,000 --> 00:42:52,000
+Yeah, and we don't want to create an arms race, right?
+
+880
+00:42:52,000 --> 00:42:56,000
+Where it's like, okay, everyone gets to be pit tier 150, then the natural ask is like,
+
+881
+00:42:56,000 --> 00:42:59,000
+okay, I guess we're adding tournament 5, 6, 7, 8, right?
+
+882
+00:42:59,000 --> 00:43:02,000
+So we don't want to sort of get to a place where, you know, you're ching through 12 different
+
+883
+00:43:02,000 --> 00:43:06,000
+tournament tiers, so we're really being cautious about the arms race here.
+
+884
+00:43:06,000 --> 00:43:08,000
+We actually think the rest of the classes are in a really good spot.
+
+885
+00:43:08,000 --> 00:43:11,000
+Yeah, and I think you can count on that going forward too, not even just right now,
+
+886
+00:43:11,000 --> 00:43:13,000
+but this is kind of the way that we think of things in general.
+
+887
+00:43:13,000 --> 00:43:16,000
+It's like if all the classes are kind of in this realm, kind of close each other,
+
+888
+00:43:16,000 --> 00:43:19,000
+and then one has something unintended that brings like way up here,
+
+889
+00:43:19,000 --> 00:43:22,000
+everybody is always like, well, let's just bring everybody else to this.
+
+890
+00:43:22,000 --> 00:43:23,000
+Yeah.
+
+891
+00:43:23,000 --> 00:43:25,000
+But if we do that every time, like you start with this difference,
+
+892
+00:43:25,000 --> 00:43:27,000
+and then you're here, and then you do this, and then you do this,
+
+893
+00:43:27,000 --> 00:43:32,000
+and you're exponentially going to increase the power level of the game just insanely high,
+
+894
+00:43:32,000 --> 00:43:33,000
+really fast, right?
+
+895
+00:43:33,000 --> 00:43:34,000
+And that's not our goal, right?
+
+896
+00:43:34,000 --> 00:43:37,000
+So if there's something that stands out, we'll let people do it for a while,
+
+897
+00:43:37,000 --> 00:43:39,000
+but then we're going to bring it back the next season.
+
+898
+00:43:39,000 --> 00:43:39,000
+Yeah.
+
+899
+00:43:39,000 --> 00:43:43,000
+And that's kind of the way that I think you can mostly count on us doing balance
+
+900
+00:43:43,000 --> 00:43:45,000
+and how the choices that we make and why.
+
+901
+00:43:45,000 --> 00:43:46,000
+Definitely.
+
+902
+00:43:46,000 --> 00:43:48,000
+And the same goes if there's like a underperforming class.
+
+903
+00:43:48,000 --> 00:43:50,000
+It's like 20 pit tears behind everyone else, right?
+
+904
+00:43:50,000 --> 00:43:54,000
+We have no problems with like bringing that up to where the rest of the classes are.
+
+905
+00:43:54,000 --> 00:43:55,000
+Correct.
+
+906
+00:43:55,000 --> 00:43:55,000
+Yeah.
+
+907
+00:43:55,000 --> 00:43:59,000
+The real goal is to get everything in a pretty good realm of having harmony with one another.
+
+908
+00:43:59,000 --> 00:44:03,000
+And you know, with something's out balance, it's okay for a season,
+
+909
+00:44:03,000 --> 00:44:05,000
+but then we're going to try to breed it back, right?
+
+910
+00:44:05,000 --> 00:44:06,000
+That's kind of always our goal.
+
+911
+00:44:07,000 --> 00:44:11,000
+So yeah, let's get into the class updates for all the classes.
+
+912
+00:44:11,000 --> 00:44:14,000
+We're just going to be going through one by one and kind of giving you a preview of what to see.
+
+913
+00:44:14,000 --> 00:44:15,000
+Again, this is only a preview.
+
+914
+00:44:15,000 --> 00:44:17,000
+There's more than what we're going to show on screen.
+
+915
+00:44:17,000 --> 00:44:18,000
+Yeah, way more.
+
+916
+00:44:18,000 --> 00:44:18,000
+Yeah.
+
+917
+00:44:18,000 --> 00:44:22,000
+This is just like a couple of examples within the stream itself.
+
+918
+00:44:22,000 --> 00:44:25,000
+And of course, again, just reminder, patch notes later this week,
+
+919
+00:44:25,000 --> 00:44:29,000
+once we get everything kind of sorry, we're abnormal time for a stream on a Tuesday.
+
+920
+00:44:29,000 --> 00:44:32,000
+Normally, we do it on Thursday and usually a patch notes then.
+
+921
+00:44:32,000 --> 00:44:34,000
+So I expect the patch notes later this week.
+
+922
+00:44:34,000 --> 00:44:36,000
+Yeah, let's get to it.
+
+923
+00:44:36,000 --> 00:44:41,000
+So starting off with Barbarian, we got some baseline core skill buffs for pretty much all of them.
+
+924
+00:44:41,000 --> 00:44:41,000
+Right?
+
+925
+00:44:41,000 --> 00:44:42,000
+You can see here up here,
+
+926
+00:44:42,000 --> 00:44:43,000
+we have a little bit of trouble leveling.
+
+927
+00:44:43,000 --> 00:44:47,000
+The other late game is really good, but just getting there, it can be a little bit painful.
+
+928
+00:44:47,000 --> 00:44:50,000
+So we're just going to be squeezing up those numbers a little bit more.
+
+929
+00:44:50,000 --> 00:44:52,000
+So you'll have a better time leveling.
+
+930
+00:44:52,000 --> 00:44:54,000
+You'll also be a little bit stronger overall.
+
+931
+00:44:54,000 --> 00:44:56,000
+But all the builds will get a little bit better.
+
+932
+00:44:56,000 --> 00:45:00,000
+And then also we have some buffs to underperforming legendaries in Unix.
+
+933
+00:45:00,000 --> 00:45:03,000
+Here's an example with an aspect battle pad.
+
+934
+00:45:03,000 --> 00:45:06,000
+You can see here in the before, kind of what's on live right now,
+
+935
+00:45:06,000 --> 00:45:08,000
+is a space that you can see here.
+
+936
+00:45:08,000 --> 00:45:10,000
+And now we're adding a hefty multiplier to it.
+
+937
+00:45:10,000 --> 00:45:12,000
+So now this is going to be a real offensive aspect.
+
+938
+00:45:12,000 --> 00:45:14,000
+That's going to give you a bunch of power.
+
+939
+00:45:14,000 --> 00:45:17,000
+You're going to get up to a 40% damage buff while when you're doing the weapon swapping mechanics.
+
+940
+00:45:17,000 --> 00:45:22,000
+So we've kind of finding these places where we can input damage or these underused legendaries or Unix.
+
+941
+00:45:22,000 --> 00:45:25,000
+And then adding a reason to make them more compelling.
+
+942
+00:45:25,000 --> 00:45:27,000
+Next, we got Druid.
+
+943
+00:45:27,000 --> 00:45:30,000
+So all of the other things we've got are the ones that we've got.
+
+944
+00:45:30,000 --> 00:45:31,000
+We've got a lot of damage.
+
+945
+00:45:31,000 --> 00:45:32,000
+We've got a lot of damage.
+
+946
+00:45:32,000 --> 00:45:33,000
+We've got a lot of damage.
+
+947
+00:45:33,000 --> 00:45:34,000
+We've got a lot of damage.
+
+948
+00:45:34,000 --> 00:45:35,000
+We've got a lot of damage.
+
+949
+00:45:35,000 --> 00:45:36,000
+We've got a lot of damage.
+
+950
+00:45:36,000 --> 00:45:37,000
+Next, we've got Druid.
+
+951
+00:45:37,000 --> 00:45:40,000
+So all of the Druids' key passives are getting buffed.
+
+952
+00:45:40,000 --> 00:45:44,000
+I'm giving a couple of examples here, but I'm pretty sure all of them, the numbers, went up.
+
+953
+00:45:44,000 --> 00:45:48,000
+So the Peeam ferocity, you've got the crit damage going from 70% to 100% bonus.
+
+954
+00:45:48,000 --> 00:45:53,000
+And then the bonus damage of injured enemies going from 140% to 200%, which is pretty meaty.
+
+955
+00:45:53,000 --> 00:45:59,000
+And then the one with nature passive that buffs your companions, that bonus damage is going from 60% to 80%,
+
+956
+00:45:59,000 --> 00:46:02,000
+which is a pretty big amount.
+
+957
+00:46:02,000 --> 00:46:06,000
+And then also legendary unique buffs in the same way of barbarian.
+
+958
+00:46:06,000 --> 00:46:11,000
+So here, this is an offensive aspect, even though I'd argue it's kind of more utility, but the Storm Chaser's aspect
+
+959
+00:46:11,000 --> 00:46:14,000
+where it makes your tornadoes smart, where they sneak enemies.
+
+960
+00:46:14,000 --> 00:46:16,000
+We're just adding a pretty good multiplier to that.
+
+961
+00:46:16,000 --> 00:46:17,000
+So tornado builds rejoice.
+
+962
+00:46:17,000 --> 00:46:23,000
+You're going to get up to 50% more damage now just from taking this aspect that you were probably taking anyways.
+
+963
+00:46:23,000 --> 00:46:26,000
+So just making you happier to take the same things.
+
+964
+00:46:26,000 --> 00:46:28,000
+Next one, the Basilisk.
+
+965
+00:46:28,000 --> 00:46:31,000
+This is Earth Druid dealing with Petrify.
+
+966
+00:46:31,000 --> 00:46:36,000
+So before, it was that the first time that you hit an enemy, you'll petrify them.
+
+967
+00:46:36,000 --> 00:46:39,000
+And then every time you petrify them, it deals a bunch of damage.
+
+968
+00:46:39,000 --> 00:46:43,000
+We're just making that a lot more usable, so that way you can feel more comfortable taking it.
+
+969
+00:46:43,000 --> 00:46:46,000
+So now it's going to be when you hit a healthy enemy, you'll petrify them.
+
+970
+00:46:46,000 --> 00:46:48,000
+And also, this will work against bosses.
+
+971
+00:46:48,000 --> 00:46:55,000
+So every five seconds that you hit a boss, you'll attempt to petrify, and then you'll get that bonus damage proc.
+
+972
+00:46:55,000 --> 00:46:59,000
+So basically, this unique now will be giving you a damage proc every five seconds against bosses,
+
+973
+00:46:59,000 --> 00:47:04,000
+which will be a lot better than now, where it doesn't really do much to bosses at all.
+
+974
+00:47:04,000 --> 00:47:06,000
+Next, we got the Necromancer.
+
+975
+00:47:06,000 --> 00:47:09,000
+So they're getting buffs for all their basic skills.
+
+976
+00:47:09,000 --> 00:47:11,000
+I'm showing decompose here as an example.
+
+977
+00:47:11,000 --> 00:47:13,000
+The damage is almost being doubled.
+
+978
+00:47:13,000 --> 00:47:16,000
+Your essence gain per second is going up by quite a bit.
+
+979
+00:47:16,000 --> 00:47:19,000
+And also now it'll scale with the tax speed bonuses.
+
+980
+00:47:19,000 --> 00:47:24,000
+So now if you build a tax speed or you have it, decompose is going to be generating essence for you quicker,
+
+981
+00:47:24,000 --> 00:47:25,000
+which it didn't used to before.
+
+982
+00:47:26,000 --> 00:47:30,000
+They're also getting some buffs and kind of some simple functionality changes to some passives.
+
+983
+00:47:30,000 --> 00:47:36,000
+So an example here with the Evolition Passive is before you would get increased crit damage to vulnerable enemies.
+
+984
+00:47:36,000 --> 00:47:40,000
+And now we're just going to remove that double work firement there, focusing on crit andvone.
+
+985
+00:47:40,000 --> 00:47:43,000
+So now you'll just get more damage against vulnerable enemies.
+
+986
+00:47:43,000 --> 00:47:45,000
+So it's just a lot more usable.
+
+987
+00:47:45,000 --> 00:47:48,000
+It's now used, you can use it more generally.
+
+988
+00:47:48,000 --> 00:47:50,000
+You don't have to worry about creating all the time to get the bonus.
+
+989
+00:47:50,000 --> 00:47:52,000
+So it'll just be more consistent.
+
+990
+00:47:53,000 --> 00:47:55,000
+And then we've got some unique buffs here.
+
+991
+00:47:55,000 --> 00:47:57,000
+These are just number buffs, some examples.
+
+992
+00:47:57,000 --> 00:48:01,000
+We've got Mordor Crocs, so their chance to spawn the Skeletal Simalacrum is going up.
+
+993
+00:48:01,000 --> 00:48:05,000
+And how from below you're just getting more corpse explosion damage out of it.
+
+994
+00:48:05,000 --> 00:48:07,000
+So just to need up these numbers to make them competitive.
+
+995
+00:48:10,000 --> 00:48:11,000
+Next we've got the Rogue.
+
+996
+00:48:11,000 --> 00:48:16,000
+So similar to the Barbarian, the Rogue is also getting buffs to the core skills.
+
+997
+00:48:16,000 --> 00:48:18,000
+Pettitrade Shot damage is going up.
+
+998
+00:48:18,000 --> 00:48:20,000
+Flurry damage is going up as some examples.
+
+999
+00:48:21,000 --> 00:48:24,000
+Also their key passives are getting a bit better too.
+
+1000
+00:48:24,000 --> 00:48:28,000
+Victimized damage scaling is going up for your vulnerable damage bonus.
+
+1001
+00:48:28,000 --> 00:48:34,000
+And precision is going up by a pretty hefty amount from 15% to 20% of your crit damage bonus.
+
+1002
+00:48:34,000 --> 00:48:37,000
+So those will just be a lot more potent.
+
+1003
+00:48:37,000 --> 00:48:41,000
+And next we've got the Sorceress kind of keeping on the theme of buffing key passives.
+
+1004
+00:48:41,000 --> 00:48:44,000
+So this one works, you're doing a bit of a functionality change.
+
+1005
+00:48:44,000 --> 00:48:49,000
+So combustion before used to be that, you know, you get a big multiplier to your burning damage.
+
+1006
+00:48:49,000 --> 00:48:50,000
+60%.
+
+1007
+00:48:50,000 --> 00:48:55,000
+And then after that we kind of wanted to reward you for putting different burning sources on enemies.
+
+1008
+00:48:55,000 --> 00:48:58,000
+And you would get a little bit of a bonus per source.
+
+1009
+00:48:58,000 --> 00:49:00,000
+Now we're doing away with that second part.
+
+1010
+00:49:00,000 --> 00:49:03,000
+So you're still getting the burning damage buff just across the board.
+
+1011
+00:49:03,000 --> 00:49:06,000
+But now we're actually going to tie it to itemization.
+
+1012
+00:49:06,000 --> 00:49:11,000
+So now you'll just be getting an additional multiplier based on your damage to burning enemies bonus.
+
+1013
+00:49:11,000 --> 00:49:14,000
+So now you're going to be looking for that, you know, in your gear and your paragon and other places.
+
+1014
+00:49:14,000 --> 00:49:17,000
+So you can now just really buff up the burning damage.
+
+1015
+00:49:17,000 --> 00:49:21,000
+And you don't have to worry about putting a bunch of sources on enemies.
+
+1016
+00:49:21,000 --> 00:49:23,000
+Next, a similar vein avalanche.
+
+1017
+00:49:23,000 --> 00:49:28,000
+This key passive is just getting better and is going to be tuning into a damage bonus as well.
+
+1018
+00:49:28,000 --> 00:49:34,000
+So before it was that your frost skills have a chance, a lucky hit chance to make your next cast of a few different skills.
+
+1019
+00:49:34,000 --> 00:49:36,000
+Be consumed no matter and be stronger.
+
+1020
+00:49:36,000 --> 00:49:39,000
+And when you hit vulnerable enemies, it just made the chance better.
+
+1021
+00:49:39,000 --> 00:49:46,000
+And now we're just buffing up the chance baseline going from 10 to 30% to make that free cast and bonus damage.
+
+1022
+00:49:46,000 --> 00:49:50,000
+But now the actual damage that you deal is going to be increased by your damage.
+
+1023
+00:49:50,000 --> 00:49:52,000
+You get vulnerable enemies stat.
+
+1024
+00:49:52,000 --> 00:49:56,000
+So now if you we've added basically a scaling multiplier to this key passive.
+
+1025
+00:49:56,000 --> 00:50:00,000
+So it should be doing a lot more damage over time.
+
+1026
+00:50:00,000 --> 00:50:02,000
+Next, we got aspect of piercing cold.
+
+1027
+00:50:02,000 --> 00:50:05,000
+This is for you ice shards, enjoyers.
+
+1028
+00:50:05,000 --> 00:50:07,000
+This one's getting a whole lot better.
+
+1029
+00:50:07,000 --> 00:50:13,000
+So before it used to be that the number of pierces was part of the random roll.
+
+1030
+00:50:13,000 --> 00:50:18,000
+And then also the roll made it deal your subsequent hits deal less damage with ice shards.
+
+1031
+00:50:18,000 --> 00:50:20,000
+And now we flip the script now.
+
+1032
+00:50:20,000 --> 00:50:23,000
+And now the amount of enemies that I was going to pierce is going to be statics.
+
+1033
+00:50:23,000 --> 00:50:25,000
+You're just getting more consistent value.
+
+1034
+00:50:25,000 --> 00:50:28,000
+But instead of doing less damage, you're going to deal more damage per enemy hit.
+
+1035
+00:50:28,000 --> 00:50:37,000
+So that actual difference of going from less to more is going to amount to a substantial increase in the amount of damage that this legendary is pumping out for ice shards.
+
+1036
+00:50:37,000 --> 00:50:39,000
+It's a huge spread.
+
+1037
+00:50:39,000 --> 00:50:41,000
+Mass物 at least for the sorceress.
+
+1038
+00:50:41,000 --> 00:50:45,000
+We introduced a couple of new legendary aspects in vessel of hatred.
+
+1039
+00:50:45,000 --> 00:50:49,000
+We've got them there scaling with charge bolts and incinerate.
+
+1040
+00:50:49,000 --> 00:50:54,000
+And both of these aspects were dealing what we call flat damage or it was like a certain damage amount.
+
+1041
+00:50:54,000 --> 00:50:57,000
+And it didn't really scale up as you scaled the scale up.
+
+1042
+00:50:57,000 --> 00:50:59,000
+And we've changed that for both of these.
+
+1043
+00:50:59,000 --> 00:51:07,000
+So the aspect of charge flash and the aspect of overheating will now both scale as you get more charge bolt or more incinerate damage.
+
+1044
+00:51:07,000 --> 00:51:10,000
+These ones will be dealing a lot more damage as well.
+
+1045
+00:51:10,000 --> 00:51:14,000
+So these ones will just scale with you and be a lot better over time as you get stronger.
+
+1046
+00:51:14,000 --> 00:51:20,000
+And next last but not least, we got the spirit form.
+
+1047
+00:51:20,000 --> 00:51:23,000
+So we did do some changes here.
+
+1048
+00:51:23,000 --> 00:51:28,000
+We really mostly did small buffs to skills that haven't really been being used or seen less success.
+
+1049
+00:51:28,000 --> 00:51:30,000
+So we got razor wings here.
+
+1050
+00:51:30,000 --> 00:51:32,000
+The damage is going up a bit.
+
+1051
+00:51:32,000 --> 00:51:36,000
+And also razor wings used to have actually a set cooldown between casts.
+
+1052
+00:51:36,000 --> 00:51:38,000
+And now we removed that cooldown.
+
+1053
+00:51:38,000 --> 00:51:43,000
+So now you can actually cast razor wings faster as you build a tax speed like all other skills in the game.
+
+1054
+00:51:43,000 --> 00:51:46,000
+We also did some small buffs to withering fist.
+
+1055
+00:51:46,000 --> 00:51:53,000
+The poison damage went up, the slow went up, and one of the upgrades will now spread to more targets when you use it.
+
+1056
+00:51:53,000 --> 00:51:58,000
+And then we also got some buffs to toxic skin, which isn't really seen much play by players.
+
+1057
+00:51:58,000 --> 00:52:05,000
+We basically just did some small buffs to establish both baseline, the enhancement and one of the upgrades to the variance of it.
+
+1058
+00:52:06,000 --> 00:52:10,000
+And these are mostly just on the skills that people aren't actually using right now.
+
+1059
+00:52:10,000 --> 00:52:13,000
+The correct rule is until like make the spirit form even stronger.
+
+1060
+00:52:13,000 --> 00:52:16,000
+No, these are, this is tuning within the builds of the most.
+
+1061
+00:52:16,000 --> 00:52:22,000
+We're most definitely saying Chad and they're like, wait, spirit form buffs and it's like these are like skills that really no one is using.
+
+1062
+00:52:22,000 --> 00:52:23,000
+So we want to make sure that.
+
+1063
+00:52:23,000 --> 00:52:24,000
+I mean, that's cool.
+
+1064
+00:52:24,000 --> 00:52:25,000
+There you are.
+
+1065
+00:52:25,000 --> 00:52:26,000
+Yeah, cool.
+
+1066
+00:52:26,000 --> 00:52:28,000
+Most certainly need spots apparently.
+
+1067
+00:52:28,000 --> 00:52:34,000
+No, but it's for things that we just haven't seen a lot of play within spirit form players.
+
+1068
+00:52:34,000 --> 00:52:37,000
+And a lot of players are looking at some of the numbers and they're also.
+
+1069
+00:52:37,000 --> 00:52:40,000
+These are just like baseline numbers on some of these skills.
+
+1070
+00:52:40,000 --> 00:52:49,000
+Obviously, there's a lot of interactions that happen beyond that from tempering to the gear that you have and everything like that that will end up obviously enhancing those even more.
+
+1071
+00:52:49,000 --> 00:53:03,000
+So we're expecting to, as Adam mentioned before, we're not expecting to see the other classes jump up to the same power as the spirit born because the spirit born again is using something unintended interactions right now.
+
+1072
+00:53:03,000 --> 00:53:05,000
+But those will be addressed in season seven.
+
+1073
+00:53:05,000 --> 00:53:11,000
+So with these classes specifically, they will get some additional buffs so that they can stay competitive amongst each other.
+
+1074
+00:53:11,000 --> 00:53:14,000
+They're staying together as a pack but being a little bit stronger here with the mid season.
+
+1075
+00:53:14,000 --> 00:53:25,000
+Yeah, the idea with mid season, this is probably going to be true with most mid season updates is that we're trying to move everything a little closer together and also to set up for the next season where there will be a lot more up people.
+
+1076
+00:53:25,000 --> 00:53:28,000
+Yeah, so we're like prepping everything to be kind of close and then people.
+
+1077
+00:53:28,000 --> 00:53:29,000
+Oh, yeah.
+
+1078
+00:53:30,000 --> 00:53:32,000
+I was like, haha, we're getting ready.
+
+1079
+00:53:32,000 --> 00:53:35,000
+Is that a hint to be a lot more easter egg?
+
+1080
+00:53:35,000 --> 00:53:43,000
+Cool. Awesome. Well, I know we have a, again, Adam had mentioned that this is just a very small.
+
+1081
+00:53:43,000 --> 00:53:44,000
+Yeah, a lot more than just that.
+
+1082
+00:53:44,000 --> 00:53:47,000
+There's a lot more than just what we showed here.
+
+1083
+00:53:47,000 --> 00:53:49,000
+That would be the shortest patch in the summer.
+
+1084
+00:53:49,000 --> 00:53:57,000
+But we do actually have a patch on us coming out later this week that will have all the different class changes and everything with the mid season update.
+
+1085
+00:53:57,000 --> 00:54:07,000
+We do have a few other things that are actually also hitting related to rune words and a thing that a lot of people have been talking about, which is shrine specifically.
+
+1086
+00:54:07,000 --> 00:54:08,000
+Yes.
+
+1087
+00:54:08,000 --> 00:54:09,000
+So we can, we can shrine.
+
+1088
+00:54:09,000 --> 00:54:11,000
+What's wrong with shrines?
+
+1089
+00:54:11,000 --> 00:54:15,000
+What's wrong with the conduit shrine that I don't purposely ignore?
+
+1090
+00:54:15,000 --> 00:54:16,000
+Yeah.
+
+1091
+00:54:16,000 --> 00:54:18,000
+You mean the real curse shrine?
+
+1092
+00:54:18,000 --> 00:54:19,000
+There you go.
+
+1093
+00:54:19,000 --> 00:54:21,000
+Alright, jumping into rune words first.
+
+1094
+00:54:21,000 --> 00:54:23,000
+We are doing some tuning changes to rune words.
+
+1095
+00:54:23,000 --> 00:54:27,000
+I will tease a little bit that we do have some more impactful changes coming in season seven.
+
+1096
+00:54:27,000 --> 00:54:29,000
+So tune in next week for them.
+
+1097
+00:54:29,000 --> 00:54:34,000
+But in the meantime, we did do some room word buffs to ones that aren't being used as much mostly by lower in offering costs.
+
+1098
+00:54:34,000 --> 00:54:35,000
+Some examples here.
+
+1099
+00:54:35,000 --> 00:54:36,000
+We got the moaning rune word.
+
+1100
+00:54:36,000 --> 00:54:40,000
+The offering that you get is increased from 25 to 35.
+
+1101
+00:54:40,000 --> 00:54:46,000
+The all who rune word, the offering is being increased a lot from 10 to 25 when hitting injured enemies.
+
+1102
+00:54:46,000 --> 00:54:47,000
+And then I'm just going to butcher it.
+
+1103
+00:54:47,000 --> 00:54:50,000
+I don't know how to say it, but the sad rune word.
+
+1104
+00:54:50,000 --> 00:54:53,000
+The wolf spirits are now always going to be unhindered.
+
+1105
+00:54:53,000 --> 00:54:59,000
+We often run into issues where companions and things like that have trouble getting to enemies, but since they're spirits.
+
+1106
+00:54:59,000 --> 00:55:01,000
+So why would other things get in the way?
+
+1107
+00:55:01,000 --> 00:55:05,000
+Now they'll always be moving through enemies and getting into their targets a lot quicker.
+
+1108
+00:55:05,000 --> 00:55:10,000
+And then shrines heard some feedback that they don't really scale too well.
+
+1109
+00:55:10,000 --> 00:55:19,000
+So the artillery, blast wave and conduit shrines will now deal more damage and they're going to scale with you based on your level and your paragon level.
+
+1110
+00:55:19,000 --> 00:55:25,000
+So as you level up, as you get stronger, the shrines will be getting more potent with you.
+
+1111
+00:55:25,000 --> 00:55:27,000
+We're going to kind of test it.
+
+1112
+00:55:27,000 --> 00:55:28,000
+You know, let us know how it goes.
+
+1113
+00:55:28,000 --> 00:55:31,000
+See if you actually enjoy getting them and want to get them now.
+
+1114
+00:55:31,000 --> 00:55:39,000
+We do see some room maybe to do some more things above them further if needed, but we're going to be trying this as a first step to see how it goes.
+
+1115
+00:55:39,000 --> 00:55:47,000
+Yeah, I know we've heard from a lot of people about like, especially as you get to the later levels and your towards end game in tournament four.
+
+1116
+00:55:47,000 --> 00:55:57,000
+And a conduit trying to pierce and it's like, don't touch it because maybe that will make things slower, which it currently typically does for a lot of players, especially spirit form players.
+
+1117
+00:55:57,000 --> 00:56:01,000
+So it's cool to see updates of these shrines.
+
+1118
+00:56:01,000 --> 00:56:05,000
+And then again, like feedback is really important for us to know like, hey, do we hit the mark?
+
+1119
+00:56:05,000 --> 00:56:09,000
+Do we need to do additional things or do we need to tweak anything?
+
+1120
+00:56:09,000 --> 00:56:14,000
+So let us know after you guys get a chance to check out the new adjustments to the shrines.
+
+1121
+00:56:14,000 --> 00:56:17,000
+So that'll be really important for us.
+
+1122
+00:56:17,000 --> 00:56:19,000
+Some other things that are coming down the line.
+
+1123
+00:56:19,000 --> 00:56:27,000
+We do have some in-game specific events and items that we'll be hitting here in the coming weeks.
+
+1124
+00:56:27,000 --> 00:56:30,000
+Weeks is a little bit after mid season update.
+
+1125
+00:56:30,000 --> 00:56:39,000
+We do actually have another, we're bringing back the Red Cloak Horror, which is part of the mid-winner blight event that we had last year.
+
+1126
+00:56:39,000 --> 00:56:45,000
+And we'll actually have a blog that details all the benefits and rewards out of this.
+
+1127
+00:56:45,000 --> 00:56:55,000
+It's like XP benefits, of course, that do come with this specifically, which is really great to have on top of another event that's coming, which is Mother's Blessing.
+
+1128
+00:56:56,000 --> 00:56:59,000
+And Mother's Blessing will also be, we'll have that in the blog.
+
+1129
+00:56:59,000 --> 00:57:02,000
+That blog is going to be hitting on Thursday, I believe.
+
+1130
+00:57:02,000 --> 00:57:05,000
+So keep an eye out for eternal players.
+
+1131
+00:57:05,000 --> 00:57:15,000
+We also have a cool little thing, like kind of like a welcome back booster type of event for them or maybe it's not an event.
+
+1132
+00:57:15,000 --> 00:57:20,000
+I don't know how to coin it, but like Colin, what does that entail?
+
+1133
+00:57:20,000 --> 00:57:24,000
+Yeah, so we wanted to put together just something to get you back into the action.
+
+1134
+00:57:24,000 --> 00:57:29,000
+I know part of X1 ended up sort of marking a bunch of items as legacy.
+
+1135
+00:57:29,000 --> 00:57:32,000
+So we just wanted to give everyone a one time booster to come back.
+
+1136
+00:57:32,000 --> 00:57:35,000
+We're going to level you to 50. We'll give you a build that we've made.
+
+1137
+00:57:35,000 --> 00:57:38,000
+We've made three different ones per class. You'll be able to use it.
+
+1138
+00:57:38,000 --> 00:57:46,000
+I'm sure everyone watching probably doesn't care, but we have, you will care about this if you haven't done this, is we're going to unlock all the altars of Lilith as part of that boost.
+
+1139
+00:57:46,000 --> 00:57:52,000
+So if you log in and just use it and you haven't got all your altars for free, you need to get it for free.
+
+1140
+00:57:52,000 --> 00:57:58,000
+If you're a based game, Diablo IV owner, you'll end up getting, I believe, one of those boosts.
+
+1141
+00:57:58,000 --> 00:58:03,000
+And then if you're a vessel of hatred, you'll end up getting two of those boosts on eternal characters, which is kind of cool.
+
+1142
+00:58:03,000 --> 00:58:13,000
+So if you want to jump back in or anything, especially after the changes with, there goes my earpiece.
+
+1143
+00:58:13,000 --> 00:58:17,000
+I've been fumbling it with it all day and now it's gone.
+
+1144
+00:58:17,000 --> 00:58:25,000
+But I know a lot of players specifically with season six jumping back in, they notice as you mentioned, a lot of the gear went to legacy gear.
+
+1145
+00:58:25,000 --> 00:58:28,000
+So this kind of gives them a way of being able to kind of recover some of that.
+
+1146
+00:58:28,000 --> 00:58:30,000
+Yeah, refreshes it exactly.
+
+1147
+00:58:30,000 --> 00:58:38,000
+And then I believe we also have a, another free trial coming up for any new players that want to check out at the Spirit Board.
+
+1148
+00:58:38,000 --> 00:58:44,000
+And the Spirit Board will actually be part of the free trial and that will be coming up here in the coming weeks.
+
+1149
+00:58:44,000 --> 00:58:48,000
+And so all this will be in a blog on Thursday, which is really cool.
+
+1150
+00:58:48,000 --> 00:58:53,000
+And then of course, as we mentioned at the start of the show, we have another stream next week.
+
+1151
+00:58:53,000 --> 00:59:00,000
+We'll actually have a date for the stream later this week for players so that you guys can keep an eye out for that.
+
+1152
+00:59:00,000 --> 00:59:06,000
+But that is our patch 2.1 PTR stream and that one will be pretty beefy.
+
+1153
+00:59:06,000 --> 00:59:13,000
+We have a lot to talk about regarding patch 2.1 and of course everything that's going to be coming with season seven.
+
+1154
+00:59:13,000 --> 00:59:15,000
+We are super stoked for that.
+
+1155
+00:59:15,000 --> 00:59:20,000
+It's the stream again will be a little early because of the Thanksgiving holiday.
+
+1156
+00:59:20,000 --> 00:59:22,000
+So a little bit earlier than when PTR is going to start.
+
+1157
+00:59:22,000 --> 00:59:27,000
+We do plan on having those notes available for players before the Thanksgiving holiday.
+
+1158
+00:59:27,000 --> 00:59:31,000
+And then I would expect that PTR to start after the Thanksgiving holiday.
+
+1159
+00:59:31,000 --> 00:59:39,000
+So when everyone is back in post holiday and is able to monitor and see how everything is going with PTR taking the feedback.
+
+1160
+00:59:39,000 --> 00:59:41,000
+So we'll have a stream next week.
+
+1161
+00:59:41,000 --> 00:59:46,000
+You'll see of course some of us back on the stream next week for that.
+
+1162
+00:59:46,000 --> 00:59:56,000
+And I believe we'll be joined by Mr. Dan Tangue again who will be in Albany and chiming in on all the stuff that's coming with season seven and patch 2.1.
+
+1163
+00:59:56,000 --> 01:00:00,000
+So lots of big changes coming specifically with that.
+
+1164
+01:00:00,000 --> 01:00:04,000
+I know we do want to jump into some Q&A really quickly.
+
+1165
+01:00:04,000 --> 01:00:07,000
+So if you guys have any questions, we have Chad enabled on Twitch.
+
+1166
+01:00:07,000 --> 01:00:09,000
+So it twitch.tv slash Diablo.
+
+1167
+01:00:09,000 --> 01:00:11,000
+If you're watching on other channels and stuff like that.
+
+1168
+01:00:11,000 --> 01:00:14,000
+That's where we do take in specific questions.
+
+1169
+01:00:14,000 --> 01:00:16,000
+But feel free to drop in any questions.
+
+1170
+01:00:16,000 --> 01:00:18,000
+We'll try to get through as many as we can here.
+
+1171
+01:00:18,000 --> 01:00:21,000
+Again, this is just kind of an abbreviated stream for the mid season update.
+
+1172
+01:00:21,000 --> 01:00:23,000
+And we'll be back in a week.
+
+1173
+01:00:23,000 --> 01:00:24,000
+Next week.
+
+1174
+01:00:24,000 --> 01:00:25,000
+Yeah.
+
+1175
+01:00:25,000 --> 01:00:27,000
+I get it.
+
+1176
+01:00:27,000 --> 01:00:29,000
+We took a little bit of a break from streaming.
+
+1177
+01:00:29,000 --> 01:00:30,000
+So it kind of makes sense.
+
+1178
+01:00:30,000 --> 01:00:32,000
+So that will be we'll be back pretty quickly.
+
+1179
+01:00:32,000 --> 01:00:36,000
+But I know our first question that we have is related to ancestral items.
+
+1180
+01:00:36,000 --> 01:00:39,000
+We get a lot of questions about ancestral items.
+
+1181
+01:00:39,000 --> 01:00:40,000
+I've seen a lot of questions.
+
+1182
+01:00:40,000 --> 01:00:41,000
+Oh, this earpiece is driving.
+
+1183
+01:00:41,000 --> 01:00:42,000
+Not.
+
+1184
+01:00:42,000 --> 01:00:44,000
+Question number one.
+
+1185
+01:00:44,000 --> 01:00:46,000
+Adam, fix your earpiece.
+
+1186
+01:00:46,000 --> 01:00:49,000
+There's a plant right here which you guys can't see.
+
+1187
+01:00:49,000 --> 01:00:51,000
+So I'm like having to read the screen.
+
+1188
+01:00:51,000 --> 01:00:53,000
+Any updates and ancestral items.
+
+1189
+01:00:53,000 --> 01:00:56,000
+Do you guys have any updates or news to share regarding that?
+
+1190
+01:00:56,000 --> 01:01:01,000
+Yeah, I know we saw a lot of confusion in terms of maxing out a lot of the codex of power.
+
+1191
+01:01:01,000 --> 01:01:09,000
+In x1, we actually added roughly what we call ranks five ranks to a lot of the legendary aspects that were ancestral only.
+
+1192
+01:01:09,000 --> 01:01:11,000
+And I know that caused a lot of confusion.
+
+1193
+01:01:11,000 --> 01:01:17,000
+So currently how it works is ancestral items have a higher upper bounds on the rank that you can achieve for that aspect.
+
+1194
+01:01:17,000 --> 01:01:22,000
+And we have seen quite a bit of people struggling to max out their aspects.
+
+1195
+01:01:22,000 --> 01:01:25,000
+Generally that was the goal is that we do want to grind.
+
+1196
+01:01:25,000 --> 01:01:29,000
+Like we think it's good that you can sort of get an aspect right away.
+
+1197
+01:01:29,000 --> 01:01:33,000
+But we like that once you have that play style assembled, we still want things that you need to work on.
+
+1198
+01:01:33,000 --> 01:01:36,000
+That being said, we think it's a little bit too aggressive right now.
+
+1199
+01:01:36,000 --> 01:01:42,000
+So we are going to be making some changes which we will detail next week in terms of how that actually works.
+
+1200
+01:01:42,000 --> 01:01:48,000
+But just know that currently ancestral items are the sort of where you find the max rank of a lot of those aspects.
+
+1201
+01:01:48,000 --> 01:01:53,000
+But you can still find them on anything else that isn't ancestral the lower version.
+
+1202
+01:01:53,000 --> 01:02:00,000
+Yeah. I know as Emma will be talking more about ancestral items next week.
+
+1203
+01:02:00,000 --> 01:02:01,000
+Yeah, specifically.
+
+1204
+01:02:01,000 --> 01:02:02,000
+Yeah, the drought.
+
+1205
+01:02:02,000 --> 01:02:04,000
+Yeah, a lot of stuff regarding that.
+
+1206
+01:02:04,000 --> 01:02:07,000
+Is there any plans?
+
+1207
+01:02:07,000 --> 01:02:12,000
+This is taking a few questions from the forums and of course chat because we did post this on the forums beforehand.
+
+1208
+01:02:13,000 --> 01:02:20,000
+Erza from the forum says, can we get boss materials to stack like runes or maybe even higher?
+
+1209
+01:02:20,000 --> 01:02:22,000
+Are there any plans for something like that?
+
+1210
+01:02:22,000 --> 01:02:24,000
+Yeah, we are looking into it.
+
+1211
+01:02:24,000 --> 01:02:29,000
+There's things on the our side in terms of like storage and doping that we're a little bit worried about.
+
+1212
+01:02:29,000 --> 01:02:34,000
+But we're looking at making a change some some time in the longer future.
+
+1213
+01:02:35,000 --> 01:02:45,000
+Question from a couple people like our art angel 890 and drag not going to drag and drag drag some drag and nudge.
+
+1214
+01:02:45,000 --> 01:02:53,000
+Says any chances that you guys will potentially change like XP gain, maybe the growth to paragon 300.
+
+1215
+01:02:53,000 --> 01:02:58,000
+Is there any plans on maybe making adjustments or tuning specifically on that?
+
+1216
+01:02:58,000 --> 01:03:03,000
+Currently not at the moment. I think it's something we're monitoring though in terms of the feedback.
+
+1217
+01:03:03,000 --> 01:03:12,000
+We do like that you can get just about everything within the first 200 paragon levels and everything from there has a pretty steep diminishing return in terms of power.
+
+1218
+01:03:12,000 --> 01:03:23,000
+So what we don't want to say to you all is like you need to grind 200 hours to unlock your build and do all the things that are sort of play style defining which we define as like the sort of glyphs and the legendary notes.
+
+1219
+01:03:23,000 --> 01:03:29,000
+So we've seen actually a lot of positive feedback that like you can get your build online and that you still have something to work towards.
+
+1220
+01:03:29,000 --> 01:03:40,000
+The sooner we sort of short circuit that paragon grind the more we sort of get back to that pre expansion one state where you just don't get anything from killing monsters because you're paragon 300 in the first two weekend.
+
+1221
+01:03:40,000 --> 01:03:45,000
+So currently you know we're looking at monitoring it and we're super open to the feedback.
+
+1222
+01:03:45,000 --> 01:03:47,000
+But so far we've seen a good amount of positivity around.
+
+1223
+01:03:47,000 --> 01:03:58,000
+I think it's kind of in line with what you're talking about with the legendary powers right now like those last five ranks are on and Cesar items only and so our idea is like we want you to get your build online and play the way you want.
+
+1224
+01:03:58,000 --> 01:04:01,000
+Yeah within a pretty you know pretty quickly or whatever.
+
+1225
+01:04:01,000 --> 01:04:07,000
+But then you have something to work towards incrementally to become stronger and stronger and that we're okay with taking a long time.
+
+1226
+01:04:07,000 --> 01:04:08,000
+Totally.
+
+1227
+01:04:08,000 --> 01:04:10,000
+As long as it's not like cutting you off from the build at all.
+
+1228
+01:04:10,000 --> 01:04:18,000
+Yeah it's about getting you into the fun and like making sure that your build is blasting but you have things to sort of use that full to blast for.
+
+1229
+01:04:18,000 --> 01:04:25,000
+Yeah and I think there's like the other thing that people are probably forgetting about is like we do have these events coming up and stuff which also benefit.
+
+1230
+01:04:25,000 --> 01:04:38,000
+We've seen everything like that which will be a good opportunity for players to like people you know if they really want because there as we've seen there are there is a reward for getting to paragon 300 and stuff.
+
+1231
+01:04:38,000 --> 01:04:54,000
+So it allows players that opportunity kind of use those events to be able to boost them we have obviously right code course stuff coming up here and of course we have a mothers blessing so there's opportunities to help with some of that XP based off of those events specifically.
+
+1232
+01:04:54,000 --> 01:05:06,000
+So there is a question regarding like materials again you know can we expect any additional buffs for drop rates on raw hide iron for gun souls anything like that.
+
+1233
+01:05:06,000 --> 01:05:24,000
+Yeah so actually it is in the mid season but we did buff Legion events I know that was a personal favorite of a lot of folks for the mid season for season seven we're taking a look at just sort of buffing the various sources and also really drilling down on like what are the bottlenecks players are having and iterating towards that.
+
+1234
+01:05:24,000 --> 01:05:34,000
+There's no major changes coming in season seven like we're not going to quadruple the amount of materials across the game but it is something again in the spirit of like tightening the things that we have.
+
+1235
+01:05:34,000 --> 01:05:43,000
+We are actively looking at a lot of the material inflows and outflows and we want to give you the tools to sort of get the materials that you're looking for.
+
+1236
+01:05:43,000 --> 01:05:59,000
+So what we're trying to do is ensure that there are things that you still care about right and you still want to grind it's still in that spirit of like it's walking that fine line of their things to work towards without it feeling super tedious so that's what we're trying to tighten and work towards.
+
+1237
+01:05:59,000 --> 01:06:28,000
+There is a question regarding do you have this from Remster Ma says do you have any plans and start bringing in new mid season mechanics I think for that more so I would expect like larger mechanics content changes and stuff like that to happen around new seasons as opposed to a mid season update I think we look at taking mid season updates making tweaks to you know balance item.
+
+1238
+01:06:29,000 --> 01:06:34,000
+So we're going to have to do some of these new mid seasons and we're going to do some new seasons.
+
+1239
+01:06:34,000 --> 01:06:41,000
+So if we're going to do some of these new mid seasons or anything that we're hearing feedback from.
+
+1240
+01:06:41,000 --> 01:06:49,000
+I said that we can spend most of our you know concentration focus on really putting in some of these new work type of content pieces around new season specifically.
+
+1241
+01:06:49,000 --> 01:07:00,000
+Things but we're really putting all our books like bigger up heavals you know larger changes lots of new stuff into the beginning of the season so next week will be pretty exciting we got a lot new stuff coming in.
+
+1242
+01:07:00,000 --> 01:07:05,000
+But that's where we're kind of targeting that to make that kind of a big moment and exciting time to come back and play.
+
+1243
+01:07:05,000 --> 01:07:16,000
+There is a question from casual drag in regarding under city drops and asking is there any plans to potentially fix those make those better specifically on that end.
+
+1244
+01:07:16,000 --> 01:07:29,000
+Yeah so this sort of leads into there are some ancestral draw for a change is the one to talk about next week but in general what that'll mean is all the loot across the game generally get better so it is something that we're working on.
+
+1245
+01:07:29,000 --> 01:07:36,000
+I'm about to take this earpiece and throw it across the room because it just keeps popping out and it's driving me insane.
+
+1246
+01:07:36,000 --> 01:07:58,000
+That's a question from Pesradar the any question from thin a thin a fan am dar says Diablo any at Diablo any stability fixes coming and seeing a whole lot more crashes since the last couple patches I will say that we've been monitor we can actually see whenever a play.
+
+1247
+01:07:58,000 --> 01:08:27,000
+We can actually see whenever a player actually crashes we we know it we get logs from it on our end I know that the engineering team here has been doing a ton of work on working to get the game more stable you've probably seen a bunch of different small climb patches go out we actually just reenabled like DLSS in a climb patch that went out yesterday there are additional changes and more reviewing that's being done.
+
+1248
+01:08:27,000 --> 01:08:52,000
+From our side to ensure that you know the game is running very stable so expect to see more of that as we get through this season of course into next season because our goal is to make sure you know baseline everyone can jump in without any of these types of issues and everything and shout out to our engineering team I know they've been working long and hard on figuring all this stuff out they've been that's like their top priority right.
+
+1249
+01:08:52,000 --> 01:09:12,000
+They actually behind the scenes we even collaborate with them a lot on doing various things related to game performance under the hood like making skills cleaner making interactions cleaner like we're constantly doing stuff to make the game run smoother in the background pretty much every patch like we're fixing multiple things so it's definitely something that we're we're always working on actively.
+
+1250
+01:09:12,000 --> 01:09:22,000
+Why so blue panda bear any chance on tempering schools can use more than once investing time to finally get a rare drop and and it bricks kind of doesn't feel too great.
+
+1251
+01:09:22,000 --> 01:09:40,000
+Any thoughts on tempering schools how that's been going yeah I think it's definitely something we hear a lot of feedback on and it's something that you know we were sort of taking incremental approach right like with the X one or the expansion one changes we made it so that a lot of recipes are three.
+
+1252
+01:09:40,000 --> 01:10:01,000
+We also added of course the scroll of tempering or restoration and expansion one to see how that sort of changes things so we're just really taking a measured approach if we see still there's a lot of feedback that it just still isn't hitting that mark we're absolutely open to changing things like potentially letting it be used more than once and we're just sort of monitoring at this point.
+
+1253
+01:10:02,000 --> 01:10:07,000
+We are getting questions about the armory stay tune.
+
+1254
+01:10:07,000 --> 01:10:21,000
+TM soon TM will we'll we'll have information as you guys know that that has been in development something that we've already confirmed about I will be talking more about it here soon TM so.
+
+1255
+01:10:21,000 --> 01:10:50,000
+Yeah your eyes peel is that that is that the term keep your eyes peeled I don't know I there's a saying that you know stay tuned I don't know last question here that we have before we we head off is a holes transition says well dance and eyes get buffs and any changes to be more compatible with collecting loot like opening doors etc you know when you're when you're going you're spending to win with your knives and stuff is there anyway.
+
+1256
+01:10:50,000 --> 01:11:07,000
+Are any plans of potentially having them seamlessly move around around a dungeon or something like that from nothing on my radar right now but that's a good note to take it's a good to know today row is want to spend away.
+
+1257
+01:11:07,000 --> 01:11:19,000
+I never I know you have to do all this set up in snapshot and then you have to like open the door so we do know the thing yeah so we'll see well it's been stay tuned it's it's another thing to stay tuned so.
+
+1258
+01:11:19,000 --> 01:11:48,000
+Again thanks again everyone for for jumping in providing questions and everything from from our end we will have patch notes later this week so stay tuned for that the blogs for mothers blessing the workload or our eternal boost off everything will be out on Thursday so also check out for that blog mid season update hits next week so patch notes will be out before the mid season update and you guys will also hear about the
+
+1259
+01:11:48,000 --> 01:12:17,000
+stream date next week for the patch 2.1 ptr so we'll be talking a whole bunch that will be another beefy streams yeah I know that one's going to be a little bit more beefy than this one but look at us two streams in two weeks we're about to do it so we will see you guys next week again huge thanks to Colin Adam for joining us are our wonderful mini cos right over here super awesome super cute love you Aaron so but I'm sure you're going to be able to do it.
+
+1260
+01:12:17,000 --> 01:12:28,000
+But thank you guys we'll see you guys next week for our patch 2.1 ptr stream and yeah check out the blogs and patch notes later this week see you guys.
+
+1261
+01:13:17,000 --> 01:13:19,000
+you
+

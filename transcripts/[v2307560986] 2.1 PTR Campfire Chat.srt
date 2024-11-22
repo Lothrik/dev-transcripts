@@ -1,0 +1,3424 @@
+1
+00:01:00,000 --> 00:01:02,000
+I'm going to go to the next room.
+
+2
+00:01:02,000 --> 00:01:04,000
+I'm going to go to the next room.
+
+3
+00:01:04,000 --> 00:01:06,000
+I'm going to go to the next room.
+
+4
+00:01:06,000 --> 00:01:08,000
+I'm going to go to the next room.
+
+5
+00:01:08,000 --> 00:01:10,000
+I'm going to go to the next room.
+
+6
+00:01:10,000 --> 00:01:12,000
+I'm going to go to the next room.
+
+7
+00:01:12,000 --> 00:01:14,000
+I'm going to go to the next room.
+
+8
+00:01:14,000 --> 00:01:16,000
+I'm going to go to the next room.
+
+9
+00:01:16,000 --> 00:01:18,000
+I'm going to go to the next room.
+
+10
+00:01:18,000 --> 00:01:20,000
+I'm going to go to the next room.
+
+11
+00:01:20,000 --> 00:01:22,000
+I'm going to go to the next room.
+
+12
+00:01:22,000 --> 00:01:24,000
+I'm going to go to the next room.
+
+13
+00:01:24,000 --> 00:01:26,000
+I'm going to go to the next room.
+
+14
+00:01:26,000 --> 00:01:28,000
+I'm going to go to the next room.
+
+15
+00:01:28,000 --> 00:01:30,000
+I'm going to go to the next room.
+
+16
+00:01:30,000 --> 00:01:32,000
+I'm going to go to the next room.
+
+17
+00:01:32,000 --> 00:01:34,000
+I'm going to go to the next room.
+
+18
+00:01:34,000 --> 00:01:36,000
+I'm going to go to the next room.
+
+19
+00:01:36,000 --> 00:01:38,000
+I'm going to go to the next room.
+
+20
+00:01:38,000 --> 00:01:40,000
+I'm going to go to the next room.
+
+21
+00:01:40,000 --> 00:01:42,000
+I'm going to go to the next room.
+
+22
+00:01:42,000 --> 00:01:44,000
+I'm going to go to the next room.
+
+23
+00:01:44,000 --> 00:01:46,000
+I'm going to go to the next room.
+
+24
+00:01:46,000 --> 00:01:48,000
+I'm going to go to the next room.
+
+25
+00:01:48,000 --> 00:01:50,000
+I'm going to go to the next room.
+
+26
+00:01:50,000 --> 00:01:52,000
+I'm going to go to the next room.
+
+27
+00:01:52,000 --> 00:01:54,000
+I'm going to go to the next room.
+
+28
+00:01:54,000 --> 00:01:56,000
+I'm going to go to the next room.
+
+29
+00:01:56,000 --> 00:01:58,000
+I'm going to go to the next room.
+
+30
+00:01:58,000 --> 00:02:00,000
+I'm going to go to the next room.
+
+31
+00:02:00,000 --> 00:02:02,000
+I'm going to go to the next room.
+
+32
+00:02:02,000 --> 00:02:04,000
+I'm going to go to the next room.
+
+33
+00:02:04,000 --> 00:02:06,000
+I'm going to go to the next room.
+
+34
+00:02:06,000 --> 00:02:08,000
+I'm going to go to the next room.
+
+35
+00:02:08,000 --> 00:02:10,000
+I'm going to go to the next room.
+
+36
+00:02:10,000 --> 00:02:12,000
+I'm going to go to the next room.
+
+37
+00:02:12,000 --> 00:02:14,000
+I'm going to go to the next room.
+
+38
+00:02:14,000 --> 00:02:16,000
+I'm going to go to the next room.
+
+39
+00:02:16,000 --> 00:02:18,000
+I'm going to go to the next room.
+
+40
+00:02:18,000 --> 00:02:20,000
+I'm going to go to the next room.
+
+41
+00:02:20,000 --> 00:02:22,000
+I'm going to go to the next room.
+
+42
+00:02:22,000 --> 00:02:24,000
+I'm going to go to the next room.
+
+43
+00:02:24,000 --> 00:02:26,000
+I'm going to go to the next room.
+
+44
+00:02:26,000 --> 00:02:28,000
+I'm going to go to the next room.
+
+45
+00:02:28,000 --> 00:02:30,000
+I'm going to go to the next room.
+
+46
+00:02:30,000 --> 00:02:32,000
+I'm going to go to the next room.
+
+47
+00:02:32,000 --> 00:02:34,000
+I'm going to go to the next room.
+
+48
+00:02:34,000 --> 00:02:36,000
+I'm going to go to the next room.
+
+49
+00:02:36,000 --> 00:02:38,000
+I'm going to go to the next room.
+
+50
+00:02:38,000 --> 00:02:40,000
+I'm going to go to the next room.
+
+51
+00:02:40,000 --> 00:02:42,000
+I'm going to go to the next room.
+
+52
+00:02:42,000 --> 00:02:44,000
+I'm going to go to the next room.
+
+53
+00:02:44,000 --> 00:02:46,000
+I'm going to go to the next room.
+
+54
+00:02:46,000 --> 00:02:48,000
+I'm going to go to the next room.
+
+55
+00:02:48,000 --> 00:02:50,000
+I'm going to go to the next room.
+
+56
+00:02:50,000 --> 00:02:52,000
+I'm going to go to the next room.
+
+57
+00:02:52,000 --> 00:02:54,000
+I'm going to go to the next room.
+
+58
+00:02:54,000 --> 00:02:56,000
+I'm going to go to the next room.
+
+59
+00:02:56,000 --> 00:02:58,000
+I'm going to go to the next room.
+
+60
+00:02:58,000 --> 00:03:00,000
+I'm going to go to the next room.
+
+61
+00:03:00,000 --> 00:03:02,000
+I'm going to go to the next room.
+
+62
+00:03:02,000 --> 00:03:04,000
+I'm going to go to the next room.
+
+63
+00:03:04,000 --> 00:03:06,000
+I'm going to go to the next room.
+
+64
+00:03:06,000 --> 00:03:08,000
+I'm going to go to the next room.
+
+65
+00:03:08,000 --> 00:03:10,000
+I'm going to go to the next room.
+
+66
+00:03:10,000 --> 00:03:12,000
+I'm going to go to the next room.
+
+67
+00:03:12,000 --> 00:03:14,000
+I'm going to go to the next room.
+
+68
+00:03:14,000 --> 00:03:16,000
+I'm going to go to the next room.
+
+69
+00:03:16,000 --> 00:03:18,000
+I'm going to go to the next room.
+
+70
+00:03:18,000 --> 00:03:20,000
+I'm going to go to the next room.
+
+71
+00:03:20,000 --> 00:03:22,000
+I'm going to go to the next room.
+
+72
+00:03:22,000 --> 00:03:24,000
+I'm going to go to the next room.
+
+73
+00:03:24,000 --> 00:03:28,000
+I have to say, it just went way beyond my expectation.
+
+74
+00:03:28,000 --> 00:03:32,000
+It's like nothing that we had in D4.
+
+75
+00:03:32,000 --> 00:03:34,000
+Pure hatred. They're Mifisto's army.
+
+76
+00:03:34,000 --> 00:03:38,000
+They're one of them to feel a little bit more different from your typical demon family.
+
+77
+00:03:38,000 --> 00:03:40,000
+Everyone's quality was top notch.
+
+78
+00:03:40,000 --> 00:03:42,000
+But at the time, we didn't know if it was going to work.
+
+79
+00:03:42,000 --> 00:03:46,000
+I think what we landed is going to turn some heads.
+
+80
+00:03:46,000 --> 00:03:48,000
+This is not your normal thing.
+
+81
+00:03:48,000 --> 00:03:50,000
+It's like a living form of hatred.
+
+82
+00:03:50,000 --> 00:04:00,000
+The new monster class that we could introduce.
+
+83
+00:04:00,000 --> 00:04:02,000
+They're called Hallows.
+
+84
+00:04:02,000 --> 00:04:06,000
+These Hallows have actually been around for like millennia.
+
+85
+00:04:06,000 --> 00:04:10,000
+Mifisto at some point did go to Nahonto a long, long, long time ago.
+
+86
+00:04:10,000 --> 00:04:16,000
+And these Hallows were a reaction of Mifisto being in Nahonto at the time.
+
+87
+00:04:16,000 --> 00:04:18,000
+And then they went dormant.
+
+88
+00:04:18,000 --> 00:04:20,000
+To to to to.
+
+89
+00:04:20,000 --> 00:04:28,000
+Bringing Mifisto in the Soul Stone seems like the right thing to do for an A-Rail.
+
+90
+00:04:28,000 --> 00:04:32,000
+But it has a chain reaction that I don't think anybody was prepared for.
+
+91
+00:04:32,000 --> 00:04:38,000
+The Hallows are really rife throughout Nahonto.
+
+92
+00:04:38,000 --> 00:04:44,000
+Now that Mifisto is back and just visually, like, horribly discussed,
+
+93
+00:04:44,000 --> 00:04:48,000
+sort of made up of the things that have been consumed by the Hallows.
+
+94
+00:04:48,000 --> 00:04:54,000
+Yeah, they're an extension of evil, infecting wildlife and other monsters.
+
+95
+00:04:54,000 --> 00:05:00,000
+And people with this thing called Icarr and they're just sort of going mad.
+
+96
+00:05:00,000 --> 00:05:08,000
+When we're designing the Hallows, the main thing that we wanted to push was just
+
+97
+00:05:08,000 --> 00:05:12,000
+if hatred came to life, what would it look like?
+
+98
+00:05:12,000 --> 00:05:20,000
+Just black goo that's kind of, like, formless, but also have this red anger energy inside of it.
+
+99
+00:05:20,000 --> 00:05:24,000
+And then with concept, we just want to make, you know, cool monsters.
+
+100
+00:05:24,000 --> 00:05:28,000
+What if it's three legs, what if it's no legs, what if it has like three arms?
+
+101
+00:05:28,000 --> 00:05:32,000
+So we pushed a lot of, like, options and exploration.
+
+102
+00:05:32,000 --> 00:05:36,000
+And then from then on, like, everyone from narrative to design and concept
+
+103
+00:05:36,000 --> 00:05:44,000
+would talk about it and say, okay, we like this one and then we can push it and move further.
+
+104
+00:05:44,000 --> 00:05:48,000
+The Hallows family is made up of four members.
+
+105
+00:05:48,000 --> 00:05:52,000
+The swarmer, the spitter, the caster, and the broods.
+
+106
+00:05:52,000 --> 00:05:58,000
+A big thing for me was that the family need to be overwhelming without just relying on pure numbers.
+
+107
+00:05:58,000 --> 00:06:02,000
+So they're going to get stronger over time if you let them fester.
+
+108
+00:06:02,000 --> 00:06:04,000
+They're their hatred after all.
+
+109
+00:06:04,000 --> 00:06:09,000
+The swarmer can teleport and attack you from behind, on the sides.
+
+110
+00:06:09,000 --> 00:06:12,000
+The spitter is a slug with legs.
+
+111
+00:06:12,000 --> 00:06:16,000
+They spew out this vomit stream of goo.
+
+112
+00:06:16,000 --> 00:06:19,000
+The root is the big hulking slow guy of the family.
+
+113
+00:06:19,000 --> 00:06:23,000
+He has the shields that's buffing and making the rest of the army stronger.
+
+114
+00:06:23,000 --> 00:06:27,000
+The caster is responsible for creating new swarmers.
+
+115
+00:06:27,000 --> 00:06:32,000
+They also will channel onto a specific hollow and you them with an extra feature.
+
+116
+00:06:32,000 --> 00:06:34,000
+Make them stronger and more deadly.
+
+117
+00:06:34,000 --> 00:06:39,000
+The hollow caster is real serviceman, elegant, hovering, yet menacing,
+
+118
+00:06:39,000 --> 00:06:45,000
+dinging cacti in again, really informed many of our design ideas.
+
+119
+00:06:45,000 --> 00:06:47,000
+We want to make a new variant.
+
+120
+00:06:47,000 --> 00:06:54,000
+We want to know in which specific area we would go into see that character or creature.
+
+121
+00:06:54,000 --> 00:06:57,000
+Readability is like the main focus.
+
+122
+00:06:57,000 --> 00:07:04,000
+We went through several iterations on the design, the textures, the materials, and the camera testing.
+
+123
+00:07:04,000 --> 00:07:08,000
+The day after she gave me like 10 different variations.
+
+124
+00:07:08,000 --> 00:07:11,000
+Now we're after our king.
+
+125
+00:07:11,000 --> 00:07:18,000
+The emission on the spikes really did an awesome job to both on the city vet
+
+126
+00:07:18,000 --> 00:07:21,000
+and also to improve the readability.
+
+127
+00:07:21,000 --> 00:07:26,000
+And in a way, have the version that way were both happy ways.
+
+128
+00:07:26,000 --> 00:07:30,000
+And yeah, handy over to the tech artist.
+
+129
+00:07:30,000 --> 00:07:37,000
+We had some really strong narrative direction in understanding how big of a role hatred played.
+
+130
+00:07:37,000 --> 00:07:42,000
+And we knew that we needed one look to tie it all together.
+
+131
+00:07:42,000 --> 00:07:46,000
+This hatred has one source and it's all about mefisto.
+
+132
+00:07:46,000 --> 00:07:53,000
+For the hollow specifically, we identified that we wanted to do some special work with the materials,
+
+133
+00:07:53,000 --> 00:07:55,000
+with the shaders for those characters.
+
+134
+00:07:55,000 --> 00:08:04,000
+Shaders are the code that runs on the GPU that takes in all sorts of inputs like textures and lighting and position
+
+135
+00:08:04,000 --> 00:08:08,000
+and outputs what the object's surface is supposed to look like.
+
+136
+00:08:08,000 --> 00:08:14,000
+We wanted a shader that was capable of adding this sludge layer, this hatred layer over top of it,
+
+137
+00:08:14,000 --> 00:08:20,000
+and making it dynamic and animating so that it really looks like it was constantly undulating or writhing.
+
+138
+00:08:20,000 --> 00:08:26,000
+So once we had this shader function, we were able to kind of apply that in all these different contexts,
+
+139
+00:08:26,000 --> 00:08:30,000
+like the monsters, like the environment, the character armors even.
+
+140
+00:08:30,000 --> 00:08:38,000
+Most of the shader work was done by Alex, who really took that shader function and made it work in all sorts of different contexts.
+
+141
+00:08:38,000 --> 00:08:46,000
+And we also have the hatred addons to these characters, these tentacles, these writhing hatred growths all over them,
+
+142
+00:08:46,000 --> 00:08:52,000
+which was a procedurally generated process that was largely run by Sky on our team.
+
+143
+00:08:52,000 --> 00:09:00,000
+The Hollows boss was kind of born of this idea of what does a pinnacle hollows really look like.
+
+144
+00:09:00,000 --> 00:09:07,000
+We have the Hollows family and that was pretty well defined by the time that the Hollows boss kind of came up for concepting.
+
+145
+00:09:07,000 --> 00:09:17,000
+Our artist Victor had a lot of cool ideas for horror themes and really wanting to push visuals with contortions and like breaking the neck of this monster all over the place.
+
+146
+00:09:17,000 --> 00:09:25,000
+That's where we had the option to go like, can we push it and really get that idea of what hatred and the Hollows are all about.
+
+147
+00:09:25,000 --> 00:09:33,000
+It's a stinky black hiker that latched on to a once powerful spellcaster.
+
+148
+00:09:33,000 --> 00:09:41,000
+It was such a great source of power that this particular Hollows monster turned into the precess of hatred.
+
+149
+00:09:56,000 --> 00:10:04,000
+I'm Victor Lee, a principal concept artist on the Diablo team and I concepted the precess of hatred.
+
+150
+00:10:04,000 --> 00:10:16,000
+Victor Lee is one of the OGs from Diablo and he's known for creating a lot of dark imagery and every time we want to have a monster boss,
+
+151
+00:10:16,000 --> 00:10:26,000
+he's done all the greats even Diablo himself. One of his monitors on the side of his desk is just like a dark black eye staring at him.
+
+152
+00:10:26,000 --> 00:10:33,000
+And so when we needed something that's pure darkness, we had to tap Victor.
+
+153
+00:10:33,000 --> 00:10:41,000
+I feel like when we're talking about hatred, I kind of imagine visualizing it as like a black webby like a thing.
+
+154
+00:10:41,000 --> 00:10:46,000
+So I thought a spider configuration would work for this.
+
+155
+00:10:46,000 --> 00:10:57,000
+So I did a few variations, some with souls, human souls trapped in the abdomen, it's like a purgatory because this creature consumes humans.
+
+156
+00:10:57,000 --> 00:11:06,000
+I have this nagging feeling for a long time that why I felt it's not working, no matter how interesting the design is,
+
+157
+00:11:07,000 --> 00:11:14,000
+I'm not pushing the boundaries. So I basically rethought the whole thing.
+
+158
+00:11:15,000 --> 00:11:23,000
+A lot of our creatures are just like raw aggression, this is musely and just brutal.
+
+159
+00:11:23,000 --> 00:11:25,000
+Maybe this one is more insidious.
+
+160
+00:11:25,000 --> 00:11:31,000
+What if the human figure is not controlling the hatred, but it's the other way around.
+
+161
+00:11:31,000 --> 00:11:36,000
+Like the hatred is actually marking humanity.
+
+162
+00:11:36,000 --> 00:11:39,000
+It's like dragging a puppet around.
+
+163
+00:11:39,000 --> 00:11:51,000
+So what I did is I kept the human figure as a focal point, but the rest of the creature is this moving mass of basically a ball of hatred.
+
+164
+00:11:52,000 --> 00:11:58,000
+It broke a lot of rules, but I felt I just felt like this just fits.
+
+165
+00:11:58,000 --> 00:12:01,000
+So I went ahead with it and rendered it out.
+
+166
+00:12:08,000 --> 00:12:14,000
+I was looking at the concept for the first time with the designer on the feature Charles,
+
+167
+00:12:14,000 --> 00:12:22,000
+and we were kind of in the stunned silence for a little bit because it was this reaction of this thing is so cool.
+
+168
+00:12:22,000 --> 00:12:27,000
+And then we started thinking, how are we even going to make this thing move?
+
+169
+00:12:28,000 --> 00:12:32,000
+Typically our monsters are bipedal or their quadrupeds.
+
+170
+00:12:32,000 --> 00:12:35,000
+How is it going to move? We can't rely on walk cycles anymore.
+
+171
+00:12:35,000 --> 00:12:40,000
+How is it going to rotate? We can't rely on the built-in rotation stuff without looking weird as hell.
+
+172
+00:12:40,000 --> 00:12:48,000
+It was clear that in order to make this like animate and look natural, we were going to have to pretty much dive into uncharted territory.
+
+173
+00:12:49,000 --> 00:12:52,000
+We wanted it to move in a very unique way.
+
+174
+00:12:52,000 --> 00:13:01,000
+We wanted it to summer-salt through the air and be super unpredictable and zippy and just have like ridiculous animations as those tentacles are flying all over the place.
+
+175
+00:13:01,000 --> 00:13:08,000
+We had that narrative and kind of drive to make it formless and with our conventional rigging that we couldn't do that.
+
+176
+00:13:08,000 --> 00:13:16,000
+We were doing prototyping before the feature even kicked off. Like we were already meeting with animation and tech art to say, hey, we have this thing.
+
+177
+00:13:16,000 --> 00:13:24,000
+We think it's really cool, but we need help figuring this out. So we had a lot of early collaboration, which was really what set us up for success.
+
+178
+00:13:24,000 --> 00:13:33,000
+When the animator came back with it going from post-apost rather than your normal animations, I was like, yes, that's it. That's what hatred should feel like.
+
+179
+00:13:33,000 --> 00:13:43,000
+When you first spine the priestess of hatred, it's going to look like a lifeless human corpse.
+
+180
+00:13:43,000 --> 00:13:47,000
+I mean, like this doesn't look like a boss fight. I'm in a boss arena. What's going on?
+
+181
+00:13:47,000 --> 00:13:58,000
+But as you approach, you see that the body gets pulled into a giant pool of hatred. Then out of that pool of hatred comes this giant mass of tentacles. And that is the boss.
+
+182
+00:13:59,000 --> 00:14:09,000
+So after animation, it gets to come to me. And I get to do all of the really cool visual effects at the end, show what those tentacles are doing when they impact them out.
+
+183
+00:14:09,000 --> 00:14:15,000
+When they slap something, when they hit the player, it really brings the entire thing together.
+
+184
+00:14:16,000 --> 00:14:29,000
+Vomit attack is really gross because there's like this part of the torso of the humanoid that has been kind of hollowed out and now has teeth.
+
+185
+00:14:29,000 --> 00:14:44,000
+The tentacles come out from the mass and they grab the humanoid and kind of pull the body back so that the slit in the belly opens up and all of the hatred just pours out a straight beam. It's pretty gross.
+
+186
+00:14:45,000 --> 00:14:56,000
+The hollows are just such a unique family. From the moment they spawn in on your screen, you can tell that they are different. They have just such unique behaviors and animations.
+
+187
+00:14:56,000 --> 00:15:01,000
+We were able to execute on a vision that's really just so different than what we typically do.
+
+188
+00:15:01,000 --> 00:15:05,000
+The whole process, I need to feel very proud of, our whole team.
+
+189
+00:15:05,000 --> 00:15:11,000
+Everyone just got it. They understood what the monster was. They got the vision and it just worked.
+
+190
+00:15:16,000 --> 00:15:25,000
+The eye on the screen has many functions. It keeps me in the right frame of mind.
+
+191
+00:15:25,000 --> 00:15:36,000
+What we are doing is dark. It should be horrifying. I should feel the fear while I'm doing it. It's a reminder of that.
+
+192
+00:15:36,000 --> 00:15:42,000
+The eye also serves as a warning.
+
+193
+00:15:42,000 --> 00:15:51,000
+Like get moving. Don't dwell too long and wander around. Get this thing moving. Get the work done.
+
+194
+00:16:07,000 --> 00:16:13,000
+Hello Diablo Community. Welcome to another Diablo IV campfire chat with the Creepy Eyeball.
+
+195
+00:16:13,000 --> 00:16:21,000
+This one is our Patch 2.1 PTR campfire chat. I know we were just here last week when we were talking about the midseason update.
+
+196
+00:16:21,000 --> 00:16:27,000
+But this one is kind of like the big one because we're going to be talking about everything coming up Patch 2.1 and season 7.
+
+197
+00:16:27,000 --> 00:16:33,000
+I am joined here by Mr. Colin Feiner. Mr. Charles Dunn. We appeared on prior campfire chats.
+
+198
+00:16:33,000 --> 00:16:39,000
+We were going to have Adam Jackson. He's unfortunately not feeling very well. We hope he gets better soon.
+
+199
+00:16:39,000 --> 00:16:52,000
+We also have another guest here who is live from Albany Blizzard Albany. That is Mr. Dan Tangue, who's going to be talking a little bit as well about what's coming up for Patch 2.1.
+
+200
+00:16:52,000 --> 00:17:02,000
+He's showing off his red Diablo IV jacket. We have our new Black Diablo IV jackets as well. Look at this. Models. How are you Dan? Hopefully you're good.
+
+201
+00:17:04,000 --> 00:17:08,000
+And he's not sure if he can hear me.
+
+202
+00:17:08,000 --> 00:17:15,000
+Either way. A few things that we do want to talk about before we actually do jump into everything.
+
+203
+00:17:15,000 --> 00:17:24,000
+Obviously PTR is coming up soon. We are doing this stream a little early this time mainly because the Thanksgiving holidays coming up here in the US.
+
+204
+00:17:25,000 --> 00:17:30,000
+We are going to be talking about some of the contents before even the patch notes are ready.
+
+205
+00:17:30,000 --> 00:17:38,000
+We do plan on having a blog immediately after the stream. Players can actually check out the blog and read a little bit more about what we talked about today.
+
+206
+00:17:38,000 --> 00:17:44,000
+But the patch notes will be available next Wednesday for players to actually check out.
+
+207
+00:17:44,000 --> 00:17:50,000
+Before the US holiday here, everyone can dive deep into the patch notes for PTR.
+
+208
+00:17:50,000 --> 00:17:57,000
+PTR is currently planned to start on December 3rd. That will be after the US holidays here for Thanksgiving.
+
+209
+00:17:57,000 --> 00:18:02,000
+There's a ton of stuff that is coming up for players to jump into.
+
+210
+00:18:02,000 --> 00:18:09,000
+But I know what we want to do is really just dive straight deep into all the new stuff that we do want to talk about.
+
+211
+00:18:09,000 --> 00:18:15,000
+The first thing we do want to chat about is season 7 and what that's going to be.
+
+212
+00:18:15,000 --> 00:18:21,000
+We are actually going to jump over to Mr. Dan Tangoe and Albany to walk us through.
+
+213
+00:18:21,000 --> 00:18:25,000
+Dan, do you want to take over?
+
+214
+00:18:27,000 --> 00:18:31,000
+Dan can't currently hear.
+
+215
+00:18:31,000 --> 00:18:37,000
+I don't know what happened. Maybe we don't have satellites working or something like that.
+
+216
+00:18:37,000 --> 00:18:45,000
+Instead, we'll just start with classes first. Mr. Charles, do you want to talk about class changes that are coming with season 7?
+
+217
+00:18:45,000 --> 00:18:54,000
+I know we talked a little bit about this last week with Adam Jackson. Just a reminder, spearborn, expect that to be addressed for season 7.
+
+218
+00:18:54,000 --> 00:18:57,000
+We will be talking about that now.
+
+219
+00:18:57,000 --> 00:19:09,000
+I love to talk about changes coming to all the different classes in Diablo 4, as well as some broader more systemic updates that are happening that affect all classes equally in a way.
+
+220
+00:19:09,000 --> 00:19:18,000
+I said just going through individual class by class and seeing some of the new stuff that's coming for a lot of classes.
+
+221
+00:19:18,000 --> 00:19:22,000
+Let's start with the barbarian, I believe the first one up.
+
+222
+00:19:22,000 --> 00:19:30,000
+Barbarian is definitely a class that we think a lot of the classes have been performing pretty well across the board.
+
+223
+00:19:30,000 --> 00:19:35,000
+They're always a step under the spearborn, but barbarian maybe a step and a half below.
+
+224
+00:19:35,000 --> 00:19:43,000
+We're looking at a lot of buffs across the board for them here, specifically looking at some stuff with him or the ancients, buffing that number up here.
+
+225
+00:19:43,000 --> 00:19:52,000
+A little bit of a rework to the walking arsenal passive. Previously, the bonus was just 8%.
+
+226
+00:19:52,000 --> 00:20:02,000
+Now we're going to be getting you a bigger bonus, and when you have all of them active, you're going to get more attack speed and some bonus crowd control duration, which we think really plays into that kind of build.
+
+227
+00:20:02,000 --> 00:20:09,000
+Additionally, we're also updating earthquakes that has been one of my favorite builds on barbarian, right?
+
+228
+00:20:09,000 --> 00:20:12,000
+Just seeing those big earthquakes come out everywhere because of the buffs.
+
+229
+00:20:12,000 --> 00:20:16,000
+Leave Quake, I absolutely love it. The visuals on that is just top notch.
+
+230
+00:20:16,000 --> 00:20:31,000
+So we're really, we took some lessons from what we did on rogues in the past with their stun grenades power, where a lot of the legendaries that talk to stun grenades also had kind of this extra bit where it increased the damage of all of your stun grenades.
+
+231
+00:20:31,000 --> 00:20:38,000
+So that you kind of got these synergistic builds with the various aspects altogether, and we're extending that over to earthquakes now here.
+
+232
+00:20:38,000 --> 00:20:48,000
+So we're adding on basically, hey, all these ones that talk to earthquakes just they increase the damage of all of them overall.
+
+233
+00:20:48,000 --> 00:20:54,000
+Yeah, it's a little bit less finicky too, right? Because now it lasts after earthquake expires or if you believe it.
+
+234
+00:20:54,000 --> 00:20:59,000
+Absolutely. So we think this would just be a much more comprehensive build overall.
+
+235
+00:20:59,000 --> 00:21:03,000
+We also got a new legendary that talks directly to earthquakes as well.
+
+236
+00:21:03,000 --> 00:21:08,000
+Ups their damage and increases their fire turns it into fire damage.
+
+237
+00:21:08,000 --> 00:21:25,000
+And I think this is really cool. And as we're going to see some more stuff as you actually get on to the PTR, but I think earthquakes and hammer of the ancients might be a build that you're going to be very interested in combining those two with some of the stuff that you will see come PTR.
+
+238
+00:21:26,000 --> 00:21:29,000
+All right, let's move on to the source, the source.
+
+239
+00:21:29,000 --> 00:21:35,000
+So our source one of the key notes that we've we've noticed with well, source,
+
+240
+00:21:35,000 --> 00:21:42,000
+and the first thing that we've noticed is that the source of the earthquake is that the earthquake is a very powerful build.
+
+241
+00:21:42,000 --> 00:21:46,000
+And the source of the earthquake is a very powerful build.
+
+242
+00:21:46,000 --> 00:21:50,000
+And the source of the earthquake is a very powerful build.
+
+243
+00:21:50,000 --> 00:21:54,000
+And the source of the earthquake is a very powerful build.
+
+244
+00:21:54,000 --> 00:21:58,000
+And the source of the earthquake is a very powerful build.
+
+245
+00:21:58,000 --> 00:22:07,000
+And you know, that was a powerful build, powerful interactions, but we felt like that was making everything a little too homogenous.
+
+246
+00:22:07,000 --> 00:22:12,000
+You felt like you had to do this in order to access a lot of these passives.
+
+247
+00:22:12,000 --> 00:22:24,000
+And so we decided that we really want these burning synergies to really be benefiting builds that are dedicated to burning type builds and not just ones who are splashing it in with a firebolt enchantment.
+
+248
+00:22:24,000 --> 00:22:37,000
+And so with that in mind, we did a rework on the enchantment to increase the, or remove the burning damage from the enchantment and change it over to this, which has a healing component to it.
+
+249
+00:22:37,000 --> 00:22:46,000
+And then we also updated a lot of those burning passes to really play better in the dedicated fire based builds rather than being something that you just want to splash into everything.
+
+250
+00:22:46,000 --> 00:22:48,000
+Yeah, hopefully there's a lot more build variety.
+
+251
+00:22:48,000 --> 00:22:49,000
+Absolutely.
+
+252
+00:22:49,000 --> 00:22:54,000
+Yeah, that is one of the main driving goals of a lot of our updates is increasing that build variety.
+
+253
+00:22:54,000 --> 00:23:00,000
+So you don't feel like you have to take this checklist of mandatory things before moving on to what you actually want for your build.
+
+254
+00:23:00,000 --> 00:23:09,000
+So an example here on devouring Blaze, you've got bonus, previously it was bonus critical strike damage against burning enemies, no matter how much they're burning for.
+
+255
+00:23:09,000 --> 00:23:12,000
+So you just apply that little bit of burning and you would get this.
+
+256
+00:23:12,000 --> 00:23:17,000
+Now instead you get a bigger bonus, but it's just for your piramancy critical strike skill.
+
+257
+00:23:17,000 --> 00:23:25,000
+So it really encourages, hey, you're a fireball build, you're a meteor build, something that wants to do those big fire crits devouring Blaze now even more valuable for those builds.
+
+258
+00:23:25,000 --> 00:23:31,000
+And it's not something that you necessarily need to or feel compelled to splash in other builds.
+
+259
+00:23:32,000 --> 00:23:36,000
+All right, on to the next one, we also did some updates for ball lightning.
+
+260
+00:23:36,000 --> 00:23:52,000
+So ball lightning, the previous upgrades, like kind of these, these major ball lightning, wizards ball lightning were about stunning enemies or spawning some correct energy with admittedly some kind of complex conditions yet to jump through a lot of hoops to get these.
+
+261
+00:23:52,000 --> 00:23:59,000
+One of the things we really like to do with a lot of these updates is simplify them down and streamline and really focus in on what the interesting factor is.
+
+262
+00:23:59,000 --> 00:24:05,000
+Yeah, it makes a little bit more modular too, right? So there's more builds, the less sort of focus that initial step is on that skill.
+
+263
+00:24:05,000 --> 00:24:13,000
+Absolutely. So we've got the major ball lightning here. Now is just increasing your damage against stun enemies. It's really that payoff for a lot of the lightning stun effects.
+
+264
+00:24:13,000 --> 00:24:20,000
+And then wizards ball lightning is just always going to be generating more crack energy, just more consistent generation there.
+
+265
+00:24:21,000 --> 00:24:30,000
+All right, on to the next one, we've got some of the new uniques we're going to show off here on the sort talking about ball lightning.
+
+266
+00:24:30,000 --> 00:24:41,000
+So this is actually something interesting. We're doing the season where we're making two uniques that are in the same slot and they are going to modify the skill in a different way.
+
+267
+00:24:41,000 --> 00:24:48,000
+So they will be mutually exclusive. So you can take either this one here, which turns ball lightning into a kind of like a bowling ball.
+
+268
+00:24:48,000 --> 00:24:56,000
+Really, you send it forward. It goes pretty fast. And when it hits a target, it's going to explode and kind of splash outward.
+
+269
+00:24:56,000 --> 00:25:03,000
+And I think this is really cool. It offers a switched up playstyle to the way you're familiar with ball lightning, which was kind of slow moving forward.
+
+270
+00:25:04,000 --> 00:25:13,000
+Or if you pick the other unique, you can actually retain the old gravitational aspect. So we can go on and take a look at that one here in the next clip.
+
+271
+00:25:16,000 --> 00:25:23,000
+Right, so a lot of the ball lightning builds in the past. We're using the gravitational aspect that calls it to rotate around you.
+
+272
+00:25:23,000 --> 00:25:36,000
+And we've updated that and reworked the gravitational aspect so that now that functionality is built into this new unique and also has some additional bonuses to encourage this kind of playstyle.
+
+273
+00:25:36,000 --> 00:25:44,000
+And obviously, the gravitational aspect that used to do this has been reworked into a new cool effect that you'll be able to demo out on the PTR as well.
+
+274
+00:25:44,000 --> 00:25:48,000
+This is like a fun trade off now and sort of how you want to use ball lightning.
+
+275
+00:25:48,000 --> 00:25:57,000
+Yeah, it really helps it be a bit more build defining, which is our goal for a lot of the unique is how you get this unique and it feels like it's very foundational to your build.
+
+276
+00:25:57,000 --> 00:26:03,000
+One thing I do want to call it here is the inherent aphics on this right up near the top that ball lightning can be cast while moving.
+
+277
+00:26:03,000 --> 00:26:14,000
+This makes it a lot smoother to just be moving around and just keep on clicking that ball lightning. And you're not going to have to stop like that very short half-second stop to cast it.
+
+278
+00:26:14,000 --> 00:26:22,000
+It just feels much smoother and this is one that you really this build is just wants to be on the move. Right. And that encourages that.
+
+279
+00:26:22,000 --> 00:26:31,000
+All right, so let's talk about the druid next. So this one druid is this season a lot of werewolf updates, you know season of the werewolf.
+
+280
+00:26:31,000 --> 00:26:39,000
+Absolutely love werewolf builds and I think they've been you know, maybe a little bit behind the rest of builds over the course of Diablo's history.
+
+281
+00:26:39,000 --> 00:26:44,000
+And so this season a lot of our updates are really focused on building making that build come up to par.
+
+282
+00:26:44,000 --> 00:26:51,000
+Yeah, like pure werewolf right now pure werewolf mixing it with other things. Yeah, a lot of times you saw some like rapid shape shifting builds and those are fun.
+
+283
+00:26:51,000 --> 00:26:58,000
+Those are great, but you know pure werewolf was really wasn't quite hitting the mark. And so that's what a lot of our focus is.
+
+284
+00:26:58,000 --> 00:27:06,000
+Let's take a look at some of these updates. So we've got updates to shred, you know, the main core skill for these werewolf builds.
+
+285
+00:27:06,000 --> 00:27:11,000
+Previously the raging shred upgrade was just combo attack that applied some poisoning damage.
+
+286
+00:27:11,000 --> 00:27:19,000
+So now it's going to still do that and apply a lot more poisoning damage, but it's also going to cause them to take even more poisoning damage for the next five seconds.
+
+287
+00:27:19,000 --> 00:27:30,000
+So this is, you know, you're kind of finishing move on your combo or your core combo, but then it also enhances all the other poisoning damage that you applied through something like rapies.
+
+288
+00:27:30,000 --> 00:27:43,000
+All right, we've got updates to boulder. Now this isn't necessarily with the wherewolf thing, but still boulder is a skill that we saw a good opportunity to improve on it.
+
+289
+00:27:43,000 --> 00:27:53,000
+We had two upgrades on boulder in the past, the kind of the two choices, and they were both fairly similar. They both dealt with critical strike chance or critical strike damage.
+
+290
+00:27:53,000 --> 00:28:03,000
+And we thought that was an opportunity to rework one of them to give it a different identity. And basically the identity was poison boulder, like just a giant ball of poison.
+
+291
+00:28:03,000 --> 00:28:04,000
+What does that look like or what does that do?
+
+292
+00:28:04,000 --> 00:28:08,000
+To do the damage type always helps sort of branch out and make it feel really different.
+
+293
+00:28:08,000 --> 00:28:15,000
+Yeah, yeah, and we have some really sweet visuals for it too. I'm not sure if we have a video on that. I think we just have to rely on that in the PTR.
+
+294
+00:28:15,000 --> 00:28:20,000
+People will say it on the PTR, but yeah, it's got some cool visuals associated with it.
+
+295
+00:28:20,000 --> 00:28:24,000
+Yeah, and so that one will be very cool. Definitely check that one out.
+
+296
+00:28:24,000 --> 00:28:30,000
+That's what I'm very excited about because blood how as we see, like has always just generated spirit, but now.
+
+297
+00:28:30,000 --> 00:28:40,000
+Yeah, yeah, it was always just generating some spirit, but you still do that. But now it gives you even more increased damage until you shapeshift out of wherewolf form.
+
+298
+00:28:40,000 --> 00:28:52,000
+Moving back to what Colin mentioned about really focusing in on pure werewolf. That was an area that we felt, hey, we want to really reward you for staying in the werewolf form and really committing to that identity.
+
+299
+00:28:52,000 --> 00:28:59,000
+And just making sure that felt like an appropriate payoff. And this is one of the areas that we're doing that in.
+
+300
+00:28:59,000 --> 00:29:04,000
+All right, so let's talk a little bit about one of the updated legendaries.
+
+301
+00:29:04,000 --> 00:29:13,000
+So the aspect of the blurred beast. So this previously was was a legendary that just caused your shred to do some bonus damage to poison enemies.
+
+302
+00:29:13,000 --> 00:29:22,000
+It was fine, but it wasn't too enticing. But now with the new update here, you actually do still do more damage just all the time.
+
+303
+00:29:22,000 --> 00:29:34,000
+And depending on how far you're traveling for shred, you're going to do some bonus hits. And it looks so cool. Your werewolf is dashed across the screen and then just doing this like multi hit kind of attack.
+
+304
+00:29:34,000 --> 00:29:42,000
+And so if you're really close, you're just going to get maybe one additional strike. But if you're at this further distance, as you see in this clip, you're going to get the full four hits.
+
+305
+00:29:42,000 --> 00:29:51,000
+So it's really about positional gameplay a bit more than it was in the past. And you get very heavily rewarded for it when you do kind of execute that properly.
+
+306
+00:29:51,000 --> 00:30:02,000
+Awesome. And it's going to be really great for like movement, just moving around across the map, which I know movement is always a big thing that players really, really wants. People have always been asking for.
+
+307
+00:30:02,000 --> 00:30:08,000
+So it'll be cool to see people just kind of like just bouncing around as a druid with the aspect of the blurred beast. So very cool.
+
+308
+00:30:08,000 --> 00:30:19,000
+Yeah, it's always great. We can inject like changing how you play also right because you can imagine like launching into a group of enemies, then picking out specific targets that you really want to launch to. And that's how you optimize that build.
+
+309
+00:30:19,000 --> 00:30:34,000
+Yeah, absolutely. This is one of my favorite ones in this patch actually. Big fan of a lot of these druid updates aspect of wolf's reign. So this is a combo kind of legendary combining the powers of hurricane and your wolf companions.
+
+310
+00:30:34,000 --> 00:30:44,000
+So when you cast hurricane, you're all of your wolfs actually spawn a little mini hurricane of their own. And these will do bonus damage for each of your active the wolves.
+
+311
+00:30:44,000 --> 00:30:54,000
+So it really encourages these companion base builds that already have this wolf pack of you know five wolves following them around. Now your hurricane affects all of them.
+
+312
+00:30:54,000 --> 00:31:05,000
+And you know, they get bonus damage for how many you got. So you really want to be stacking up as many wolves as you can. They all get hurricanes and you just get to shred through the whole screen with that. That's super cool.
+
+313
+00:31:06,000 --> 00:31:14,000
+All right, moving on to rogue. So this is one that shadow clone has been probably the rogue skill that I would say.
+
+314
+00:31:14,000 --> 00:31:25,000
+It maybe wasn't quite hidden in the mark compared to most other skills. And that was for a variety of reasons and not to get too technical here on the details.
+
+315
+00:31:25,000 --> 00:31:39,000
+But for a lot of the effects that you're that you have with your legendaries and your passives and those kind of things historically shadow clone behaved inconsistently with those it wouldn't necessarily pick up all of the bonuses.
+
+316
+00:31:39,000 --> 00:31:52,000
+It wouldn't trigger all the effects. And the end result was basically that your shadow clone dealt a whole lot less damage than you did. You thought, hey, I'm hitting for you know millions and my shadow clone sitting for like thousands.
+
+317
+00:31:53,000 --> 00:32:06,000
+And so we really looked at that comprehensively and thought, okay, we need to kind of rethink how shadow clone works across the board to really bring it up to par to make it behave the way you expect.
+
+318
+00:32:06,000 --> 00:32:16,000
+And then also extend that to a lot of the other summons in the game. The summons like your your necromancer skeletons, your druid companions and so on.
+
+319
+00:32:16,000 --> 00:32:29,000
+So we did basically a rework of that entire system. And the long and short of it is that they should just work a whole lot better going forward in this season where they're going to trigger all of your lucky hit effects.
+
+320
+00:32:29,000 --> 00:32:37,000
+They're going to interact with all of your damage modifiers and multipliers that they previously were were inconsistently working with.
+
+321
+00:32:37,000 --> 00:32:46,000
+So just one example here, very simple example you've got wind strikers aspect. This is a very simple legendaries just says, hey, when you critically strike gain some movement speed.
+
+322
+00:32:46,000 --> 00:32:58,000
+Now in the past, that was only when you your player character critically strike with one of your skills. And it would not happen whenever one of your druid companions or your shadow clone critically strikes.
+
+323
+00:32:58,000 --> 00:33:08,000
+But now all of that will work. So your companions or your summons or your shadow clone critically strikes and you have wind strikers. Now your character gets that bonus huge.
+
+324
+00:33:08,000 --> 00:33:19,000
+Yeah, it's I really can't you know, over say this like how how many new interactions and synergies this unlocks with not just shadow clone, but all of the summons in general across the game.
+
+325
+00:33:20,000 --> 00:33:36,000
+But with shadow clone in particular, we've got a new unique item and this one is a sassons stride and the effect here works with mobility skills and your shadow embument once again kind of playing up that combo aspect.
+
+326
+00:33:36,000 --> 00:33:43,000
+So all of your mobility skills are going to always be shadow in viewed with some bonus potency. So they're going to do some more damage.
+
+327
+00:33:43,000 --> 00:34:02,000
+And whenever you damage an elite or boss with an immobility skill, there's a chance to trigger an instant free shadow in human explosion. So those of you who like playing shadow step builds, one of my favorite ones with with row, you know, just like Adam said before about jumping around the screen with werewolves, you can do that with shadow step now too.
+
+328
+00:34:02,000 --> 00:34:13,000
+And you're just going to be getting a lot of those resets and kills much quicker as you leap out of the shadows, trigger a shadow in view of an explosion and then move on to the next pack of enemies.
+
+329
+00:34:13,000 --> 00:34:16,000
+Really cool unique for that kind of build.
+
+330
+00:34:17,000 --> 00:34:26,000
+Additionally, Cal tropes, maybe the skill that was the most kind of clunky, young, controlled wise to use.
+
+331
+00:34:26,000 --> 00:34:35,000
+If you've ever tried to use Cal tropes, it can be a struggle sometimes where your character would leap backwards and you wouldn't go in the right direction, wouldn't hit the enemies.
+
+332
+00:34:35,000 --> 00:34:46,000
+We've updated the animation here to just basically be a lot, very similar to the smoke grenade skill where you just pick a point on the screen, your character throws it and it just goes where you point it.
+
+333
+00:34:46,000 --> 00:34:56,000
+I am the king of like cal troping one minion, like 100 and then also falling like jumping back into like a giant mob and going like, well, I didn't calculate that correctly.
+
+334
+00:34:56,000 --> 00:35:05,000
+This is that update. We were talking about this beforehand, like before we even went live and I was like, thank God, I was like, oh my God, please.
+
+335
+00:35:05,000 --> 00:35:07,000
+So yeah, it's exciting for that.
+
+336
+00:35:07,000 --> 00:35:13,000
+Cal trop should be so much more usable now and we think that this is a really good change going forward.
+
+337
+00:35:13,000 --> 00:35:15,000
+All right, onto the necromancer.
+
+338
+00:35:15,000 --> 00:35:23,000
+So necromancer, we've done some improved itemization and updates to the overpower synergies, specifically the Rathma's vigor key passive.
+
+339
+00:35:23,000 --> 00:35:33,000
+So previously, it would just give you some, an overpower once every 12 seconds and, or when you overhilled for some bonus life.
+
+340
+00:35:33,000 --> 00:35:37,000
+And now we're just tacking on a big chunk of overpower damage to it.
+
+341
+00:35:37,000 --> 00:35:49,000
+We definitely felt like these, these pure blood based overpower builds were just not quite hitting that mark and, you know, just pumping the power into these pure builds through the Rathma's vigor key passive.
+
+342
+00:35:49,000 --> 00:35:55,000
+I think is going to be very helpful to make these builds really shine.
+
+343
+00:35:55,000 --> 00:36:00,000
+On to the next, we've got the, one of the new uniques.
+
+344
+00:36:00,000 --> 00:36:11,000
+So similar to what we did with the Sorcerer, where we had kind of these paired uniques, we were going to have two uniques in the same slot for necromancer as well, this time in the pants slot.
+
+345
+00:36:11,000 --> 00:36:14,000
+And they're both going to be working with blood wave.
+
+346
+00:36:14,000 --> 00:36:23,000
+So this one, Kassami's legacy will cause, instead of shooting one blood wave out forward, you're going to get two that kind of converge on you.
+
+347
+00:36:23,000 --> 00:36:31,000
+And this definitely changes up the targeting of it, the positioning requirements, and really the use case, because it's pulling towards you instead of pushing away.
+
+348
+00:36:31,000 --> 00:36:35,000
+So instead of being a defensive skill, it's much more about the damage and pulling them together.
+
+349
+00:36:35,000 --> 00:36:38,000
+And then when they hit, they do a big chunk of damage as well.
+
+350
+00:36:38,000 --> 00:36:46,000
+So definitely turns blood wave into a much more damage-focused skill and a little bit less on the CC or the knockback crowd control of it.
+
+351
+00:36:46,000 --> 00:36:48,000
+Yeah, and the play super well with that key passive.
+
+352
+00:36:48,000 --> 00:36:53,000
+Absolutely, absolutely, especially if you want to be using this for that big damage moment.
+
+353
+00:36:53,000 --> 00:37:07,000
+Now the alternative is Andrea's memory, where it still shoots the blood wave forward, and then at the end of its path, it will trap the targets in a bone prison.
+
+354
+00:37:07,000 --> 00:37:16,000
+So this is a unique that is very much about combining blood and bone, so a little bit less of the pure blood and much more about combining the two.
+
+355
+00:37:16,000 --> 00:37:24,000
+Now additionally, you see, we're using some bone spears here, or should I say blood spears, because that is what they now become.
+
+356
+00:37:24,000 --> 00:37:34,000
+Blood spears, and instead of costing a bunch of essence, they're going to cost, or sorry, they drain maximum life, still cost essence there.
+
+357
+00:37:34,000 --> 00:37:44,000
+But they drain maximum life to cast additionally from a nearby corpse to fire an extra bone, bone spear slash blood spear.
+
+358
+00:37:44,000 --> 00:37:55,000
+So there's a lot going on with this one, but I think it really comes together to be a very strong build when you're using the bone spear and the blood wave, and then casting bone spear reduces blood waves.
+
+359
+00:37:55,000 --> 00:37:58,000
+Cool down, that's the inherent aphx on these legs.
+
+360
+00:37:58,000 --> 00:38:02,000
+Really makes a really cool build that I think synergizes very nicely.
+
+361
+00:38:02,000 --> 00:38:04,000
+Yeah, that's awesome.
+
+362
+00:38:05,000 --> 00:38:16,000
+All right, and so on to the spirit born. So we kind of, you know, warned at the start, you know, spirit born, we recognize has been one or multiple steps above most other classes.
+
+363
+00:38:16,000 --> 00:38:27,000
+And players have fun. People love playing the spirit born. Very powerful. And we were like that, but we do have to recognize, you know, for the long term, health of the game, it's important that we have a bit better class parity across the board.
+
+364
+00:38:27,000 --> 00:38:31,000
+So you don't feel like you're doing it wrong if you're not playing a spirit born.
+
+365
+00:38:31,000 --> 00:38:39,000
+Yeah, and we have like a lot of the classes outside of the spirit born are actually in a really good spot, the pushing pit tier 100 plus, which is great.
+
+366
+00:38:39,000 --> 00:38:44,000
+And again, we're not looking to really buff every class up to clearing pit 150 easily, right?
+
+367
+00:38:44,000 --> 00:38:53,000
+We don't want to create that arms race where we just have to continuously sort of ask you the player to chew through, you know, 20 different torment series because we're just arms racing that power so much.
+
+368
+00:38:53,000 --> 00:39:02,000
+Yeah, we do think that kind of our target there is closer to where the other five classes are and spirit born was just, you know, too high out of them.
+
+369
+00:39:02,000 --> 00:39:13,000
+And it's rather than, and then try to power creep the whole game. We'd like to make sure we make some small improvements everywhere else to the underperforming builds and those ones that don't have enough love.
+
+370
+00:39:13,000 --> 00:39:17,000
+And then get spirit born back down to a more healthy spot.
+
+371
+00:39:17,000 --> 00:39:26,000
+And so with that in mind, one of the biggest offenders or biggest power points, rather, of on on the spirit born was the rod of capillac here.
+
+372
+00:39:26,000 --> 00:39:39,000
+This one is the one that converts your core skills into basic skills and does it used to do reduced damage based on vigor cost and admittedly the calculations there were kind of complex.
+
+373
+00:39:39,000 --> 00:39:45,000
+And so we've simplified it down a little bit where the they will just gain the bonus critical strike damage.
+
+374
+00:39:45,000 --> 00:39:54,000
+It will be substantially less previously it was one to 3% now it'll be down to 0.1 to 0.5 per point of vigor there.
+
+375
+00:39:54,000 --> 00:40:02,000
+We think this will bring it to a much healthier spot, but still kind of retain the core fantasy and the core build implications of this item.
+
+376
+00:40:02,000 --> 00:40:08,000
+It just won't be pushing quite the same trillions of damage that we were seeing before.
+
+377
+00:40:08,000 --> 00:40:18,000
+We also fix some of the issues called out here at the at the above like viscous shield and things like scaling and untended ways that were just way outside of our expectations.
+
+378
+00:40:18,000 --> 00:40:24,000
+Yeah, definitely some some unintended kind of bugged interactions that were maybe double dipping or scaling too high.
+
+379
+00:40:24,000 --> 00:40:28,000
+We've taken a pass to make those more in line with our expectations.
+
+380
+00:40:28,000 --> 00:40:39,000
+All right, additionally we've got you know new aspects of course being class and double four you're going to be getting new content every season.
+
+381
+00:40:39,000 --> 00:40:51,000
+So we've got new legendary aspect here the aspect of endless talents that causes you a razor ring wings to increase your all of your ego skill damage and razor wing critical strikes will grant even more stacks.
+
+382
+00:40:51,000 --> 00:41:01,000
+So you can really stack that up you know it stacks up to 50% that's a whole lot. So you really want to be spamming out these razor wings and getting those crits to stack this up to as fast as possible.
+
+383
+00:41:01,000 --> 00:41:13,000
+Yeah, and this goes back to like just the prior slide where we talked about how razor wings and send in people are getting some extra love in this specific season which were more so underutilized in season six.
+
+384
+00:41:13,000 --> 00:41:23,000
+So with season seven players we will see these new legendary aspects of course and then and how they actually tie back in with some of the changes that we're doing for those builds.
+
+385
+00:41:23,000 --> 00:41:24,000
+Absolutely.
+
+386
+00:41:24,000 --> 00:41:30,000
+All right, and we've got some updates to some of the underused uniques as well.
+
+387
+00:41:30,000 --> 00:41:32,000
+Ring of Riding Moon here.
+
+388
+00:41:32,000 --> 00:41:38,000
+This one would trigger pestilence swarm every 10 seconds. We felt like that was a little too long given the pace of combat in our game.
+
+389
+00:41:38,000 --> 00:41:43,000
+And especially compared to some of the other options at the unique slot of rings lot.
+
+390
+00:41:43,000 --> 00:41:50,000
+So we've reduced that down to every four seconds. You'll spawn a pestilence swarm and the vigor generated goes up from one up to three.
+
+391
+00:41:50,000 --> 00:41:59,000
+So a lot more resource generation because your rings are often resource generated one. So we want to make sure this is a compelling option compared to your other choices at the ring slot.
+
+392
+00:41:59,000 --> 00:42:06,000
+All right, so let's talk a little bit about some of the broader updates that affects all classes.
+
+393
+00:42:06,000 --> 00:42:15,000
+So the one I'm excited about here is the ultimate updates. So in the previous season we introduced skill ranks on ultimate.
+
+394
+00:42:15,000 --> 00:42:19,000
+So you can now rank up your ultimate up to rank five and that was that was good.
+
+395
+00:42:19,000 --> 00:42:21,000
+Gave you some cool down reduction some damage.
+
+396
+00:42:21,000 --> 00:42:29,000
+But now when you actually fully invest in it up to that rank five every ultimate in the game is going to get a new rank five bonus.
+
+397
+00:42:29,000 --> 00:42:39,000
+So for example here on last rate we've got at rank five last rates damage is going to be increased by 40% of your critical strike damage bonus gives it this scaling factor.
+
+398
+00:42:39,000 --> 00:42:52,000
+So you can see on the left last rate at rank one is doing about 38,000 damage but you rank it up to five and it goes crazy high up to 119,000 damage because it's now getting that critical strike damage scaler.
+
+399
+00:42:52,000 --> 00:43:03,000
+And so if you really want to build a dedicated last rate build as kind of your core damaging effect this is going to be a great way to build around it and a good reward for investing all those extra skill points into it.
+
+400
+00:43:03,000 --> 00:43:08,000
+Definitely. I love to see us add more things in incentivize you to actually put some points into skills.
+
+401
+00:43:08,000 --> 00:43:21,000
+Yeah, so often you know sometimes you'd see if you just wanted the access to the utility of the ultimate hey it's fine to put in one point right you get one point you get the utility maybe you get some buff from it.
+
+402
+00:43:21,000 --> 00:43:32,000
+But if you really want to to invest in it we want to make sure that that investment in those skill ranks feels meaningful and we think these rank five bonuses on altimates in particular is going to be a really good way to to pay off those ultimate builds.
+
+403
+00:43:32,000 --> 00:43:35,000
+Definitely.
+
+404
+00:43:35,000 --> 00:43:43,000
+All right, we've also got some new generic legendary aspects to really support the style that talk directly to ultimate skills.
+
+405
+00:43:43,000 --> 00:43:54,000
+So we've got the vehement brawler's aspect that causes casting and ultimate skill increases all of your damage output by 10 to 30% for eight seconds and you also gain additional skill ranks in your ultimate.
+
+406
+00:43:54,000 --> 00:44:02,000
+So hey we just talked about skill rank bonuses. Now we've got a legendary that will give you some bonus skill ranks.
+
+407
+00:44:02,000 --> 00:44:21,000
+We've also got the ring of apiagic fervor which says casting your ultimate skill will increase your damage by eight to 18% so a little bit less than the vehement brawlers but it stacks up to 10 times so you can get way more if you can cast your ultimate fast enough and kind of chain it together.
+
+408
+00:44:21,000 --> 00:44:33,000
+So this will be really good for like rogue that use a rogues that use preparation to really get that ultimate cooldown reduction and or any build that really wants to focus our on casting your alt many times in a row.
+
+409
+00:44:33,000 --> 00:44:39,000
+This one is going to be a great legendary for that those style of builds.
+
+410
+00:44:40,000 --> 00:44:47,000
+Alright we've also done some updates to the room words and so room words vessel of hatred feature.
+
+411
+00:44:47,000 --> 00:44:57,000
+It has been really well received we think that they've really you know spiced up some some build variety and we're going to add some new rooms here and update some of the old ones.
+
+412
+00:44:58,000 --> 00:45:11,000
+So all of the invocation rooms have overflow so the cost of many of them have also been adjusted to allow you to proc this overflow effect when you generate more offering than needed much more often.
+
+413
+00:45:12,000 --> 00:45:39,000
+And then also the the ritual rooms the ones that you know generate the offering some of them have been redesigned to have some larger potential moments of this overflow so an example here on the the CR room this generates a ton of offering 300 offering at once and you get that by casting five skills but then instead of just casting five skills and then generate all of it and then casting five again instantly.
+
+414
+00:45:40,000 --> 00:45:51,000
+We've added in this this exhausted period for three seconds so you can you can get that 300 offering at once but then you got to wait three seconds before you start building up those stacks again.
+
+415
+00:45:51,000 --> 00:45:56,000
+Yeah it's like getting like large buckets every every like a couple seconds and stuff offering now.
+
+416
+00:45:56,000 --> 00:46:08,000
+Yeah this is a good tuning knob to kind of make sure that hey we can give you the strong moment of power but then it is followed by a little bit of a weaker moment where you can't generate that rather than every room always just being a strong moment of power.
+
+417
+00:46:09,000 --> 00:46:10,000
+So let's go to the next step.
+
+418
+00:46:10,000 --> 00:46:17,000
+We're going to have a steady amount we like to have those peaks and valleys it really think that leads to more interesting moments of the gameplay.
+
+419
+00:46:17,000 --> 00:46:23,000
+Yeah it's about potency versus frequency right so you get really strong effects but you can't do it as often.
+
+420
+00:46:23,000 --> 00:46:32,000
+Right and that'll play right into the updates with a lot of the overflow to make sure that when you do overflow it feels really good and feels really rewarding to get that.
+
+421
+00:46:32,000 --> 00:46:38,000
+So let's talk about some of the other rooms we've got the new rooms to show off.
+
+422
+00:46:38,000 --> 00:46:47,000
+There are three new room words here the Naguru, a legendary room that will gain 100 offering as long as you're maintaining a summon.
+
+423
+00:46:47,000 --> 00:46:50,000
+And so as I kind of alluded to earlier with the shadow clone section.
+
+424
+00:46:50,000 --> 00:46:56,000
+Summon is our new catch all term for anything that you summon.
+
+425
+00:46:56,000 --> 00:47:06,000
+Yeah that's pretty self explanatory but that includes things like Necromancer minions, Druid Companions, Source or Conjurations, Rogue Shadow Clones and even Barbarian ancients.
+
+426
+00:47:06,000 --> 00:47:11,000
+From some of your effects call of the ancients and some of the legendaries that some of those those are all summons.
+
+427
+00:47:11,000 --> 00:47:21,000
+Igni, Roon will generate 25 offering but it stores up offering every 0.3 seconds.
+
+428
+00:47:21,000 --> 00:47:30,000
+So you're actually doing about 75 offering per second roughly and by you actually cash it in by casting a non basic skill to get that offering.
+
+429
+00:47:30,000 --> 00:47:35,000
+So as long as you're out there kind of spamming your basic skill you're going to be kind of banking up this offering.
+
+430
+00:47:35,000 --> 00:47:39,000
+And then when you cast a non basic you cash all in you probably trigger the room.
+
+431
+00:47:39,000 --> 00:47:43,000
+It's connected to you get a big overflow you get a big moment of power there.
+
+432
+00:47:43,000 --> 00:47:51,000
+And finally we've got the Chak room that generates or requires 20 offering rather and this will invoke Druid's lightning bolt.
+
+433
+00:47:51,000 --> 00:47:52,000
+That's one of those.
+
+434
+00:47:53,000 --> 00:48:02,000
+It's not the core skill but lightning bolt is kind of that other power in the Druid's kit similar to like earthquake or stun raids.
+
+435
+00:48:02,000 --> 00:48:03,000
+Yeah.
+
+436
+00:48:03,000 --> 00:48:08,000
+Yeah. So and enable those kind of builds to really tap into that effect.
+
+437
+00:48:08,000 --> 00:48:11,000
+Awesome. Lots of rooms.
+
+438
+00:48:11,000 --> 00:48:12,000
+Lots of room for the lanterns.
+
+439
+00:48:12,000 --> 00:48:15,000
+Lots of changes coming to classes.
+
+440
+00:48:15,000 --> 00:48:19,000
+You know there's more changes in the notes that will have that will be hitting next week.
+
+441
+00:48:19,000 --> 00:48:23,000
+So players can look into those. These are just a few examples that we have for PTR.
+
+442
+00:48:23,000 --> 00:48:27,000
+And of course really neat feedback on a lot of these changes.
+
+443
+00:48:27,000 --> 00:48:36,000
+I know there's some people going in in chat going like, hey, I noticed saying like, you know, maybe you're giving a lot of offering and then there's a little bit of a cool down period or something like that.
+
+444
+00:48:36,000 --> 00:48:38,000
+Let us know like we want people to try those out.
+
+445
+00:48:38,000 --> 00:48:39,000
+Yeah.
+
+446
+00:48:39,000 --> 00:48:49,000
+So like test it out so that we have the feedback so that before we go live with with patch 2.1, we can end up making any feedback changes based off of community feedback.
+
+447
+00:48:49,000 --> 00:48:51,000
+So lots of cool stuff.
+
+448
+00:48:51,000 --> 00:48:55,000
+Thank you so much for walking us through all the different class changes and everything like that Charles.
+
+449
+00:48:55,000 --> 00:48:59,000
+Do we have Dan available from all of them here?
+
+450
+00:48:59,000 --> 00:49:01,000
+I can hear you now.
+
+451
+00:49:01,000 --> 00:49:03,000
+Oh, there we go.
+
+452
+00:49:03,000 --> 00:49:07,000
+Dan was just like staring at the camera and I was like, yeah, so it was.
+
+453
+00:49:07,000 --> 00:49:14,000
+But me, Dan is actually going to be talking about all the new content that's coming in patch 2.1 with season 7.
+
+454
+00:49:14,000 --> 00:49:18,000
+And so Dan, do you want to take it away and talk to us a little bit about it?
+
+455
+00:49:18,000 --> 00:49:19,000
+Absolutely.
+
+456
+00:49:19,000 --> 00:49:24,000
+A couple of technical difficulties could not keep me from sharing this with everybody.
+
+457
+00:49:24,000 --> 00:49:34,000
+So this PTR for patch 2.1 is a PTR of a couple firsts at this point.
+
+458
+00:49:34,000 --> 00:49:38,000
+This is going to be the first time that we're bringing the seasonal realm to a PTR.
+
+459
+00:49:38,000 --> 00:49:39,000
+So what does this mean?
+
+460
+00:49:39,000 --> 00:49:43,000
+We've got a lot of seasonal content coming up in season 7.
+
+461
+00:49:43,000 --> 00:49:47,000
+And we want to be able to get all of your feedback on this content.
+
+462
+00:49:47,000 --> 00:49:59,000
+It's pretty important for us to, you know, like Adam was saying, really have those iteration cycles where you all are able to test and show what's working and what is it.
+
+463
+00:49:59,000 --> 00:50:07,000
+And this is also going to be the first time since season 2 that we're bringing back seasonal character powers.
+
+464
+00:50:07,000 --> 00:50:12,000
+So if you remember in season 2, season of blood, they were vampire powers.
+
+465
+00:50:12,000 --> 00:50:15,000
+And you slotted them into your sanguine circle.
+
+466
+00:50:15,000 --> 00:50:21,000
+And so for season 7, it could be a little bit different, not vampires this time.
+
+467
+00:50:21,000 --> 00:50:24,000
+This time it's going to be witchcraft.
+
+468
+00:50:24,000 --> 00:50:31,000
+So I'm excited to really dig into that right now and tease out what y'all can play in a couple weeks.
+
+469
+00:50:31,000 --> 00:50:41,000
+So witchcraft enables you as a practitioner to call upon the power of the swamp to do your bidding.
+
+470
+00:50:41,000 --> 00:50:48,000
+And so you've met some witches before in the game and you're going to meet some more in the coming season.
+
+471
+00:50:48,000 --> 00:50:53,000
+But before I really dive into witchcraft, we got to talk about your enemies.
+
+472
+00:50:53,000 --> 00:50:56,000
+Your enemies of this season are going to be called the head rotten.
+
+473
+00:50:56,000 --> 00:51:01,000
+Now the head rotten are abominations that spawn from the tree of whispers.
+
+474
+00:51:01,000 --> 00:51:06,000
+And you're going to slay them and collect what we call restless rot.
+
+475
+00:51:06,000 --> 00:51:10,000
+And this is going to be our currency for the season.
+
+476
+00:51:10,000 --> 00:51:14,000
+Now, like I said, you know, the season is about witchcraft.
+
+477
+00:51:14,000 --> 00:51:16,000
+So there are going to be some witches.
+
+478
+00:51:16,000 --> 00:51:20,000
+And those witches are going to be residing around the tree of whispers.
+
+479
+00:51:20,000 --> 00:51:22,000
+And they're going to have some altars.
+
+480
+00:51:22,000 --> 00:51:26,000
+And these altars are pretty important to you learning your witchcraft.
+
+481
+00:51:26,000 --> 00:51:29,000
+And so you're going to travel to an altar.
+
+482
+00:51:29,000 --> 00:51:32,000
+You're going to make an offering of restless rot.
+
+483
+00:51:32,000 --> 00:51:36,000
+And that's going to enable you to learn the witchcraft.
+
+484
+00:51:36,000 --> 00:51:40,000
+Now, equipping witchcraft is going to be pretty simple.
+
+485
+00:51:40,000 --> 00:51:48,000
+You know, we wanted to take what was best from a lot of these styles of menus that we've done in the past.
+
+486
+00:51:48,000 --> 00:51:52,000
+And distill it into something that's very convenient and easy to use.
+
+487
+00:51:52,000 --> 00:51:56,000
+And the result is the witchcraft menu that you can see in front of you.
+
+488
+00:51:56,000 --> 00:51:59,000
+And so equipping is going to be super simple.
+
+489
+00:51:59,000 --> 00:52:01,000
+You've got inventory on the bottom.
+
+490
+00:52:01,000 --> 00:52:06,000
+And then you're going to drag or otherwise move that power to one of the slots up top.
+
+491
+00:52:06,000 --> 00:52:08,000
+And you're going to have five normal slots.
+
+492
+00:52:08,000 --> 00:52:11,000
+Five normal powers you can equip at any point.
+
+493
+00:52:11,000 --> 00:52:17,000
+And one unique power for, you know, really special witchcraft that you can find.
+
+494
+00:52:17,000 --> 00:52:24,000
+The other thing is that you can upgrade your witchcraft directly in that inventory using restless rot.
+
+495
+00:52:24,000 --> 00:52:33,000
+So again, we're streamlining the process to, you know, make it easy for players to equip and upgrade their witchcraft.
+
+496
+00:52:33,000 --> 00:52:38,000
+Now, obviously it wouldn't be a season without some rewards.
+
+497
+00:52:38,000 --> 00:52:41,000
+And so let's talk about those a little bit.
+
+498
+00:52:42,000 --> 00:52:48,000
+This season we're going to have another reputation style gameplay in the form of Covins favor.
+
+499
+00:52:48,000 --> 00:52:54,000
+Now killing head rot and we'll get you headless rot or killing head rot and we'll get you restless rot.
+
+500
+00:52:54,000 --> 00:53:00,000
+But in order to advance the Covins favor, you actually need to complete whispers.
+
+501
+00:53:00,000 --> 00:53:08,000
+And completing those whispers will increase your rank and allow you to unlock rewards, including items and materials and things like that.
+
+502
+00:53:08,000 --> 00:53:15,000
+In addition, new to this season, you're going to also unlock at certain ranks new witchcraft.
+
+503
+00:53:15,000 --> 00:53:18,000
+And then you will have new things you can learn from those altars.
+
+504
+00:53:18,000 --> 00:53:24,000
+And then because everyone loves it, we're bringing back the resplendent spark as well.
+
+505
+00:53:24,000 --> 00:53:30,000
+So that's going to be the end of your Covins favor rank.
+
+506
+00:53:30,000 --> 00:53:44,000
+And of course the real splendent spark nowadays can be used from crafting, you know, a random mythic unique to actually targeting unique using a lot of those runes that you can earn in the game.
+
+507
+00:53:44,000 --> 00:53:47,000
+All right, one last little thing with respect to witchcraft.
+
+508
+00:53:47,000 --> 00:53:50,000
+So we wanted to try out some a little bit different.
+
+509
+00:53:50,000 --> 00:53:57,000
+And so we've also created several powers that are lost to these witches, the Covins of the swamp.
+
+510
+00:53:57,000 --> 00:54:04,000
+And so those you can only find by traveling out in the world and discovering forgotten altars.
+
+511
+00:54:04,000 --> 00:54:08,000
+And these forgotten altars will allow you to learn these lost powers.
+
+512
+00:54:08,000 --> 00:54:13,000
+And yeah, we just thought we'd try something a little bit different here.
+
+513
+00:54:13,000 --> 00:54:16,000
+And yeah, let us know what you think about it.
+
+514
+00:54:16,000 --> 00:54:19,000
+Now, let's talk about some of the witchcraft itself.
+
+515
+00:54:19,000 --> 00:54:22,000
+You know, we've talked it up a bit.
+
+516
+00:54:22,000 --> 00:54:27,000
+We're going to release it's over 20 powers for the season.
+
+517
+00:54:27,000 --> 00:54:30,000
+And we're going to show you four of those right now.
+
+518
+00:54:30,000 --> 00:54:35,000
+So let's talk about the first one. This one's really popular. This is the poison frog.
+
+519
+00:54:35,000 --> 00:54:42,000
+So the poison frog, as you imagine, is a servant that you can summon that fights alongside you.
+
+520
+00:54:42,000 --> 00:54:45,000
+As its name implies, it will poison your enemies.
+
+521
+00:54:45,000 --> 00:54:52,000
+And you know, if it runs out of health, it's going to explode viciously with a lot of poison damage.
+
+522
+00:54:52,000 --> 00:54:55,000
+Folks are having a lot of fun with this one.
+
+523
+00:54:55,000 --> 00:54:58,000
+Next up, next up is doom orb.
+
+524
+00:54:58,000 --> 00:55:06,000
+So doom orb is a pure orb of eldritch energy that circles around you and damages any enemy it touches.
+
+525
+00:55:06,000 --> 00:55:10,000
+And it can also launch itself at distant enemies before returning.
+
+526
+00:55:10,000 --> 00:55:13,000
+Also another favorite at this point.
+
+527
+00:55:13,000 --> 00:55:15,000
+Vengeful servant.
+
+528
+00:55:15,000 --> 00:55:19,000
+So vengeful servant, as the name implies, is another servant like the frog.
+
+529
+00:55:19,000 --> 00:55:24,000
+And this one will absorb damage and then rush enemies.
+
+530
+00:55:24,000 --> 00:55:29,000
+And then last but not least, we've got one of those lost witchcraft powers I was telling you about.
+
+531
+00:55:29,000 --> 00:55:31,000
+And this is piranato.
+
+532
+00:55:31,000 --> 00:55:37,000
+So this one prox when you cast other powers.
+
+533
+00:55:37,000 --> 00:55:45,000
+And so if you cast hex and an aura at the same time and inflict it upon an enemy,
+
+534
+00:55:45,000 --> 00:55:49,000
+there's a chance that you will then proc the piranato.
+
+535
+00:55:49,000 --> 00:55:57,000
+And the piranato, as you can see, sucks everything into it in a swirling dervish of fish and destruction.
+
+536
+00:55:57,000 --> 00:56:04,000
+So yeah, that's a peek at some of the witchcraft powers you're going to be able to play with soon.
+
+537
+00:56:04,000 --> 00:56:12,000
+But what good are powers if we aren't offering you some new activities within the season to participate in?
+
+538
+00:56:12,000 --> 00:56:15,000
+And so these come in the form of headhunts.
+
+539
+00:56:15,000 --> 00:56:22,000
+Now headhunts are a whisper-driven activity.
+
+540
+00:56:22,000 --> 00:56:26,000
+And so the tree is searching for these head rotten.
+
+541
+00:56:26,000 --> 00:56:29,000
+The tree wants you to eliminate these head rotten.
+
+542
+00:56:29,000 --> 00:56:35,000
+And so it's going to help you by highlighting areas within the world where it thinks there's a lot of head rotten for you to kill.
+
+543
+00:56:35,000 --> 00:56:41,000
+So you're going to follow the whispers in order to find the headhunts and kill the head rotten.
+
+544
+00:56:41,000 --> 00:56:47,000
+Now these are subzone takeovers similar to haltydes.
+
+545
+00:56:47,000 --> 00:56:52,000
+They are going to feature a number of all new whispers mixed in with some existing ones.
+
+546
+00:56:52,000 --> 00:57:04,000
+This is an opportunity for our team to try out some new whispers and really kind of tell a little bit of a story each time you're going out on a headhunt because whispers offer us that opportunity.
+
+547
+00:57:04,000 --> 00:57:09,000
+Now completing whispers has a chance of spawning a head rotten boss.
+
+548
+00:57:09,000 --> 00:57:14,000
+And the head rotten bosses are the things you're really going to be looking out for because those are going to give you some additional rewards.
+
+549
+00:57:14,000 --> 00:57:21,000
+I'm going to tell you about delivering a head rotten boss's head to the tree of whispers and enables you to earn.
+
+550
+00:57:21,000 --> 00:57:34,000
+Let's talk about a cold gems now we're pretty excited about these a cold gems are special socketables that have unique effects that help you fine tune your build.
+
+551
+00:57:34,000 --> 00:57:39,000
+So they can only be slotted in the jewelry slot.
+
+552
+00:57:39,000 --> 00:57:49,000
+And so this is a way of basically having them coexist with ruins and they only last for the season.
+
+553
+00:57:49,000 --> 00:57:54,000
+So when your items transfer to the eternal realm at the end of the season these are going to disappear.
+
+554
+00:57:54,000 --> 00:57:58,000
+But in the meantime I think you're going to have a lot of fun with them.
+
+555
+00:57:58,000 --> 00:58:00,000
+Let's dive into them a little bit.
+
+556
+00:58:00,000 --> 00:58:04,000
+So each a cold gem has built in defense.
+
+557
+00:58:04,000 --> 00:58:11,000
+We don't want you to have to make a choice between you know a royal diamond or a royal skull and a cold gem.
+
+558
+00:58:11,000 --> 00:58:23,000
+So all of these a cold gems have defense built into them so that you know really you're getting a bonus above and beyond you know those gems that I just described.
+
+559
+00:58:23,000 --> 00:58:27,000
+And so here are some examples of them first up we've got the elder sigil.
+
+560
+00:58:27,000 --> 00:58:31,000
+This is going to boost your damage whenever you have enemies.
+
+561
+00:58:31,000 --> 00:58:39,000
+So if you're leaning into certain types of hexes you like using elder sigil may be a good fit for you killing wind.
+
+562
+00:58:39,000 --> 00:58:49,000
+This is going to boost your crit and move for folks who really dig you know spec an out with eldritch powers.
+
+563
+00:58:49,000 --> 00:58:58,000
+So if you equip three or more eldritch powers then slotting a killing wind and to say one of your rings might benefit you quite a bit.
+
+564
+00:58:58,000 --> 00:59:00,000
+And then finally we've got dust stone.
+
+565
+00:59:00,000 --> 00:59:05,000
+This is a legendary one so it's going to be even more powerful than the other two I talked about.
+
+566
+00:59:05,000 --> 00:59:12,000
+This is going to boost when you use hex and aura and afflict other enemies with those.
+
+567
+00:59:12,000 --> 00:59:18,000
+So each time you do that not only do you have a chance to proc that piranato I talked about before.
+
+568
+00:59:18,000 --> 00:59:22,000
+But you're going to increase the damage that you output per affliction.
+
+569
+00:59:22,000 --> 00:59:32,000
+So you can kind of get a sense that the cold gems are providing you even more incentives for you know creating a certain type of build.
+
+570
+00:59:32,000 --> 00:59:38,000
+And you know we are just really excited to see what kind of combinations y'all come up with.
+
+571
+00:59:38,000 --> 00:59:42,000
+I think yeah it's going to be pretty exciting.
+
+572
+00:59:42,000 --> 00:59:50,000
+So final thing is you know we were doing a lot with the tree of whispers we've got the witches around them.
+
+573
+00:59:50,000 --> 00:59:59,000
+You know so we thought well we should you know take some of the quality of life feedback we've heard from players and try and address it.
+
+574
+00:59:59,000 --> 01:00:04,000
+So the first thing we've done is we've updated the town around the tree of whispers.
+
+575
+01:00:04,000 --> 01:00:10,000
+We added some more services to it because we expect you to be returning to it a lot more this season.
+
+576
+01:00:10,000 --> 01:00:21,000
+And we've changed the layout a little bit to make it a little more convenient to navigate and move the waypoints so that it's just quicker to get to the tree of whispers to turn in things.
+
+577
+01:00:21,000 --> 01:00:25,000
+But sometimes you know you're in the middle of a head hunt we found.
+
+578
+01:00:25,000 --> 01:00:33,000
+And you're getting a lot of grim favor but you don't want to leave you want to try and go fight the boss that you just summoned right.
+
+579
+01:00:33,000 --> 01:00:40,000
+So we've also implemented what we call the Raven of the tree and Raven of the tree appears in every head hunt zone.
+
+580
+01:00:40,000 --> 01:00:52,000
+And that allows you to turn in your grim favor on the spot so that you don't have to go back to the tree town now you're not going to have access to all those other services so you know you're inventory limit you'll probably want to go back to town.
+
+581
+01:00:52,000 --> 01:00:59,000
+But in the moment when you're in a flow you can go to the Raven of the tree get your cash and then keep fighting.
+
+582
+01:00:59,000 --> 01:01:10,000
+And then finally we felt like we wanted to expand the rewards a little bit more for the tree of whispers so we've added ancestral cash is it's a pretty low probability of getting one but they're there.
+
+583
+01:01:10,000 --> 01:01:16,000
+And these guarantee you getting an ancestral item from a cash so obviously you see this pop up.
+
+584
+01:01:16,000 --> 01:01:28,000
+I have a feeling you're probably going to select it so yeah I think that's all I have to talk about for the upcoming TTR so I'll kick it back over to you Adam.
+
+585
+01:01:28,000 --> 01:01:36,000
+Awesome thank you so much Dan talking about a ton of new stuff coming for patch 2.1 PTR and of course season seven.
+
+586
+01:01:36,000 --> 01:01:57,000
+I'm super excited for all the tree whisper updates I know a lot of people on chat are especially with the Raven not having to go back to the tree whispers every single time being able to turn in grim favors right there through the Raven on top of that also just the rework of the zone so everything's a little bit closer and I have to walk all the way across the walk all the way back to the way point or to get to the vendors and everything so there's a lot of big changes.
+
+587
+01:01:57,000 --> 01:02:02,000
+And please do choose the ancestral key.
+
+588
+01:02:02,000 --> 01:02:09,000
+I think it's important to remember we added the ability to favorite way points.
+
+589
+01:02:09,000 --> 01:02:15,000
+Yes sort of season six or the last patch that we did so super helpful with that which tone.
+
+590
+01:02:15,000 --> 01:02:44,000
+Most definitely and of course I you know we people have been seeing some of the new witchcraft powers and noticing some familiarities of like past Diablo lore and I will say we'll be talking more about the story of season seven as we get closer to launch so players can hear more about kind of like the origins of all like what we've been kind of talking about here with this story with Diablo 4 so thank you again Dan for walking us through all the content that's coming with season seven.
+
+591
+01:02:44,000 --> 01:02:55,000
+And of course last and at least we do want to talk about some big quality of life changes one really really big one that we're really excited to talk about it and Mr. Colin finer will talk and walk us through everything.
+
+592
+01:02:55,000 --> 01:03:05,000
+Yeah thanks Adam. So most of these are sort of systemic updates so I'll talk to them. Paragon migration is more just reminder on how the new Paragon system works.
+
+593
+01:03:05,000 --> 01:03:14,000
+All of the Paragon experience that you've earned in a season is actually at the end of season six going to be added to your eternal realm Paragon.
+
+594
+01:03:14,000 --> 01:03:25,000
+So what that means is you know if you're Paragon level 230 on a season all of that 230 worth of experience is going to get added to your eternal which probably is going to level up your eternal Paragon.
+
+595
+01:03:25,000 --> 01:03:34,000
+And I mentioned this because we added the really cool soul stone I kept calling it the vessel of hatred crystal.
+
+596
+01:03:34,000 --> 01:03:48,000
+That really cool soul stone that you get at Paragon level 300 you can actually earn that on eternal so if you're not willing to sort of put in hundreds of hours to get that in a season you can work your way there on the eternal realm as you sort of cash in these seasons so we think that's going to feel pretty good.
+
+597
+01:03:48,000 --> 01:03:56,000
+Yeah it's going to be really nice is you're like playing through multiple seasonal characters and then eventually you'll end up just getting enough XP to actually earn those rewards at level 300 Paragon.
+
+598
+01:03:56,000 --> 01:04:06,000
+So that's actually it's not like I have to have it in a season or something like that you know you probably end up getting in in a couple seasons if you play pretty pretty extensively and you level up your Paragon.
+
+599
+01:04:06,000 --> 01:04:07,000
+Yeah definitely.
+
+600
+01:04:07,000 --> 01:04:31,000
+The second one here is now we are essentially tying the unique power so if you think about like the fists of faith that random damage from one to 200 that's going to be tied the floor is going to be tied to the amount of greater affixes that are on that item so if you have one greater affix the floor is going to go up a little bit from the 1% when you get four greater affixes it's going to go up quite a bit.
+
+601
+01:04:31,000 --> 01:04:51,000
+It's not exactly perfect because we wanted to maintain the sort of specialness of a 4G a with a perfect unique role and we've seen some of those on reddit and I think it's always such a cool moment to sort of see those drop but it's going to be a substantial increase to the power of the floor so it's going to be nearly impossible to get a 4G a with a really crappy unique power.
+
+602
+01:04:51,000 --> 01:05:00,000
+Yeah it's always great getting a 4G a and like rolling 1% yeah yeah yeah yeah and I was just feels but you never want to be comparing like oh I got 4G a
+
+603
+01:05:00,000 --> 01:05:13,000
+well my 1G a 1 is maybe better because it has a better unique role that that wasn't a moment we felt was really enticing so we wanted to make sure that the more GAs you get just the better the item is comprehensively just better.
+
+604
+01:05:13,000 --> 01:05:29,000
+Yeah absolutely so that should help quite a bit and then I'm going to talk about one thing previously on that which is ancestral legendaries they are now going to one an ancestral item drops it's going to drop the top end of the legendary aspect role so if you think
+
+605
+01:05:29,000 --> 01:05:47,000
+in season 6 we added 5 more ranks to compensate ancestral being added ranked 21 is usually where they end up lending now ancestral items when they drop they're going to be at the top end of that so you should always be pretty excited when an ancestral drops because it's always the best sort of top end ranks of that legendary power that could drop.
+
+606
+01:05:47,000 --> 01:06:14,000
+Yeah we we saw lots of conspiracy theories we read it of people going like hey I think like my cut of powers not getting up updated correctly or something like that and we totally understand like there was a lot of confusion behind it we admit that on our end and this just makes it easier and better for players and being able to grab it it's not calling behind the scenes on a computer like it was he was literally just like making sure you got the lowest aspect roles or anything like that.
+
+607
+01:06:14,000 --> 01:06:15,000
+Yeah right.
+
+608
+01:06:15,000 --> 01:06:16,000
+Yeah right.
+
+609
+01:06:16,000 --> 01:06:24,000
+So that that must definitely will address a lot of the confusion there as well as just make it better for players in for all.
+
+610
+01:06:24,000 --> 01:06:40,000
+Yeah definitely and then the second point here is we've pretty substantially increased the ancestral drop rate across the board they're not going to be raining from the sky but it's definitely an incredible pretty substantial increase that we think is just going to level up all the different activities in the game and that should just feel a lot better.
+
+611
+01:06:40,000 --> 01:06:50,000
+We don't want to go too far where they're no longer special but we thought that we were a little bit a little bit too conservative on our first swing and this will affect all torment tears right not just your torment for.
+
+612
+01:06:50,000 --> 01:06:54,000
+Yep exactly so all some torment tears are going to get this increase great.
+
+613
+01:06:54,000 --> 01:06:57,000
+And then the next one.
+
+614
+01:06:58,000 --> 01:07:26,000
+So we saw that gems were dropping a little too frequently constantly getting stuck on the ground players were capped on them so we are doing a pass to reduce them overall but to compensate we're actually adding a sink for them so you're going to be able to take gem fragments and craft random legendary amulets and random legendary rings those all obviously have a chance to be ancestral once you get into the torment so it's a really nice way for us to sort of make sure that you're never hitting a point where you just have so many gem fragments there they're worth less.
+
+615
+01:07:27,000 --> 01:07:29,000
+Awesome yeah.
+
+616
+01:07:29,000 --> 01:07:40,000
+And then the next one I think is going to be I'm super excited about and that's class quest updates they're going to work similar to altars of lilyth right.
+
+617
+01:07:40,000 --> 01:07:42,000
+Yeah details on that.
+
+618
+01:07:42,000 --> 01:07:55,000
+Yeah so class quest so most classes or either class has this you know special mechanics so like on the sorceress you've got your enchantment slots and in the past when you hit level 15 you'd get a quest where you had to go and and help out a mage to find a lost ton of time.
+
+619
+01:07:56,000 --> 01:08:16,000
+So for players who have already completed that you are going to if you you do need to log into that character first to kind of unlock it across your account but once you've done that any subsequent sorceress that you make once you hit level 15 you're going to immediately unlock that first enchantment slot and then once you hit level 30 you'll unlock the second one.
+
+620
+01:08:16,000 --> 01:08:31,000
+Now for every class the exact level is going to be different it depends on when that would normally unlock but you won't have to go through the whole quest line to do so but for those of you who really enjoyed doing those quests there will be a pretty juicy reward if you do choose to do it but you're going to get that mechanic right off the bat.
+
+621
+01:08:31,000 --> 01:08:40,000
+It's awesome and you could still just log into your seasonal character and do it to unlock the class mechanic not we don't require you to log into your eternal character to get this.
+
+622
+01:08:41,000 --> 01:08:56,000
+Cool so I think that's going to be awesome I always like check the time like oh level 40 I should probably go do my class quest I have definitely forgotten to unlock my golem on my necromancers for a little longer than I would like to admit well production spoiled it.
+
+623
+01:08:56,000 --> 01:08:58,000
+I think that's the way I was going to do it.
+
+624
+01:08:58,000 --> 01:09:00,000
+I think that's the way I was going to do it.
+
+625
+01:09:00,000 --> 01:09:02,000
+I think that's the way I was going to do it.
+
+626
+01:09:02,000 --> 01:09:04,000
+I think that's the way I was going to do it.
+
+627
+01:09:04,000 --> 01:09:06,000
+I think that's the way I was going to do it.
+
+628
+01:09:06,000 --> 01:09:08,000
+I think that's the way I was going to do it.
+
+629
+01:09:08,000 --> 01:09:10,000
+I think that's the way I was going to do it.
+
+630
+01:09:10,000 --> 01:09:12,000
+I think that's the way I was going to do it.
+
+631
+01:09:12,000 --> 01:09:14,000
+I think that's the way I was going to do it.
+
+632
+01:09:14,000 --> 01:09:16,000
+I think that's the way I was going to do it.
+
+633
+01:09:16,000 --> 01:09:18,000
+I think that's the way I was going to do it.
+
+634
+01:09:18,000 --> 01:09:20,000
+I think that's the way I was going to do it.
+
+635
+01:09:20,000 --> 01:09:22,000
+I think that's the way I was going to do it.
+
+636
+01:09:22,000 --> 01:09:24,000
+I think that's the way I was going to do it.
+
+637
+01:09:24,000 --> 01:09:26,000
+I think that's the way I was going to do it.
+
+638
+01:09:26,000 --> 01:09:28,000
+I think that's the way I was going to do it.
+
+639
+01:09:28,000 --> 01:09:30,000
+I think that's the way I was going to do it.
+
+640
+01:09:30,000 --> 01:09:32,000
+I think that's the way I was going to do it.
+
+641
+01:09:32,000 --> 01:09:34,000
+I think that's the way I was going to do it.
+
+642
+01:09:34,000 --> 01:09:36,000
+I think that's the way I was going to do it.
+
+643
+01:09:36,000 --> 01:09:38,000
+I think that's the way I was going to do it.
+
+644
+01:09:38,000 --> 01:09:40,000
+I think that's the way I was going to do it.
+
+645
+01:09:40,000 --> 01:09:42,000
+I think that's the way I was going to do it.
+
+646
+01:09:42,000 --> 01:09:44,000
+I think that's the way I was going to do it.
+
+647
+01:09:44,000 --> 01:09:46,000
+I think that's the way I was going to do it.
+
+648
+01:09:46,000 --> 01:09:48,000
+I think that's the way I was going to do it.
+
+649
+01:09:48,000 --> 01:09:50,000
+I think that's the way I was going to do it.
+
+650
+01:09:50,000 --> 01:09:52,000
+You can start building out that ball lightning build.
+
+651
+01:09:52,000 --> 01:09:54,000
+We're really excited about this.
+
+652
+01:09:54,000 --> 01:09:56,000
+We're not going to charge you for respecting or anything like that.
+
+653
+01:09:56,000 --> 01:09:58,000
+We're not going to charge you for respecting or anything like that.
+
+654
+01:09:58,000 --> 01:10:00,000
+You save it. It's yours.
+
+655
+01:10:00,000 --> 01:10:02,000
+It's even come with some cool quality of life things where
+
+656
+01:10:02,000 --> 01:10:06,000
+we actually mark all of the equipment that's actually part of an arm race slot.
+
+657
+01:10:06,000 --> 01:10:10,000
+That's really important to know because we're just saving the equipment.
+
+658
+01:10:10,000 --> 01:10:16,000
+You'll want to know if you're going to modify this item that it would affect any of the loadouts that are currently using this item.
+
+659
+01:10:16,000 --> 01:10:20,000
+If you take a legendary and say, change the imprinted aspect on it,
+
+660
+01:10:20,000 --> 01:10:22,000
+it's still part of that build so it might not be the right one.
+
+661
+01:10:22,000 --> 01:10:26,000
+You do probably want to get multiple sets of gear if you want to be building this up.
+
+662
+01:10:26,000 --> 01:10:28,000
+It's so much easier to swap between them,
+
+663
+01:10:28,000 --> 01:10:32,000
+so much easier to explore all the new build possibilities that we introduce every season
+
+664
+01:10:32,000 --> 01:10:34,000
+with the new items and updates.
+
+665
+01:10:34,000 --> 01:10:36,000
+Absolutely.
+
+666
+01:10:36,000 --> 01:10:38,000
+It's in all the main towns, even in the training rooms,
+
+667
+01:10:38,000 --> 01:10:40,000
+which is very nice.
+
+668
+01:10:40,000 --> 01:10:42,000
+It's important to note that we will swap it from anywhere.
+
+669
+01:10:42,000 --> 01:10:46,000
+If the equipment is in your stash or if it's in your inventory,
+
+670
+01:10:46,000 --> 01:10:48,000
+you don't have to worry about it. We'll just swap it out for you.
+
+671
+01:10:48,000 --> 01:10:52,000
+It'll just automatically does it, which is really nice.
+
+672
+01:10:52,000 --> 01:10:54,000
+Absolutely.
+
+673
+01:10:54,000 --> 01:10:58,000
+It makes it as easy as possible for players to be able to really utilize the future, which I think is great.
+
+674
+01:10:58,000 --> 01:11:00,000
+It's cool.
+
+675
+01:11:00,000 --> 01:11:02,000
+We're super excited.
+
+676
+01:11:02,000 --> 01:11:04,000
+We're really leading into the flexibility.
+
+677
+01:11:04,000 --> 01:11:06,000
+That's why we've just removed a lot of the cost to switch around.
+
+678
+01:11:06,000 --> 01:11:08,000
+We think this should open up.
+
+679
+01:11:08,000 --> 01:11:10,000
+If you're playing a Druid, you don't have to go make another Druid
+
+680
+01:11:10,000 --> 01:11:14,000
+or go through 300 clicks to change out your Paragon.
+
+681
+01:11:14,000 --> 01:11:18,000
+I do want to note, because this will be in PTR.
+
+682
+01:11:18,000 --> 01:11:20,000
+We really need people to actually test it as a brand new feature.
+
+683
+01:11:20,000 --> 01:11:22,000
+There's a lot of complexities behind it.
+
+684
+01:11:22,000 --> 01:11:26,000
+Obviously, it's pulling things from your stash, pulling things from other inventory, etc.
+
+685
+01:11:26,000 --> 01:11:30,000
+So, I want to make sure that players actually do get an opportunity to actually test it during PTR.
+
+686
+01:11:30,000 --> 01:11:32,000
+Give us feedback.
+
+687
+01:11:32,000 --> 01:11:34,000
+It's something that we're going to continuously iterate.
+
+688
+01:11:34,000 --> 01:11:36,000
+One thing I do want to call out is in PTR.
+
+689
+01:11:36,000 --> 01:11:38,000
+It won't have controller support.
+
+690
+01:11:38,000 --> 01:11:42,000
+When we do launch it with patch 2.1, the final patch itself.
+
+691
+01:11:42,000 --> 01:11:44,000
+But for the PTR, it won't actually be...
+
+692
+01:11:44,000 --> 01:11:46,000
+There won't be controller support on it.
+
+693
+01:11:46,000 --> 01:11:50,000
+So, I just want to caveat that now for players that are actually going to...
+
+694
+01:11:50,000 --> 01:11:54,000
+That do play on controller to note that it won't be there for that specifically.
+
+695
+01:11:54,000 --> 01:11:58,000
+So, tons of changes coming for season 7.
+
+696
+01:11:58,000 --> 01:12:02,000
+Obviously, all the class changes, the ultimate changes that Charles talked about.
+
+697
+01:12:02,000 --> 01:12:06,000
+The balance and items are related to that.
+
+698
+01:12:06,000 --> 01:12:10,000
+New rune words, reworked rune words as well.
+
+699
+01:12:10,000 --> 01:12:14,000
+We have, of course, all the season 7 stuff that Dan talked about with the Witchcraft powers.
+
+700
+01:12:14,000 --> 01:12:16,000
+And of course, our new gems, the whole gem.
+
+701
+01:12:16,000 --> 01:12:18,000
+So, we want players to actually jump in and try those out.
+
+702
+01:12:18,000 --> 01:12:22,000
+And with all the quality of life fixes that we do have.
+
+703
+01:12:22,000 --> 01:12:26,000
+So, I know we do want to jump into Q&A before we...
+
+704
+01:12:26,000 --> 01:12:28,000
+Oh, PTR.
+
+705
+01:12:28,000 --> 01:12:30,000
+PTR.
+
+706
+01:12:30,000 --> 01:12:32,000
+I forgot.
+
+707
+01:12:32,000 --> 01:12:34,000
+Sorry. I forgot about PTR updates.
+
+708
+01:12:34,000 --> 01:12:38,000
+I'm a gender that's like sitting here on a piece of paper, Adam.
+
+709
+01:12:38,000 --> 01:12:40,000
+But we do actually...
+
+710
+01:12:40,000 --> 01:12:42,000
+Do have some PTR updates really quickly that I do want to talk about.
+
+711
+01:12:42,000 --> 01:12:46,000
+Because as you guys remember, with 2.0...
+
+712
+01:12:46,000 --> 01:12:52,000
+The prior PTRs, we did character copies before count copies from your main accounts.
+
+713
+01:12:52,000 --> 01:12:54,000
+Things are going to be a little different for patch 2.1.
+
+714
+01:12:54,000 --> 01:12:56,000
+This is way better for players.
+
+715
+01:12:56,000 --> 01:13:00,000
+If you guys remember back with even the patch 2.0 PTR,
+
+716
+01:13:00,000 --> 01:13:04,000
+we actually did an account copy and it was like weeks and weeks in advance.
+
+717
+01:13:04,000 --> 01:13:08,000
+And people are like, whoa, this is like my barb from like, you know, it feels like yesterday.
+
+718
+01:13:08,000 --> 01:13:10,000
+It feels like years ago.
+
+719
+01:13:10,000 --> 01:13:16,000
+Now we are giving the flexibility of players being able to account copy on demand.
+
+720
+01:13:16,000 --> 01:13:18,000
+Essentially for PTR.
+
+721
+01:13:18,000 --> 01:13:24,000
+So, with patch 2.1 PTR, there will be a kind of a new button on the UI where you'll be able to actually
+
+722
+01:13:24,000 --> 01:13:28,000
+account copy over to your PTR account.
+
+723
+01:13:28,000 --> 01:13:32,000
+So, all your characters from your normal account and move them over.
+
+724
+01:13:32,000 --> 01:13:38,000
+There are a few caveats we do want to mention though, is that it does replace everything once you do that.
+
+725
+01:13:38,000 --> 01:13:40,000
+And you can do it multiple times.
+
+726
+01:13:40,000 --> 01:13:42,000
+But each time you do that, it does replace it all.
+
+727
+01:13:42,000 --> 01:13:48,000
+So, if you do bounce between, you know, PTR and like the your main account on the normal game servers,
+
+728
+01:13:48,000 --> 01:13:52,000
+just and let's say you get new gear, you can move those things over.
+
+729
+01:13:52,000 --> 01:13:56,000
+Just note it's going to wipe everything on your PTR when you do do that.
+
+730
+01:13:56,000 --> 01:14:06,000
+So, let's say you don't actually utilize the account copy over and you actually use the account boost or the character boost that we actually have within PTR.
+
+731
+01:14:06,000 --> 01:14:12,000
+Just note that if you do account copy over afterwards, it will also replace those.
+
+732
+01:14:12,000 --> 01:14:14,000
+So, just be careful with that.
+
+733
+01:14:14,000 --> 01:14:18,000
+We'll make sure to note that all in the blogs so players are aware.
+
+734
+01:14:18,000 --> 01:14:24,000
+But it is just a caveat that we do want to mention for players, but it does allow for way more flexibility being able to carry that stuff over.
+
+735
+01:14:24,000 --> 01:14:26,000
+Definitely.
+
+736
+01:14:26,000 --> 01:14:28,000
+There we go.
+
+737
+01:14:28,000 --> 01:14:38,000
+But new additions for the boosts that we have for PTR, obviously we'll end up having the new unique items within the character boost that will be available.
+
+738
+01:14:38,000 --> 01:14:45,000
+In season 7 PTR, we'll have witchcraft powers, the witchcraft progression items that we had talked about earlier as well.
+
+739
+01:14:45,000 --> 01:14:59,000
+So, those will be all part of the PTR boost. So, it gives you guys the tools of being able to test everything and getting us feedback for anything that you guys want to change before the season 7 and Patch 2.1 actually kicks off.
+
+740
+01:14:59,000 --> 01:15:03,000
+Cool. Now, we can go ahead and tune in.
+
+741
+01:15:03,000 --> 01:15:13,000
+I do want to call out quickly just a reminder that we will have a blog up immediately after the stream for PTR. Patchnets will be next Wednesday.
+
+742
+01:15:13,000 --> 01:15:19,000
+Again, this is due to us streaming a little early for the holidays just to make sure that everyone was here to do a stream for PTR.
+
+743
+01:15:19,000 --> 01:15:22,000
+And then PTR is planning on starting on December 3rd.
+
+744
+01:15:22,000 --> 01:15:25,000
+So, players will be able to jump into PTR then.
+
+745
+01:15:25,000 --> 01:15:32,000
+Of course, it is just PC BattleNet, just easier for us and more flexibility for us to be able to do updates and everything from our end for PTR.
+
+746
+01:15:32,000 --> 01:15:43,000
+But I know we have a question teedups. If you have questions, please put them in chat and we will try to address as many as possible for the end of the stream.
+
+747
+01:15:43,000 --> 01:15:50,000
+I have to reach over. There's like a plant here that I can see. But will all the PTR content be available on day 1?
+
+748
+01:15:50,000 --> 01:16:04,000
+One is a question that we probably, we've heard when we announce the PTR stream and we know that players are probably going to ask just because with the past PTR, we did split it out.
+
+749
+01:16:04,000 --> 01:16:18,000
+We will say that all the PTR content will be available day 1 so players can jump in and actually check out everything related to patch 2.1 immediately with day 1 whenever they need to.
+
+750
+01:16:18,000 --> 01:16:24,000
+So, it shouldn't be a problem. Jumping into some questions, small pettings, I know small pettings.
+
+751
+01:16:24,000 --> 01:16:28,000
+They're a person that plays a lot of companion.
+
+752
+01:16:28,000 --> 01:16:30,000
+I would imagine based on that.
+
+753
+01:16:30,000 --> 01:16:38,000
+So, they're asking, will there be fixes to storm and werewolf tags given to druid wolves by the item storms companion?
+
+754
+01:16:38,000 --> 01:16:41,000
+They have never functioned with more than double the damage of the build.
+
+755
+01:16:41,000 --> 01:16:52,000
+Yes, actually as part of that comprehensive update that I mentioned to summons across the game, I did take a pass to look at specifically updating how the wolves interact with storm's companion.
+
+756
+01:16:52,000 --> 01:16:58,000
+And now whenever they're imbued with a lightning from storm's companion, they do count as lightning skills.
+
+757
+01:16:58,000 --> 01:17:10,000
+And because the, you know, not to get too technical, but because the way the damage is calculated and attributed, it should also work with all the things that say, hey, when you deal lightning damage, do something special,
+
+758
+01:17:10,000 --> 01:17:14,000
+your lightning wolves are going to be triggering and interacting with all those effects.
+
+759
+01:17:14,000 --> 01:17:19,000
+It should be, it should work in every way that you're expecting to going forward.
+
+760
+01:17:19,000 --> 01:17:22,000
+Awesome. Shaw key pets.
+
+761
+01:17:22,000 --> 01:17:29,000
+A question from narrator dog. How does this fit into, how does the season 7 stuff fit into lore?
+
+762
+01:17:29,000 --> 01:17:32,000
+Because during vessel of hatred and the tree seemed to be on good terms.
+
+763
+01:17:32,000 --> 01:17:38,000
+Dan, I don't know if you want to answer this or if you want me to answer it, up to you.
+
+764
+01:17:38,000 --> 01:17:43,000
+Yeah, so I'll say, first off, we're not going to get too deep of an answer.
+
+765
+01:17:43,000 --> 01:17:51,000
+We're going to reveal more about the story as we get closer to the release of season 7.
+
+766
+01:17:51,000 --> 01:18:01,000
+That said, we are really looking at trying to build upon the events of vessel of hatred with every season moving forward.
+
+767
+01:18:02,000 --> 01:18:06,000
+So you'll start seeing changes in the world as we do that.
+
+768
+01:18:06,000 --> 01:18:08,000
+And I'll leave it at that.
+
+769
+01:18:08,000 --> 01:18:19,000
+Cool. You'll hear more soon. Again, we plan on doing a more grandiose reveal of season 7 content in the story as we get closer to the release.
+
+770
+01:18:19,000 --> 01:18:27,000
+So you'll hear more about the backstory of everything and how the Travew Whisperers plays into everything as well.
+
+771
+01:18:27,000 --> 01:18:34,000
+Question from 2-thless81. Is there going to be a rework or cost reduction to master working,
+
+772
+01:18:34,000 --> 01:18:39,000
+veil crystals that become a huge roadblock with trying to gear multiple alls?
+
+773
+01:18:39,000 --> 01:18:44,000
+Yeah, I think we are always keeping our eye on the economy.
+
+774
+01:18:44,000 --> 01:18:49,000
+We did a big pass. If you remember, we did a stream last week that was talking about tightening up the economy.
+
+775
+01:18:49,000 --> 01:18:54,000
+So we do intend on taking a look at just generally how things are playing out.
+
+776
+01:18:54,000 --> 01:18:58,000
+I think alls is something that we need to definitely be taking a look at.
+
+777
+01:18:58,000 --> 01:19:00,000
+We do want to encourage alt gameplay.
+
+778
+01:19:00,000 --> 01:19:02,000
+That was part of the big paragon changes.
+
+779
+01:19:02,000 --> 01:19:04,000
+So that sort of feedback is super valuable.
+
+780
+01:19:04,000 --> 01:19:07,000
+It's really good to know that veil crystals are that alt blocker.
+
+781
+01:19:07,000 --> 01:19:12,000
+We want to make sure that alls are something that players are really excited about if that's something that they want to pursue.
+
+782
+01:19:12,000 --> 01:19:15,000
+So I appreciate that.
+
+783
+01:19:15,000 --> 01:19:19,000
+Question related to stacking items.
+
+784
+01:19:19,000 --> 01:19:22,000
+This is from Marwan Gaming.
+
+785
+01:19:22,000 --> 01:19:26,000
+Any plans on the amount that you can stack like items, potions,
+
+786
+01:19:26,000 --> 01:19:29,000
+like potions, keys and runes.
+
+787
+01:19:29,000 --> 01:19:32,000
+Wow, I can't read any updates.
+
+788
+01:19:32,000 --> 01:19:34,000
+Are we looking at any of that type of thing?
+
+789
+01:19:34,000 --> 01:19:36,000
+We definitely are looking at it.
+
+790
+01:19:36,000 --> 01:19:38,000
+We don't have anything to share, but it's top of mind.
+
+791
+01:19:38,000 --> 01:19:41,000
+I know that boss materials, for example, are at 50.
+
+792
+01:19:41,000 --> 01:19:44,000
+There are some technical reasons why we have it like that.
+
+793
+01:19:44,000 --> 01:19:47,000
+But it's something we are actively looking at.
+
+794
+01:19:48,000 --> 01:19:53,000
+Drakaronia, which was mentioned, do you know if XP Wells are getting fixed?
+
+795
+01:19:53,000 --> 01:19:59,000
+And do you know if there's an opportunity for maybe pets collecting loot a little bit faster,
+
+796
+01:19:59,000 --> 01:20:02,000
+anything on the screen for players?
+
+797
+01:20:02,000 --> 01:20:06,000
+I know that XP Wells definitely has been reported and it's something we're looking into.
+
+798
+01:20:06,000 --> 01:20:08,000
+So we know about it.
+
+799
+01:20:08,000 --> 01:20:09,000
+We're looking at it.
+
+800
+01:20:09,000 --> 01:20:11,000
+This is part of the PTR.
+
+801
+01:20:11,000 --> 01:20:13,000
+This is to find a lot more of these types of problems.
+
+802
+01:20:13,000 --> 01:20:14,000
+So we will look at it.
+
+803
+01:20:15,000 --> 01:20:17,000
+As far as the pets, no plans at the moment.
+
+804
+01:20:17,000 --> 01:20:23,000
+I know we've done a big pass on a lot of things to essentially make sure that like when a rare item drops in torment,
+
+805
+01:20:23,000 --> 01:20:25,000
+it's just going to get auto salvage.
+
+806
+01:20:25,000 --> 01:20:30,000
+So we do try and essentially make a lot more of the loot, just auto pick up a bull.
+
+807
+01:20:30,000 --> 01:20:37,000
+Question from mags, PvE, will Druid ever see some love for Ravens?
+
+808
+01:20:37,000 --> 01:20:43,000
+It would be awesome to have maybe a different companion outside of like the wolves and everything that they have right now.
+
+809
+01:20:44,000 --> 01:20:46,000
+The vines and stuff.
+
+810
+01:20:46,000 --> 01:20:50,000
+Is there any plans for maybe adjustments to Ravens in the future?
+
+811
+01:20:50,000 --> 01:20:56,000
+Yeah, absolutely. Ravens, one of the three companions compared to the wolves and the vine creeper,
+
+812
+01:20:56,000 --> 01:21:01,000
+which I think are often a bit more of the marquee ones in the companion builds,
+
+813
+01:21:01,000 --> 01:21:02,000
+at least as they currently are.
+
+814
+01:21:02,000 --> 01:21:05,000
+That's something we're definitely aware of and going forward.
+
+815
+01:21:05,000 --> 01:21:12,000
+When we look to make new effects for these companion builds, I think Ravens might be maybe the next one will be used.
+
+816
+01:21:13,000 --> 01:21:17,000
+I start looking at nothing I can commit to firmly at this point.
+
+817
+01:21:17,000 --> 01:21:22,000
+But it's definitely something that we have noticed and yeah, it's something we'll keep in mind.
+
+818
+01:21:22,000 --> 01:21:23,000
+So we appreciate that.
+
+819
+01:21:23,000 --> 01:21:31,000
+Part of that summoning tag update was really to sort of give us more tools to do things like improve the Raven experience or the Golden Ancient's experience.
+
+820
+01:21:31,000 --> 01:21:38,000
+Yeah, I think that summon update is going to be really huge for companion druids and every other build that uses these.
+
+821
+01:21:38,000 --> 01:21:46,000
+And we'll definitely look at it under that new lens after this update and see where we can make further improvements.
+
+822
+01:21:46,000 --> 01:21:49,000
+We'll do one last question, but this is like a two-parter question from two different people.
+
+823
+01:21:49,000 --> 01:21:54,000
+One's from Team Bo Diablo IV, the other one's from Dejal 22.
+
+824
+01:21:54,000 --> 01:21:56,000
+And they're both related to Armory.
+
+825
+01:21:56,000 --> 01:22:00,000
+Will items in the Armory be locked from accidentally selling them?
+
+826
+01:22:00,000 --> 01:22:09,000
+And separately, will saved items for Armory builds have like maybe an icon or something associated to them to kind of like call them out that they are part of a saved build?
+
+827
+01:22:09,000 --> 01:22:13,000
+Yeah, so when you do save a loadout, we favor all of those items.
+
+828
+01:22:13,000 --> 01:22:15,000
+So just automatically that happens.
+
+829
+01:22:15,000 --> 01:22:18,000
+No, no, no, mistaken like go.
+
+830
+01:22:18,000 --> 01:22:21,000
+Yeah, you'd have to unfavorited and sell it.
+
+831
+01:22:21,000 --> 01:22:25,000
+And then that at that point, it's like, well, it's sort of on you.
+
+832
+01:22:26,000 --> 01:22:31,000
+And then the second part is yes, there is a little icon that does indicate that hey, this is part of an Armory.
+
+833
+01:22:31,000 --> 01:22:32,000
+Cool.
+
+834
+01:22:32,000 --> 01:22:34,000
+So yeah, you know that like, hey, this is part of a build.
+
+835
+01:22:34,000 --> 01:22:36,000
+Don't mess with it.
+
+836
+01:22:36,000 --> 01:22:40,000
+Don't accidentally unfavorited or anything like that, which is good to know.
+
+837
+01:22:40,000 --> 01:22:42,000
+So cool.
+
+838
+01:22:42,000 --> 01:22:49,000
+Well, we again, thank you guys for tuning in for our Patch 2.1 PTR stream.
+
+839
+01:22:49,000 --> 01:22:55,000
+You know, there's a lot of news coming down the line for DL04 as we get closer to 2.1.
+
+840
+01:22:55,000 --> 01:23:00,000
+But we do have a blog that will be going live this afternoon, probably right after this stream.
+
+841
+01:23:00,000 --> 01:23:05,000
+And again, our patch notes, the full patch notes for this PTR will be next Wednesday.
+
+842
+01:23:05,000 --> 01:23:07,000
+So it's a little bit of a delay.
+
+843
+01:23:07,000 --> 01:23:10,000
+Mainly do the holidays and us doing the stream a little bit early.
+
+844
+01:23:10,000 --> 01:23:12,000
+Normally, we had the patch notes immediately after the stream.
+
+845
+01:23:12,000 --> 01:23:18,000
+So there's going to be way more content beyond what we just talked about here in those patch notes for people to actually check out.
+
+846
+01:23:18,000 --> 01:23:24,000
+And of course, Patch 2.1 PTR is launching on December 3rd for PC BattleNet users.
+
+847
+01:23:24,000 --> 01:23:37,000
+So really looking forward to people jumping in, trying everything that we talked about today, including the new features, including the armory, including all the season 7 stuff, with witchcraft powers and a cold gems that we actually heard from Dan as well.
+
+848
+01:23:37,000 --> 01:23:40,000
+So huge thanks to Dan out in Albany.
+
+849
+01:23:40,000 --> 01:23:42,000
+And of course, thank you Colin.
+
+850
+01:23:42,000 --> 01:23:47,000
+Thank you, Charles for talking us through all the content that's going to be coming with Patch 2.1.
+
+851
+01:23:47,000 --> 01:23:56,000
+And we'll see you guys probably after the holidays, but we'll see you in the PTR for sure.
+
+852
+01:23:56,000 --> 01:23:59,000
+And we'll check you guys out in a hot too.
+
+853
+01:23:59,000 --> 01:24:00,000
+See you guys.
+
+854
+01:24:00,000 --> 01:24:01,000
+Thanks.
+
+855
+01:24:01,000 --> 01:24:02,000
+Thanks.
+
+856
+01:25:47,000 --> 01:25:48,000
+Bye.
+
