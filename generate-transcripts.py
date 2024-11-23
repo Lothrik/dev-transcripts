@@ -64,7 +64,7 @@ if __name__ == "__main__":
         print(f'ERROR: `{target_folder}` does not point to a valid directory.')
         sys.exit(0)
 
-    source_files = glob.glob(f"*{source_ext}", root_dir=target_folder)
+    source_files = glob.glob(f"**/*{source_ext}", root_dir=target_folder, recursive=True)
 
     model = whisper.load_model(model_size, device=torch_device)
     print("Whisper model loaded.")
