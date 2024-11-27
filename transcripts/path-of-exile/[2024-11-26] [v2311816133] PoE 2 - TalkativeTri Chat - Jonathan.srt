@@ -1,0 +1,4356 @@
+1
+00:00:00,000 --> 00:00:02,000
+Okay.
+
+2
+00:00:26,000 --> 00:00:27,000
+Studio mode off.
+
+3
+00:00:27,000 --> 00:00:28,000
+Okay.
+
+4
+00:00:29,000 --> 00:00:29,000
+Exiles.
+
+5
+00:00:29,000 --> 00:00:31,000
+Do you see Jonathan Rogers?
+
+6
+00:00:35,000 --> 00:00:36,000
+Question number two.
+
+7
+00:00:36,000 --> 00:00:38,000
+Do you hear Jonathan Rogers?
+
+8
+00:00:38,000 --> 00:00:39,000
+Jonathan, can you do a sound check, please?
+
+9
+00:00:42,000 --> 00:00:44,000
+We're in the new studio today.
+
+10
+00:00:45,000 --> 00:00:46,000
+So, you know, that's pretty nice.
+
+11
+00:00:46,000 --> 00:00:50,000
+I'm, you know, very nice little area that I'm sitting in here.
+
+12
+00:00:51,000 --> 00:00:51,000
+Perfect.
+
+13
+00:00:52,000 --> 00:00:54,000
+Is he a good audio level, everyone?
+
+14
+00:00:55,000 --> 00:00:56,000
+Or a little louder?
+
+15
+00:00:56,000 --> 00:00:59,000
+I believe we're good.
+
+16
+00:01:00,000 --> 00:01:01,000
+Okay.
+
+17
+00:01:01,000 --> 00:01:03,000
+Perfect levels, Jonathan.
+
+18
+00:01:03,000 --> 00:01:04,000
+Nice.
+
+19
+00:01:04,000 --> 00:01:05,000
+Okay, man.
+
+20
+00:01:05,000 --> 00:01:13,000
+Like I said a second ago, you are nine days out from Path of Exile 2 launching and everyone I'm talking to is excited.
+
+21
+00:01:13,000 --> 00:01:16,000
+It doesn't matter if they've been playing Path of Exile 1 for years.
+
+22
+00:01:16,000 --> 00:01:19,000
+It doesn't matter if they literally haven't played video games ever.
+
+23
+00:01:19,000 --> 00:01:26,000
+However, I show them just the snippet from the trailer and they are ready to log in on December 6th.
+
+24
+00:01:26,000 --> 00:01:29,000
+So my first question, what's the secret sauce?
+
+25
+00:01:29,000 --> 00:01:30,000
+How are you guys doing this?
+
+26
+00:01:30,000 --> 00:01:36,000
+How is grinding your games making non-gamers ready to log into a hardcore ARPG?
+
+27
+00:01:36,000 --> 00:01:45,000
+I think we just have a, like, when we're presenting our content, we always do it in a way where we're thinking about, you know, like, how are people going to react to it?
+
+28
+00:01:45,000 --> 00:01:49,000
+Like, you know, we just, and the other thing as well is that we're not afraid to put information in our videos.
+
+29
+00:01:49,000 --> 00:01:53,000
+Like, I think a lot of people are kind of like, you know, hey, you know, tone it back a little bit.
+
+30
+00:01:53,000 --> 00:01:55,000
+You know, like, people don't need so much information, this kind of stuff.
+
+31
+00:01:56,000 --> 00:01:59,000
+But personally, I'm kind of a fan of just like, you know, let's just put everything out there.
+
+32
+00:01:59,000 --> 00:02:01,000
+And if you do that, I think people get excited.
+
+33
+00:02:01,000 --> 00:02:04,000
+So, you know, I guess that's my philosophy about it anyway.
+
+34
+00:02:04,000 --> 00:02:06,000
+And I think people do resonate with that.
+
+35
+00:02:06,000 --> 00:02:13,000
+If you show them just, you know, show them what you got cooking and show them gameplay, show them, you know, how they be able to, how they're able to use all the tools you give them.
+
+36
+00:02:13,000 --> 00:02:14,000
+And I think they'll be excited.
+
+37
+00:02:15,000 --> 00:02:15,000
+Definitely.
+
+38
+00:02:15,000 --> 00:02:21,000
+And I hate to bring it up, but it wasn't an interview that dropped today with Legendary Drops.
+
+39
+00:02:21,000 --> 00:02:27,000
+How, just during the Settlers of Calgary reveal, you all pivoted to focus entirely on Endgame.
+
+40
+00:02:28,000 --> 00:02:30,000
+How is your company that agile?
+
+41
+00:02:30,000 --> 00:02:32,000
+Because I work at a company of about 70 people.
+
+42
+00:02:33,000 --> 00:02:33,000
+Right.
+
+43
+00:02:33,000 --> 00:02:34,000
+We are not agile at all.
+
+44
+00:02:35,000 --> 00:02:37,000
+What are your processes like internally as developers?
+
+45
+00:02:38,000 --> 00:02:40,000
+Like, how can you move on a dime and just go in?
+
+46
+00:02:41,000 --> 00:02:43,000
+I mean, I guess it's just about not being afraid to do it, right?
+
+47
+00:02:43,000 --> 00:02:45,000
+I mean, certainly it causes some consternation, right?
+
+48
+00:02:45,000 --> 00:02:48,000
+I mean, nobody likes being like jerked around from one task to the other, that kind of thing.
+
+49
+00:02:48,000 --> 00:02:54,000
+But I think it is important because it just gives us the ability to really make sure we're reacting to what we think is important.
+
+50
+00:02:55,000 --> 00:03:00,000
+And so, yeah, I mean, you know, like, I don't know what to say, really.
+
+51
+00:03:00,000 --> 00:03:06,000
+I mean, just like, you know, we just have to make those kinds of decisions and just tell people, you know, this is really what we have to do.
+
+52
+00:03:06,000 --> 00:03:14,000
+Like, when you realize that you're not doing the right thing, you really have to jump on, you know, you can't just sort of say, oh, well, you know, we just keep going to doing the wrong thing just because there's so much inertia, right?
+
+53
+00:03:14,000 --> 00:03:16,000
+Like, you have to actually try to turn the ship around.
+
+54
+00:03:16,000 --> 00:03:18,000
+And so, you know, yeah, that's what we did.
+
+55
+00:03:19,000 --> 00:03:19,000
+Awesome.
+
+56
+00:03:20,000 --> 00:03:24,000
+All right, Jonathan, I have the interview broken down into various different categories here.
+
+57
+00:03:24,000 --> 00:03:31,000
+I wanted to start with questions about new players in particular and just people logging into the game, playing it for the first time in their experiences.
+
+58
+00:03:31,000 --> 00:03:38,000
+So I wanted to start with the fact that in Path of Exile 1, it's renowned for not many people making it even to Brutus.
+
+59
+00:03:39,000 --> 00:03:40,000
+I mean, I know it's a free-to-play game.
+
+60
+00:03:40,000 --> 00:03:41,000
+A lot of people try it out.
+
+61
+00:03:41,000 --> 00:03:44,000
+But even when it was paid, I'm sure a lot of people bounced early on.
+
+62
+00:03:44,000 --> 00:03:55,000
+So I'm curious, first five minutes of Path of Exile 2, do you think that onboarding experience is solid and you're going to really wrap people in and get them progressing further into the game?
+
+63
+00:03:56,000 --> 00:03:57,000
+I'm pretty sure it is.
+
+64
+00:03:57,000 --> 00:04:03,000
+And I think that, like, if you're talking about literally the first five minutes, then I think that what will really just get you in is the fact that just the feeling of combat is much better.
+
+65
+00:04:04,000 --> 00:04:07,000
+And that's really the thing you're going to appreciate from the first moment that you start playing.
+
+66
+00:04:07,000 --> 00:04:13,000
+The other thing as well is we have a lot of, not necessarily, I mean, in the first five minutes you're going to come upon your first boss, right?
+
+67
+00:04:13,000 --> 00:04:16,000
+And that will be a much more engaging experience than Hillock was, you know what I mean?
+
+68
+00:04:16,000 --> 00:04:19,000
+Like, the first bosses are significantly better.
+
+69
+00:04:19,000 --> 00:04:22,000
+But even just after that, right, even the first 15 minutes, there's, like, other bosses really close.
+
+70
+00:04:23,000 --> 00:04:28,000
+You're sort of getting into that experience of having the more interesting combat and more interesting things going on just sort of right away.
+
+71
+00:04:29,000 --> 00:04:30,000
+And, you know, it's funny.
+
+72
+00:04:30,000 --> 00:04:34,000
+I had a friend over at my place who was playing the game the other day.
+
+73
+00:04:35,000 --> 00:04:37,000
+And there was a word I thought was really interesting that he used for this.
+
+74
+00:04:37,000 --> 00:04:40,000
+He's like, oh, you're so generous with the content.
+
+75
+00:04:40,000 --> 00:04:48,000
+And I was kind of like, it's kind of an interesting way to look at it is, like, you know, like, you know, he's kind of like you're giving people what they want so quickly.
+
+76
+00:04:49,000 --> 00:04:52,000
+It's kind of like, you know, I find that's kind of an interesting way to look at it.
+
+77
+00:04:52,000 --> 00:04:55,000
+But, you know, yeah, I mean, basically, we just want people to have a good time.
+
+78
+00:04:55,000 --> 00:05:07,000
+And, you know, even from the very beginning, like before we even made Path of Exile 1, like when we founded the company, one of the things that I had as my metric is, like, what's the time to first zombie?
+
+79
+00:05:07,000 --> 00:05:07,000
+You know what I mean?
+
+80
+00:05:07,000 --> 00:05:10,000
+Like, when's the first moment you can actually kill something?
+
+81
+00:05:10,000 --> 00:05:12,000
+You know, like you just kill, like, a basic enemy.
+
+82
+00:05:12,000 --> 00:05:15,000
+And I kind of want to make that sure that that's as minimal as possible.
+
+83
+00:05:15,000 --> 00:05:18,000
+And that's why we kind of make sure that we start the game the way we do it with, like, action immediately and that kind of stuff.
+
+84
+00:05:18,000 --> 00:05:22,000
+So, you know, that's kind of just a philosophy we've always had.
+
+85
+00:05:23,000 --> 00:05:23,000
+Definitely.
+
+86
+00:05:24,000 --> 00:05:26,000
+Getting people right into the action is important.
+
+87
+00:05:26,000 --> 00:05:33,000
+And lots of people, especially viewers of my channel, are completely new Path of Exile players.
+
+88
+00:05:33,000 --> 00:05:35,000
+They've never played an ARPG.
+
+89
+00:05:35,000 --> 00:05:36,000
+They never played Path of Exile 1.
+
+90
+00:05:37,000 --> 00:05:41,000
+And they are wondering, in Jonathan's eyes, what is the busted build?
+
+91
+00:05:41,000 --> 00:05:46,000
+What is the archetype they should log in and play on December 6th if they want to get into the action fast?
+
+92
+00:05:47,000 --> 00:05:49,000
+I'm not going to use you for clickbait videos, Jonathan.
+
+93
+00:05:49,000 --> 00:05:54,000
+Jonathan, I'm just wondering, from your view, I know you said people really like the monk that had a high satisfaction score.
+
+94
+00:05:55,000 --> 00:05:56,000
+But is it the most powerful?
+
+95
+00:05:58,000 --> 00:05:58,000
+Not necessarily.
+
+96
+00:05:59,000 --> 00:06:02,000
+I mean, look, I honestly don't know that I should be recommending builds particularly.
+
+97
+00:06:03,000 --> 00:06:07,000
+I mean, I've said a few times, I think, that, like, I think the mercenary could be a very good new player-friendly class.
+
+98
+00:06:07,000 --> 00:06:10,000
+Both because you're further away from the action and just because of that, like, instant response of everything.
+
+99
+00:06:10,000 --> 00:06:17,000
+Like, with, you know, if you're going to pick something like the warrior or something like that, you're going to have to worry about the fact that, you know,
+
+100
+00:06:17,000 --> 00:06:19,000
+you have to commit to attacks and this kind of stuff.
+
+101
+00:06:20,000 --> 00:06:25,000
+Whereas with something like the mercenary, because it's so fast from the point where you, like, you know, attack and the point you recover,
+
+102
+00:06:26,000 --> 00:06:29,000
+and also because you're further back, I think that could be a very good choice for new players.
+
+103
+00:06:29,000 --> 00:06:31,000
+But honestly, like, any class can work.
+
+104
+00:06:31,000 --> 00:06:33,000
+Like, any class can be the one that you work.
+
+105
+00:06:33,000 --> 00:06:41,000
+And, look, the main reason why we have classes in the first place, like, because, I mean, we could be a game that just has, like, zero, you know, introductory stuff.
+
+106
+00:06:41,000 --> 00:06:47,000
+Like, we already let you choose between and mix and match all the different skills and weapons and things like that.
+
+107
+00:06:49,000 --> 00:06:57,000
+So the reason why we have classes at all is because people really want, like, a stereotype to latch onto when they start the game to think about, like,
+
+108
+00:06:57,000 --> 00:06:58,000
+okay, how am I going to build my character, right?
+
+109
+00:06:58,000 --> 00:07:02,000
+So you show them some things, like, you know, like, here's a ranger and here's a sorceress and so on.
+
+110
+00:07:02,000 --> 00:07:06,000
+And then when they see that, they immediately get an idea in the head about what kind of thing it is that they might want to do.
+
+111
+00:07:06,000 --> 00:07:10,000
+So I think that when it comes to that, like, you're best off just picking, like, what excites you, right?
+
+112
+00:07:10,000 --> 00:07:14,000
+Like, what is the thing that just makes you feel like, oh, yeah, I could see how I'm going to play this, right?
+
+113
+00:07:14,000 --> 00:07:16,000
+And so you do that and then I think you'll have a good time.
+
+114
+00:07:17,000 --> 00:07:18,000
+I baited you into that answer.
+
+115
+00:07:18,000 --> 00:07:20,000
+That's exactly what we wanted to hear, man.
+
+116
+00:07:20,000 --> 00:07:22,000
+Whatever you're going to have the most fun with.
+
+117
+00:07:22,000 --> 00:07:24,000
+And I'm curious on character selection.
+
+118
+00:07:24,000 --> 00:07:29,000
+I know it was talked about in the past that ascendancies might appear on that screen.
+
+119
+00:07:29,000 --> 00:07:32,000
+Are they still not there and you find out about them in the trials?
+
+120
+00:07:32,000 --> 00:07:33,000
+Yeah, they're still not there.
+
+121
+00:07:34,000 --> 00:07:37,000
+Look, that screen is certainly something that needs some UI attention.
+
+122
+00:07:37,000 --> 00:07:38,000
+We just haven't had time to work on it more.
+
+123
+00:07:38,000 --> 00:07:42,000
+So there's so many things I would still improve even now.
+
+124
+00:07:42,000 --> 00:07:43,000
+But, I mean, look, that's what the early access is for, right?
+
+125
+00:07:43,000 --> 00:07:45,000
+There's going to be tons of time to improve on that stuff.
+
+126
+00:07:45,000 --> 00:07:50,000
+But, yeah, for the beginning, it's just like, you know, pick what you think sounds like it would be cool, right?
+
+127
+00:07:50,000 --> 00:07:55,000
+And we do have a few, like, little videos of skills and things like that on that screen which, like, show, you know,
+
+128
+00:07:55,000 --> 00:07:59,000
+and, like, it kind of gives, like, so it gives kind of three main points for each class of, like,
+
+129
+00:07:59,000 --> 00:08:01,000
+here's the kind of things you can expect from that class.
+
+130
+00:08:02,000 --> 00:08:03,000
+And there's a little video for each one as well.
+
+131
+00:08:03,000 --> 00:08:08,000
+So we've got a little bit of information there, but we don't have, like, yeah, full-on ascendancy classes and everything there.
+
+132
+00:08:08,000 --> 00:08:10,000
+I think there's room for that sort of stuff, but not at the moment.
+
+133
+00:08:11,000 --> 00:08:11,000
+Okay.
+
+134
+00:08:11,000 --> 00:08:11,000
+Awesome.
+
+135
+00:08:12,000 --> 00:08:20,000
+Now I want to move on to testing and what new players, completely new players to ARPGs, found the most challenging in Path of Exile 2.
+
+136
+00:08:20,000 --> 00:08:26,000
+I've heard that Path of Exile 1 players were just shocked by the difficulty of the combat.
+
+137
+00:08:26,000 --> 00:08:27,000
+Right, right, right.
+
+138
+00:08:27,000 --> 00:08:29,000
+And newer players were kind of fine with it.
+
+139
+00:08:29,000 --> 00:08:31,000
+What did they find challenging, though?
+
+140
+00:08:31,000 --> 00:08:38,000
+Because I know you did a lot of first-user testing, and I found that very interesting because you're going to get a lot of first-users on December 6th.
+
+141
+00:08:38,000 --> 00:08:39,000
+What did they find hard?
+
+142
+00:08:40,000 --> 00:08:45,000
+So definitely the things they were finding the most challenging was the character customization and itemization stuff, right?
+
+143
+00:08:45,000 --> 00:08:55,000
+Like, that's where they're kind of, you know, potentially finding that they, you know, that, like, so, I mean, we asked quite a lot of questions about, like, you know, what do you feel like you're skilled at and that kind of stuff.
+
+144
+00:08:55,000 --> 00:09:00,000
+Like, you know, try to sort of get a gauge for, like, you know, how people rate their own skills in different areas.
+
+145
+00:09:00,000 --> 00:09:04,000
+And it was certainly, like, understanding itemization that was the part that people found the hardest.
+
+146
+00:09:04,000 --> 00:09:07,000
+So we've actually done quite a few things to improve in that area, I think, since then.
+
+147
+00:09:07,000 --> 00:09:16,000
+I mean, like, it's just kind of subtle stuff, but just over time we've just been, you know, carefully massaging towards a situation where, you know, it's easier to find the stuff that you need to find.
+
+148
+00:09:16,000 --> 00:09:18,000
+It's, you know, there's more help.
+
+149
+00:09:18,000 --> 00:09:19,000
+There's more guidance.
+
+150
+00:09:19,000 --> 00:09:24,000
+There's also things like, you know, the socketing system being, I think, a lot easier than the crafting bench system that we had and things like that.
+
+151
+00:09:25,000 --> 00:09:27,000
+So there's things like that, I think, that will help a lot.
+
+152
+00:09:27,000 --> 00:09:29,000
+So that's kind of the stuff that I think new players find the hardest.
+
+153
+00:09:29,000 --> 00:09:34,000
+And then I think that that's really just because, you know, yeah, I mean, like, there's a lot of stats.
+
+154
+00:09:34,000 --> 00:09:35,000
+There's a lot of things kind of coming at you.
+
+155
+00:09:36,000 --> 00:09:38,000
+You know, we just have to make sure that we're not overwhelming you too much with that stuff.
+
+156
+00:09:39,000 --> 00:09:42,000
+And, of course, you know, there's the giant passive tree, which always gives people a bit of a scare.
+
+157
+00:09:43,000 --> 00:09:46,000
+So, you know, that's really the stuff that I would say that new players find the hardest.
+
+158
+00:09:47,000 --> 00:09:48,000
+Okay. Awesome.
+
+159
+00:09:48,000 --> 00:09:52,000
+Now, during the betas, I know that there were a few closed beta tests.
+
+160
+00:09:52,000 --> 00:09:56,000
+People were freaking out when they first got those NDA invites and everything.
+
+161
+00:09:56,000 --> 00:09:59,000
+Between those tests, what were the largest changes?
+
+162
+00:10:00,000 --> 00:10:04,000
+And did you really change a lot about the game after the tests themselves?
+
+163
+00:10:04,000 --> 00:10:10,000
+Because I know, like, when we went to L.A., you took a ton of feedback and made a huge number of changes just between March and June.
+
+164
+00:10:11,000 --> 00:10:13,000
+Did that happen again with all the beta tests this year?
+
+165
+00:10:14,000 --> 00:10:14,000
+Yeah, absolutely.
+
+166
+00:10:14,000 --> 00:10:16,000
+So a lot of it really comes down to difficulty.
+
+167
+00:10:16,000 --> 00:10:22,000
+But the thing with difficulty is that people know the game is too hard, but they don't know why it's too hard.
+
+168
+00:10:22,000 --> 00:10:31,000
+And the reasons can be hugely varied between, like, oh, it's just this one boss ability to, like, oh, you know, the entire way you're scaling spell damage is incorrect or, you know, random stuff like that.
+
+169
+00:10:31,000 --> 00:10:32,000
+So there's all sorts of things.
+
+170
+00:10:32,000 --> 00:10:41,000
+And it's always just, you know, can we tease out what exactly it is that people are running into that's the most, you know, that's the reason for the thing they're finding hard.
+
+171
+00:10:41,000 --> 00:10:44,000
+So I think there was a variety of changes.
+
+172
+00:10:44,000 --> 00:10:48,000
+So one of them was, like, you know, the map change where, you know, you can see what's out there so you know what to find.
+
+173
+00:10:48,000 --> 00:10:53,000
+A lot of it was down to, you know, more specific item drops around the place.
+
+174
+00:10:54,000 --> 00:10:57,000
+Then there were things like the flask change.
+
+175
+00:10:57,000 --> 00:11:03,000
+So the flask change was pretty big, I think, because that one really was, like, people dying because they were fumbling their flasks.
+
+176
+00:11:03,000 --> 00:11:06,000
+But it took quite a while to identify that that was, like, an issue.
+
+177
+00:11:06,000 --> 00:11:14,000
+Like, we knew that I, we kind of knew that we weren't happy with flasks, but we hadn't, I don't think I'd really appreciated the degree to which a new player really did struggle with them.
+
+178
+00:11:14,000 --> 00:11:16,000
+So that's another one of those things.
+
+179
+00:11:16,000 --> 00:11:17,000
+But, I mean, look, it's just, it's all over the place.
+
+180
+00:11:17,000 --> 00:11:20,000
+And it's, like, the devil's in the details, really.
+
+181
+00:11:20,000 --> 00:11:28,000
+Because even something like just the exact specifics of the passive tree, even for a new player, even if they're not, like, going deep on it, like, it can actually be worse for new players.
+
+182
+00:11:28,000 --> 00:11:32,000
+Because a new player will pick something that's weak without realizing it.
+
+183
+00:11:32,000 --> 00:11:35,000
+And so you need to make sure that everything on there is reasonable.
+
+184
+00:11:36,000 --> 00:11:42,000
+So there's quite a lot sort of, like, as I said, it really all comes down to those details that make sure that the game is feeling right.
+
+185
+00:11:42,000 --> 00:11:47,000
+And I think that without doing a lot of those tests, it would have been very hard to appreciate some of those problems.
+
+186
+00:11:47,000 --> 00:11:55,000
+Because you just don't, you know, when you're playing yourself, there's actually, like, a tendency where you'll always pick the stuff you kind of know is good subconsciously.
+
+187
+00:11:55,000 --> 00:12:02,000
+So I actually have, like, a thing when I'm playing now where often I'm, like, okay, I'm going to pick what I want and then I'm going to do the opposite of that.
+
+188
+00:12:02,000 --> 00:12:11,000
+Like, in order to kind of force myself, in order to, like, force myself down the kind of, like, the not golden path of, like, what if you were the, what if I picked the worst choice every time?
+
+189
+00:12:11,000 --> 00:12:12,000
+For, like, what are you doing?
+
+190
+00:12:12,000 --> 00:12:14,000
+How can I make sure that that's, like, not too terrible?
+
+191
+00:12:15,000 --> 00:12:18,000
+So that's kind of another thing you kind of have to make sure that you're doing as well.
+
+192
+00:12:19,000 --> 00:12:19,000
+Definitely.
+
+193
+00:12:19,000 --> 00:12:22,000
+I have two follow-ups from that question.
+
+194
+00:12:22,000 --> 00:12:33,000
+First, and I don't want you to commit to a release cadence or anything, but once we go into early access, do you see the team making large balance changes pretty quickly?
+
+195
+00:12:33,000 --> 00:12:42,000
+Kind of like Path of Exile 1, I'm notorious for going into the freaking ancient history of PvE 1 and seeing that when it first released, weekly updates.
+
+196
+00:12:42,000 --> 00:12:50,000
+Going in, making huge balance changes, wild swings back and forth, passive tree resets every, like, 11 days and the like.
+
+197
+00:12:50,000 --> 00:12:55,000
+Do you see that happening with early access, given how much larger scale it seems it's going to be?
+
+198
+00:12:55,000 --> 00:12:57,000
+Or is it going to be more stretched out?
+
+199
+00:12:57,000 --> 00:12:58,000
+Maybe a month, two months, three months?
+
+200
+00:12:59,000 --> 00:13:03,000
+Well, so I think that there's going to be a couple of different things, depending on what type of thing we're talking about here.
+
+201
+00:13:03,000 --> 00:13:10,000
+So for balance changes, I have absolutely no doubt that in that first week we're going to be just doing a storm of crazy things.
+
+202
+00:13:10,000 --> 00:13:18,000
+You know, just because, like, there'll be, I mean, look, there's going to be cases where, like, people just haven't tested bosses with certain builds and things like that, right?
+
+203
+00:13:18,000 --> 00:13:22,000
+Like, especially in the endgame, which has had, you know, less testing, obviously, than the start of the game.
+
+204
+00:13:22,000 --> 00:13:26,000
+So there's going to just be things where it's like someone will be like, oh, this boss is just impossible with minions.
+
+205
+00:13:26,000 --> 00:13:34,000
+And, like, someone probably did test it with minions at some point to make sure the AI is good, but there probably wasn't, like, a really, you know, like, is this actually easy enough?
+
+206
+00:13:34,000 --> 00:13:35,000
+Like, that kind of stuff.
+
+207
+00:13:35,000 --> 00:13:36,000
+Like, you'll get changes like that.
+
+208
+00:13:36,000 --> 00:13:39,000
+And I'm sure there'll just be cases where, you know, we need to make those kinds of changes.
+
+209
+00:13:40,000 --> 00:13:52,000
+So the other thing that's going to be, I'm sure, is just lots of, like, someone finds something that's just, like, not just busted in a normal way things are allowed to be busted, but, like, busted in a completely ridiculous way that just can't be allowed to stand.
+
+210
+00:13:52,000 --> 00:13:53,000
+I'm sure that will happen.
+
+211
+00:13:53,000 --> 00:13:57,000
+And as long as we can fix that stuff fast enough, I think that we might have to do a few things like that.
+
+212
+00:13:57,000 --> 00:13:58,000
+But ideally we don't.
+
+213
+00:13:58,000 --> 00:14:00,000
+But, you know, we'll see how that goes.
+
+214
+00:14:00,000 --> 00:14:02,000
+So I'm sure on the first week there'll just be lots of that stuff.
+
+215
+00:14:02,000 --> 00:14:13,000
+But if you're talking about, like, larger content inclusions, like we're talking about, like, new classes and, like, more sort of content type things, I suspect that we'll probably batch those up into, like, a larger cycle.
+
+216
+00:14:13,000 --> 00:14:16,000
+Probably, you know, probably, like, I mean, we were thinking, like, two months, it might end up being three.
+
+217
+00:14:17,000 --> 00:14:18,000
+Like, I'm not entirely certain.
+
+218
+00:14:18,000 --> 00:14:20,000
+We'll kind of, like, work that out when we go there.
+
+219
+00:14:20,000 --> 00:14:26,000
+The funny thing is, is, like, so, like, months ago we had plans for what we wanted to do immediately after release.
+
+220
+00:14:26,000 --> 00:14:32,000
+But as you get closer to release, like, everything just falls apart and you kind of have to be like, okay, after release we'll just have to take stock and see where we are.
+
+221
+00:14:32,000 --> 00:14:35,000
+Because, you know, like, no contact survives.
+
+222
+00:14:36,000 --> 00:14:38,000
+Sorry, no plan survives contact with the enemy, as they say.
+
+223
+00:14:38,000 --> 00:14:42,000
+So we have to, we'll just have to sort of reassess and see what's going on at that point.
+
+224
+00:14:42,000 --> 00:14:45,000
+But effectively, yeah, we'll probably do larger, like, larger updates.
+
+225
+00:14:45,000 --> 00:14:51,000
+Just because I think, you know, in order to actually get good testing for something, you have to get enough players back to actually test it substantially.
+
+226
+00:14:52,000 --> 00:14:57,000
+And people certainly are much more willing to come back for a larger update than they are for a smaller one.
+
+227
+00:14:57,000 --> 00:15:00,000
+So I think that that's kind of important.
+
+228
+00:15:00,000 --> 00:15:06,000
+We actually noticed in POE 1 when we were doing the weekly updates that, yeah, we didn't really see, like, a lot of people come back for them.
+
+229
+00:15:06,000 --> 00:15:08,000
+Like, the people who were playing were really happy.
+
+230
+00:15:08,000 --> 00:15:11,000
+But the people who weren't playing kind of weren't, it wasn't rising to the level of them actually coming back.
+
+231
+00:15:12,000 --> 00:15:19,000
+So I think it's better to make sure that if you've got a new update for, even in early access, you want to make sure there's enough to kind of sustain it.
+
+232
+00:15:19,000 --> 00:15:28,000
+But of course, that doesn't mean that we're not going to fix all the, like, you know, random small issues that, like, anything that doesn't, like, that wouldn't be an attractive thing for someone to come back for, you might as well just put it in immediately.
+
+233
+00:15:29,000 --> 00:15:32,000
+Because, like, you know, that's just, like, bug fixes and just little balance changes.
+
+234
+00:15:32,000 --> 00:15:34,000
+Because it's not, like, a big deal anyway.
+
+235
+00:15:34,000 --> 00:15:35,000
+So you might as well just throw it in there.
+
+236
+00:15:35,000 --> 00:15:36,000
+Definitely.
+
+237
+00:15:36,000 --> 00:15:44,000
+Now, I have to ask, because I have been yearning ever since I saw it at Exile Con 2023, the druid, the bear form.
+
+238
+00:15:44,000 --> 00:15:46,000
+Is that the reason the druid is delayed?
+
+239
+00:15:46,000 --> 00:15:49,000
+Because it's got crazy animation problems with WASD?
+
+240
+00:15:49,000 --> 00:15:52,000
+Or is it just the final bit of polish on the third form?
+
+241
+00:15:52,000 --> 00:15:53,000
+No, no, it's not that.
+
+242
+00:15:53,000 --> 00:15:56,000
+It's just literally that, you know, we had to pick something.
+
+243
+00:15:56,000 --> 00:16:00,000
+We had to pick, like, you know, when we were slimming down for early access a little bit, because as I said, we were going to have eight.
+
+244
+00:16:01,000 --> 00:16:05,000
+When we're slimming down, we're like, look, unfortunately, the druid is going to have to be on the chopping block for now.
+
+245
+00:16:06,000 --> 00:16:08,000
+And, you know, it was really sad, but we just had to pick our battles.
+
+246
+00:16:08,000 --> 00:16:12,000
+And, like, I have no doubt that that'll be one of the next ones that comes out.
+
+247
+00:16:13,000 --> 00:16:17,000
+And, yeah, and the reason ultimately is that making a new form for the druid just is a lot of work.
+
+248
+00:16:17,000 --> 00:16:18,000
+One of the forms wasn't done.
+
+249
+00:16:19,000 --> 00:16:23,000
+We looked at the amount of work it would take to get the druid over the line, and we're just like, look, if we can not have that.
+
+250
+00:16:23,000 --> 00:16:31,000
+Especially because when it comes to the stuff, it's like, if you're talking about adding, like, a new animal form, that's, like, work that could go into, like, making a new boss fight or something like that.
+
+251
+00:16:31,000 --> 00:16:35,000
+And so, because, you know, it's the same kind of, like, it's the animation team, ultimately.
+
+252
+00:16:35,000 --> 00:16:37,000
+You have to do, like, a bunch of work to do that stuff.
+
+253
+00:16:37,000 --> 00:16:39,000
+You know, rigging or just all that stuff has to happen.
+
+254
+00:16:39,000 --> 00:16:43,000
+So it isn't just the sort of skills pipeline, as we might call it, that has to be worrying about that.
+
+255
+00:16:43,000 --> 00:16:47,000
+It's also the, you know, the kind of the animation team who work on that stuff.
+
+256
+00:16:47,000 --> 00:16:54,000
+So, yeah, when we look at that, it's just like, look, if we cut this, it's going to add more content elsewhere versus if we cut this other class where it wouldn't really so much.
+
+257
+00:16:55,000 --> 00:16:56,000
+So that's kind of how those decisions get made.
+
+258
+00:16:57,000 --> 00:16:57,000
+Right, right.
+
+259
+00:16:57,000 --> 00:16:58,000
+That makes total sense.
+
+260
+00:16:59,000 --> 00:17:04,000
+Now, I have two very quick ascendancy questions for you, and then we'll move into classes themselves.
+
+261
+00:17:05,000 --> 00:17:14,000
+First, last time we spoke, or when we spoke in March, I tried to get some ascendancy details out of you, and you said you were working on a broken sorceress ascendancy.
+
+262
+00:17:14,000 --> 00:17:16,000
+You didn't know if it was going to make it into the game.
+
+263
+00:17:17,000 --> 00:17:19,000
+Did it make it into the game, or are we not seeing it?
+
+264
+00:17:19,000 --> 00:17:23,000
+Yeah, so that was the chronomancer, the, like, time stuff and everything.
+
+265
+00:17:23,000 --> 00:17:32,000
+Like, I just, I mean, the moment you tell me we can, like, you know, the moment we're like, oh, we want to be able to stop time, it's like immediately, you know, that's, how do you make that an auto-P?
+
+266
+00:17:33,000 --> 00:17:35,000
+So, you know, yeah, it was absolutely that.
+
+267
+00:17:35,000 --> 00:17:36,000
+It's very fun to use.
+
+268
+00:17:37,000 --> 00:17:38,000
+Yeah, it's just really cool.
+
+269
+00:17:38,000 --> 00:17:39,000
+Awesome.
+
+270
+00:17:39,000 --> 00:17:40,000
+Glad to hear it made it into the game.
+
+271
+00:17:40,000 --> 00:17:45,000
+And then the other ascendancy question, can you change ascendancies in PUE 2?
+
+272
+00:17:46,000 --> 00:17:48,000
+So, you actually can't right now.
+
+273
+00:17:49,000 --> 00:17:55,000
+The, I actually made, I think I did another interview recently where I thought that we could, but I believe that you can't at the moment.
+
+274
+00:17:55,000 --> 00:17:59,000
+I'll, there's probably more discussion to have about that.
+
+275
+00:17:59,000 --> 00:18:03,000
+I do know that, like, certainly some designers are very keen to be that a locked choice.
+
+276
+00:18:04,000 --> 00:18:07,000
+So, you know, we'll talk about that more, we'll see how that goes.
+
+277
+00:18:07,000 --> 00:18:09,000
+But at the moment, you can't, and so that'll be how it goes into early access anyway.
+
+278
+00:18:09,000 --> 00:18:13,000
+Okay, so for the foreseeable future, once you pick an ascendancy.
+
+279
+00:18:13,000 --> 00:18:14,000
+I mean, not necessarily.
+
+280
+00:18:14,000 --> 00:18:19,000
+Well, I mean, we'll, as I said, we'll talk about this more, but, you know, for the moment at least, you can't change them.
+
+281
+00:18:19,000 --> 00:18:20,000
+Okay, sounds great.
+
+282
+00:18:20,000 --> 00:18:23,000
+Now, classes, just broad questions about the classes for me.
+
+283
+00:18:24,000 --> 00:18:30,000
+So, you've talked about the monk having the highest satisfaction score for everyone who's tested.
+
+284
+00:18:30,000 --> 00:18:36,000
+Which class has the lowest satisfaction score, and what are you doing to perhaps bring it up, if anything?
+
+285
+00:18:36,000 --> 00:18:36,000
+Okay.
+
+286
+00:18:37,000 --> 00:18:43,000
+So, the one thing to say is that the difference between these is not, like, super high.
+
+287
+00:18:43,000 --> 00:18:47,000
+But the lowest one on that survey that we were referring to was actually the Sorceress, funnily enough.
+
+288
+00:18:48,000 --> 00:18:48,000
+Really?
+
+289
+00:18:48,000 --> 00:18:56,000
+And I think that the reason, yeah, I think that the reason for it is just because in the skill set, there's not, like, quite as much combo stuff as what some of the other classes have.
+
+290
+00:18:56,000 --> 00:19:02,000
+And so we actually, after that point, we did work a bit on that and try to sort of improve, make a few more of those things sort of work together a little bit.
+
+291
+00:19:02,000 --> 00:19:04,000
+But I think there's a little bit more work to do.
+
+292
+00:19:04,000 --> 00:19:18,000
+I think that what I've heard some people say about the Sorceress is it's a little bit more in the POE1 direction of, like, there's less kind of, like, cross, like, less cross-element combinations than what some of the other classes have.
+
+293
+00:19:18,000 --> 00:19:26,000
+Like, so therefore, like, if you do pick that class, like, there will probably be more situations where it's, like, there's less, like, you're probably going to use less skills overall than other classes.
+
+294
+00:19:26,000 --> 00:19:31,000
+Or rather, it's not so much that you will use that, but, like, you won't be forced into as much using more variety.
+
+295
+00:19:31,000 --> 00:19:36,000
+So I think that's something we can still improve by just adding more synergies between the elements.
+
+296
+00:19:36,000 --> 00:19:39,000
+But that's at least my understanding of probably why I think that's the case.
+
+297
+00:19:40,000 --> 00:19:43,000
+But as I said, we've already made some changes since the point when we did that survey.
+
+298
+00:19:43,000 --> 00:19:47,000
+So I think that it already is, you know, like, somewhat improved already by that.
+
+299
+00:19:48,000 --> 00:19:49,000
+But, yeah, that was the thing.
+
+300
+00:19:49,000 --> 00:19:52,000
+But, I mean, as I said, we're talking, like, you know, 0.1 of a...
+
+301
+00:19:52,000 --> 00:19:57,000
+Like, out of five stars, it's, like, 0.1 of a star lower than the others.
+
+302
+00:19:57,000 --> 00:19:59,000
+And, like, when you sort of dig into it, it's, like, you know, yeah, yeah.
+
+303
+00:19:59,000 --> 00:20:04,000
+But, I mean, as I said, I think that's at least my reason for, like, for why I think the source was like that.
+
+304
+00:20:05,000 --> 00:20:07,000
+But, yeah, that's kind of, you know, as I said, we can always improve that.
+
+305
+00:20:07,000 --> 00:20:08,000
+And I think we have been as well.
+
+306
+00:20:09,000 --> 00:20:09,000
+Yeah.
+
+307
+00:20:09,000 --> 00:20:09,000
+Awesome.
+
+308
+00:20:10,000 --> 00:20:10,000
+Just wanted to hear.
+
+309
+00:20:10,000 --> 00:20:12,000
+I thought it would be a curious question.
+
+310
+00:20:12,000 --> 00:20:15,000
+Now, this one, I don't know if you can answer it or not.
+
+311
+00:20:16,000 --> 00:20:19,000
+But everyone knows there's a monk in Path of Exile 2.
+
+312
+00:20:19,000 --> 00:20:20,000
+Monks use quarterstaffs.
+
+313
+00:20:20,000 --> 00:20:25,000
+Monks use their fists a little bit with finishers and, you know, mobility skills.
+
+314
+00:20:25,000 --> 00:20:29,000
+Are there any unarmed combat support options?
+
+315
+00:20:29,000 --> 00:20:31,000
+Is the default attack supportable with your fist?
+
+316
+00:20:31,000 --> 00:20:33,000
+Can you make something busted with it?
+
+317
+00:20:33,000 --> 00:20:35,000
+Is that a thing in Pee-wee 2 right now?
+
+318
+00:20:36,000 --> 00:20:36,000
+Or...
+
+319
+00:20:36,000 --> 00:20:39,000
+So, I believe that default attack is supportable.
+
+320
+00:20:39,000 --> 00:20:41,000
+I'm, like, 99% certain of that.
+
+321
+00:20:41,000 --> 00:20:43,000
+But I haven't actually...
+
+322
+00:20:43,000 --> 00:20:47,000
+I have to admit, I haven't actually seen that user interface myself because I haven't made an unarmed build.
+
+323
+00:20:47,000 --> 00:20:49,000
+There is a plan.
+
+324
+00:20:49,000 --> 00:20:51,000
+There is a plan for a bunch of unarmed build support.
+
+325
+00:20:52,000 --> 00:20:54,000
+But it actually did get cut for early access for the time being.
+
+326
+00:20:55,000 --> 00:21:01,000
+So, unfortunately, I can say that facebreakers will not make it in to early access.
+
+327
+00:21:01,000 --> 00:21:02,000
+But there is...
+
+328
+00:21:02,000 --> 00:21:04,000
+We do have a plan for it.
+
+329
+00:21:05,000 --> 00:21:08,000
+There is, like, a whole thing that's going to support that with other stuff.
+
+330
+00:21:08,000 --> 00:21:14,000
+One of the reasons for that, actually, is that it would require making unarmed versions of a ton of skills, like animations.
+
+331
+00:21:14,000 --> 00:21:14,000
+Oh, okay.
+
+332
+00:21:15,000 --> 00:21:16,000
+So, there's actually...
+
+333
+00:21:16,000 --> 00:21:18,000
+It ended up being cut just for that reason alone.
+
+334
+00:21:19,000 --> 00:21:21,000
+Like, it was just a bunch of animation work that we ended up not having time for.
+
+335
+00:21:22,000 --> 00:21:26,000
+And, effectively, you're talking about a bunch of animation work that's just to support that one unique.
+
+336
+00:21:27,000 --> 00:21:31,000
+Because, like, that unique really is, like, kind of the key to being able to make unarmed damage, like, actually decent.
+
+337
+00:21:31,000 --> 00:21:36,000
+There were a couple of other things as well that were sort of intended for unarmed things.
+
+338
+00:21:36,000 --> 00:21:37,000
+But, yeah, we're not going to do it for now.
+
+339
+00:21:38,000 --> 00:21:38,000
+But it'll come in the future.
+
+340
+00:21:39,000 --> 00:21:40,000
+We'll get to the point where you can do that.
+
+341
+00:21:41,000 --> 00:21:41,000
+Okay.
+
+342
+00:21:41,000 --> 00:21:44,000
+Is facebreakers still a pair of gloves in Pee-wee 2?
+
+343
+00:21:44,000 --> 00:21:44,000
+Yeah, yeah, it is.
+
+344
+00:21:44,000 --> 00:21:45,000
+It is?
+
+345
+00:21:45,000 --> 00:21:45,000
+Okay.
+
+346
+00:21:45,000 --> 00:21:46,000
+All right.
+
+347
+00:21:46,000 --> 00:21:46,000
+Cool.
+
+348
+00:21:47,000 --> 00:21:47,000
+All right.
+
+349
+00:21:47,000 --> 00:21:49,000
+This is a fun one just for you, Jonathan.
+
+350
+00:21:49,000 --> 00:21:52,000
+What is your favorite skill to use in Path of Exile 2 right now?
+
+351
+00:21:52,000 --> 00:21:54,000
+I know you're a mercenary fan.
+
+352
+00:21:54,000 --> 00:21:55,000
+You're playing through as the mercenary right now.
+
+353
+00:21:55,000 --> 00:21:57,000
+Is it on the Merc or something else?
+
+354
+00:21:58,000 --> 00:21:59,000
+That is really tricky.
+
+355
+00:21:59,000 --> 00:22:04,000
+Look, I mean, if we're talking about the Merc, then my favorite thing is definitely the ice wall.
+
+356
+00:22:04,000 --> 00:22:07,000
+The shot, what's it called?
+
+357
+00:22:07,000 --> 00:22:08,000
+I can't remember even the name of it.
+
+358
+00:22:09,000 --> 00:22:12,000
+But it's the one that fires a shot and then makes, like, two diagonal ice walls that come out.
+
+359
+00:22:13,000 --> 00:22:16,000
+And then following up with the fragmentation rounds to explode them.
+
+360
+00:22:16,000 --> 00:22:17,000
+Like, I just love that combo.
+
+361
+00:22:17,000 --> 00:22:18,000
+It just feels really satisfying to me.
+
+362
+00:22:19,000 --> 00:22:24,000
+But, you know, it's like, obviously, like, you know, every class there's interesting stuff.
+
+363
+00:22:24,000 --> 00:22:25,000
+Like, on the monk, it's probably the bell.
+
+364
+00:22:25,000 --> 00:22:26,000
+Like, I just love that bell.
+
+365
+00:22:26,000 --> 00:22:28,000
+There's so many little things about its design.
+
+366
+00:22:28,000 --> 00:22:30,000
+And, you know, it's just a fun skill.
+
+367
+00:22:30,000 --> 00:22:32,000
+Like, I just love that kind of thing.
+
+368
+00:22:32,000 --> 00:22:36,000
+So, you know, those are definitely up there for two of my favorites.
+
+369
+00:22:36,000 --> 00:22:38,000
+But, I mean, you know, there's always new stuff.
+
+370
+00:22:39,000 --> 00:22:40,000
+There's lots of cool things, right?
+
+371
+00:22:41,000 --> 00:22:42,000
+That's just the kind of stuff that I like to do.
+
+372
+00:22:43,000 --> 00:22:44,000
+The bell is incredible.
+
+373
+00:22:44,000 --> 00:22:47,000
+And you guys even snuck a showcase of it with a crossbow rapid shot.
+
+374
+00:22:47,000 --> 00:22:48,000
+Yes.
+
+375
+00:22:48,000 --> 00:22:48,000
+Yes.
+
+376
+00:22:49,000 --> 00:22:49,000
+Yes.
+
+377
+00:22:50,000 --> 00:22:51,000
+That was so good.
+
+378
+00:22:51,000 --> 00:22:57,000
+Just to give just a hint to the idea that there might be some pretty interesting ways that you can do some pretty cool stuff.
+
+379
+00:22:57,000 --> 00:22:58,000
+Oh, definitely.
+
+380
+00:22:58,000 --> 00:22:59,000
+All right.
+
+381
+00:22:59,000 --> 00:23:00,000
+Rapid fire question here.
+
+382
+00:23:00,000 --> 00:23:06,000
+Can we use the weapon swap system passive skills to allocate keystones?
+
+383
+00:23:06,000 --> 00:23:10,000
+Or can they only allocate notables and travel notes?
+
+384
+00:23:10,000 --> 00:23:12,000
+So you can't do keystones.
+
+385
+00:23:12,000 --> 00:23:14,000
+But I actually do have some interesting stuff to talk about with this.
+
+386
+00:23:14,000 --> 00:23:16,000
+Because we were originally going to allow that.
+
+387
+00:23:16,000 --> 00:23:18,000
+But then...
+
+388
+00:23:18,000 --> 00:23:23,000
+So the skill that actually originally was like that completely broke this.
+
+389
+00:23:23,000 --> 00:23:25,000
+That we realized like this was going to be like not okay.
+
+390
+00:23:26,000 --> 00:23:28,000
+Was Necromantic Aegis funnily enough.
+
+391
+00:23:28,000 --> 00:23:31,000
+Which now for anyone who hasn't played P.O.E. 1.
+
+392
+00:23:31,000 --> 00:23:35,000
+Effectively what this does is it makes it so the stats from your shield are transferred onto your minions.
+
+393
+00:23:35,000 --> 00:23:39,000
+But when you've got weapon swap involved where like...
+
+394
+00:23:39,000 --> 00:23:42,000
+Like if you can turn that on and off...
+
+395
+00:23:42,000 --> 00:23:44,000
+It caused...
+
+396
+00:23:44,000 --> 00:23:46,000
+The specific details of this are kind of complicated.
+
+397
+00:23:46,000 --> 00:23:49,000
+But it caused a lot of chaos in like how the stat system works.
+
+398
+00:23:49,000 --> 00:23:50,000
+And like how the minions would have to work.
+
+399
+00:23:50,000 --> 00:23:52,000
+And like the snapshotting of this.
+
+400
+00:23:52,000 --> 00:23:54,000
+And like just a whole lot of details around that were very complicated.
+
+401
+00:23:54,000 --> 00:23:57,000
+And then at some point while we were discussing that...
+
+402
+00:23:57,000 --> 00:23:59,000
+Because you know we kind of were like okay how are we going to even implement this?
+
+403
+00:23:59,000 --> 00:24:00,000
+It was like a whole thing.
+
+404
+00:24:00,000 --> 00:24:01,000
+Then we're like well hang on.
+
+405
+00:24:01,000 --> 00:24:03,000
+Like is it even okay for other keystones anyway?
+
+406
+00:24:03,000 --> 00:24:04,000
+Like when you really come right down to it.
+
+407
+00:24:04,000 --> 00:24:07,000
+Like is chaos inoculation really okay if you can turn it on and off?
+
+408
+00:24:07,000 --> 00:24:09,000
+Like it's kind of supposed to be this like massive downside.
+
+409
+00:24:10,000 --> 00:24:11,000
+And like if you can just like...
+
+410
+00:24:11,000 --> 00:24:14,000
+You know like it's kind of like we're kind of thinking maybe it wasn't okay.
+
+411
+00:24:14,000 --> 00:24:15,000
+And then we sort of made the decision.
+
+412
+00:24:15,000 --> 00:24:15,000
+You know what?
+
+413
+00:24:15,000 --> 00:24:18,000
+Maybe keystones should actually be not swappable like that.
+
+414
+00:24:18,000 --> 00:24:21,000
+Just because of the type of...
+
+415
+00:24:21,000 --> 00:24:24,000
+I think that might be a balance problem too far even for us.
+
+416
+00:24:25,000 --> 00:24:28,000
+Like even as far as we're willing to like accept a lot of these kinds of problems.
+
+417
+00:24:28,000 --> 00:24:30,000
+Like I think that might even be a bridge too far even for us.
+
+418
+00:24:30,000 --> 00:24:32,000
+So yeah we decided not to allow it.
+
+419
+00:24:32,000 --> 00:24:34,000
+And that's what we're going with for now anyway.
+
+420
+00:24:35,000 --> 00:24:39,000
+Yeah you knew people were already theorycrafting ways to like get the perfect keystones on their side.
+
+421
+00:24:39,000 --> 00:24:40,000
+Oh yeah.
+
+422
+00:24:40,000 --> 00:24:41,000
+Right right right.
+
+423
+00:24:41,000 --> 00:24:41,000
+That's good.
+
+424
+00:24:42,000 --> 00:24:43,000
+Another rapid fire.
+
+425
+00:24:43,000 --> 00:24:46,000
+If you know off the top of your head how many passive points are there in total?
+
+426
+00:24:46,000 --> 00:24:50,000
+Because people are already looking at the tree and trying to path through it right now.
+
+427
+00:24:50,000 --> 00:24:53,000
+I believe it's 122 is the final count.
+
+428
+00:24:53,000 --> 00:24:55,000
+And once you get all of the optional skill books and stuff like that.
+
+429
+00:24:56,000 --> 00:24:57,000
+Okay awesome.
+
+430
+00:24:57,000 --> 00:24:58,000
+Another rapid fire.
+
+431
+00:24:58,000 --> 00:25:00,000
+This is a spicy one though.
+
+432
+00:25:00,000 --> 00:25:06,000
+Are you able to do a one button respec if you have enough gold or if you pay a premium?
+
+433
+00:25:06,000 --> 00:25:08,000
+Or is it one note at a time?
+
+434
+00:25:09,000 --> 00:25:10,000
+You will have to do one note at a time.
+
+435
+00:25:10,000 --> 00:25:13,000
+And like the thing is I mean yeah I guess I can see why people would want that.
+
+436
+00:25:13,000 --> 00:25:16,000
+But generally speaking that's not the kind of behavior really encouraging right?
+
+437
+00:25:16,000 --> 00:25:19,000
+Like we want you to actually be changing your build from one to the other.
+
+438
+00:25:19,000 --> 00:25:20,000
+So yeah there's just a one note at a time.
+
+439
+00:25:21,000 --> 00:25:22,000
+I mean look it won't take you too long right?
+
+440
+00:25:22,000 --> 00:25:24,000
+You can click 100 times even if you're level 100.
+
+441
+00:25:24,000 --> 00:25:25,000
+Like it's not too bad.
+
+442
+00:25:27,000 --> 00:25:28,000
+I know.
+
+443
+00:25:28,000 --> 00:25:28,000
+I know it won't.
+
+444
+00:25:29,000 --> 00:25:30,000
+I get it.
+
+445
+00:25:31,000 --> 00:25:32,000
+I totally get it.
+
+446
+00:25:32,000 --> 00:25:33,000
+Another one.
+
+447
+00:25:33,000 --> 00:25:35,000
+So we've seen this key term overflow a few times.
+
+448
+00:25:35,000 --> 00:25:37,000
+And some people are wondering how it works.
+
+449
+00:25:37,000 --> 00:25:39,000
+Could you explain how it works?
+
+450
+00:25:39,000 --> 00:25:44,000
+Yeah so anytime you've got something that says overflow it means that you're able to overcap that resource by up to double.
+
+451
+00:25:44,000 --> 00:25:52,000
+So effectively overflow just means yeah like if it's leech or if it's like you know any other kind of thing that gives you back life or mana or shield or whatever it is.
+
+452
+00:25:52,000 --> 00:25:55,000
+It basically just means yeah you can get back up to double of that resource.
+
+453
+00:25:55,000 --> 00:25:56,000
+Okay awesome.
+
+454
+00:25:56,000 --> 00:26:00,000
+That makes sense even to me and I'm pretty simple minded about these mechanical sort of things.
+
+455
+00:26:00,000 --> 00:26:01,000
+Awesome thank you.
+
+456
+00:26:01,000 --> 00:26:03,000
+All right another rapid fire.
+
+457
+00:26:03,000 --> 00:26:09,000
+Can you use skills granted by ascendancies in meta gems like cast on shock?
+
+458
+00:26:09,000 --> 00:26:10,000
+No you can't.
+
+459
+00:26:10,000 --> 00:26:14,000
+So when you get one of those ascendancy skills they effectively just appear in your skill screen.
+
+460
+00:26:14,000 --> 00:26:15,000
+Like they're not a gem.
+
+461
+00:26:15,000 --> 00:26:18,000
+They're just kind of like there and locked in by that.
+
+462
+00:26:18,000 --> 00:26:21,000
+So because you can't take them out and put them somewhere else you can't put them in a meta gem.
+
+463
+00:26:22,000 --> 00:26:22,000
+Okay.
+
+464
+00:26:23,000 --> 00:26:24,000
+And then meta gems.
+
+465
+00:26:24,000 --> 00:26:26,000
+Can you use multiple of the same meta gem?
+
+466
+00:26:26,000 --> 00:26:30,000
+I know you can't repeat supports but can you have two cast on ignites in your build?
+
+467
+00:26:30,000 --> 00:26:31,000
+You absolutely can.
+
+468
+00:26:31,000 --> 00:26:31,000
+You absolutely can.
+
+469
+00:26:31,000 --> 00:26:33,000
+But of course you'll have to pay the spirit cost for both of them.
+
+470
+00:26:33,000 --> 00:26:35,000
+So you know that's that's how that's balanced.
+
+471
+00:26:35,000 --> 00:26:36,000
+So that's why it's fine.
+
+472
+00:26:36,000 --> 00:26:37,000
+Okay perfect.
+
+473
+00:26:37,000 --> 00:26:39,000
+Yeah you guys released a teaser yesterday.
+
+474
+00:26:39,000 --> 00:26:43,000
+I'm not sure if you saw a scepter minion ascendancy or not ascendancy.
+
+475
+00:26:43,000 --> 00:26:43,000
+Yeah yeah yeah.
+
+476
+00:26:44,000 --> 00:26:51,000
+Oh the second scepter that looked like a mirror tier item which was just awesome to see.
+
+477
+00:26:51,000 --> 00:26:55,000
+All right now we're going to move on from classes and we're going to talk a little bit about combat.
+
+478
+00:26:55,000 --> 00:27:06,000
+So when I played Path of Exile 2 the Draven fight and the Executioner fight hard locked me for combined about four hours.
+
+479
+00:27:07,000 --> 00:27:11,000
+What right now do you think is the hardest boss fight in Path of Exile 2's campaign?
+
+480
+00:27:11,000 --> 00:27:13,000
+Not the end game but the campaign itself.
+
+481
+00:27:13,000 --> 00:27:22,000
+And do you think it potentially is going to hard lock a lot of players if they're stubborn and they get that Elden Ring mindset where they're just like I'm just going in over and over.
+
+482
+00:27:23,000 --> 00:27:24,000
+I'm not stopping until it hits zero.
+
+483
+00:27:24,000 --> 00:27:30,000
+Well so we've definitely tried to like improve the issues that we had with that in that one.
+
+484
+00:27:30,000 --> 00:27:40,000
+But what I would say is that the like the further you go into the game the less kind of like of the feedback we've been able to address overall.
+
+485
+00:27:40,000 --> 00:27:42,000
+Just because you know if there's less of it right like as you go further.
+
+486
+00:27:43,000 --> 00:27:49,000
+And so effectively what that means is that I have no doubt that if there's a boss that's going to hard lock people it's almost certainly going to be in Act 3 I would say.
+
+487
+00:27:49,000 --> 00:27:50,000
+Something like that.
+
+488
+00:27:50,000 --> 00:27:54,000
+But I mean on the same time like ideally the hardest bosses are later in the game.
+
+489
+00:27:55,000 --> 00:27:56,000
+Like that's kind of what you want in some sense.
+
+490
+00:27:57,000 --> 00:27:59,000
+So yeah like I mean look some of those fights are pretty hard.
+
+491
+00:27:59,000 --> 00:28:02,000
+I don't know that there's one that I'd point to as like this is the hard one really.
+
+492
+00:28:02,000 --> 00:28:06,000
+I mean as I said we kind of try to make sure that they're all kind of a relatively even keel.
+
+493
+00:28:07,000 --> 00:28:10,000
+Or rather slowly increasing as you kind of go through.
+
+494
+00:28:10,000 --> 00:28:15,000
+So yeah my hope would be that the Act 3 end boss is one that people will find the hardest.
+
+495
+00:28:16,000 --> 00:28:18,000
+You know and then ideally the second time through it's even harder again.
+
+496
+00:28:18,000 --> 00:28:20,000
+So but we'll see how it goes.
+
+497
+00:28:20,000 --> 00:28:24,000
+And as I said as you now know right like if you go around the rest of the areas you'll find other stuff.
+
+498
+00:28:24,000 --> 00:28:26,000
+You'll find more items and so on and that'll definitely help you.
+
+499
+00:28:26,000 --> 00:28:28,000
+And if you come back you'll be you'll definitely do a lot better.
+
+500
+00:28:28,000 --> 00:28:33,000
+Question on bosses in regular versus ruthless and not ruthless cruel.
+
+501
+00:28:33,000 --> 00:28:39,000
+Do they have new abilities in cruel or are they the same just a little buffed with damage points?
+
+502
+00:28:40,000 --> 00:28:43,000
+So usually they don't have like completely new abilities.
+
+503
+00:28:43,000 --> 00:28:46,000
+Although I think that in some cases there might be a little bit of that.
+
+504
+00:28:46,000 --> 00:28:50,000
+But usually what it is it's kind of tweaking the parameters or the AI or the radii and like things like that.
+
+505
+00:28:50,000 --> 00:28:51,000
+Just like things about them.
+
+506
+00:28:51,000 --> 00:29:00,000
+And it makes skills feel dangerous in new ways quite a lot of the time just because you know like a skill can be feel very differently just by you know just by changing where it is you go.
+
+507
+00:29:00,000 --> 00:29:12,000
+So the same is true in maps as well where once again you've got like you know we have to like we have to make sure that some of these bosses that were balanced for people who are you know level 10 or something are now able to feel like their challenges in the end game.
+
+508
+00:29:12,000 --> 00:29:14,000
+So effectively we have to do something about them.
+
+509
+00:29:14,000 --> 00:29:15,000
+We can't just leave them as they are.
+
+510
+00:29:15,000 --> 00:29:16,000
+There has to be tweaks.
+
+511
+00:29:16,000 --> 00:29:21,000
+And so yeah a lot of those changes effectively just get made to make them and they make the bosses feel quite different.
+
+512
+00:29:21,000 --> 00:29:27,000
+The other thing as well that you have in cruel is that there are just monster types that have been shifted around and things like that.
+
+513
+00:29:27,000 --> 00:29:31,000
+So area the combat in areas can feel a little different as well like in some cases.
+
+514
+00:29:32,000 --> 00:29:37,000
+So there's just little fun details like that that can vary things up and just vary the experience up a little bit.
+
+515
+00:29:37,000 --> 00:29:38,000
+Awesome.
+
+516
+00:29:38,000 --> 00:29:44,000
+Now one more combat monster related question and it's revisiting a favorite topic of the Path of Exile community.
+
+517
+00:29:45,000 --> 00:29:47,000
+Rare monster modifiers.
+
+518
+00:29:47,000 --> 00:29:52,000
+We haven't seen a lot of that about in Path of Exile 2 in the past little while.
+
+519
+00:29:52,000 --> 00:29:54,000
+We've seen some of it in the playthroughs.
+
+520
+00:29:54,000 --> 00:30:00,000
+Is that philosophy the same as in Path of Exile 1 or are we expecting to see 3, 4 mod rare monsters?
+
+521
+00:30:00,000 --> 00:30:06,000
+And how do you keep the monster's identity when you add a whole bunch of modifiers to it?
+
+522
+00:30:06,000 --> 00:30:09,000
+Because all these monsters, they're unique fights in and of themselves, right?
+
+523
+00:30:10,000 --> 00:30:12,000
+So how do you keep that clean?
+
+524
+00:30:12,000 --> 00:30:17,000
+There's actually been quite a lot of specific work on rare monsters that I don't think we've talked about to anyone yet actually.
+
+525
+00:30:17,000 --> 00:30:18,000
+And it's probably quite interesting.
+
+526
+00:30:19,000 --> 00:30:28,000
+So the first thing I will say about it is that we realized a while ago that it's actually like not every monster type makes sense as a rare.
+
+527
+00:30:28,000 --> 00:30:31,000
+Like if you just have a rare zombie, it's just kind of like it's not a good fight.
+
+528
+00:30:31,000 --> 00:30:34,000
+So we actually decided, hey, you know what?
+
+529
+00:30:34,000 --> 00:30:36,000
+We're going to pick monsters that are going to be ones that can be rare.
+
+530
+00:30:37,000 --> 00:30:38,000
+And bear in mind, many of them can.
+
+531
+00:30:38,000 --> 00:30:45,000
+And then what we'll also do is if there are monsters that don't work well as rares,
+
+532
+00:30:46,000 --> 00:30:50,000
+maybe there's mechanic changes we can do for rare versions of that monster that could improve that.
+
+533
+00:30:51,000 --> 00:30:53,000
+So then what we started to do is we're like, oh, you know what we're going to do?
+
+534
+00:30:53,000 --> 00:30:57,000
+We're actually going to split out the monster types for monsters and then the rare version of that monster.
+
+535
+00:30:57,000 --> 00:31:00,000
+And then we're actually going to do specific balance for the rares of those monsters.
+
+536
+00:31:00,000 --> 00:31:08,000
+And that actually matters as well because there are mods that can go on certain monster types that like just completely blow up the life to unreasonable levels and things like that.
+
+537
+00:31:08,000 --> 00:31:14,000
+Like there are actually cases where now that we've actually got the ability to do specific balance for a rare of a given monster type,
+
+538
+00:31:14,000 --> 00:31:17,000
+we can actually tune that difficulty to make that much better.
+
+539
+00:31:18,000 --> 00:31:19,000
+And so they'll get extra.
+
+540
+00:31:19,000 --> 00:31:23,000
+They'll actually get extra abilities in some cases just because they're a rare.
+
+541
+00:31:23,000 --> 00:31:31,000
+Like, I mean, as a random example, there are like the very first monster in the first area.
+
+542
+00:31:31,000 --> 00:31:35,000
+So after the zombie, you've got the quill crab, which is these little things that shoot little spikes.
+
+543
+00:31:36,000 --> 00:31:39,000
+And they also appear later on in the hunting grounds as like a poison version of those.
+
+544
+00:31:39,000 --> 00:31:47,000
+And I believe if those are rare, and I think I'm getting this right, then they immediately get a different way that the spikes work.
+
+545
+00:31:47,000 --> 00:31:52,000
+And I'm trying to remember the exact details of this, but it's like they land in the ground and explode afterwards or something like that.
+
+546
+00:31:52,000 --> 00:31:53,000
+There's like some little thing that sort of happens.
+
+547
+00:31:54,000 --> 00:31:56,000
+So effectively, it's like there's like little specific things that we can do.
+
+548
+00:31:56,000 --> 00:32:01,000
+And so that stuff, I think, helps a lot.
+
+549
+00:32:01,000 --> 00:32:07,000
+And look, I'm sure we're going to do more of this like after the early access is launched as well, like more things like that.
+
+550
+00:32:08,000 --> 00:32:11,000
+But it really upgraded the rare fights quite a lot to be able to do that specific balance.
+
+551
+00:32:11,000 --> 00:32:14,000
+And then, of course, you also have the mods.
+
+552
+00:32:14,000 --> 00:32:17,000
+And once again, we're doing a whole pass on mods and trying to make them a lot better.
+
+553
+00:32:17,000 --> 00:32:19,000
+I mean, look, there's even more we can add here, I'm sure.
+
+554
+00:32:20,000 --> 00:32:25,000
+But trying to make sure that each of the rare mods that we add, like, makes sense for the monster.
+
+555
+00:32:26,000 --> 00:32:34,000
+We make sure that the rare mods, like, there are pulls and tags so that, like, you don't necessarily get every single mod and every single monster to kind of make sure that they make sense and actually have a reasonable fight.
+
+556
+00:32:34,000 --> 00:32:42,000
+And I don't even know if this got done, but there was talk at one point about having a, for each rare, once again, I don't know if this actually got implemented or not.
+
+557
+00:32:42,000 --> 00:32:54,000
+But we were talking about having it so that for each monster, we make sure that at least one fun mod goes on the monster to kind of make it have like a, by what I mean by that is like we look at each monster type.
+
+558
+00:32:54,000 --> 00:32:59,000
+We're like, OK, here's a set of different mods that are going to make it so that the fight has some kind of interest to it.
+
+559
+00:32:59,000 --> 00:33:02,000
+We make sure the first step is like put one of those on it.
+
+560
+00:33:02,000 --> 00:33:06,000
+And then after that, then we can kind of be more random with what the rest of the mods are and things like that.
+
+561
+00:33:06,000 --> 00:33:09,000
+So, yeah, there was actually quite a lot of balance stuff that went into that.
+
+562
+00:33:09,000 --> 00:33:16,000
+And there's more to come, but I think that the rare fights you will find are significantly more interesting in POE 2 than they were in POE 1 because of all the specific attention that they had.
+
+563
+00:33:17,000 --> 00:33:19,000
+They definitely sound like everybody's freaking out.
+
+564
+00:33:20,000 --> 00:33:27,000
+That sounds amazing, especially that first system of just the monsters changing implicitly if they're rare versus if magic or normal.
+
+565
+00:33:27,000 --> 00:33:28,000
+That's a great answer.
+
+566
+00:33:29,000 --> 00:33:33,000
+Can you answer if Soul Eater is in Path of Exile 2?
+
+567
+00:33:34,000 --> 00:33:35,000
+I actually don't know the answer to that.
+
+568
+00:33:37,000 --> 00:33:38,000
+You'd have to ask Mark that one.
+
+569
+00:33:38,000 --> 00:33:41,000
+So he's the one who's been setting up all that stuff.
+
+570
+00:33:41,000 --> 00:33:43,000
+And so I actually don't know.
+
+571
+00:33:44,000 --> 00:33:45,000
+I would have to go check with him on that one.
+
+572
+00:33:46,000 --> 00:33:46,000
+All right.
+
+573
+00:33:46,000 --> 00:33:47,000
+Lovely.
+
+574
+00:33:47,000 --> 00:33:48,000
+Love the answer, man.
+
+575
+00:33:48,000 --> 00:33:53,000
+OK, now we got a bulky section on endgame that I want to dive into here.
+
+576
+00:33:53,000 --> 00:34:01,000
+I want to start with, again, another infamous Path of Exile problem that we've experienced in Path of Exile 1.
+
+577
+00:34:01,000 --> 00:34:05,000
+And I think it's one of the reasons you designed Path of Exile 2 in its endgame.
+
+578
+00:34:06,000 --> 00:34:06,000
+One-shots.
+
+579
+00:34:06,000 --> 00:34:09,000
+How are one-shots in endgame looking right now?
+
+580
+00:34:09,000 --> 00:34:13,000
+I'm not talking about bosses using huge abilities and obviously one-shotting you.
+
+581
+00:34:13,000 --> 00:34:19,000
+But I'm just talking about randomly mapping your mediocre defenses and you just get one shot out of the blue.
+
+582
+00:34:19,000 --> 00:34:22,000
+Is that happening in testing or is that avoided for the most part?
+
+583
+00:34:22,000 --> 00:34:24,000
+Well, it's definitely happening at the moment.
+
+584
+00:34:24,000 --> 00:34:27,000
+And that's because we just haven't finished the balance of a lot of monsters.
+
+585
+00:34:28,000 --> 00:34:37,000
+And it's one of those things that's actually really hard to completely root out because there are a lot of attacks that some people, depending on your play style, just might not get hit by.
+
+586
+00:34:38,000 --> 00:34:42,000
+And obviously, you know, when the balance people do their initial balance, they try to get it right.
+
+587
+00:34:42,000 --> 00:34:44,000
+But it's one of those things that's just easy to miss.
+
+588
+00:34:44,000 --> 00:34:49,000
+And so I have no doubt that at the start of early access, there will be cases where some monsters are just unfair.
+
+589
+00:34:50,000 --> 00:34:51,000
+And, you know, that will happen.
+
+590
+00:34:51,000 --> 00:34:58,000
+I mean, like when we were doing the beta test, there were these like spiders that were just like so nasty.
+
+591
+00:34:58,000 --> 00:35:00,000
+And like we looked at the damage.
+
+592
+00:35:00,000 --> 00:35:04,000
+I don't remember exactly why this occurred, but it was just like, oh, it's literally doing 10 times the damage it was supposed to be doing.
+
+593
+00:35:04,000 --> 00:35:05,000
+Right. And like someone just made a typo.
+
+594
+00:35:06,000 --> 00:35:13,000
+And yet, like we played a bunch of times and like none of the people that were testing before we did a beta noticed the fact that that was happening.
+
+595
+00:35:13,000 --> 00:35:14,000
+Right. They just managed to avoid it all the time.
+
+596
+00:35:14,000 --> 00:35:17,000
+They only got hit by one of the bits or, you know, something like that.
+
+597
+00:35:17,000 --> 00:35:19,000
+And so, you know, we just missed it.
+
+598
+00:35:19,000 --> 00:35:21,000
+And look, I'm sure that's going to happen.
+
+599
+00:35:21,000 --> 00:35:23,000
+Right. Like there will be some rough edges like that.
+
+600
+00:35:23,000 --> 00:35:27,000
+But, you know, well, as soon as we hear about them, we will do our best to fix them.
+
+601
+00:35:27,000 --> 00:35:29,000
+But look, we're trying to root out all that stuff as much as we can at the moment.
+
+602
+00:35:29,000 --> 00:35:32,000
+And, you know, hopefully the players don't experience too much of that.
+
+603
+00:35:32,000 --> 00:35:35,000
+But yeah, I'm sure it'll happen.
+
+604
+00:35:35,000 --> 00:35:39,000
+But yeah, look, we don't want people to be just like randomly out of nowhere, just dying for nothing.
+
+605
+00:35:39,000 --> 00:35:45,000
+So, yeah, that's something we'll just have to make sure we're addressing as we get more balance testing.
+
+606
+00:35:45,000 --> 00:35:51,000
+Right. The term I hear a lot from people, especially who went to the recent event in L.A., is war of attrition.
+
+607
+00:35:52,000 --> 00:35:54,000
+That's what it feels like in Acts 1, 2 and 3.
+
+608
+00:35:54,000 --> 00:35:56,000
+So there's nothing really instant happening.
+
+609
+00:35:56,000 --> 00:35:57,000
+You're fighting against monsters.
+
+610
+00:35:57,000 --> 00:35:58,000
+They're draining you down.
+
+611
+00:35:58,000 --> 00:35:59,000
+You're draining them down.
+
+612
+00:35:59,000 --> 00:36:00,000
+And it's a war between you two.
+
+613
+00:36:00,000 --> 00:36:04,000
+So there's no instant one shots really happening unless it really is your fault.
+
+614
+00:36:04,000 --> 00:36:06,000
+That's what I heard from like Big Ducks.
+
+615
+00:36:06,000 --> 00:36:08,000
+He said, if I died, it was my fault.
+
+616
+00:36:08,000 --> 00:36:10,000
+I felt good about that.
+
+617
+00:36:10,000 --> 00:36:11,000
+I love that feeling.
+
+618
+00:36:12,000 --> 00:36:15,000
+Well, that is the goal for sure, to make it feel that way.
+
+619
+00:36:16,000 --> 00:36:16,000
+Okay.
+
+620
+00:36:16,000 --> 00:36:19,000
+And it sounds like the deadliness is on a bi-monster level.
+
+621
+00:36:19,000 --> 00:36:21,000
+And a lot of people are curious.
+
+622
+00:36:21,000 --> 00:36:27,000
+I think Mark said in the endgame presentation that every map is fully random at endgame.
+
+623
+00:36:27,000 --> 00:36:29,000
+All monster types, no matter a biome.
+
+624
+00:36:29,000 --> 00:36:31,000
+Is there anything that determines?
+
+625
+00:36:32,000 --> 00:36:41,000
+Oh, so there actually is a one monster, I believe, or at least a type of...
+
+626
+00:36:41,000 --> 00:36:45,000
+There will be one pack in the map that's always there, but all the rest of them are random.
+
+627
+00:36:45,000 --> 00:36:53,000
+The kind of main point we were trying to make with that is that in PeeWee 2, we pretty much all monsters...
+
+628
+00:36:53,000 --> 00:36:57,000
+I mean, look, there are some monsters that are just like swarmy little things that don't really do anything.
+
+629
+00:36:57,000 --> 00:37:01,000
+But for the most part, monsters all have some kind of ability or mechanical interesting thing going on with it.
+
+630
+00:37:01,000 --> 00:37:07,000
+And so in endgame, it really is the fact that you've got the combination of all those different types that really makes the combat interesting.
+
+631
+00:37:07,000 --> 00:37:07,000
+Yeah.
+
+632
+00:37:07,000 --> 00:37:10,000
+And you kind of never really know what you're going to get.
+
+633
+00:37:10,000 --> 00:37:13,000
+And so, I mean, look, PeeWee 1 does have that effectively the same idea going on.
+
+634
+00:37:13,000 --> 00:37:17,000
+It's just that so few of the monsters in PeeWee 1 actually have different mechanics, right?
+
+635
+00:37:18,000 --> 00:37:24,000
+Sure, one in every five might do, but in PeeWee 2, it's like there are so many more things going on.
+
+636
+00:37:24,000 --> 00:37:28,000
+They have movement skills and just random abilities and things like that.
+
+637
+00:37:28,000 --> 00:37:29,000
+Yeah, there's just a lot going on with them.
+
+638
+00:37:29,000 --> 00:37:36,000
+So, yeah, it's the combination of that that really introduces that stuff.
+
+639
+00:37:37,000 --> 00:37:37,000
+Perfect.
+
+640
+00:37:37,000 --> 00:37:38,000
+No, I love that.
+
+641
+00:37:38,000 --> 00:37:44,000
+I love that there's a little bit of a theme that's there as you're hunting these different biomes and mats, and then the rest is random.
+
+642
+00:37:44,000 --> 00:37:44,000
+Right.
+
+643
+00:37:44,000 --> 00:37:48,000
+But the thing is, you're still going to get some pretty out-of-place stuff.
+
+644
+00:37:48,000 --> 00:37:50,000
+I know I went into a city map the other day, and there's a gorilla attacking me.
+
+645
+00:37:50,000 --> 00:37:52,000
+I'm like, what the hell is this guy doing here?
+
+646
+00:37:52,000 --> 00:37:54,000
+But, you know, the endgame is like that.
+
+647
+00:37:54,000 --> 00:37:56,000
+Are the bosses the same for every map?
+
+648
+00:37:57,000 --> 00:37:58,000
+I'm sure they are.
+
+649
+00:37:58,000 --> 00:38:00,000
+Like, you're not going to get a gorilla boss in the city.
+
+650
+00:38:00,000 --> 00:38:00,000
+Yeah.
+
+651
+00:38:00,000 --> 00:38:01,000
+Yeah, yeah, exactly.
+
+652
+00:38:01,000 --> 00:38:04,000
+So, the bosses are picked for the map if they spawn.
+
+653
+00:38:05,000 --> 00:38:07,000
+Later on, we're talking about making it so that they're different.
+
+654
+00:38:08,000 --> 00:38:11,000
+Even within one map, we might have a couple of different bosses that can spawn there.
+
+655
+00:38:11,000 --> 00:38:13,000
+But we'll kind of have to see how we go about that.
+
+656
+00:38:13,000 --> 00:38:15,000
+It does take a bit of work, and so we haven't done that yet.
+
+657
+00:38:16,000 --> 00:38:20,000
+And it kind of depends a bit on how many maps there are versus how many bosses and that kind of stuff.
+
+658
+00:38:20,000 --> 00:38:22,000
+So, that can be fun, too.
+
+659
+00:38:23,000 --> 00:38:24,000
+Oh, that sounds awesome.
+
+660
+00:38:25,000 --> 00:38:27,000
+Sounds like some people would just get shocked as they walk in.
+
+661
+00:38:27,000 --> 00:38:31,000
+That's how I expect to be when I walk into the pinnacle boss, whoever it is, for the first time.
+
+662
+00:38:32,000 --> 00:38:34,000
+I expect to just get, like, Cirrus die-beamed.
+
+663
+00:38:34,000 --> 00:38:37,000
+And it's like, oh, all right, well, got to build up defenses better.
+
+664
+00:38:37,000 --> 00:38:38,000
+I can't wait for that.
+
+665
+00:38:39,000 --> 00:38:44,000
+On that note, too, all the boss arenas look like they have so much detail within them.
+
+666
+00:38:44,000 --> 00:38:48,000
+And they're so distinct from their actual arenas from the campaign.
+
+667
+00:38:48,000 --> 00:38:53,000
+And the example I saw that stuck out to me was the Colossus is, like, now in the heart of a volcano.
+
+668
+00:38:54,000 --> 00:38:57,000
+Is the level of detail and distinction there for a lot of the boss fights?
+
+669
+00:38:58,000 --> 00:39:08,000
+Yeah, so effectively we're trying to make it so that, like, ideally when we're using a boss in maps, we can put it in a different context so that it feels like a different fight.
+
+670
+00:39:09,000 --> 00:39:17,000
+And that, like, yeah, I mean, look, we have to definitely reuse certain components of the arena because often there's arena mechanics that we have to make sure are there.
+
+671
+00:39:17,000 --> 00:39:21,000
+But even just the feel of the arena that can make it feel quite different.
+
+672
+00:39:21,000 --> 00:39:29,000
+Like, for example, if you're talking about something like the Carrion Crone who's just in the second area, she's in a much bigger arena when you fight her in maps.
+
+673
+00:39:30,000 --> 00:39:35,000
+And she also, like, all of her AOE abilities have been, like, ramped up so that they, like, have targeted a much bigger area.
+
+674
+00:39:35,000 --> 00:39:39,000
+And things like the way the wolf's spawning, that's, like, a different pattern.
+
+675
+00:39:39,000 --> 00:39:40,000
+There's more of them and stuff like that.
+
+676
+00:39:40,000 --> 00:39:46,000
+So effectively, like, the fight actually feels quite a lot more advanced when you fight it in maps for that reason just because the arena's different.
+
+677
+00:39:46,000 --> 00:39:51,000
+And, like, the placement of all of the markers that the designers use to, like, you know, configure all that stuff.
+
+678
+00:39:51,000 --> 00:39:54,000
+Like, there's a lot more that's gone on to that.
+
+679
+00:39:55,000 --> 00:39:58,000
+So effectively, that can make the recontextualize the fight in quite a cool way.
+
+680
+00:39:59,000 --> 00:40:00,000
+Oh, that just sounds so exciting.
+
+681
+00:40:00,000 --> 00:40:02,000
+How many of these are we getting on launch?
+
+682
+00:40:02,000 --> 00:40:02,000
+Is it around 50?
+
+683
+00:40:03,000 --> 00:40:04,000
+Yeah, so the 50 bosses.
+
+684
+00:40:05,000 --> 00:40:08,000
+Like, I mean, all the bosses that you have through campaign are in endgame in some way.
+
+685
+00:40:08,000 --> 00:40:11,000
+So it's just a question of whereabouts, how we use them, and so on.
+
+686
+00:40:11,000 --> 00:40:14,000
+But, of course, then there's also the bosses that are in endgame that aren't in the campaign as well.
+
+687
+00:40:14,000 --> 00:40:17,000
+So, you know, there's quite a bit of that, too.
+
+688
+00:40:17,000 --> 00:40:21,000
+Yeah, the secret pinnacle that I'm going to try to get you to leak at some point during this interview.
+
+689
+00:40:22,000 --> 00:40:22,000
+You'll have to wait.
+
+690
+00:40:23,000 --> 00:40:24,000
+I definitely won't be leaking that one.
+
+691
+00:40:25,000 --> 00:40:26,000
+Okay.
+
+692
+00:40:26,000 --> 00:40:27,000
+All right.
+
+693
+00:40:27,000 --> 00:40:28,000
+Next question also on endgame.
+
+694
+00:40:28,000 --> 00:40:40,000
+So previously, I think earlier this year in an interview, you mentioned that once you get to endgame, about a third of the loot will come from pack monsters, a third will come from special mechanics, and a third will come from bosses and maps.
+
+695
+00:40:40,000 --> 00:40:47,000
+Now with bosses only being in every four maps on average, is that philosophy still the same, or has that shifted a little bit?
+
+696
+00:40:48,000 --> 00:40:51,000
+Yeah, so that definitely has shifted due to the change to the way the mapping endgame worked.
+
+697
+00:40:52,000 --> 00:40:54,000
+So, I mean, this was always a struggle, right?
+
+698
+00:40:54,000 --> 00:40:57,000
+Because the real thing wasn't so much the amount of loot, but the amount of time you're spending on things.
+
+699
+00:40:57,000 --> 00:41:07,000
+And I think that having to spend one third of your time, if you're not interested in doing boss fighting right now, is a little bit high and definitely wasn't working.
+
+700
+00:41:08,000 --> 00:41:16,000
+So I really like, I mean, no, we like to give players choice about what type of content they can fight, and we realized that bossing was also one of those type of things, right?
+
+701
+00:41:16,000 --> 00:41:17,000
+Like, do you want to do bossing or don't you?
+
+702
+00:41:18,000 --> 00:41:21,000
+So, yeah, I think that the balance of that is a lot better now.
+
+703
+00:41:21,000 --> 00:41:27,000
+And I honestly don't know what the percentage would be now that you sort of have control over it at this point.
+
+704
+00:41:27,000 --> 00:41:30,000
+But effectively, yeah, like that has definitely changed around due to that.
+
+705
+00:41:31,000 --> 00:41:31,000
+Okay.
+
+706
+00:41:32,000 --> 00:41:36,000
+And in testing, how is pack difficulty versus boss difficulty?
+
+707
+00:41:36,000 --> 00:41:38,000
+Are bosses just way harder?
+
+708
+00:41:38,000 --> 00:41:41,000
+Like, I know a lot of people say, like, oh, I want to chill when I'm fighting packs.
+
+709
+00:41:41,000 --> 00:41:43,000
+And then when bosses, they can be really intense.
+
+710
+00:41:43,000 --> 00:41:44,000
+Is it kind of that?
+
+711
+00:41:45,000 --> 00:41:45,000
+Yeah, exactly.
+
+712
+00:41:45,000 --> 00:41:51,000
+And look, the big reason for making the change of not having a boss in every map area was literally for this, right?
+
+713
+00:41:51,000 --> 00:41:57,000
+To make it so that we can make the bosses actually hard relative to, you know, relative to the pack difficulty.
+
+714
+00:41:58,000 --> 00:42:02,000
+Because that's what sort of, you know, that sort of maintains the integrity of the combat system, if you will.
+
+715
+00:42:02,000 --> 00:42:08,000
+Because, like, that's where you really have to get into the detail, like, really concentrating and, like, actually using all your abilities to the maximum.
+
+716
+00:42:09,000 --> 00:42:11,000
+Whereas pack clearing, you know, you can chill out a little bit more.
+
+717
+00:42:11,000 --> 00:42:15,000
+But that being said, we still want you to run into rares occasionally that are, like, crazy.
+
+718
+00:42:15,000 --> 00:42:17,000
+So, you know, you still want that.
+
+719
+00:42:17,000 --> 00:42:19,000
+But they're not going to be as crazy as the Unix are.
+
+720
+00:42:19,000 --> 00:42:20,000
+Okay. Awesome.
+
+721
+00:42:21,000 --> 00:42:22,000
+Rapid fire question on Endgame.
+
+722
+00:42:23,000 --> 00:42:26,000
+Why does the Waystone or map opening UI still have four slots?
+
+723
+00:42:26,000 --> 00:42:28,000
+Is that intentional?
+
+724
+00:42:28,000 --> 00:42:30,000
+Is there something that hasn't been revealed?
+
+725
+00:42:31,000 --> 00:42:36,000
+So, we actually had four slots when we started PeeWee 1 as well, even though we had no idea what we were going to use that for.
+
+726
+00:42:37,000 --> 00:42:38,000
+So, it's just like one of those things.
+
+727
+00:42:38,000 --> 00:42:39,000
+It's just like you put it in there.
+
+728
+00:42:39,000 --> 00:42:40,000
+It's like, you know, maybe we'll use this one day.
+
+729
+00:42:40,000 --> 00:42:44,000
+So, you know, there's literally no other reason than that.
+
+730
+00:42:44,000 --> 00:42:47,000
+We've always, we had four in the back of the old days and we're going to just do it again now.
+
+731
+00:42:47,000 --> 00:42:48,000
+Just, you know, it's a fun little thing.
+
+732
+00:42:48,000 --> 00:42:51,000
+Look, one day I'm sure we'll find something to do for that.
+
+733
+00:42:51,000 --> 00:42:51,000
+Okay.
+
+734
+00:42:52,000 --> 00:42:52,000
+I love it.
+
+735
+00:42:52,000 --> 00:42:55,000
+No, I didn't know that about Path of Exile 1 that it was always four.
+
+736
+00:42:56,000 --> 00:42:56,000
+Yeah, yeah.
+
+737
+00:42:57,000 --> 00:42:57,000
+That's good.
+
+738
+00:42:58,000 --> 00:43:00,000
+All right, another one that could be a little long.
+
+739
+00:43:00,000 --> 00:43:00,000
+I'm not sure.
+
+740
+00:43:00,000 --> 00:43:01,000
+Maybe it's a simple answer.
+
+741
+00:43:01,000 --> 00:43:07,000
+So, it sounds like there are currently four tiers of Endgame boss or Endgame encounters.
+
+742
+00:43:07,000 --> 00:43:13,000
+But technically, from what we saw from the Atlas passive trees, we can get plus five to those encounter levels.
+
+743
+00:43:13,000 --> 00:43:16,000
+Is the fifth tier meaningless or is there an extra secret tier?
+
+744
+00:43:16,000 --> 00:43:19,000
+So, what happened there is I'm a programmer, so I always count from zero.
+
+745
+00:43:20,000 --> 00:43:23,000
+So, when I say difficulty four, it's like the first difficulty is difficulty zero.
+
+746
+00:43:24,000 --> 00:43:25,000
+And then you've got one, two, three, four.
+
+747
+00:43:25,000 --> 00:43:29,000
+So, there's technically five difficulty tiers there, but I referred to the top one as difficulty four.
+
+748
+00:43:30,000 --> 00:43:34,000
+So, maybe the players will refer to that a different way than I am.
+
+749
+00:43:34,000 --> 00:43:36,000
+But, yeah, that's just what that is.
+
+750
+00:43:36,000 --> 00:43:42,000
+Now, technically, it is actually possible because of the fact that the small nodes and the big nodes are the way they are.
+
+751
+00:43:42,000 --> 00:43:46,000
+It's actually possible in some cases to cause it to be one tier even above that.
+
+752
+00:43:46,000 --> 00:43:50,000
+But if you do that, it will not result in the difficulty being higher.
+
+753
+00:43:50,000 --> 00:43:52,000
+That's actually kind of just a quirk of the way that the nodes are.
+
+754
+00:43:52,000 --> 00:44:00,000
+So, that's just effectively capped in that regard, which I guess might be kind of fun to have like an extra sort of hidden thing like that.
+
+755
+00:44:00,000 --> 00:44:02,000
+But we decided not to in the end.
+
+756
+00:44:02,000 --> 00:44:08,000
+So, yeah, there's just the there's effectively five difficulties, four difficulties above the bottom one.
+
+757
+00:44:08,000 --> 00:44:09,000
+Yeah.
+
+758
+00:44:09,000 --> 00:44:12,000
+I know you're saying that, but everybody needs to try that on launch.
+
+759
+00:44:12,000 --> 00:44:14,000
+OK, there's a hidden difficulty.
+
+760
+00:44:14,000 --> 00:44:16,000
+Maybe, maybe that they don't want us to know about.
+
+761
+00:44:16,000 --> 00:44:16,000
+I don't think so.
+
+762
+00:44:16,000 --> 00:44:17,000
+No, no, no, no.
+
+763
+00:44:18,000 --> 00:44:18,000
+OK.
+
+764
+00:44:19,000 --> 00:44:20,000
+This one might be pretty quick, too.
+
+765
+00:44:20,000 --> 00:44:23,000
+So, how high in tier do way stones go?
+
+766
+00:44:23,000 --> 00:44:26,000
+We saw tier 79 in the endgame teaser.
+
+767
+00:44:27,000 --> 00:44:27,000
+Is that?
+
+768
+00:44:27,000 --> 00:44:33,000
+So, I mean, the way what it's supposed to be is like T15 is like it goes from T1 to T15.
+
+769
+00:44:34,000 --> 00:44:37,000
+I think it might have been that it was listing object level there.
+
+770
+00:44:37,000 --> 00:44:41,000
+And there might even have been some inconsistencies between different clips, depending on when they were shot.
+
+771
+00:44:42,000 --> 00:44:43,000
+I'm not 100 percent sure about that.
+
+772
+00:44:44,000 --> 00:44:46,000
+But ultimately goes from T1 to T15.
+
+773
+00:44:46,000 --> 00:44:51,000
+However, there is a corruption outcome that can go plus one.
+
+774
+00:44:51,000 --> 00:44:57,000
+So, that lets you, you know, that just lets you go a little bit further.
+
+775
+00:44:57,000 --> 00:44:58,000
+Oh, I love that.
+
+776
+00:44:58,000 --> 00:44:59,000
+With that.
+
+777
+00:44:59,000 --> 00:45:01,000
+OK, so it was potentially like a monkey issue.
+
+778
+00:45:01,000 --> 00:45:04,000
+That's what I'm going to call the inconsistencies.
+
+779
+00:45:04,000 --> 00:45:04,000
+Yeah, sure.
+
+780
+00:45:04,000 --> 00:45:05,000
+If you like.
+
+781
+00:45:05,000 --> 00:45:06,000
+If you like.
+
+782
+00:45:06,000 --> 00:45:06,000
+OK.
+
+783
+00:45:07,000 --> 00:45:07,000
+Awesome.
+
+784
+00:45:07,000 --> 00:45:09,000
+OK, well, that was it on Endgame for now.
+
+785
+00:45:09,000 --> 00:45:13,000
+Now, I just want to go into a few general questions about the game.
+
+786
+00:45:13,000 --> 00:45:15,000
+Some rapid fire, some a little bit longer.
+
+787
+00:45:15,000 --> 00:45:24,000
+This first one, I'm curious, going into early access, what's one system you are hyper confident won't need further iteration?
+
+788
+00:45:25,000 --> 00:45:32,000
+And one system you're pretty sure is going to be broken under the weight of the players and you're going to need to have a lot of iteration on?
+
+789
+00:45:34,000 --> 00:45:35,000
+It's a really hard question.
+
+790
+00:45:35,000 --> 00:45:41,000
+Look, I think that where I'm most happy is like all the way the skill and support system works, I think, is very solid.
+
+791
+00:45:41,000 --> 00:45:42,000
+Like, I'm very happy with all that.
+
+792
+00:45:42,000 --> 00:45:44,000
+I think it's just a massive improvement over how PeeWee 1 was.
+
+793
+00:45:45,000 --> 00:45:51,000
+I would say that the stuff that's going to require a lot of variation will definitely be Endgame stuff, right?
+
+794
+00:45:51,000 --> 00:45:57,000
+Because that's the stuff that's had the least testing from players, from betas and things like that.
+
+795
+00:45:57,000 --> 00:46:00,000
+Look, I have no idea what kind of changes we may want to see there.
+
+796
+00:46:01,000 --> 00:46:05,000
+I'm pretty confident in it, but you never know what will happen when people actually go for that.
+
+797
+00:46:05,000 --> 00:46:09,000
+So, you know, there's a lot of stuff that could need changing there.
+
+798
+00:46:09,000 --> 00:46:12,000
+And we'll just have to work on that as we see what the players think.
+
+799
+00:46:12,000 --> 00:46:23,000
+But the other thing as well is that, of course, the Endgame is where, you know, there's the most, I guess, like, you have to get it right completely.
+
+800
+00:46:23,000 --> 00:46:27,000
+Because it's like that's kind of like the final experience you're having is like playing through that content.
+
+801
+00:46:27,000 --> 00:46:31,000
+So it's like you can have a single boss fight that's like, you know, maybe people don't like it in campaign.
+
+802
+00:46:31,000 --> 00:46:32,000
+That's like not a big deal.
+
+803
+00:46:32,000 --> 00:46:38,000
+But if you're talking about this, you know, the core staple of what it is that you're doing in the Endgame, you have to make sure you get that exactly correct.
+
+804
+00:46:39,000 --> 00:46:42,000
+And even the tiniest details can significantly affect the experience.
+
+805
+00:46:43,000 --> 00:46:45,000
+So, you know, I'm sure there'll be a lot of tweaking there.
+
+806
+00:46:45,000 --> 00:46:50,000
+And like some things may be just like a tiny number tweak, but it ends up being like a massive difference as far as player experience goes.
+
+807
+00:46:50,000 --> 00:46:52,000
+So, yeah, I'm sure there'll be a lot of iteration there.
+
+808
+00:46:52,000 --> 00:46:59,000
+Okay. Now, one system that I've had a little bit of discussion about in my community is the flask changes.
+
+809
+00:46:59,000 --> 00:47:03,000
+Are you pretty confident in those limiting you to just having a life and mana?
+
+810
+00:47:03,000 --> 00:47:09,000
+Or do you see yourself perhaps allowing that for a wider variety of flasks in the future if you want to reintroduce them?
+
+811
+00:47:10,000 --> 00:47:18,000
+I do think that it is important to make it so that that is as simple as possible because it really is one of those friction points you get for new players.
+
+812
+00:47:18,000 --> 00:47:21,000
+But I think the charm system is really where we can go wild there.
+
+813
+00:47:21,000 --> 00:47:29,000
+And so I think if we were doing like more kind of interesting stuff or like expanding on that, I think we'd do it in the charms where, you know, we can.
+
+814
+00:47:29,000 --> 00:47:33,000
+That's kind of intended to be, you know, the thing that you can, you know, expand on with that stuff.
+
+815
+00:47:34,000 --> 00:47:40,000
+I just don't want it to turn again into a situation where you feel like you have to constantly be pressing buttons like all the time in order to be able to do that stuff.
+
+816
+00:47:40,000 --> 00:47:43,000
+Because I think that really was kind of wearing on people.
+
+817
+00:47:43,000 --> 00:47:49,000
+And it's like if you're going to be pressing buttons, I would rather the buttons you're pressing are for using active skills rather than just using flasks.
+
+818
+00:47:49,000 --> 00:47:58,000
+So, yeah, ideally it can sort of move some of the move some of the like physical skill off just pressing flasks buttons and move it on to using skills instead.
+
+819
+00:47:59,000 --> 00:47:59,000
+Okay. All right.
+
+820
+00:48:00,000 --> 00:48:01,000
+All right. This is a tough one.
+
+821
+00:48:01,000 --> 00:48:03,000
+Maybe. Maybe not for you.
+
+822
+00:48:04,000 --> 00:48:11,000
+Over the past six or so years, what has been the most, the single most challenging aspect of development?
+
+823
+00:48:11,000 --> 00:48:13,000
+I know it's broad.
+
+824
+00:48:14,000 --> 00:48:26,000
+Yeah. So I think really the big challenge is just underestimating like the scope of what it is we set out to do.
+
+825
+00:48:26,000 --> 00:48:36,000
+And it's one of those things where we're constantly having to, you know, it's like we have a quality level we want to hit.
+
+826
+00:48:37,000 --> 00:48:37,000
+Yeah.
+
+827
+00:48:38,000 --> 00:48:42,000
+And it feels like it should, it feels like it shouldn't be as difficult as it is to hit that quality.
+
+828
+00:48:42,000 --> 00:48:44,000
+Like it just, it just really is a constant battle.
+
+829
+00:48:46,000 --> 00:48:47,000
+Yeah. I mean, look,
+
+830
+00:48:47,000 --> 00:48:51,000
+I think that is difficult.
+
+831
+00:48:51,000 --> 00:48:54,000
+I think that's why so many people are resonating with this release.
+
+832
+00:48:54,000 --> 00:48:58,000
+It's very obvious that you have hit a high quality level here.
+
+833
+00:48:59,000 --> 00:49:00,000
+I mean, it's spread like wildfire.
+
+834
+00:49:00,000 --> 00:49:05,000
+I saw you talking to DM and Ghazi and surprised at how many people are interested.
+
+835
+00:49:05,000 --> 00:49:12,000
+I am having people who I haven't talked to in like a decade reaching out to me about Pee Wee 2 because they're searching and they like saw my face or something.
+
+836
+00:49:12,000 --> 00:49:15,000
+And they're like, holy crap, there's this new game I just heard about.
+
+837
+00:49:15,000 --> 00:49:19,000
+Like it's spreading everywhere because the quality is so,
+
+838
+00:49:20,000 --> 00:49:23,000
+you waited until it was ready to showcase it.
+
+839
+00:49:23,000 --> 00:49:25,000
+Right. And it, it looks phenomenal.
+
+840
+00:49:25,000 --> 00:49:29,000
+So, um, yeah, I mean, as I said, like just getting there has just been such a thing.
+
+841
+00:49:29,000 --> 00:49:31,000
+Like when, when we announced in 2019,
+
+842
+00:49:31,000 --> 00:49:36,000
+we thought that we were going to be releasing Pee Wee 2 in like 2020 and like 2021.
+
+843
+00:49:36,000 --> 00:49:41,000
+Like it felt like it was like two years out and, uh, you know, like it's just, but it's just, yeah, it's, it's, it's,
+
+844
+00:49:41,000 --> 00:49:45,000
+it's difficult, right? Like just the, yeah, I don't know.
+
+845
+00:49:45,000 --> 00:49:53,000
+And even it's like, uh, even like, is it how long ago now I'm thinking like, so 20,
+
+846
+00:49:55,000 --> 00:49:58,000
+yeah, it's like, it's, it's, it, the funny thing is, is it always feels like it's two years out.
+
+847
+00:49:58,000 --> 00:50:02,000
+Like no matter how far deep into development, like no matter how far away it is, it's always like,
+
+848
+00:50:02,000 --> 00:50:06,000
+cause two years feels like forever, right? Uh, two years is like forever in the future.
+
+849
+00:50:06,000 --> 00:50:10,000
+Um, and so therefore like no matter what the scope that you think that you have is,
+
+850
+00:50:10,000 --> 00:50:12,000
+it's always like, Oh yeah, we can do it in that amount of time. Sure. Absolutely.
+
+851
+00:50:13,000 --> 00:50:17,000
+Um, and so, yeah, it's just real tough, uh, you know, like, like doing that.
+
+852
+00:50:17,000 --> 00:50:21,000
+And it feels like no matter how much experience we get, I mean, obviously, you know, Mark and I
+
+853
+00:50:21,000 --> 00:50:24,000
+have both been in Gantt development a long time, no matter how much experience you get,
+
+854
+00:50:24,000 --> 00:50:28,000
+it's like, it still feels like it's impossible to really know how long something will actually take,
+
+855
+00:50:28,000 --> 00:50:31,000
+uh, by the time you've, uh, by the, by the time you've, um, gone things through.
+
+856
+00:50:31,000 --> 00:50:36,000
+So yeah, it's just, uh, it's tough. Uh, it's tough for sure. I know you said it always feels
+
+857
+00:50:36,000 --> 00:50:41,000
+like two years away, Jonathan, but nine days log in. Okay. We're nine days out.
+
+858
+00:50:42,000 --> 00:50:50,000
+Yep. Okay. So a few really rapid fire questions here. You guys opted in for G-Force now for PUE2.
+
+859
+00:50:50,000 --> 00:50:54,000
+Do you know if that's going to be available for early access launch or you, I know you guys don't
+
+860
+00:50:54,000 --> 00:50:58,000
+have control over that, but do you know if it will be available? I believe it's supposed to be,
+
+861
+00:50:58,000 --> 00:51:02,000
+um, like, uh, we've been taught, we've been told it is. So, uh, you know, hopefully that all works
+
+862
+00:51:02,000 --> 00:51:07,000
+out and people can use that. Awesome. Now, how about the trade site on day one? Is that going
+
+863
+00:51:07,000 --> 00:51:12,000
+to be functional? Yeah. So we're doing everything we can to make sure that's the case. I think that
+
+864
+00:51:12,000 --> 00:51:16,000
+there'll be some items that maybe won't, uh, show up correctly and hopefully, like for example,
+
+865
+00:51:17,000 --> 00:51:22,000
+the way that, uh, skill gems are rendered is like completely changed. And, um, so I think what they're
+
+866
+00:51:22,000 --> 00:51:25,000
+going to do for skill gems is just like show the name of the gem and the level rather than having to work
+
+867
+00:51:25,000 --> 00:51:28,000
+out like all the stats and everything, how that works. And I think for something like gems,
+
+868
+00:51:28,000 --> 00:51:31,000
+it doesn't really matter because, um, you know, like the, there's nothing about the gem other
+
+869
+00:51:31,000 --> 00:51:35,000
+than just like the name of the level that actually matters as far as trade is concerned. Um, so
+
+870
+00:51:35,000 --> 00:51:38,000
+they're going to do their best to get everything rendered correctly, but I think it's really
+
+871
+00:51:38,000 --> 00:51:42,000
+important to make sure we've got trade on day one. Definitely. Oh yeah. People love trading now.
+
+872
+00:51:43,000 --> 00:51:48,000
+PVP. Does that exist in any form? Yeah. So you can do, uh, yeah, you can do simple jewels,
+
+873
+00:51:48,000 --> 00:51:52,000
+just like, uh, duels, like you could in PUE1. Um, we're not going to be doing anything more than that
+
+874
+00:51:52,000 --> 00:51:56,000
+for now. Um, so, uh, yeah, that's, uh, it's there, but like, we haven't done any effort
+
+875
+00:51:56,000 --> 00:51:59,000
+really towards it. It's just like, you know, like it just is what it is just as a fun thing.
+
+876
+00:51:59,000 --> 00:52:02,000
+If you want to challenge your friend and just like, you know, just do a thing that you can,
+
+877
+00:52:02,000 --> 00:52:07,000
+you could do that if you want. Cool. Cool. Now in the second run through the campaign,
+
+878
+00:52:07,000 --> 00:52:12,000
+cruel, do bosses once again, drop permanent buffs as they will on the first run through for those
+
+879
+00:52:12,000 --> 00:52:17,000
+optional bosses or are none of those available in the second run through? Uh, yep. So the second run
+
+880
+00:52:17,000 --> 00:52:21,000
+through, it definitely does have that. Um, so yeah, you're going to want to look for those as well. Um,
+
+881
+00:52:21,000 --> 00:52:25,000
+I believe that for them, that some of them are the same and some of them are different. So, uh,
+
+882
+00:52:25,000 --> 00:52:27,000
+you'll, you'll have to look around through the map to see what that's going on with that.
+
+883
+00:52:28,000 --> 00:52:35,000
+Oh, okay. Curious. Now this one is, I want to be gentle with it, but it's something that a lot of
+
+884
+00:52:35,000 --> 00:52:41,000
+people have talked about in the past. There is an MTX that is audio based that plays in towns and
+
+885
+00:52:41,000 --> 00:52:46,000
+everyone wants to hear the sweet songs of Camille when they go into the Clearfell encampment.
+
+886
+00:52:46,000 --> 00:52:52,000
+Is there any way that you guys are thinking about maybe an audio slider for MTX or something like an
+
+887
+00:52:52,000 --> 00:52:58,000
+audio adjustment maybe, or is that on your radar? Um, I mean, it's something that I've heard complaints
+
+888
+00:52:58,000 --> 00:53:01,000
+about recently. So it's something that I, we might have to think about, but I can't say I've got a
+
+889
+00:53:01,000 --> 00:53:05,000
+solution for it right now. Um, by the way, just one question, speaking of audio, do you hear like a
+
+890
+00:53:05,000 --> 00:53:11,000
+loud beeping or is that just on my end? That is just on your end. Chat, do we hear a loud beeping?
+
+891
+00:53:11,000 --> 00:53:18,000
+Let's see. No beeping. It's on your end. Is everything okay at the GGT office?
+
+892
+00:53:18,000 --> 00:53:22,000
+I think it's fine. It's just coming through my headset. So, uh, I'm not sure it's good. It's
+
+893
+00:53:22,000 --> 00:53:25,000
+all right. It's fine. I'll just ignore it. They're telling you to not talk about the goblins.
+
+894
+00:53:28,000 --> 00:53:33,000
+Okay. Unfortunately, I don't have a good answer for you for that, but I do understand the issue
+
+895
+00:53:33,000 --> 00:53:43,000
+though. Okay. Uh, now, oh, sorry. Items. So in the last time people got their hands on PeeWee 2,
+
+896
+00:53:43,000 --> 00:53:48,000
+we saw obviously the tiers, which you talked about and can't wait to get my hands on that.
+
+897
+00:53:48,000 --> 00:53:54,000
+We also saw items dropping with terms like advanced, expert, and ultimate. Are those related
+
+898
+00:53:54,000 --> 00:54:01,000
+to tiers or what is that? So the reason why that is, is because, um, uh, so we didn't want to release.
+
+899
+00:54:01,000 --> 00:54:08,000
+So what we've done in PeeWee 2 is that all of the acts, they have a much more, um, uh, like the
+
+900
+00:54:08,000 --> 00:54:11,000
+items that you find in each act are like way more related to the content of that act. So like,
+
+901
+00:54:12,000 --> 00:54:15,000
+as soon as you go to the desert, you're going to be finding like all of these like Mariket themed
+
+902
+00:54:15,000 --> 00:54:20,000
+items and so on. So, um, for act four, uh, and five and six, we've obviously got a whole big set of
+
+903
+00:54:20,000 --> 00:54:24,000
+base types that are all, uh, like, you know, related to those things. And so what we did was we're
+
+904
+00:54:24,000 --> 00:54:27,000
+like, okay, we don't really want to like just have those dropping now because they kind of don't make
+
+905
+00:54:27,000 --> 00:54:31,000
+sense for the content you're in. So what we decided to do was effectively make a duplicate of the,
+
+906
+00:54:31,000 --> 00:54:36,000
+of the base types that goes, um, into the, uh, into the second set of difficulty, uh, in second
+
+907
+00:54:36,000 --> 00:54:40,000
+difficulty. And, uh, that way we can drop all of those there. And then, uh, that will mean that we
+
+908
+00:54:40,000 --> 00:54:45,000
+just don't have the, um, uh, we don't have that, that we, we, we, we don't have to release all that
+
+909
+00:54:45,000 --> 00:54:48,000
+stuff now. And then effectively at the point when we release the acts, we'll effectively also release
+
+910
+00:54:48,000 --> 00:54:52,000
+the base types at the same time. And those base types will get replaced by the, uh, and the art and
+
+911
+00:54:52,000 --> 00:54:55,000
+everything will get replaced by the, uh, the new base types that we've already, that we've already got.
+
+912
+00:54:55,000 --> 00:55:00,000
+So, um, yeah, that's effectively the, um, uh, what's going on with that. Uh, now an end game, um,
+
+913
+00:55:00,000 --> 00:55:03,000
+there are some base types that relate to just end game. I'm not a hundred percent sure exactly
+
+914
+00:55:03,000 --> 00:55:07,000
+what the situation is with regard to the art, uh, stuff that they've done there, but, um,
+
+915
+00:55:07,000 --> 00:55:11,000
+effectively by the time we're sort of completely done, uh, it should be that we're not like having
+
+916
+00:55:11,000 --> 00:55:14,000
+to repeat any art anywhere and all that sort of stuff. But, uh, for the time being, we've just got
+
+917
+00:55:14,000 --> 00:55:20,000
+the, um, they, uh, that, that going on. Oh, okay. Awesome. Now also related to items and the tiers,
+
+918
+00:55:21,000 --> 00:55:25,000
+obviously tier five item will have amazing mods, amazing roles, and the like,
+
+919
+00:55:25,000 --> 00:55:32,000
+once you identify it, what happens if you craft on it? Uh, so yeah, it doesn't, it doesn't,
+
+920
+00:55:32,000 --> 00:55:35,000
+it doesn't affect anything after you've identified it. So effectively, once you've
+
+921
+00:55:35,000 --> 00:55:38,000
+identified it, like you've seen the mods are there, then effectively it is just a regular
+
+922
+00:55:38,000 --> 00:55:41,000
+item as far as any other, like, just like any other item would be. Um, and that's kind of
+
+923
+00:55:41,000 --> 00:55:45,000
+important because it's only really in the unidentified state when you see the tier, um, after that point,
+
+924
+00:55:45,000 --> 00:55:49,000
+the tier, it doesn't matter anymore. Cause like the, the decision that that resulted from that
+
+925
+00:55:49,000 --> 00:55:51,000
+is already decided and everything's, uh, you know, everything's done.
+
+926
+00:55:51,000 --> 00:55:55,000
+Okay. Awesome. Thanks for the question, by the way, MP that was from Empyrean.
+
+927
+00:55:55,000 --> 00:56:02,000
+Okay. Uh, another one. So I know that you vastly increased the number of orbs that are dropping
+
+928
+00:56:02,000 --> 00:56:08,000
+in early game and the intent is for people to be using said orbs on crafting. Are you at all worried
+
+929
+00:56:08,000 --> 00:56:14,000
+about how this will affect the greater economy? If people decide to just hoard everything and try to
+
+930
+00:56:14,000 --> 00:56:20,000
+post it on the trading post is I'm curious about that because I, I'm going to be spamming my gear,
+
+931
+00:56:20,000 --> 00:56:22,000
+but I think a lot of people will be like, ah, I'll just save it to trade. You know,
+
+932
+00:56:23,000 --> 00:56:28,000
+I think it will be fine. Um, so the nice thing about currency is that it's self-syncing, right?
+
+933
+00:56:28,000 --> 00:56:31,000
+Like you get to actually use all that stuff and I'm pretty sure people will be using it more
+
+934
+00:56:31,000 --> 00:56:36,000
+because they have more. Like, I think that's just how it will work. Um, so usually speaking,
+
+935
+00:56:36,000 --> 00:56:40,000
+um, you don't really get hyperinflation with currency items because the way that, um, you know,
+
+936
+00:56:40,000 --> 00:56:44,000
+they actually have a, yeah, as I said, because they're self-syncing. Yeah. Uh, but you never know,
+
+937
+00:56:44,000 --> 00:56:48,000
+like we never really can tell exactly what will happen with an economy until we actually see it. Um,
+
+938
+00:56:48,000 --> 00:56:52,000
+but I really hope we don't have any problems from that because having the more currency in the game
+
+939
+00:56:52,000 --> 00:56:57,000
+just definitely makes the game significantly better to play through the game. Um, you know,
+
+940
+00:56:57,000 --> 00:57:00,000
+I'm, I'm loving it. I just like the experience of doing all that stuff. So, um, yeah, I really want
+
+941
+00:57:00,000 --> 00:57:06,000
+to be able to keep that. And, um, the, uh, I think that just the fact that you kind of don't have,
+
+942
+00:57:06,000 --> 00:57:11,000
+um, the, uh, uh, the scouring orb anymore and the way that like things are always added,
+
+943
+00:57:11,000 --> 00:57:13,000
+like you're going to be wanting to add mods all the time. Like it's just a common thing.
+
+944
+00:57:13,000 --> 00:57:17,000
+And there's even sort of rules, like for example, so it used to be that when you out an item,
+
+945
+00:57:17,000 --> 00:57:21,000
+uh, gave you a random set of mods from four to six, but now it's always four. So it's like,
+
+946
+00:57:21,000 --> 00:57:25,000
+there's always going to be that you want to do the out and then the exalts. Um, so like,
+
+947
+00:57:25,000 --> 00:57:29,000
+you know, there's just more uses for that stuff. Like the, the, the adding, uh, the adding stuff
+
+948
+00:57:29,000 --> 00:57:34,000
+definitely, you know, just, yeah, it happens more often. Yeah. I heard somebody got four exalted
+
+949
+00:57:34,000 --> 00:57:41,000
+orbs by the end of act one and just felt so good being able to slam their items. So yeah, I love that.
+
+950
+00:57:41,000 --> 00:57:45,000
+Okay. Runes. I know they're a recent addition. I had a few questions about them.
+
+951
+00:57:46,000 --> 00:57:53,000
+First are all runes, just basic stats such as resistances and the like, or are there any
+
+952
+00:57:53,000 --> 00:58:00,000
+spicy combinations that might remind us of fan favorite ARPG maybe later down the line?
+
+953
+00:58:01,000 --> 00:58:06,000
+So we don't have rune words. And the funny thing about that is that like,
+
+954
+00:58:07,000 --> 00:58:10,000
+I actually had a long conversation about this because, um, you know, it's one of those things
+
+955
+00:58:10,000 --> 00:58:14,000
+that everyone remembers loving. But the funny thing about that is that like what they actually
+
+956
+00:58:14,000 --> 00:58:18,000
+remember loving was not so much the mechanic of rune words, but just the fact that all the
+
+957
+00:58:18,000 --> 00:58:23,000
+rune words were super OP. Um, like, uh, the rune words were just crazy powerful. And so like when
+
+958
+00:58:23,000 --> 00:58:26,000
+people like, Oh, I love rune words, it's like, they think it's the mechanic they liked, but no,
+
+959
+00:58:26,000 --> 00:58:31,000
+like that's just, it's just the items were just absolutely outrageous. Um, like, uh, yeah,
+
+960
+00:58:31,000 --> 00:58:37,000
+it's a sort of funny, funny how it was like that. Okay. But, um, what the, what I will say is that
+
+961
+00:58:37,000 --> 00:58:41,000
+like, so runes are intended to be the kind of simple ones that don't have a lot of, um, uh,
+
+962
+00:58:41,000 --> 00:58:45,000
+like, like a lot, a lot of complexity going on. So it's the sole cause that, uh, you can put in
+
+963
+00:58:45,000 --> 00:58:47,000
+the same sockets. Those are the ones that are intended to kind of have where there's more
+
+964
+00:58:47,000 --> 00:58:50,000
+complexity. There's different stats. There's different things going on with them.
+
+965
+00:58:50,000 --> 00:58:56,000
+Okay. And with those, they're unremovable, correct? You can't take them out of gear once
+
+966
+00:58:56,000 --> 00:58:57,000
+you sock them in.
+
+967
+00:58:58,000 --> 00:59:02,000
+And that's just kind of our general philosophy of, uh, the fact that we want it to most crafting to
+
+968
+00:59:02,000 --> 00:59:06,000
+be additive. Now we still do have some crafting things that remove mods, but, um,
+
+969
+00:59:06,000 --> 00:59:11,000
+I guess the difference with, uh, the, uh, sockets is that every single mod that went in there,
+
+970
+00:59:11,000 --> 00:59:15,000
+it's like, there's no randomness to those decisions, right? Like every single thing you
+
+971
+00:59:15,000 --> 00:59:18,000
+put in, it's like you completely controlled that outcome. Um, so therefore we don't feel
+
+972
+00:59:18,000 --> 00:59:21,000
+like we have to provide a way to remove that. Cause it's like, that's entirely in your control.
+
+973
+00:59:21,000 --> 00:59:24,000
+Whereas when you're talking about the random chance addings, like then it's like, there can
+
+974
+00:59:24,000 --> 00:59:27,000
+be ways that also based on random chance to be able to remove that again. And then we've
+
+975
+00:59:27,000 --> 00:59:30,000
+also got things like the omens that allow you to have more control over that. So like that sort
+
+976
+00:59:30,000 --> 00:59:34,000
+of stuff makes sense. But, um, for the, for the socketables, it's like, well, yeah, it's like you
+
+977
+00:59:34,000 --> 00:59:38,000
+chose to put that in. Uh, it's like, you know, I think the added philosophy works fine for that.
+
+978
+00:59:39,000 --> 00:59:45,000
+Okay. Awesome. Now two more questions on items here really quickly. One of them is about splinter
+
+979
+00:59:45,000 --> 00:59:49,000
+stack size. Now I know we want to declutter the screen for path of exile to keep the focus
+
+980
+00:59:49,000 --> 00:59:54,000
+on combat, but it looked like from the trailer, the stack size, for example, the breach stone
+
+981
+00:59:54,000 --> 01:00:01,000
+is still 300. What's the design philosophy between like 300 stack size and 25 stack size.
+
+982
+01:00:01,000 --> 01:00:06,000
+So they actually drop, uh, like in stacks. Uh, and the reason why that's important is
+
+983
+01:00:06,000 --> 01:00:09,000
+because it means that we can have effects that say if there's, if there's a mod that's
+
+984
+01:00:09,000 --> 01:00:15,000
+like 10 plus 10% splinters, it means that when we drop a stack of 10, that that plus 10%
+
+985
+01:00:15,000 --> 01:00:19,000
+can actually make it a stack of 11. Um, which, so basically it's just to give granularity so
+
+986
+01:00:19,000 --> 01:00:22,000
+that when we're dropping them, we actually can like, you know, have the mods could like
+
+987
+01:00:22,000 --> 01:00:26,000
+a plus 10% can actually be a, uh, you know, a thing that actually does something. Um, so
+
+988
+01:00:26,000 --> 01:00:30,000
+that's the reason why it's 300. Um, it isn't necessarily to change like the, uh,
+
+989
+01:00:30,000 --> 01:00:34,000
+amount of like things on the screen or the amount of, uh, or the amount of duration that
+
+990
+01:00:34,000 --> 01:00:38,000
+it takes to actually get to the, uh, to the boss. It's just about the granularity for mods, basically.
+
+991
+01:00:39,000 --> 01:00:44,000
+Okay. Awesome. One more item question. And then just one final question for you. Thank
+
+992
+01:00:44,000 --> 01:00:48,000
+you so much for your time, Jonathan. I really appreciate it. Will there be vendor recipes
+
+993
+01:00:48,000 --> 01:00:51,000
+in path of exile too? And if so, any examples?
+
+994
+01:00:52,000 --> 01:00:57,000
+So we actually decided to not do the system the same way how we did it before. So each, um,
+
+995
+01:00:57,000 --> 01:01:01,000
+yeah, so basically, so that we no longer have the vendor recipe, like idea as a concept where
+
+996
+01:01:01,000 --> 01:01:06,000
+there's just a vendor who, um, uh, we just do like any, uh, combination of items in the vendor.
+
+997
+01:01:06,000 --> 01:01:10,000
+So the vendor, uh, that has that same UI is like for disenchanting. And then effectively what we've
+
+998
+01:01:10,000 --> 01:01:15,000
+done is we've tried to pull like the different vendor recipes out into like benches or like items
+
+999
+01:01:15,000 --> 01:01:19,000
+in the world or like, or like NPCs with specific modes or things like effectively, like all of those
+
+1000
+01:01:19,000 --> 01:01:22,000
+things, we want to try and make sure that they're kind of like just more discoverable than what
+
+1001
+01:01:22,000 --> 01:01:27,000
+they were in Peewee 1. So like what we kind of want to do is like, um, if we're going to do,
+
+1002
+01:01:27,000 --> 01:01:32,000
+um, like for example, the quality recipe where you had like 40% quality, you get a, um, a, a
+
+1003
+01:01:32,000 --> 01:01:36,000
+whetstone. Yep. Now that we've got the salvage bench, that's like a specific bench that's able to
+
+1004
+01:01:36,000 --> 01:01:40,000
+effectively replace the thing that that was doing, uh, by something that effectively serves the same
+
+1005
+01:01:40,000 --> 01:01:43,000
+function, but it's like discoverable now. Cause you've got like a bench that's dedicated to
+
+1006
+01:01:43,000 --> 01:01:47,000
+quality and also socket, uh, currency items. Um, where, and if we're going to do a, for example,
+
+1007
+01:01:47,000 --> 01:01:53,000
+a three to one recipe, there is an item, a thing you get later, which has like three, you know,
+
+1008
+01:01:53,000 --> 01:01:56,000
+three slots and then a bottom slot, you know, and then you click the button that like, you know,
+
+1009
+01:01:56,000 --> 01:01:59,000
+combines them. It's like got its own thing. So effectively it means that like, you know,
+
+1010
+01:01:59,000 --> 01:02:03,000
+it's like more obvious, like when there's stuff like that. And effectively for each time where
+
+1011
+01:02:03,000 --> 01:02:06,000
+we want to have something that's like a vendor recipe, we can sort of find a place to put it,
+
+1012
+01:02:06,000 --> 01:02:10,000
+like make it more thematic, like have a little UI for it. Um, you know, there's even things like,
+
+1013
+01:02:11,000 --> 01:02:15,000
+um, well, maybe I won't spoil the other ones, but effectively, you know, like, uh,
+
+1014
+01:02:15,000 --> 01:02:19,000
+but effectively whenever we're doing, uh, when we need, when we need a function like that,
+
+1015
+01:02:19,000 --> 01:02:22,000
+I think it's cooler to have a specific user interface, a specific place, a specific NPC,
+
+1016
+01:02:22,000 --> 01:02:26,000
+a specific object, like something like that, that you find that, uh, that, that allows for that.
+
+1017
+01:02:26,000 --> 01:02:29,000
+And so it kind of gives you a hint that such a thing even exists in the first place.
+
+1018
+01:02:29,000 --> 01:02:31,000
+And then now that you've seen that you're like, okay, what actually goes in here? Like,
+
+1019
+01:02:31,000 --> 01:02:34,000
+what is this for? Like, you know, then like maybe you can have like little law hints,
+
+1020
+01:02:34,000 --> 01:02:37,000
+things like that. Uh, you know, it just makes the whole thing a little bit more discoverable.
+
+1021
+01:02:37,000 --> 01:02:40,000
+And I think a little bit more interesting. So that's effectively how I've replaced that system.
+
+1022
+01:02:41,000 --> 01:02:45,000
+Yeah. When, when you said that now I'm thinking that there could be nodes on the
+
+1023
+01:02:45,000 --> 01:02:50,000
+Atlas that house systems like this little secrets where you could go and find these little crafting
+
+1024
+01:02:50,000 --> 01:02:53,000
+benches, which just sounds like so much fun. The, I know we talked about it earlier,
+
+1025
+01:02:53,000 --> 01:03:00,000
+the Atlas and the exploration aspect of it, huge W I cannot wait to go in and just explore it.
+
+1026
+01:03:00,000 --> 01:03:05,000
+It's going to be great. Okay. Jonathan, I've got one last question for you and then we'll let you go.
+
+1027
+01:03:05,000 --> 01:03:11,000
+Thank you so much for your time again. No problem. I want you to give me the best single reason for
+
+1028
+01:03:11,000 --> 01:03:17,000
+everyone in the chat right now, everyone watching this VOD to buy a supporter pack and log in on
+
+1029
+01:03:17,000 --> 01:03:19,000
+December 6th at 2 PM Eastern.
+
+1030
+01:03:20,000 --> 01:03:24,000
+I think that really probably the main thing that you're going to love is just fighting those bosses.
+
+1031
+01:03:24,000 --> 01:03:29,000
+The combat with them is just like so fun. They're so varied and interesting. Like I'm just like,
+
+1032
+01:03:29,000 --> 01:03:33,000
+you know, there's, there's a lot of them to fight. Uh, you know, just get, you'll, if you,
+
+1033
+01:03:33,000 --> 01:03:38,000
+if you, if you, if you're playing December 6th, there'll be a lot of bosses to fight and I'm sure you're
+
+1034
+01:03:38,000 --> 01:03:40,000
+going to have a great time with them. This really is, I think one of the things we're doing the
+
+1035
+01:03:40,000 --> 01:03:46,000
+best out of all the things we're doing. Jonathan, will you be logging in on December 6th?
+
+1036
+01:03:46,000 --> 01:03:49,000
+Of course. Of course. I mean, as soon as there's some kind of horrible fire with the servers,
+
+1037
+01:03:49,000 --> 01:03:55,000
+then I'll immediately have to probably deal with that instead. But, uh, you know, uh, but, uh,
+
+1038
+01:03:55,000 --> 01:03:57,000
+so long as there aren't any problems, I'll just get, I'm going to be playing. Absolutely.
+
+1039
+01:03:58,000 --> 01:04:02,000
+All right, Jonathan, man. It's been great. Every time I talk with you, it's always so smooth.
+
+1040
+01:04:02,000 --> 01:04:07,000
+Everybody appreciates your time. Good luck the next nine days. Okay.
+
+1041
+01:04:07,000 --> 01:04:11,000
+Thank you very much. All right. Thank you very much. Thank you. I'll talk to you later,
+
+1042
+01:04:11,000 --> 01:04:15,000
+man. Great to talk to you. Oh, thank you. All right. Talk later, man. See ya. Thank you.
+
+1043
+01:04:17,000 --> 01:04:21,000
+All right. Log in. How did it go?
+
+1044
+01:04:23,000 --> 01:04:27,000
+I did respect his time. I didn't want to go over. I had some other questions, but you know,
+
+1045
+01:04:28,000 --> 01:04:33,000
+I didn't want to go too over. Okay. All right. I thought that was pretty damn good. I,
+
+1046
+01:04:33,000 --> 01:04:40,000
+we actually got some good info. The rare info, hopefully the rare info, the rare monsters
+
+1047
+01:04:40,000 --> 01:04:48,000
+actually sound sound legit, right? The rare monsters don't have just extra modifiers.
+
+1048
+01:04:48,000 --> 01:04:54,000
+They change and are chosen specifically by the developers to be rare. Let's go.
+
+1049
+01:04:55,000 --> 01:05:00,000
+I think that was the coolest tidbit. I almost freaked out. And I saw somebody in the chat saying
+
+1050
+01:05:00,000 --> 01:05:06,000
+that Jonathan was having trouble with the glazing. Come on. The dude was, he was like trying not to
+
+1051
+01:05:06,000 --> 01:05:16,000
+brag when so obviously he is smashing it. I had to glaze him there. The dude is like the hardest part
+
+1052
+01:05:16,000 --> 01:05:21,000
+is making sure the quality is there and not knowing when the best time is here. Man.
+
+1053
+01:05:21,000 --> 01:05:29,000
+I had to give him the props. They waited until they were ready to go before releasing the product.
+
+1054
+01:05:30,000 --> 01:05:36,000
+That's, that's ballsy. Okay. Right. You're supposed to just develop the product for a few years and
+
+1055
+01:05:36,000 --> 01:05:40,000
+then ship it out. Right. Right. Right. Right. Right. Right. Right guys. Okay. Did you guys enjoy the
+
+1056
+01:05:40,000 --> 01:05:47,000
+interview? Sorry. I have not been looking at chat. Did you enjoy it? W or L let's see.
+
+1057
+01:05:47,000 --> 01:05:59,000
+God tear glazing. Thank you. Bornbeard. W, W, W, W. Oh my goodness gracious. I'm sweating.
+
+1058
+01:06:00,000 --> 01:06:05,000
+I'm sweating a lot. I see no L's in the chat. Glaze away. I salute you.
+
+1059
+01:06:08,000 --> 01:06:16,000
+What do you mean? Almost 6k viewers on YouTube. What? Holy crap. We've got like 9k viewers total live.
+
+1060
+01:06:17,000 --> 01:06:23,000
+Whoa. That's crazy guys.
+
+1061
+01:06:27,000 --> 01:06:31,000
+Jonathan is still in the chat. I will not, I got to close discord so I don't accidentally pop in.
+
+1062
+01:06:31,000 --> 01:06:48,000
+Also, Jonathan will be logging in with us. You guys, I all, I, I almost wanted him to say log in,
+
+1063
+01:06:48,000 --> 01:06:53,000
+but I wasn't going to be like, Hey, can you say log in so we can use a voice clip? Right.
+
+1064
+01:06:53,000 --> 01:07:02,000
+I couldn't explicitly tell him to say it. Okay. He almost said log in. Okay. He said he was going to
+
+1065
+01:07:02,000 --> 01:07:08,000
+log in, but he didn't go log in. That's what I was expecting. You know, what is GeForce now? It's a
+
+1066
+01:07:08,000 --> 01:07:17,000
+cloud-based software that allows you to like host your computer, like use your internet to go to a
+
+1067
+01:07:17,000 --> 01:07:21,000
+virtual, like a different computer that's hosted somewhere else. So you don't have to have good
+
+1068
+01:07:21,000 --> 01:07:31,000
+graphics cards or CPUs on the like. Oh, I'm getting co-streams on Twitch. Oh, people were
+
+1069
+01:07:31,000 --> 01:07:35,000
+watching me on PUE too. Well, thank you everybody who was watching. I really appreciate it. I hope
+
+1070
+01:07:35,000 --> 01:07:43,000
+the interview was informative. I tried my best. I didn't want to go too far over. Okay. So I think
+
+1071
+01:07:43,000 --> 01:07:49,000
+that was good. I just didn't get to a few item questions and lore questions, which I know is
+
+1072
+01:07:49,000 --> 01:07:54,000
+going to piss off all 11 people who care about the lore of Path of Exile, but there will be
+
+1073
+01:07:54,000 --> 01:07:59,000
+hundreds of thousands of us once PUE2 comes out. I'm telling you, the lore is good. Okay.
+
+1074
+01:08:01,000 --> 01:08:06,000
+Oh, wow, wow, wow. Thank you for the mods in the chat to Omega Cybers. So Shiro, I think
+
+1075
+01:08:06,000 --> 01:08:14,000
+Volatis was there as well. Thank you very much. Shout out to you guys. No lore unsub. No, I love the
+
+1076
+01:08:14,000 --> 01:08:21,000
+lore. I love the lore. There are dozens of us, as I said. Calm down. I look like a tomato.
+
+1077
+01:08:22,000 --> 01:08:30,000
+I look like a tomato. Guys, I was... I stumbled over a few words there, but you know, it happens.
+
+1078
+01:08:30,000 --> 01:08:36,000
+I was incredibly nervous. PUE2 is number two on Steam top selling games. Let's go take the ride.
+
+1079
+01:08:36,000 --> 01:08:41,000
+That's awesome. Do we know how they will release new content classes, just random updates? No,
+
+1080
+01:08:41,000 --> 01:08:48,000
+they said every two to three months is the goal. Oh, you're welcome. Yeah, it sounds like it's going
+
+1081
+01:08:48,000 --> 01:08:55,000
+to be on GeForce now, you guys, which is pretty cool. Holy, holy, holy, holy, holy. Okay, we did it.
+
+1082
+01:08:56,000 --> 01:09:01,000
+I need to know who is editing my questions before we started the interview. That's what I really want
+
+1083
+01:09:01,000 --> 01:09:09,000
+to know. Do we know what happens to guilds on early access? Yeah, guilds should be in PUE2,
+
+1084
+01:09:09,000 --> 01:09:17,000
+I believe. Yeah, yeah, yeah. Join our Discord, guys. Yep, plug in the Discord. Plug in the Discord.
+
+1085
+01:09:18,000 --> 01:09:24,000
+We've got a big Discord, guys. Some would say it's the biggest talkative try Discord out there.
+
+1086
+01:09:24,000 --> 01:09:32,000
+That would be a true statement. Okay? Hey, thanks Zane and PC for becoming a... Oh my god,
+
+1087
+01:09:32,000 --> 01:09:37,000
+did we have a lot of gifts? Laurenco, thank you for the gifted memberships on YouTube.
+
+1088
+01:09:38,000 --> 01:09:45,000
+10... Oh my god, there's too many to read. There's too many to read. This kept going while I was doing
+
+1089
+01:09:45,000 --> 01:09:53,000
+the interview. MP posted a summary tweet. Let's go.
+
