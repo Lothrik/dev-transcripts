@@ -16,6 +16,6 @@ Step 5: reinstall PyTorch:  https://pytorch.org/
 
 Step 6: install OpenAI-Whisper:  `pip3 install -U openai-whisper`
 
-Step 7: configure `model_size`, `audio_lang`, `source_ext`, and `target_folder` if required in `generate-transcripts.py`
+Step 7: configure `model_size`, `audio_lang`, `source_ext`, and `target_folder` as required in `generate-transcripts.py`
 
 Step 8: run `generate-transcripts.py` via python3
