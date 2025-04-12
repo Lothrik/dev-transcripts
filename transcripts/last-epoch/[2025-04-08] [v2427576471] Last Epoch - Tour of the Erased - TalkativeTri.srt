@@ -1,0 +1,4092 @@
+1
+00:00:00,000 --> 00:00:11,000
+all right judd ross carve let's start with you judd quick sound check yep test test can you guys
+
+2
+00:00:11,000 --> 00:00:20,000
+hear me testing testing how is it judd good did i do an okay job can hear judd judd is good
+
+3
+00:00:20,000 --> 00:00:26,000
+all right you're good all right ross let's do you one more time hello uh testing testing one two three
+
+4
+00:00:26,000 --> 00:00:34,000
+was he a little quiet he's good a little low let me adjust you a little bit ross i got you on my end
+
+5
+00:00:34,000 --> 00:00:44,000
+nice nice all right all right go one more time ross testing testing one two three better
+
+6
+00:00:44,000 --> 00:00:52,000
+everybody's listening to your voice very intently you're good all right carve
+
+7
+00:00:52,000 --> 00:00:59,000
+we saved the uh the leaker for last let's go yeah one two three hello test test
+
+8
+00:00:59,000 --> 00:01:02,000
+is this working
+
+9
+00:01:02,000 --> 00:01:10,000
+carve the goat is good good carve better behave yeah yeah all right all right i think we're good to go
+
+10
+00:01:10,000 --> 00:01:16,000
+everybody i'll do the silly intro and we can hop right into it goodbye chat it was nice nice knowing
+
+11
+00:01:16,000 --> 00:01:26,000
+okay three two one greetings and welcome travelers to a very special episode of the still sane podcast
+
+12
+00:01:26,000 --> 00:01:35,000
+i am here with the amazing team behind last epoch season two tombs of the erased to talk all about
+
+13
+00:01:35,000 --> 00:01:41,000
+this latest update coming to the game it has been nine months they have been cooking and i thought it
+
+14
+00:01:41,000 --> 00:01:46,000
+would be an awesome way to introduce all of you and to just break the ice if all of you could talk
+
+15
+00:01:46,000 --> 00:01:52,000
+about your single favorite feature that is coming in tombs of the erased what are you most excited for
+
+16
+00:01:52,000 --> 00:01:59,000
+can we start with judd let's start with you man for sure for sure uh yeah we have a lot of heavy hitters
+
+17
+00:01:59,000 --> 00:02:04,000
+coming in season two in this regard um i'll speak to one that i'm personally really excited about that
+
+18
+00:02:04,000 --> 00:02:10,000
+might not get a lot of coverage elsewhere in the conversation um so for gamepad we've actually updated
+
+19
+00:02:10,000 --> 00:02:16,000
+every single skills targeting logic across the game and there was way more intuitive to how you'd
+
+20
+00:02:16,000 --> 00:02:21,000
+want them to play so for example if you were playing ballista in the past it would be that you would
+
+21
+00:02:21,000 --> 00:02:26,000
+if you're focusing on an enemy it would actually summon the ballista on top of the targeted enemy
+
+22
+00:02:26,000 --> 00:02:30,000
+which would aggro the enemy and probably surrounding enemies and they'd swarm your ballista and pretty
+
+23
+00:02:30,000 --> 00:02:34,000
+quickly dispatch it and kill it and that's not exactly how you'd want ballista to be played
+
+24
+00:02:34,000 --> 00:02:39,000
+with the update we've made it to where even if you're focused on a target enemy
+
+25
+00:02:39,000 --> 00:02:44,000
+uh it'll act more appropriately where it'll cast it to the side or outside of the group of monsters
+
+26
+00:02:44,000 --> 00:02:50,000
+which is a way better situation for ballista we've also updated all the mutations of skills so anything
+
+27
+00:02:50,000 --> 00:02:56,000
+inside the skill trees that actually might change the targeting logic or more desirably uh have the
+
+28
+00:02:56,000 --> 00:03:03,000
+target logic change uh for example things like a terror's blessing there is a there's a node called purge
+
+29
+00:03:03,000 --> 00:03:10,000
+which cleanses ailments off of allies and uh with the with the update if you do have an ally that has
+
+30
+00:03:10,000 --> 00:03:16,000
+an ailment on it purge and it turns blessing will prioritize healing that character instead those are
+
+31
+00:03:16,000 --> 00:03:21,000
+just a couple examples every single skill in the game has gone through this treatment and been touched
+
+32
+00:03:21,000 --> 00:03:30,000
+um oh and and there's also we've updated it to have some target memory as well uh so for example if
+
+33
+00:03:30,000 --> 00:03:34,000
+you're a ranged character imagine that you're a mage and you're casting fireball uh previously it
+
+34
+00:03:34,000 --> 00:03:38,000
+would be that if you're casting fireball at an enemy a couple times they start to chase you
+
+35
+00:03:38,000 --> 00:03:43,000
+you start to kite it you start to run in the other direction what you would previously have to do is
+
+36
+00:03:43,000 --> 00:03:46,000
+flick your joystick to the left run away uh then you have to flick it back to the right and start to
+
+37
+00:03:46,000 --> 00:03:52,000
+you know sling the spell again and flick it back to the left um in the update we will memorize the
+
+38
+00:03:52,000 --> 00:03:56,000
+target in which you were casting the spell at previously and as long as there's not a new target
+
+39
+00:03:56,000 --> 00:04:01,000
+recognized uh in the direction that you're facing with the gamepad uh you can just quickly it'll
+
+40
+00:04:01,000 --> 00:04:06,000
+just quickly turn around and cast the spell at that previous enemy which makes it just way way more
+
+41
+00:04:06,000 --> 00:04:13,000
+fluid um and so a lot of really great gamepad updates coming in season two uh there's even more
+
+42
+00:04:13,000 --> 00:04:18,000
+changes to support this like the inventory management updates that we have coming and there's a lot more
+
+43
+00:04:18,000 --> 00:04:24,000
+uh updates that we have coming for gamepad in future seasons as well that are already well underway
+
+44
+00:04:24,000 --> 00:04:30,000
+um and remember if you guys like playing on gamepad uh it is something that you're able to hot swap to
+
+45
+00:04:30,000 --> 00:04:34,000
+from keyboard and mouse which is just a real cool feature to have that's really exciting i know a lot
+
+46
+00:04:34,000 --> 00:04:40,000
+of people love the options and there's a lot of you know i think like older gamers too that really like
+
+47
+00:04:40,000 --> 00:04:46,000
+the ease that gamepad provides so that's that's awesome you guys focused on that man it's very cool
+
+48
+00:04:46,000 --> 00:04:53,000
+all right oh yep hands raised right now yeah so uh yeah that was me indicating the rsi that you get
+
+49
+00:04:53,000 --> 00:04:59,000
+from playing oh yeah yeah i think i think half our team has terrible carpal tunnel from uh picking up
+
+50
+00:04:59,000 --> 00:05:04,000
+a whole lot of loot over the years so yeah i i mostly pay with gamepad uh just just due to that
+
+51
+00:05:04,000 --> 00:05:11,000
+100 all right ross what are you looking forward to man yeah i'm personally i'm most excited for the
+
+52
+00:05:11,000 --> 00:05:17,000
+procedurally generated tomb and cemetery side zones that we've added um in season two there are a few
+
+53
+00:05:17,000 --> 00:05:22,000
+features that would be developed specifically for long-term use and this is one of those um what we've built
+
+54
+00:05:22,000 --> 00:05:28,000
+allows the studio to both release new content faster and improve existing content uh for example
+
+55
+00:05:28,000 --> 00:05:33,000
+you know let's just see in future seasons we add new areas that are tied to seasonal mechanics or we
+
+56
+00:05:33,000 --> 00:05:37,000
+want to improve existing areas like dungeons or base monolith echoes uh the new system we've worked on
+
+57
+00:05:37,000 --> 00:05:43,000
+enables to do that a lot faster than previously um specifically in relation to season two though um we
+
+58
+00:05:43,000 --> 00:05:48,000
+haven't had side zones in end game before uh and tombs are really the starting point for all of the new
+
+59
+00:05:48,000 --> 00:05:53,000
+end game content that we've added uh these new zones feel good in terms of not being too large not
+
+60
+00:05:53,000 --> 00:05:58,000
+being too small uh there's no loading screens when going back and forth we've got new enemies bosses and
+
+61
+00:05:58,000 --> 00:06:03,000
+rewards with them as well uh with the extra time we've had we've actually made some solid last minute
+
+62
+00:06:03,000 --> 00:06:10,000
+improvements here too like rotating the layouts to navigate areas better with wasd movement um which
+
+63
+00:06:10,000 --> 00:06:14,000
+we're also adding this season so basically you're always traveling in a direction that's comfortable for
+
+64
+00:06:14,000 --> 00:06:19,000
+wasd in terms of you know the exits and entrances from areas that sounds like a small thing but it's
+
+65
+00:06:19,000 --> 00:06:24,000
+great if you're using that control scheme uh note that future zones there will be built with this in
+
+66
+00:06:24,000 --> 00:06:29,000
+mind you know we're likely to revisit older content too in this regard as well um but yeah for me looking
+
+67
+00:06:29,000 --> 00:06:34,000
+forward to playing all the content this season but the procedural generation system has me the most
+
+68
+00:06:34,000 --> 00:06:40,000
+excited for you know the future development of the game the wasd change sounds big i know what you mean
+
+69
+00:06:40,000 --> 00:06:44,000
+it sounds small but it makes a massive difference especially if you're grinding through these many
+
+70
+00:06:44,000 --> 00:06:49,000
+times over and you want to try out the beta and you got an extra few weeks to work on it so
+
+71
+00:06:49,000 --> 00:06:54,000
+wasd should feel a little bit better than it was going to on that april 2nd initial launch
+
+72
+00:06:55,000 --> 00:07:03,000
+absolutely oh i'm excited for that awesome okay carve let's close this out what are you most
+
+73
+00:07:03,000 --> 00:07:09,000
+excited yeah there's a lot of things but my price is probably on the the viewer tree
+
+74
+00:07:09,000 --> 00:07:18,000
+because it allows me to do a lot of cool stuff in the model is like not have arenas anymore and a lot
+
+75
+00:07:18,000 --> 00:07:25,000
+of uh target farming for items wait a second you don't like arenas either what i do like arenas i
+
+76
+00:07:25,000 --> 00:07:31,000
+don't like them in the model yet okay when i do i'll go very cool i saw that mike leaked the entire tree
+
+77
+00:07:31,000 --> 00:07:40,000
+on stream last week yeah we might maybe look at some notes today potentially at some point oh okay
+
+78
+00:07:40,000 --> 00:07:46,000
+exciting well you guys before we dive into the main topic of today's chat which is all about
+
+79
+00:07:46,000 --> 00:07:52,000
+itemization and you have a bunch of exciting things to share i had one question that i just wanted to
+
+80
+00:07:52,000 --> 00:08:01,000
+to ask all of you because personally i've played about 150 hours of last epoch i'm not a blaster by any means
+
+81
+00:08:01,000 --> 00:08:07,000
+but the i usually bounced in the end game and i think that a lot of other players shared that
+
+82
+00:08:07,000 --> 00:08:15,000
+sentiment but in these past nine months it sounds like you have done tremendous work on that end game
+
+83
+00:08:15,000 --> 00:08:20,000
+loop and just providing new options not in not only in terms of content but itemization as well
+
+84
+00:08:20,000 --> 00:08:25,000
+did one of you want to tackle that what what is this new end game supposed to feel like supposed to do
+
+85
+00:08:25,000 --> 00:08:32,000
+and accomplish yeah and so in terms of the goals uh in short we wanted to improve end game respond to
+
+86
+00:08:32,000 --> 00:08:37,000
+player feedback and set us up for future content and you can split all these between short-term goals
+
+87
+00:08:37,000 --> 00:08:43,000
+and long-term goals so i'll start with the short-term goals so uh looking back season one added a pinnacle
+
+88
+00:08:43,000 --> 00:08:48,000
+boss um the which the game lacked um it didn't feel right that there wasn't a satisfying endpoint uh for
+
+89
+00:08:48,000 --> 00:08:54,000
+end game in this regard um both in terms of difficulty and narratively um so this was great
+
+90
+00:08:54,000 --> 00:09:00,000
+content uh but it didn't add much to the end game holistically um so the primary short-term goal with
+
+91
+00:09:00,000 --> 00:09:05,000
+season two was providing more content broadly at end game uh giving players more to do and allowing
+
+92
+00:09:05,000 --> 00:09:10,000
+them to sink more time into min-maxing their characters uh we knew we wanted to provide some
+
+93
+00:09:10,000 --> 00:09:15,000
+element of player agency in terms of influencing the monolith um that's the weaver tree that car was
+
+94
+00:09:15,000 --> 00:09:21,000
+mentioning um we knew we needed new bosses new enemies and we wanted to tie in more end game
+
+95
+00:09:21,000 --> 00:09:26,000
+itemization and crafting into the monolith um we've only really had that with the eternity cache
+
+96
+00:09:26,000 --> 00:09:31,000
+which is more in dungeons so not specifically tied to the monolith um we were also keen to add our first
+
+97
+00:09:31,000 --> 00:09:36,000
+side zones to echoes as well um as that experience just didn't exist before um and then the secondary
+
+98
+00:09:36,000 --> 00:09:41,000
+short-term goal there was responding to player feedback so that includes a lot of changes like overall
+
+99
+00:09:41,000 --> 00:09:47,000
+game balance so buffs to perform underperforming skills and reducing the power of a few extremely
+
+100
+00:09:47,000 --> 00:09:52,000
+over performing skills uh improving the balance between ward and health uh adjusting enemy damage
+
+101
+00:09:52,000 --> 00:10:00,000
+over time and by adjusting i mean reducing it um and making changes to boss ward um and we've also
+
+102
+00:10:00,000 --> 00:10:04,000
+added a bunch of quality of life features that people have been asking for things like auto stashing
+
+103
+00:10:04,000 --> 00:10:10,000
+mastery respect and so on uh so all these short-term goals are around basically wanting to keep
+
+104
+00:10:10,000 --> 00:10:15,000
+players more engaged with the end game so exactly interesting try um in terms of long-term goals
+
+105
+00:10:15,000 --> 00:10:20,000
+that was simple uh we knew we needed to develop a procedural generation system for long term as
+
+106
+00:10:20,000 --> 00:10:25,000
+mentioned before uh and we also wanted to add in mechanics in season two that would also integrate
+
+107
+00:10:25,000 --> 00:10:30,000
+well with future seasonal content of the game so things like the weaver tree and woven echo influence
+
+108
+00:10:30,000 --> 00:10:36,000
+those features will likely make an appearance when we're talking about future seasonal mechanics
+
+109
+00:10:36,000 --> 00:10:40,000
+uh so yeah to recap improve end game respond to player feedback and just set things up nicely for
+
+110
+00:10:40,000 --> 00:10:47,000
+the long term the woven echoes look very interesting especially the post from the first day of hype week
+
+111
+00:10:47,000 --> 00:10:52,000
+yesterday a few of the previous i'm just very excited for the special encounters and reward types that are
+
+112
+00:10:52,000 --> 00:11:00,000
+locked behind those and i know this you know wasn't in in my list but uber avarath okay how hard is he has
+
+113
+00:11:00,000 --> 00:11:05,000
+anyone in the office downed him easily or or is this like a we'll leave it to the players to try to
+
+114
+00:11:05,000 --> 00:11:13,000
+down this dude eventually car have you done yeah i don't i don't i don't think there's been many people
+
+115
+00:11:13,000 --> 00:11:18,000
+who have done it did you uh you know did you do it ethically or was it a little bit of a dev build you
+
+116
+00:11:18,000 --> 00:11:24,000
+know giving yourself some power i've done both i've done both i've done both awesome i think we've had some
+
+117
+00:11:24,000 --> 00:11:29,000
+i think we've had some community tester members that have done it uh yeah yeah we have people spend a
+
+118
+00:11:29,000 --> 00:11:36,000
+lot of time testing that fight should be pretty blood free so that's good we okay well that's exciting
+
+119
+00:11:36,000 --> 00:11:42,000
+i'm really excited to dive into that end game and the rest of these item related questions so let's
+
+120
+00:11:42,000 --> 00:11:50,000
+kick it off with that end game itemization so first question i wanted to touch on is how much control over
+
+121
+00:11:50,000 --> 00:11:56,000
+your end game do you now have with itemized or craftable end game encounters and as you just said
+
+122
+00:11:56,000 --> 00:12:00,000
+they will be expanded continuously so do you have any you know ideas of what you want to do in the
+
+123
+00:12:00,000 --> 00:12:07,000
+short term so uh most of seasons two's end game content is via woven echoes which are items that
+
+124
+00:12:07,000 --> 00:12:13,000
+drop and then you place them into the echo web um note that these woven echoes aren't craftable as
+
+125
+00:12:13,000 --> 00:12:17,000
+such you know you're not sitting there and re-rolling them they're looking for specific modifiers and
+
+126
+00:12:17,000 --> 00:12:23,000
+things like that uh in terms of setup all you need to do is insert them into the echo web and run them
+
+127
+00:12:23,000 --> 00:12:27,000
+uh some woven echoes have corruption requirements to be able to place them but that's about it
+
+128
+00:12:28,000 --> 00:12:33,000
+um so in terms of influencing the monolith in terms of its rewards and encounters most of that is done
+
+129
+00:12:33,000 --> 00:12:38,000
+via the progression and the faction and usage of the weaver tree rather than modifying woven echoes
+
+130
+00:12:38,000 --> 00:12:45,000
+directly if that makes sense um in the past we've talked about itemizing monolith modifiers you
+
+131
+00:12:45,000 --> 00:12:49,000
+know we even come up with a fairly concrete plan for that uh but for now we're more keen on keeping
+
+132
+00:12:49,000 --> 00:12:55,000
+echoes easy to run with pretty little setup um one element that we will be using more in future
+
+133
+00:12:55,000 --> 00:13:01,000
+updates though is woven echo influence so you know when placing a woven echo there'll be a circular area
+
+134
+00:13:01,000 --> 00:13:06,000
+and that area will influence nearby monolith echoes so as as mentioned before when we have a new seasonal
+
+135
+00:13:06,000 --> 00:13:10,000
+mechanic in a future update perhaps you'll be able to use woven echo influence to add elements of that
+
+136
+00:13:10,000 --> 00:13:15,000
+mechanic to surrounding echoes and things like that but yeah to summarize you influence the experience
+
+137
+00:13:15,000 --> 00:13:20,000
+in the monolith through the systems provided by the faction rather than crafting on the woven echoes
+
+138
+00:13:20,000 --> 00:13:28,000
+got it okay and uber ever is the top tier woven echo correct is is there anything that's kind of
+
+139
+00:13:28,000 --> 00:13:36,000
+close to him that requires a really high corruption to fight there so i think it's like 500 corruption
+
+140
+00:13:36,000 --> 00:13:43,000
+or something that you need to access it but it's way more difficult than 500 corruption is so we just
+
+141
+00:13:43,000 --> 00:13:49,000
+the same with normal abhorus where we give you access to it earlier than you probably are ready for it in
+
+142
+00:13:49,000 --> 00:13:55,000
+many cases just because we just we don't want to make you slog through like a long time and then you just
+
+143
+00:13:55,000 --> 00:14:02,000
+instantly kill whatever comes your way but in terms of difficulty uh abhorus is probably the second
+
+144
+00:14:02,000 --> 00:14:08,000
+hardest encounter in the game unless we like start thinking about pushing high very high corruption and then
+
+145
+00:14:08,000 --> 00:14:14,000
+you doing this uh woven echoes there because some of them do scale with modifiers and corruption but in terms of like
+
+146
+00:14:15,000 --> 00:14:21,000
+the earliest that you get access to uh abhorus will be the second hardest fight still then we have uber
+
+147
+00:14:21,000 --> 00:14:29,000
+abhorus and there are some there's some bosses coming back that people have wanted to see and some not wanted to see that are
+
+148
+00:14:29,000 --> 00:14:35,000
+are going to be uh regarding some corruption you're obviously talking about lagone right the ones people
+
+149
+00:14:35,000 --> 00:14:42,000
+don't want to see right there there will be no one echo with lagone okay there's no logo on there
+
+150
+00:14:43,000 --> 00:14:49,000
+awesome okay he i have not been stuck on a boss in an aarpg as long as i was with lagone and then when
+
+151
+00:14:49,000 --> 00:14:55,000
+it clicked it clicked and i've been able to down him easily every time so it just it took a little bit
+
+152
+00:14:55,000 --> 00:15:01,000
+all right he's not that bad guys he's not that bad okay thanks for that answer ross that's awesome
+
+153
+00:15:01,000 --> 00:15:08,000
+okay this next one has to do with something that the community brought to my attention so there's a
+
+154
+00:15:08,000 --> 00:15:14,000
+there's a bunch going on with legendary potential in this update uh however lots of people have expressed
+
+155
+00:15:14,000 --> 00:15:21,000
+that if you find an item with one legendary potential it's it's kind of useless it's kind of a feel
+
+156
+00:15:21,000 --> 00:15:27,000
+bad moment so are there any additional options coming for lower legendary potential items like
+
+157
+00:15:27,000 --> 00:15:32,000
+the one lp items that i just mentioned or are those going to stay as like the oh well that could have
+
+158
+00:15:32,000 --> 00:15:39,000
+been a two or three right yeah um so we're adding a couple of new features to help with the sort of uh
+
+159
+00:15:39,000 --> 00:15:43,000
+actually saying the the life cycle of uniques um so let's just say you've got a bunch of relatively
+
+160
+00:15:43,000 --> 00:15:48,000
+common uniques uh with low legend legendary potential uh previously that was unfortunately the end of
+
+161
+00:15:48,000 --> 00:15:54,000
+the road for those items um however with the new end game crafting options via woven echoes you have
+
+162
+00:15:54,000 --> 00:15:59,000
+a chance to redeem these items um so for example one woven echo has a crafting reward that allows you
+
+163
+00:15:59,000 --> 00:16:06,000
+to insert a bunch of unique items with real legend potential and mass re-roll the values on those items
+
+164
+00:16:06,000 --> 00:16:12,000
+so that so that has a low chance to improve the legendary potential of those items and a higher chance
+
+165
+00:16:12,000 --> 00:16:18,000
+to effectively fail and set the legendary potential to zero note though that if that does happen you can of
+
+166
+00:16:18,000 --> 00:16:22,000
+course use the nemesis system to improve that and see what happens you know you might get lucky with
+
+167
+00:16:22,000 --> 00:16:29,000
+the affixes that are chosen there or you might regain the legendary potential there um one additional
+
+168
+00:16:29,000 --> 00:16:34,000
+note on legendary potential is that it is of course weighted depending on the unique in question so for
+
+169
+00:16:34,000 --> 00:16:40,000
+rarer uniques one legendary potential is already great um and it's even more powerful now with a recent
+
+170
+00:16:40,000 --> 00:16:48,000
+change to the eternity cache that i think judd and mike have hinted at previously um so hopefully carve is set up to demo that for us just now
+
+171
+00:16:48,000 --> 00:16:52,000
+um he's been granted immunity to show things at this point so he's safe you know his career
+
+172
+00:16:52,000 --> 00:16:59,000
+no problems there okay awesome sounds good carve go for the screen share and we'll swap you on over
+
+173
+00:17:00,000 --> 00:17:10,000
+yeah and before i actually show what it is okay we can we can do a hi we're talking about about why
+
+174
+00:17:10,000 --> 00:17:18,000
+uh because uh that's uh yeah let me know when you have i think it should be good uh i'll look at chat
+
+175
+00:17:18,000 --> 00:17:23,000
+one more time just to make sure it's all set chat can you see the leaker's screen right now
+
+176
+00:17:25,000 --> 00:17:33,000
+good to go go for it we're just teasing here okay we know leaking here so you know how you you have these
+
+177
+00:17:33,000 --> 00:17:41,000
+very good items that you get your one lb on and then you probably farm it a couple times before you
+
+178
+00:17:41,000 --> 00:17:49,000
+actually hit your uh t7 int or whatever you want and then you somehow you know get lucky and you get
+
+179
+00:17:49,000 --> 00:17:56,000
+two lp and you feel like okay i just got a massive upgrade because two lp is better than one lp on the
+
+180
+00:17:56,000 --> 00:18:03,000
+item that you already have one lp then you farm basically the same item maybe a bit better than
+
+181
+00:18:03,000 --> 00:18:10,000
+you use on the previous uh slam uh and then you just miss you just miss you don't get the t7 at all
+
+182
+00:18:10,000 --> 00:18:16,000
+and now your two lp that you thought you felt like was an upgrade is basically going to the trash
+
+183
+00:18:16,000 --> 00:18:23,000
+bin well there's a there's a use case for that in in season two but that item doesn't really go to
+
+184
+00:18:23,000 --> 00:18:35,000
+trash bin anymore because um we are now allowing you to select one affix as a guarantee as long as
+
+185
+00:18:35,000 --> 00:18:46,000
+the dungeon that you do is at least tier two so i i got lucky and i have a two lp red ring here so i can
+
+186
+00:18:46,000 --> 00:18:55,000
+just guarantee the int there and then i get something extra cool oh
+
+187
+00:18:58,000 --> 00:19:05,000
+and this does mean that it's also easier to get uh one affix on your legendaries as well
+
+188
+00:19:07,000 --> 00:19:13,000
+for example you don't really need to farm on average for red rings anymore to get that you just
+
+189
+00:19:13,000 --> 00:19:22,000
+slam it there now on the first attempt unless of course we allow you to uh go full rng mode and
+
+190
+00:19:22,000 --> 00:19:30,000
+that just still picks it at random because you know streamers need to show that they are they are
+
+191
+00:19:30,000 --> 00:19:37,000
+good at the game and they're lucky but yeah for us peasants we can we can just force and the one affix
+
+192
+00:19:37,000 --> 00:19:45,000
+we want the other affixes for like 2 lp 3 lp are still going to be random of course but yeah that's
+
+193
+00:19:45,000 --> 00:19:51,000
+awesome it's going to help a lot people are freaking out they're very very excited for this change
+
+194
+00:19:51,000 --> 00:19:56,000
+that's awesome you you may have maybe maybe deliberately missed out one potential thing that
+
+195
+00:19:56,000 --> 00:20:04,000
+could happen here as well car i maybe oh yeah yeah uh so you know how you when you're crafting your normal
+
+196
+00:20:04,000 --> 00:20:11,000
+items in the forge and sometimes you get this nice sound and instead of craft like getting plus one
+
+197
+00:20:11,000 --> 00:20:17,000
+tier you get plus two tiers with the critical success now there is a very very low chance
+
+198
+00:20:18,000 --> 00:20:24,000
+uh when you're making legendaries to get critical success with uh eternity cash too which then just
+
+199
+00:20:24,000 --> 00:20:33,000
+takes another affix from the item so this could have been uh 3 lp but uh as with just getting legendary
+
+200
+00:20:33,000 --> 00:20:40,000
+potential on uniques the the more powerful the item is the less likely you are to crit success and
+
+201
+00:20:40,000 --> 00:20:47,000
+it's very rare to begin with but so don't expect it to be happening on your red rings anytime soon but
+
+202
+00:20:48,000 --> 00:20:53,000
+there's a chance now there's a chance here we have some some numbers on that chance like are we talking
+
+203
+00:20:53,000 --> 00:21:01,000
+you know one percent half a percent low enough that you don't really think about it and then if it
+
+204
+00:21:01,000 --> 00:21:04,000
+happens it happens it happens and you're you're happy oh sweet
+
+205
+00:21:09,000 --> 00:21:12,000
+well that's pretty awesome should i should i take the magic away carve
+
+206
+00:21:14,000 --> 00:21:20,000
+for now yeah for now i'll have to uh prepare another thing all right we're gonna take the magic away
+
+207
+00:21:20,000 --> 00:21:26,000
+everybody okay i'm sorry we'll see more magic in just a second i promise i promise everybody
+
+208
+00:21:26,000 --> 00:21:36,000
+all right there we go okay magic is gone for now that was pretty awesome yeah wow sweet thanks for
+
+209
+00:21:36,000 --> 00:21:44,000
+sharing that carve okay we've been we've been excited to share that one i i was i was seeing more huge w's
+
+210
+00:21:44,000 --> 00:21:54,000
+in the chat than i've ever seen before on the live stream pretty awesome okay so after that wow that was
+
+211
+00:21:54,000 --> 00:22:02,000
+a big one okay another i think this was the most requested question in like discord on the subreddit
+
+212
+00:22:02,000 --> 00:22:10,000
+when i was doing some prep sessions on youtube and twitch people are also curious about idol crafting
+
+213
+00:22:10,000 --> 00:22:16,000
+okay they're like super interested in additional details on how that's gonna work you know what these
+
+214
+00:22:16,000 --> 00:22:21,000
+idols are gonna look like and i know you did elaborate a little bit on idols in yesterday's post
+
+215
+00:22:21,000 --> 00:22:28,000
+but if there's anything else you'd like to share here today with everybody watching feel free go for
+
+216
+00:22:28,000 --> 00:22:33,000
+it what's going on with idols yeah season two yeah i can i can just show it in action quickly oh my gosh
+
+217
+00:22:33,000 --> 00:22:41,000
+oh he's leaking again okay he's fast oh he's going again okay here we go here we go here we go he's
+
+218
+00:22:41,000 --> 00:22:50,000
+really fast we're back in game go for it man yeah so when you complete tombs or cemeteries uh or some of
+
+219
+00:22:50,000 --> 00:22:58,000
+the woven echo versions of these you'll see this little uh thing here um on my left side and this is
+
+220
+00:22:59,000 --> 00:23:06,000
+where you get to place uh your class specific idols uh so here i have a couple that don't have any
+
+221
+00:23:06,000 --> 00:23:15,000
+enchants yet and then here i have a couple that do have so you simply put it here uh i'm in a cemetery
+
+222
+00:23:15,000 --> 00:23:22,000
+so i have two uses if this was on a two it would be uh only be one and i'll just enchant it it'll
+
+223
+00:23:22,000 --> 00:23:32,000
+give it a uh new usually a load here so this this gave me a tier two enchant uh this can go all the way
+
+224
+00:23:32,000 --> 00:23:37,000
+to tier seven and it gives you some weaver's touch as well which you see on the top on the item uh
+
+225
+00:23:38,000 --> 00:23:48,000
+so it has four weaver's touch and uh just like weaver's will items um you can just go slay enemies
+
+226
+00:23:48,000 --> 00:23:56,000
+and it'll upgrade or you can use uh that's the wrong rune uh you can use rune of weaving that will then
+
+227
+00:23:56,000 --> 00:24:05,000
+convert uh some of that uh in our case it put all of it and it just upgraded so now i have a tier six
+
+228
+00:24:05,000 --> 00:24:10,000
+of that um that's really interesting because generally you would actually get the second
+
+229
+00:24:10,000 --> 00:24:16,000
+affix there as well uh so that's an interesting uh coincidence let's see if we can get it on the other
+
+230
+00:24:16,000 --> 00:24:27,000
+one uh there we go so here we have two uh new affixes and they are tier five and tier one so we
+
+231
+00:24:27,000 --> 00:24:33,000
+are missing but eight total tiers if you're very lucky just like with weaver's items like weaver's
+
+232
+00:24:33,000 --> 00:24:42,000
+real items you can get up to double t7 here uh which in viewers will items would be like quadruple t7
+
+233
+00:24:42,000 --> 00:24:48,000
+but that's obviously very rare so yeah i'd expect people to get like tier seven and then like tier two
+
+234
+00:24:48,000 --> 00:24:56,000
+three maybe four on top or something like that um and uh of course i didn't get what i wanted
+
+235
+00:24:58,000 --> 00:25:06,000
+both of those affixes are kind of useless for me so what i can do is for 500 memory ember which is the
+
+236
+00:25:06,000 --> 00:25:11,000
+currency that you can farm now uh for the faction you can re-enchant this
+
+237
+00:25:11,000 --> 00:25:18,000
+so what it does it just removes the existing affix or your touch and then it adds a new one
+
+238
+00:25:19,000 --> 00:25:26,000
+could be lucky or unlucky coding the same one but uh and then you can just keep doing this so when you
+
+239
+00:25:26,000 --> 00:25:32,000
+get your perfect normal affixes then you'll just keep re-enchanting until you hit very high weaver's
+
+240
+00:25:32,000 --> 00:25:39,000
+touch and the correct affixes on the enchant affix and then done so this is going to be a big thing for
+
+241
+00:25:39,000 --> 00:25:46,000
+the memory ember um and memory amber and i was just going to ask really quick that's only found in
+
+242
+00:25:46,000 --> 00:25:52,000
+tombs and cemeteries or do you can you find that in other you know instances throughout the game you
+
+243
+00:25:52,000 --> 00:25:58,000
+can find it elsewhere too but i would suspect most of your memory ember comes from doing tombs and
+
+244
+00:25:58,000 --> 00:26:05,000
+cemeteries and yeah uh i believe these are also already teased as well you see these uh little
+
+245
+00:26:05,000 --> 00:26:14,000
+other idols here uh so obviously since you're putting more power into class specific idols the the normal
+
+246
+00:26:14,000 --> 00:26:22,000
+like the one by one and two by one and one by two idols would get left behind so in these tombs and
+
+247
+00:26:22,000 --> 00:26:31,000
+cemeteries you can find new subtypes of these smaller idols uh you can find minor uh small i think
+
+248
+00:26:31,000 --> 00:26:38,000
+minor was small lagonian previously so we renamed that and you see there's a different color affix on
+
+249
+00:26:38,000 --> 00:26:48,000
+the top uh so these uh idols have an exclusive better affixes compared to the non-weaver version of
+
+250
+00:26:48,000 --> 00:26:53,000
+the titles and you will always be guaranteed to get at least one of these better affixes on this and
+
+251
+00:26:53,000 --> 00:27:03,000
+sometimes you get two um and most of these are hybrid affixes and better versions of the existing
+
+252
+00:27:03,000 --> 00:27:08,000
+ones but there's also some new affixes here uh that i don't think yeah fire pen fire pen and minion fire
+
+253
+00:27:08,000 --> 00:27:16,000
+pen is a new one um and then the increased health here with the health on kill is the basically the
+
+254
+00:27:16,000 --> 00:27:23,000
+upgraded version of the increased health on the stout uh idols that currently exists i think it goes to
+
+255
+00:27:23,000 --> 00:27:32,000
+six yeah six percent so there's some there's some pretty good weaver idols too uh that you can you can
+
+256
+00:27:32,000 --> 00:27:39,000
+find yeah it looks like it now people are pointing out the uses on the woven enchanter is that tied to
+
+257
+00:27:39,000 --> 00:27:45,000
+anything or is that a base amount or every time you clear one of these uh cemeteries
+
+258
+00:27:46,000 --> 00:27:53,000
+tombs you get one in cemeteries where i am currently you get two and then some of the higher end uh
+
+259
+00:27:54,000 --> 00:28:02,000
+woven echoes uh can grant up to four i think there's three and four uh for one of the higher ones
+
+260
+00:28:02,000 --> 00:28:07,000
+whoa look at those woven echoes right there oh that was interesting yeah they're they're they're
+
+261
+00:28:07,000 --> 00:28:15,000
+pretty cool wow i wonder nice icons on them i really like the icon i mean your cursor could slip like a few
+
+262
+00:28:15,000 --> 00:28:16,000
+inches maybe you know
+
+263
+00:28:16,000 --> 00:28:20,000
+do it yeah
+
+264
+00:28:24,000 --> 00:28:31,000
+this one isn't uh specific to itemization unless we are thinking corruption that's one
+
+265
+00:28:32,000 --> 00:28:33,000
+oh yeah yeah
+
+266
+00:28:35,000 --> 00:28:40,000
+there's some some cool things in there that was a good slip i liked it that that was a good slip i
+
+267
+00:28:40,000 --> 00:28:45,000
+wasn't even i didn't even remember which is where so that was actually just a random one
+
+268
+00:28:46,000 --> 00:28:52,000
+and yes the the plus icon on those woven echoes tells you that you can get a weaver tree point by
+
+269
+00:28:52,000 --> 00:28:59,000
+completing that woven echo um the the the hammer implies that it has a crafting reward at the end and
+
+270
+00:28:59,000 --> 00:29:05,000
+the skull is a boss encounter at the end and then the rest of them are more varied you're actually in we
+
+271
+00:29:05,000 --> 00:29:12,000
+are actually in a cemetery of reweaving right now uh i believe where one of these rewards is
+
+272
+00:29:13,000 --> 00:29:19,000
+you know not all of these woven echoes are going to be awesome for you you might not like them uh some
+
+273
+00:29:19,000 --> 00:29:24,000
+of them so what you can do is you know you can just post them here and
+
+274
+00:29:26,000 --> 00:29:32,000
+exchange them and hope that you get better ones you can exchange them all at once and and it'll come out with
+
+275
+00:29:32,000 --> 00:29:36,000
+three oh my goodness gracious you don't have to do three at a time yeah and it didn't waste that
+
+276
+00:29:36,000 --> 00:29:42,000
+yeah yeah you can just fill this up and it's just like puts them all there well that's that's pretty
+
+277
+00:29:42,000 --> 00:29:48,000
+nice if i do say so myself and it's it is pretty satisfying and we're leaking some more here teasing
+
+278
+00:29:48,000 --> 00:29:54,000
+teasing more it's yeah i love how it's just like looks there's like a little rhythm there too yeah oh
+
+279
+00:29:54,000 --> 00:29:59,000
+there's a little sound effect that we can't oh nice nice yeah i'm currently muted here so yeah that's
+
+280
+00:29:59,000 --> 00:30:09,000
+good yeah very cool well that was beautiful thank you for showing off those idols carve
+
+281
+00:30:09,000 --> 00:30:17,000
+people appreciate it oh wait what should i should what was that i'll i'll i'll just i'll just uh it's
+
+282
+00:30:17,000 --> 00:30:24,000
+it's just the exit back to the uh okay all right all right here i'll stop watching and the magic will
+
+283
+00:30:24,000 --> 00:30:29,000
+stop for just a little bit longer you guys maybe some more magic come on in i i believe i need to
+
+284
+00:30:29,000 --> 00:30:38,000
+prepare more magic now oh more magic okay okay awesome sweet that was beautiful okay it's it is
+
+285
+00:30:38,000 --> 00:30:43,000
+i'm sorry it's just making me giddy how happy everyone is in the chat you guys have done a phenomenal job
+
+286
+00:30:43,000 --> 00:30:54,000
+they're freaking out okay so uh moving on from idols now uh in the ziz and racks interview uh holly did a
+
+287
+00:30:54,000 --> 00:31:01,000
+great breakdown of set crafting and lots of people are happy this made the cut for season two because
+
+288
+00:31:01,000 --> 00:31:07,000
+it was like teetering on the edge there for a bit and bam revealed set crafting's in season two so on
+
+289
+00:31:07,000 --> 00:31:14,000
+that is there since this is the itemization talk is there anything extra we can dive into when it comes
+
+290
+00:31:14,000 --> 00:31:23,000
+to set crafting and what players should expect on launch day on the 17th yeah uh as i'm preparing here to
+
+291
+00:31:23,000 --> 00:31:34,000
+get my uh showcase of shattering them uh i guess i can talk a bit so set items are they're kind of
+
+292
+00:31:34,000 --> 00:31:40,000
+problematic in a way where if you can't modify them in any way it's like a it's like a dead-end item
+
+293
+00:31:40,000 --> 00:31:46,000
+right you either use it or you don't um obviously there's different ways to make them
+
+294
+00:31:46,000 --> 00:31:56,000
+be useful or modify them uh we didn't want to just do legendary potential but for set items because
+
+295
+00:31:56,000 --> 00:32:02,000
+it's it's we already have that we might as well do something other cool because we got ideas
+
+296
+00:32:02,000 --> 00:32:13,000
+um and this allows us to basically not have set items be a dead end in a sense like a dead slot like
+
+297
+00:32:13,000 --> 00:32:18,000
+oh there's no movement anymore yeah yeah i get that yeah yeah now now you will most likely keep
+
+298
+00:32:18,000 --> 00:32:25,000
+improving the set items that you have as you'll find better ones and you try to get uh you know
+
+299
+00:32:25,000 --> 00:32:31,000
+higher tiers of the set affix because they have all the way to tier seven and i am i'm ready to share
+
+300
+00:32:31,000 --> 00:32:35,000
+some more again oh you are okay we're swapping over to the magic screen again then
+
+301
+00:32:35,000 --> 00:32:47,000
+here we are you're good to go carve yeah so i am at the end of the great bridge uh where we see this
+
+302
+00:32:47,000 --> 00:32:55,000
+nice little green clovey thing uh where you can put your set items uh obviously i didn't have my
+
+303
+00:32:55,000 --> 00:33:01,000
+set items with me so i'll just open my stash from here and this little nice button uh and see where
+
+304
+00:33:01,000 --> 00:33:04,000
+we go there we go that's that's that's a couple sets there uh
+
+305
+00:33:05,000 --> 00:33:11,000
+i don't remember what the key combinations here are so i'm just going to do it this way i'm pretty
+
+306
+00:33:11,000 --> 00:33:19,000
+sure you can do it um manually but there we go shift that's that's the button and then again we see
+
+307
+00:33:19,000 --> 00:33:26,000
+a couple uses so you can just fill this up and then you do that we get the really cool
+
+308
+00:33:28,000 --> 00:33:30,000
+stuff here and we have a bunch of
+
+309
+00:33:30,000 --> 00:33:37,000
+affixes on the ground and each of these affixes so they have their name like this is corusor's blood
+
+310
+00:33:37,000 --> 00:33:42,000
+call so this is very this is only going to work uh on helmets
+
+311
+00:33:44,000 --> 00:33:49,000
+and i can probably we can probably craft maybe some set items maybe
+
+312
+00:33:49,000 --> 00:34:01,000
+i'll show you some um that would be cool villatrias maybe everybody likes villatrias right yeah
+
+313
+00:34:04,000 --> 00:34:11,000
+so just like any other affix uh you can just craft it there now and now this is a villatrias
+
+314
+00:34:11,000 --> 00:34:22,000
+downfall reforged uh each of the set item we pick basically two modifiers uh what yeah and this is
+
+315
+00:34:22,000 --> 00:34:29,000
+this is now a tier one this would actually be a very good contender for just uh sealing off because
+
+316
+00:34:29,000 --> 00:34:34,000
+you get the shock duration per int and then you just get the the base uh conversion for meteor
+
+317
+00:34:34,000 --> 00:34:41,000
+and then you can just craft other stats there again but some of them are really powerful at tier 7
+
+318
+00:34:42,000 --> 00:34:50,000
+uh but there are items that there are sets that would be way too good if the set affix would also
+
+319
+00:34:50,000 --> 00:34:56,000
+be great because uh villatrias has the spell damage per int and if you can see it we actually had to
+
+320
+00:34:56,000 --> 00:35:03,000
+nerf it it used to be one spell lighting damage per one int but we had to turn it down because it was just
+
+321
+00:35:03,000 --> 00:35:10,000
+so good uh when you were able to craft this on a very high-end base with other exalted affixes uh as
+
+322
+00:35:10,000 --> 00:35:20,000
+well is there is there any specific set chad would want to see all right chat come on spam a set
+
+323
+00:35:20,000 --> 00:35:31,000
+let's go what do we want to see go go go okay i see shattered lance yeah i saw two instant oh wow a lot of shattered lance
+
+324
+00:35:33,000 --> 00:35:39,000
+uh so you get your added health region and you get some gold damage and
+
+325
+00:35:42,000 --> 00:35:49,000
+yes we also had to cap the uh amount of increased damage you can get from shattered lands because the
+
+326
+00:35:49,000 --> 00:35:58,000
+buffs to health region so it it is relatively easy for very like specific uh masteries to get that and i
+
+327
+00:35:58,000 --> 00:36:04,000
+actually if you hide very quickly i can show you the tier seven of this all right yeah i'll hide all right
+
+328
+00:36:04,000 --> 00:36:10,000
+you go the screen's gonna look funky everybody we're we're kind of hiding let me i'm doing some magic here quick
+
+329
+00:36:10,000 --> 00:36:17,000
+there you go he's doing magic everybody okay am i am i am i yeah you're good we can't see oh wait wait actually
+
+330
+00:36:17,000 --> 00:36:24,000
+actually actually actually i don't actually know how to hide this let me uh which one i can just you know what i can just stop sharing quick
+
+331
+00:36:24,000 --> 00:36:29,000
+oh there you go yeah that works too that works too yeah i was gonna do some like hiding of all the
+
+332
+00:36:29,000 --> 00:36:32,000
+different sources and discord so or sorry yeah yeah yeah yeah
+
+333
+00:36:34,000 --> 00:36:40,000
+work your magic gotta leave some some stuff to find out okay no on launch day yeah all right we're good
+
+334
+00:36:40,000 --> 00:36:41,000
+all right here we go
+
+335
+00:36:43,000 --> 00:36:51,000
+so that is your tier seven and obviously all of the other affixes here are tier seven as well because magic be
+
+336
+00:36:51,000 --> 00:36:59,000
+magic um so it can grant you up to 30 added uh melee cold damage and this is kind of interesting
+
+337
+00:36:59,000 --> 00:37:06,000
+because you can also craft added milk only damage as a normal affix as well so you can get basically
+
+338
+00:37:06,000 --> 00:37:14,000
+twice but obviously the big thing here is the set bonus being just very good uh yeah wow there some of
+
+339
+00:37:14,000 --> 00:37:22,000
+these are pretty good some of these are pretty good okay we're really excited about being able to uh add set items
+
+340
+00:37:22,000 --> 00:37:28,000
+more now that we have this system in place so if the community has any ideas for really awesome set items do feel free to uh
+
+341
+00:37:28,000 --> 00:37:34,000
+you know plug them plug them in the forums and reddit and our social accounts uh we're really excited to start to add these again
+
+342
+00:37:34,000 --> 00:37:39,000
+because right now we have way more uniques than we have set items because you know it was a dead end item slot previously
+
+343
+00:37:39,000 --> 00:37:46,000
+how how did this come up like were you guys just workshopping super hard to try to come up with this
+
+344
+00:37:46,000 --> 00:37:51,000
+this new idea and you didn't want to step on the toes of legendary potential but you knew you didn't want
+
+345
+00:37:51,000 --> 00:38:00,000
+set items to always be best for some builds out there right i wonder if this one is one is actually one of those
+
+346
+00:38:01,000 --> 00:38:07,000
+uh ideas we've just heard in the community and we just kind of workshopped from there this idea this might
+
+347
+00:38:07,000 --> 00:38:14,000
+be one of those i'm not sure i i don't remember we've had this idea for uh quite a while yeah it just
+
+348
+00:38:14,000 --> 00:38:23,000
+it's a a lot of effort to come to make the system and this is a lot of new affixes with a lot of new
+
+349
+00:38:23,000 --> 00:38:30,000
+numbers uh it it took a long time getting all the numbers in there for this okay it took a long time
+
+350
+00:38:31,000 --> 00:38:37,000
+people are figuring out which of the affixes we take from the sets as well people are asking a crazy
+
+351
+00:38:37,000 --> 00:38:42,000
+question i'm not sure if this is allowed or not they're asking can we slap this on uniques
+
+352
+00:38:44,000 --> 00:38:54,000
+no the no without fix it no no the uh the the set affixes cannot be added into uniques okay great
+
+353
+00:38:54,000 --> 00:38:59,000
+also people were asking for the last bear that was the other one that i saw being asked a lot is that
+
+354
+00:38:59,000 --> 00:39:07,000
+one we could look at which i which slot there's a couple different slots oh gosh which slot first slot
+
+355
+00:39:07,000 --> 00:39:12,000
+first slot wins i don't know chest slot go for it
+
+356
+00:39:15,000 --> 00:39:21,000
+yes slot is endurance with leech oh this might be one of those sets that we actually buffed and we
+
+357
+00:39:21,000 --> 00:39:26,000
+changed the the bonus i'm pretty sure the bonus is better now than it used to be
+
+358
+00:39:26,000 --> 00:39:33,000
+i might be this i'm not sure if this is one it i think i think i don't think it used to have
+
+359
+00:39:33,000 --> 00:39:38,000
+endurance threshold per strength which it now has as a three piece um and obviously the three
+
+360
+00:39:38,000 --> 00:39:43,000
+piece set being the 30 strength here is still massive so this is one of those another another
+
+361
+00:39:43,000 --> 00:39:49,000
+of those affixes that you might end up just crafting as a tier one and then just sealing it away and then
+
+362
+00:39:49,000 --> 00:39:54,000
+crafting another t5 on top yep that's awesome
+
+363
+00:39:57,000 --> 00:40:02,000
+uh as you can see some of these so this is a suffix on the body armor it's a prefix so
+
+364
+00:40:03,000 --> 00:40:09,000
+is it the suffix or prefix just depends on what the stats kind of make sense to you and in some cases
+
+365
+00:40:09,000 --> 00:40:14,000
+uh put it where it has to compete with other powerful affixes um
+
+366
+00:40:17,000 --> 00:40:22,000
+and here we get health region well increased health region the bear strength uh which is is a pretty
+
+367
+00:40:23,000 --> 00:40:26,000
+good especially because this is just either one right now
+
+368
+00:40:27,000 --> 00:40:33,000
+i think tier seven goes all the way to three percent strength if i remember correctly
+
+369
+00:40:33,000 --> 00:40:43,000
+so yeah awesome okay we'll definitely see some set items being used uh 100 in season two for sure
+
+370
+00:40:44,000 --> 00:40:49,000
+but yeah there's yeah there's a lot of affixes we've added this season you know there's the uh
+
+371
+00:40:49,000 --> 00:40:53,000
+set shards there's the affixes for the idols there's the champion affixes there was a there's
+
+372
+00:40:53,000 --> 00:40:58,000
+a lot of work to do there and a yeah uh there's there's there's more coming there as well can't see too much
+
+373
+00:40:58,000 --> 00:41:03,000
+do you know sweet there's been a lot of affixes have been added in season two yes
+
+374
+00:41:05,000 --> 00:41:10,000
+chat you got to calm down we're not going to ask them to show all of the set affixes it's not
+
+375
+00:41:10,000 --> 00:41:16,000
+happening okay we got to leave some for april 17th when they launch the game come on come on guys
+
+376
+00:41:18,000 --> 00:41:25,000
+yeah all right there's some cool stuff in there yeah definitely all right let's let the magic go away
+
+377
+00:41:25,000 --> 00:41:30,000
+okay just for a little bit though i'm sure it'll will return momentarily here you go
+
+378
+00:41:31,000 --> 00:41:35,000
+okay maybe we'll give you another another teaser at the end or something who knows
+
+379
+00:41:35,000 --> 00:41:41,000
+okay okay all right we'll have to see we'll have to see if chat behaves maybe chat you have to behave
+
+380
+00:41:41,000 --> 00:41:44,000
+okay or no teaser you heard carve
+
+381
+00:41:47,000 --> 00:41:52,000
+oh it says there we go all right cam's good okay this next one was
+
+382
+00:41:52,000 --> 00:42:00,000
+one that i thought would be a little interesting given how much qol is in last epoch i appreciate
+
+383
+00:42:00,000 --> 00:42:06,000
+that massively i can like stay in the game when i'm looking at everything whether it's theory
+
+384
+00:42:06,000 --> 00:42:13,000
+crafting a build or or anything of the sort so is there ever a chance we'd get an in-game compendium
+
+385
+00:42:13,000 --> 00:42:18,000
+of unique items with possible drop locations since there are specific places where certain items
+
+386
+00:42:18,000 --> 00:42:22,000
+dropped in last epoch it might be an awesome quality of life and incentive to go out and hunt
+
+387
+00:42:22,000 --> 00:42:28,000
+for these cool items you know i know you can go on the wiki right some players really like everything
+
+388
+00:42:28,000 --> 00:42:33,000
+in game though is that something you guys have ever thought about adding yeah yeah we're really keen on
+
+389
+00:42:33,000 --> 00:42:39,000
+things like this keeping players in the game is definitely something that we aspire very heavily to uh
+
+390
+00:42:39,000 --> 00:42:43,000
+to do we you know we do this through things like having the game guide in game that has just a wealth of
+
+391
+00:42:43,000 --> 00:42:48,000
+knowledge including even things like damage formulas um and then also things like the
+
+392
+00:42:48,000 --> 00:42:52,000
+merchant's guild bazaar that keeps you in game without having to go to any external resources to
+
+393
+00:42:52,000 --> 00:42:58,000
+target items or players like that so keeping players in game is a really big goal for the studio
+
+394
+00:42:59,000 --> 00:43:03,000
+um so this is something that's just right up our alley um maybe this takes shape as something like a
+
+395
+00:43:03,000 --> 00:43:09,000
+bestiary or something of that nature i think i think long ago we actually had a a decent mock-up for a
+
+396
+00:43:09,000 --> 00:43:15,000
+bestiary and i do think that this would be a very good value add especially as we continue to add
+
+397
+00:43:15,000 --> 00:43:20,000
+more and more unique items that are attached to certain activities or behind certain boss loot
+
+398
+00:43:20,000 --> 00:43:26,000
+tables uh so so yeah i think that's something that we absolutely could and would benefit from doing
+
+399
+00:43:26,000 --> 00:43:30,000
+um i think we have something what is the number of uniques that we have now in the game after this
+
+400
+00:43:30,000 --> 00:43:36,000
+patch we're gonna have over 300 or something like that guys a lot yes it's a lot
+
+401
+00:43:36,000 --> 00:43:41,000
+more than that yeah that's a lot will come yeah it's getting up there uh so yeah i think it's
+
+402
+00:43:41,000 --> 00:43:46,000
+something that we could absolutely do if anybody has any suggestions on how you guys would like to
+
+403
+00:43:46,000 --> 00:43:51,000
+see that implemented again we would be very happy to uh take a look at that and if it's something the
+
+404
+00:43:51,000 --> 00:43:55,000
+community wants and it's something that we can achieve yeah it's it's something that's again right
+
+405
+00:43:55,000 --> 00:44:02,000
+up our alley that's sweet exciting now you're all over 300 unique items now with every update are you
+
+406
+00:44:02,000 --> 00:44:08,000
+guys looking to hit like a like a certain number or threshold of uniques added or is it more like
+
+407
+00:44:08,000 --> 00:44:12,000
+hey if we have good ideas we're going to try to make them work and if they they make it through all
+
+408
+00:44:12,000 --> 00:44:17,000
+the sprints and everything and they're good to go we'll ship them sure yeah you know i i think
+
+409
+00:44:17,000 --> 00:44:23,000
+we want to be adding uniques um enough that it hits a wide number of players play styles character
+
+410
+00:44:23,000 --> 00:44:29,000
+builds etc etc and with the amount of masteries we have that number is of course a little bit larger
+
+411
+00:44:29,000 --> 00:44:34,000
+here uh so we're you know we're trending to have kind of a similar amount for each of these large
+
+412
+00:44:34,000 --> 00:44:40,000
+updates and i think that's something that will continue to uh stay at that level or increase
+
+413
+00:44:40,000 --> 00:44:46,000
+over time wow there are things that you know implementing a unique item is really it's it's
+
+414
+00:44:46,000 --> 00:44:50,000
+fairly low lift for the amount of payoff and we really really enjoy doing it they're just fun things
+
+415
+00:44:50,000 --> 00:44:54,000
+for the team to actually go and brainstorm and implement so uh yeah it's something that we we
+
+416
+00:44:54,000 --> 00:44:58,000
+definitely are not going to slow down on making unique items and now that we have set items
+
+417
+00:44:58,000 --> 00:45:03,000
+in a better spot we'll we'll start to see the variety of items like this uh vary a little bit
+
+418
+00:45:03,000 --> 00:45:10,000
+more as well good to hear and i might have totally missed this in uh the press already released
+
+419
+00:45:10,000 --> 00:45:15,000
+set items are there any new ones coming in this update or is that for future updates
+
+420
+00:45:17,000 --> 00:45:21,000
+i don't know if there is any more new ones coming because there was such a large effort in
+
+421
+00:45:21,000 --> 00:45:26,000
+getting these set getting all the acting across the line uh it was something that we were you know
+
+422
+00:45:26,000 --> 00:45:32,000
+i mean it was probably it was probably towards the uh third week of march or something like that we
+
+423
+00:45:32,000 --> 00:45:37,000
+were like can we get this across the line and oh my gosh and we uh we did we slid under the garage
+
+424
+00:45:37,000 --> 00:45:41,000
+door as it was closing closing with the uh set crafting but very glad that we did it's something
+
+425
+00:45:41,000 --> 00:45:46,000
+that we've been really excited about something that we've had on our minds for a very very long time
+
+426
+00:45:46,000 --> 00:45:50,000
+uh you know we've always been pushing for certain uniques to exist inside the game like we've had this
+
+427
+00:45:50,000 --> 00:45:57,000
+idea for a beekeepers set for some reason uh we as a studio love bees and so we have lots of bee items
+
+428
+00:45:57,000 --> 00:46:02,000
+in the bps builds and so uh with with that we'll be able to implement some of these fun ideas that the
+
+429
+00:46:02,000 --> 00:46:10,000
+team has been talking about for at this point years so okay one more total tangent question you love bees
+
+430
+00:46:11,000 --> 00:46:16,000
+you seem to love capybaras too and so does the community could there be i know there's a cosmetic
+
+431
+00:46:16,000 --> 00:46:21,000
+coming in the game but you know maybe you actually weave that into gameplay at some point in the
+
+432
+00:46:21,000 --> 00:46:26,000
+future you know capybara army sounds pretty cool too yeah do you guys want to see an army of capybaras
+
+433
+00:46:27,000 --> 00:46:34,000
+destroying your enemies is that is that what chat wants um very possible i wonder how i wonder i bet
+
+434
+00:46:34,000 --> 00:46:39,000
+the animation team would have a really good time with that uh i'm not sure if we're gonna do a capybara
+
+435
+00:46:39,000 --> 00:46:45,000
+swarm of enemies we'll see we'll see i had to throw that in there okay for sure everybody's spamming yes
+
+436
+00:46:45,000 --> 00:46:53,000
+god yes okay of course okay this next question is one of the i'd say one of the age old great
+
+437
+00:46:53,000 --> 00:47:01,000
+questions of arpgs and it's like a hot button topic in in the genre right now especially and i'd love to
+
+438
+00:47:01,000 --> 00:47:08,000
+hear your guys thoughts on it so some arpgs rely on best and slot items being picked up off the floor
+
+439
+00:47:08,000 --> 00:47:12,000
+or being crafted uh are you happy where last epoch currently sits on this access or do you think it'll
+
+440
+00:47:12,000 --> 00:47:20,000
+move more and more toward the best items being crafted from scratch as more items are available
+
+441
+00:47:20,000 --> 00:47:24,000
+of course there are lots of different systems in last epoch right now that allow you know dropped
+
+442
+00:47:24,000 --> 00:47:31,000
+items to be incredible uh but with all this awesome stuff implemented that's again you know lead more
+
+443
+00:47:31,000 --> 00:47:38,000
+toward that crafting end what do you guys think about it yeah the short answer is that we don't want to
+
+444
+00:47:38,000 --> 00:47:48,000
+spend we don't want to make you spend you know hours and hours on just in town crafting items we'd rather
+
+445
+00:47:48,000 --> 00:47:55,000
+want to see you go slay some enemies and find items and then improve them um that's why we have like the
+
+446
+00:47:55,000 --> 00:48:01,000
+exalted stuff for example like you cannot craft it you still have the like even with the new crafting uh
+
+447
+00:48:01,000 --> 00:48:07,000
+items like the runes you still have to get those exalted items to drop before you can modify them
+
+448
+00:48:07,000 --> 00:48:15,000
+further so yeah you i don't i don't think last epoch is going to be able to or like i don't think you're
+
+449
+00:48:15,000 --> 00:48:19,000
+going to be able to see in last epoch stuff where you pick up an item base and then you craft from the
+
+450
+00:48:19,000 --> 00:48:26,000
+ground up okay be the best in slots yeah i don't think that's going to be the case we value finding items
+
+451
+00:48:26,000 --> 00:48:32,000
+a lot and then just allow you to modify them um different ways well yeah minimal downtime is nice
+
+452
+00:48:32,000 --> 00:48:38,000
+it's like the woven echoes right it's you're making choices on your tree and then you're just running
+
+453
+00:48:38,000 --> 00:48:42,000
+the woven echoes you're not spending time you know trying to craft and go to the bench and and do a
+
+454
+00:48:42,000 --> 00:48:46,000
+whole bunch of stuff there too so that's nice playing monsters is fun i would agree with you and then
+
+455
+00:48:46,000 --> 00:48:53,000
+having those awesome hits of dopamine when you get those awesome slams so yeah that sounds great okay
+
+456
+00:48:53,000 --> 00:49:01,000
+so here's another one uh that i'm curious about so in your eyes is there an ideal mix of unique items
+
+457
+00:49:01,000 --> 00:49:07,000
+and other rarity gear or or is it truly a build-by-build determining factor so kind of meaning like
+
+458
+00:49:08,000 --> 00:49:15,000
+do you do you think that full unique character builds should exist in your game and mass or are
+
+459
+00:49:15,000 --> 00:49:22,000
+the best in slot items almost always going to be those highest tier non-unique rarity
+
+460
+00:49:24,000 --> 00:49:30,000
+uh this is this is an interesting one because i don't we are not like very specifically
+
+461
+00:49:31,000 --> 00:49:38,000
+trying to make you always have us like a different uh item varieties on your gear it's more so some
+
+462
+00:49:38,000 --> 00:49:48,000
+builds just end up working with a hybrid of having some exalted in season two sets and then legendaries
+
+463
+00:49:48,000 --> 00:49:55,000
+uh maybe in the future we'll have some items that further in advance incentivize you to stack i don't
+
+464
+00:49:55,000 --> 00:50:02,000
+know different sets or something like that or exalted and you get bonuses from that so yeah we don't i
+
+465
+00:50:02,000 --> 00:50:10,000
+don't think we are very specifically trying to make sure that that never happens but uh with the the set
+
+466
+00:50:10,000 --> 00:50:19,000
+rework now we're definitely going to be seeing less of full legendaries uh okay than before uh which is
+
+467
+00:50:20,000 --> 00:50:28,000
+i'd say it's definitely a good thing but that's more so because set items are now just again good in
+
+468
+00:50:28,000 --> 00:50:35,000
+uh the use not so that we want you to always have a mix i'd expect there still to be builds that are
+
+469
+00:50:35,000 --> 00:50:44,000
+going to be eventually just using legendaries uh and in the future we might just get some other you
+
+470
+00:50:44,000 --> 00:50:44,000
+know
+
+471
+00:50:46,000 --> 00:50:48,000
+rarities that go in the mix who knows
+
+472
+00:50:48,000 --> 00:50:57,000
+definitely no you like to have open like uh or options open yeah more options is always good
+
+473
+00:50:57,000 --> 00:51:01,000
+now something that we've been seeing you know throughout this chat we saw a little glimpse
+
+474
+00:51:01,000 --> 00:51:06,000
+earlier woven echoes you know it sounds like everybody's very excited about the introduction
+
+475
+00:51:06,000 --> 00:51:11,000
+of these so i'm curious what other cool itemization changes might be coming with the introduction
+
+476
+00:51:11,000 --> 00:51:19,000
+of woven echo echoes in tombs of the erased yeah we could uh we could spend another
+
+477
+00:51:19,000 --> 00:51:25,000
+two hours here i guess because all of these there's a lot of changes that uh do a lot of things
+
+478
+00:51:26,000 --> 00:51:30,000
+even if we ignore like the woven echoes for six things but i can probably show you a couple
+
+479
+00:51:30,000 --> 00:51:36,000
+uh i have one actually prepared already oh already prepared okay magic happening here we go i'm ready
+
+480
+00:51:36,000 --> 00:51:40,000
+yes yes
+
+481
+00:51:42,000 --> 00:51:49,000
+and i believe ross mentioned this earlier uh at the very beginning a bit uh we're having some
+
+482
+00:51:51,000 --> 00:51:58,000
+some things on those uh you know one lp two lp items like that like for example let's let's take
+
+483
+00:51:59,000 --> 00:52:06,000
+aberrant uh tonga of the aberrant seer for example this is a item that is quite likely to be able to hit
+
+484
+00:52:06,000 --> 00:52:13,000
+roll three or four legendary potential compared to a lot of other items like like red ring for
+
+485
+00:52:13,000 --> 00:52:20,000
+example uh but if you find this with one lp this is basically a dead item this doesn't really have a use
+
+486
+00:52:20,000 --> 00:52:25,000
+uh zero lp would be better because you could just toss it into the demesyshek and hope to get something
+
+487
+00:52:25,000 --> 00:52:32,000
+good or it would have to be at least like three so one of the things coming uh
+
+488
+00:52:34,000 --> 00:52:38,000
+this season is the ability to re-roll the lp
+
+489
+00:52:38,000 --> 00:52:45,000
+on uniques that have at least one legendary potential uh and if
+
+490
+00:52:45,000 --> 00:52:56,000
+it doesn't go up it's gonna go back to zero uh and again so what happens here is it uh
+
+491
+00:52:56,000 --> 00:53:02,000
+it basically considers it as finding the item again and then it checks for the legendary potential
+
+492
+00:53:02,000 --> 00:53:08,000
+if the legendary potential is not higher than the item it when it's here in the volume potential
+
+493
+00:53:08,000 --> 00:53:13,000
+it is gonna go to zero and then you get another chance to upgrade through the nemeshe deck
+
+494
+00:53:14,000 --> 00:53:21,000
+but sometimes sometimes you uh get an upgrade and that's pretty cool
+
+495
+00:53:21,000 --> 00:53:32,000
+uh don't expect your red rings to get extra lp again uh because they are already very unlikely to
+
+496
+00:53:32,000 --> 00:53:37,000
+get it with lp to begin with uh but there's a point where you know let's say that you're playing
+
+497
+00:53:37,000 --> 00:53:43,000
+a build that has two red rings and you have your tier seven already on both of them so the next
+
+498
+00:53:43,000 --> 00:53:51,000
+upgrade would be to get a two lp version right so now there is a chance to get that so
+
+499
+00:53:51,000 --> 00:53:56,000
+when you find that one lp red ring it doesn't just it's just it's not a dead item now you have a
+
+500
+00:53:56,000 --> 00:54:03,000
+chance to get like make an upgrade well two chances uh first here and then when it most likely fails
+
+501
+00:54:04,000 --> 00:54:09,000
+uh on the on the egg from the nemesis so i'm gonna expect some of these are gonna go to like
+
+502
+00:54:09,000 --> 00:54:16,000
+two lp and all of these are gonna go to zero uh well yeah here we go uh and as you can see
+
+503
+00:54:17,000 --> 00:54:26,000
+on the side here we have some crafting uh like uh affect shards and that is because you know weaver is
+
+504
+00:54:28,000 --> 00:54:33,000
+she doesn't want to take all of your things so when she takes away your legendary potential from
+
+505
+00:54:33,000 --> 00:54:43,000
+items she'll give you back some affect shards so all of these obviously went to zero lp as one would
+
+506
+00:54:43,000 --> 00:54:49,000
+expect uh most of these are probably going to be zero as well let's see if we get yeah there we go
+
+507
+00:54:49,000 --> 00:54:57,000
+two lp uh but most of these are zero which then allows you to then send them back to the nemesis egg
+
+508
+00:54:57,000 --> 00:55:04,000
+and you might get one lp back or you might get legendary affixes and whatnot so now we have
+
+509
+00:55:04,000 --> 00:55:12,000
+a method for these items that don't really do anything to have more chances to be useful right
+
+510
+00:55:13,000 --> 00:55:21,000
+uh and then another cool thing uh which was teased i think in the original trailer that people
+
+511
+00:55:21,000 --> 00:55:29,000
+thought was going to be this which was the unique uh re-roll uh so i can probably go set that up
+
+512
+00:55:29,000 --> 00:55:36,000
+actually uh real quick well i'll just stop my screen uh the frost or jet can probably talk a tiny
+
+513
+00:55:36,000 --> 00:55:45,000
+bit while i'm gonna do that yeah good we don't want to reveal any secrets it's pretty exciting
+
+514
+00:55:45,000 --> 00:55:53,000
+in the update we have uh 36 different unique woven echoes coming uh we just recorded the patch video uh i
+
+515
+00:55:53,000 --> 00:55:58,000
+recorded that and we're at the patch video just the high level overview of this patch is over 20
+
+516
+00:55:58,000 --> 00:56:02,000
+minutes long and i try to condense it as much as possible but it's just so dang much going into the
+
+517
+00:56:02,000 --> 00:56:08,000
+patch that uh it's very it's very very long in the patch i say there's 37 woven echoes and the team
+
+518
+00:56:08,000 --> 00:56:14,000
+called me out on it so i apologize there's 36 we'll get to 37 very shortly i promise you yeah just you know
+
+519
+00:56:14,000 --> 00:56:22,000
+slam in on the work for that one extra echo just put it in you know i agree i agree okay i'm ready again
+
+520
+00:56:23,000 --> 00:56:24,000
+are you ready all right go for it
+
+521
+00:56:32,000 --> 00:56:40,000
+okay so this is the thing that you saw teased uh in the very original teaser trailer uh which is has a
+
+522
+00:56:40,000 --> 00:56:50,000
+sacrifice and a reroll oh so this allows you to do i have another yeah so this allows you to sacrifice
+
+523
+00:56:51,000 --> 00:57:02,000
+a unique or set item uh or reverse reverse wheel item to reroll the the uh implicit so in here the
+
+524
+00:57:02,000 --> 00:57:08,000
+movement speed would be an implicit which or or already is uh the highest roll and then the the actual
+
+525
+00:57:08,000 --> 00:57:16,000
+affixes as well which also happen to be at max because this is a dev modded item uh and the cool
+
+526
+00:57:16,000 --> 00:57:24,000
+thing here is that the remember all of the all of the red rings that went to zero lp uh if i go to
+
+527
+00:57:24,000 --> 00:57:32,000
+the nemesis then they're most likely to get like some bad affixes so what you can do with those failed
+
+528
+00:57:32,000 --> 00:57:37,000
+legendaries is you could put them here uh like for example here i only have a well okay this is a very
+
+529
+00:57:37,000 --> 00:57:44,000
+bad example but i could imagine that the tier seven in here is like a tier four or something like
+
+530
+00:57:44,000 --> 00:57:52,000
+that so i could use this to reroll uh the values um here and obviously because this had everything
+
+531
+00:57:52,000 --> 00:58:02,000
+perfectly wrote before the stuff went down uh but this is a a way to basically those failed legendaries
+
+532
+00:58:02,000 --> 00:58:10,000
+uh to spend them and hopefully like over a longer period of time or just you know the first time
+
+533
+00:58:10,000 --> 00:58:18,000
+get lucky and improve your items so this is another way to slowly improve your items um and obviously
+
+534
+00:58:18,000 --> 00:58:28,000
+this has some restrictions so i cannot uh reroll one uh lp red ring with a zero lp it has to have at least
+
+535
+00:58:28,000 --> 00:58:39,000
+similar power level so in this case it would be uh badly rolled one like uh affix uh legendary red rings
+
+536
+00:58:39,000 --> 00:58:46,000
+most likely um got it but this is another again another way to keep like slowly upgrading your items
+
+537
+00:58:46,000 --> 00:58:55,000
+uh because we've had a lot of people ask for ways to you know be able to do something with uh
+
+538
+00:58:55,000 --> 00:59:00,000
+with the uniques because sometimes you get you know get lucky you get three lp or something like that
+
+539
+00:59:00,000 --> 00:59:08,000
+and then all of the other roles on it are terrible now through the nemesis egg which i think is probably
+
+540
+00:59:08,000 --> 00:59:16,000
+the best way to get uh like legendaries with like two affixes for something like like red rings like
+
+541
+00:59:16,000 --> 00:59:23,000
+the more rare items because it has a relatively high chance to just add affix on both of the rolls
+
+542
+00:59:23,000 --> 00:59:28,000
+like both of the upgrades and you can just use those as a reroll for whatever now which is pretty
+
+543
+00:59:28,000 --> 00:59:35,000
+exciting so all of those badly rolled legendaries now have a purpose
+
+544
+00:59:37,000 --> 00:59:39,000
+no that's great purpose yeah
+
+545
+00:59:44,000 --> 00:59:50,000
+and again here obviously you can open the stash through the uh the crafting window
+
+546
+00:59:53,000 --> 00:59:58,000
+it's we didn't just put stashes here um yeah you don't want to dirty up the place it looks beautiful
+
+547
+00:59:59,000 --> 01:00:07,000
+yeah there's actually another oh cool chains which is gonna be you know some magic is gonna happen um
+
+548
+01:00:08,000 --> 01:00:13,000
+and this is specific to experimental crafting
+
+549
+01:00:13,000 --> 01:00:21,000
+uh a lot of people probably don't know much about it because it's really the hidden mechanic in the game
+
+550
+01:00:21,000 --> 01:00:29,000
+uh here we go i'll let you prepare really quickly yeah so where uh yeah so you find you kill exalt mages
+
+551
+01:00:29,000 --> 01:00:35,000
+uh and then they will kill you items or yeah or that yeah and they'll drop items with uh
+
+552
+01:00:37,000 --> 01:00:45,000
+with experimental affixes and then you use uh rune of research to seal that and then it has a chance to
+
+553
+01:00:46,000 --> 01:00:54,000
+drop you a clip of insight which then can can be used on a normal prefix to uh
+
+554
+01:00:54,000 --> 01:01:02,000
+uh turn it into an experimental affix and there is a deterministic way to figure out which
+
+555
+01:01:04,000 --> 01:01:11,000
+affix it turns into but that's it regards you to go to third party uh places because it's not you can
+
+556
+01:01:11,000 --> 01:01:17,000
+you can figure it out but there's a lot of just like trying to keep track of uh how much fortune
+
+557
+01:01:17,000 --> 01:01:23,000
+potential the item and what is the combined amount of tiers and different item bases uh have different
+
+558
+01:01:23,000 --> 01:01:31,000
+rules for it uh so we wanted to streamline that um and that rax rax has a great video on how to do
+
+559
+01:01:31,000 --> 01:01:38,000
+that if you want to do that in the next uh nine days yeah yeah so what what's happening is we are
+
+560
+01:01:38,000 --> 01:01:45,000
+removing uh both rune of research and cliff of insight entirely from the game uh and we are replacing
+
+561
+01:01:45,000 --> 01:01:51,000
+that crafting uh in a bow and echo and it's going to be a lot more straightforward there's obviously going
+
+562
+01:01:51,000 --> 01:02:01,000
+to be some randomization uh around this still uh it doesn't like guarantee you to remove a prefix
+
+563
+01:02:01,000 --> 01:02:07,000
+because it it has to remove a prefix in order to make uh room for another one uh we don't just let
+
+564
+01:02:07,000 --> 01:02:13,000
+you craft the uh the affix without without you know some some some sacrifice there
+
+565
+01:02:13,000 --> 01:02:24,000
+okay i think i'm finally done here i i applaud you man able to talk and do all this magic behind the
+
+566
+01:02:24,000 --> 01:02:34,000
+scenes i see your mouse hand moving like mad go for it oh goodness all right okay yeah so here i i just
+
+567
+01:02:34,000 --> 01:02:43,000
+run one of the bone echoes um that has the uh device that i'm not gonna try to pronounce
+
+568
+01:02:44,000 --> 01:02:51,000
+someone with better english can do that amateur amateur yeah thank you i had to look that up when
+
+569
+01:02:51,000 --> 01:02:57,000
+i was recording the patch but you say this yeah so what you do is you put either a boots gloves or belt
+
+570
+01:02:57,000 --> 01:03:06,000
+here and you can just pick the affix uh that you want to put onto your item now and there's a couple
+
+571
+01:03:06,000 --> 01:03:17,000
+things so it it has to have two prefixes and then it randomly replaces one of those prefixes and uh puts
+
+572
+01:03:18,000 --> 01:03:26,000
+the experimental ethics there not the bees or did i get kicked out uh this is uh this is uh
+
+573
+01:03:27,000 --> 01:03:33,000
+definitely not that's easier but uh one of the at least one of the uh experimental
+
+574
+01:03:33,000 --> 01:03:38,000
+affixes has been changed um so the experiment on beast one is now bees
+
+575
+01:03:40,000 --> 01:03:45,000
+there we go it took one of the affix out and it would be somewhere in a potion used there
+
+576
+01:03:47,000 --> 01:03:53,000
+because bees are awesome right oh yeah i think that was one of the first uniques i got i didn't
+
+577
+01:03:53,000 --> 01:03:57,000
+understand what was happening but i was annihilating everything in the first few acts and it was just
+
+578
+01:03:57,000 --> 01:04:03,000
+the bees you know it wasn't even a minion bill yeah the beekeepers gloves i think probably yep that's it
+
+579
+01:04:03,000 --> 01:04:12,000
+yeah yeah yeah yeah uh yeah so now it's a lot easier to uh get experimental affix to your items uh one
+
+580
+01:04:12,000 --> 01:04:19,000
+thing that obviously since we don't have rune of research anymore which was a guaranteed seal regardless of
+
+581
+01:04:19,000 --> 01:04:31,000
+tier on the experimental affix uh this i i think it can give you an exalted affix but the better way
+
+582
+01:04:31,000 --> 01:04:39,000
+here is to just simply use the rune of havoc right you have an item you have like a suffix exalt or
+
+583
+01:04:39,000 --> 01:04:44,000
+something like that you craft the experimental affix and then you just rune of havoc and hope that it's
+
+584
+01:04:44,000 --> 01:04:51,000
+hits the uh experimental affix so it's a lot easier like a lot easier and more streamlined to try to
+
+585
+01:04:51,000 --> 01:04:58,000
+get uh high tier experimental affixes on the correct item basis because item bases are very important
+
+586
+01:04:59,000 --> 01:05:05,000
+so very cool i i see a few quick questions on these in the chat can you seal this mod
+
+587
+01:05:08,000 --> 01:05:14,000
+yes uh with cliff of despair yeah you can you can still seal it but obviously that means that you
+
+588
+01:05:14,000 --> 01:05:25,000
+cannot seal uh higher than a tier four experimental affix anymore but so the absolute top end amount of
+
+589
+01:05:25,000 --> 01:05:31,000
+tiers of an experimental item has gone down but it comes with a trade-off of being able to actually
+
+590
+01:05:31,000 --> 01:05:39,000
+craft them on items that you want way more easily now very cool you might have another one now can you
+
+591
+01:05:39,000 --> 01:05:45,000
+put experimental items or experimental affixes on exalted items i think you may have mentioned that
+
+592
+01:05:45,000 --> 01:05:52,000
+you could they're wrong oh yes yes and that's that is that is how you're most likely going to be having
+
+593
+01:05:52,000 --> 01:05:59,000
+exalted experimental affixes because you you just craft the uh the lower tier like for example this is
+
+594
+01:06:00,000 --> 01:06:08,000
+your four so i could technically be able to cliff of despair this but the odds are pretty low but more
+
+595
+01:06:08,000 --> 01:06:14,000
+likely you'll have an exalted belt here instead and then you just use rune of havoc and then you
+
+596
+01:06:14,000 --> 01:06:20,000
+hope that it switches the the tiers to grant it on the uh experimental assets instead we
+
+597
+01:06:23,000 --> 01:06:30,000
+also there's a uh champion affix on this belt that i just not realized oh oh they're always yeah they are
+
+598
+01:06:30,000 --> 01:06:38,000
+always sealed um so those cannot be uh put onto uh legendaries either just like with uh set
+
+599
+01:06:39,000 --> 01:06:48,000
+set charts but these can drop naturally as exalted uh when you slay champions so that's pretty neat awesome
+
+600
+01:06:48,000 --> 01:07:00,000
+this looks sweet yeah i think we might have one more oh there's one more yeah yeah and then you can
+
+601
+01:07:00,000 --> 01:07:05,000
+stand down yeah i'll go i'll go i'll go prepare that we'll take me all right you're gonna prepare that for
+
+602
+01:07:05,000 --> 01:07:11,000
+a sec all right sounds good sounds good let me stop watching yeah um one indicator that you're doing
+
+603
+01:07:11,000 --> 01:07:16,000
+well with itemization i think is when you run out of colors for affixes you know as a ui designer i'm
+
+604
+01:07:16,000 --> 01:07:20,000
+looking at these things thinking oh my goodness like the the next type we add what color is it
+
+605
+01:07:20,000 --> 01:07:26,000
+going to be that's what i'm stressing about yes yes yeah what is the best color you know we've been
+
+606
+01:07:26,000 --> 01:07:31,000
+trained to think certain things are the best but you know you gotta rethink that whole that whole
+
+607
+01:07:31,000 --> 01:07:36,000
+gossip you're going into the the diabla tour where it's like uh gold versus yellow and like it's just
+
+608
+01:07:36,000 --> 01:07:42,000
+tiny shade difference there okay here's a terrible idea don't take it change the font type for certain
+
+609
+01:07:42,000 --> 01:07:49,000
+affixes now okay there you go it's some wacky font in there you know uh they if you're running out of
+
+610
+01:07:49,000 --> 01:07:55,000
+colors go for that that'll that'll piss people off that's probably yeah we'd probably use iconography in
+
+611
+01:07:55,000 --> 01:08:00,000
+some capacity there when we run out of colors yeah yeah i don't know if everybody knows that but we
+
+612
+01:08:00,000 --> 01:08:08,000
+actually commissioned a uh uh uh what do you call them um a font foundry to create our custom last epoch
+
+613
+01:08:08,000 --> 01:08:13,000
+font and it was uh one of the guys who actually made the roboto font face that is very very popular
+
+614
+01:08:14,000 --> 01:08:18,000
+uh and that was that was a really big treat to both ross and myself because we both have a user
+
+615
+01:08:18,000 --> 01:08:23,000
+interface background so being able to create our own font for the game was just super super enjoyable
+
+616
+01:08:24,000 --> 01:08:30,000
+that's a good piece of trivia i saw maybe it was a meme but i saw that fonts are quite expensive
+
+617
+01:08:30,000 --> 01:08:37,000
+actually yeah yeah yeah yeah it was uh it was it was a decision that we had to make it wasn't just
+
+618
+01:08:37,000 --> 01:08:47,000
+like oh we're gonna do this no it was a decision uh last epoch font right off yes yes worth it worth
+
+619
+01:08:47,000 --> 01:08:52,000
+it absolutely yeah i don't know if you saw judd but people were saying you should just create that
+
+620
+01:08:52,000 --> 01:08:58,000
+extra woven echo as an echo full of meteors and you know you just gotta like somehow run to the other
+
+621
+01:08:58,000 --> 01:09:02,000
+side of the echo to complete it that's super easiest way to convince me of adding anything
+
+622
+01:09:02,000 --> 01:09:06,000
+into the game and the team knows it and they weaponize it against me if they ever want to add
+
+623
+01:09:06,000 --> 01:09:13,000
+something they're like well we'll have it like cast meteors and i'm like yes uh yeah we we did we did
+
+624
+01:09:13,000 --> 01:09:18,000
+have a couple of fun woven echoes that we did have to cut for scope reasons at the end there maybe
+
+625
+01:09:18,000 --> 01:09:27,000
+they will be reintroduced shortly who knows that's okay interesting okay i am i am i'm good to go again
+
+626
+01:09:27,000 --> 01:09:37,000
+all right go for it i don't remember did we did we tease this one did we reveal this yet um i don't
+
+627
+01:09:37,000 --> 01:09:42,000
+think on the uh well if we didn't then this is pretty this is pretty exciting for uh some people uh
+
+628
+01:09:44,000 --> 01:09:53,000
+so attributes or more specifically strength dexterity int and achievements now there's some builds
+
+629
+01:09:53,000 --> 01:10:04,000
+that would want to have int on certain item slots for example if you for some reason wanted to play a
+
+630
+01:10:04,000 --> 01:10:17,000
+primalist as a low health belt and you wanted to use exanguinance now class specific items such as the
+
+631
+01:10:17,000 --> 01:10:25,000
+send in the body armor here doesn't actually naturally drop with that intelligence so if you
+
+632
+01:10:25,000 --> 01:10:31,000
+wanted to farm for that the primalist build for example what you would most likely have to do because
+
+633
+01:10:31,000 --> 01:10:37,000
+there is small there's a bit of waiting on finding class specific items like if you're playing primalist
+
+634
+01:10:37,000 --> 01:10:41,000
+you're going to be finding primalist body armors relics and helmets more often than those places that
+
+635
+01:10:41,000 --> 01:10:51,000
+can actually roll with intelligence so to help out those monkey builds that people want to do
+
+636
+01:10:53,000 --> 01:11:02,000
+we have added a oh boy a way to swap the attribute between index strength and attunement
+
+637
+01:11:02,000 --> 01:11:12,000
+uh on items regardless that so we have the we have a nice tier 7 strength here you know what i wanted to be
+
+638
+01:11:12,000 --> 01:11:22,000
+int and now i have a tier 7 int on a send little body armor so but you can now make the item right it just
+
+639
+01:11:22,000 --> 01:11:30,000
+might delete the item yeah there's a chance that no no no all it does all it does it costs one fortune potential
+
+640
+01:11:30,000 --> 01:11:36,000
+to do it um obviously you cannot do this on like unique
+
+641
+01:11:37,000 --> 01:11:46,000
+affix and lingerie because they don't have fortune potential but this allows you to play on a build or
+
+642
+01:11:46,000 --> 01:11:52,000
+a class that cannot find specific uh attributes on their class specific items such as the helmet
+
+643
+01:11:53,000 --> 01:11:58,000
+and the body armor and then you can swap it to slam it onto your legendaries so
+
+644
+01:11:58,000 --> 01:12:03,000
+or you don't even need to you know slam them on the legendaries you can just if you want to
+
+645
+01:12:03,000 --> 01:12:10,000
+stack in thona send it and you can now do that with this on a base i'm i'm seeing some
+
+646
+01:12:10,000 --> 01:12:15,000
+technical person saying well what if the item has multiple stats on it are you just able to select
+
+647
+01:12:15,000 --> 01:12:22,000
+which stat it is pop it over and you yeah yeah look at that look at that qol you guys thought ahead
+
+648
+01:12:22,000 --> 01:12:29,000
+look at that that's sweet i'm i'm pretty sure we had the case where we we had the base and then we
+
+649
+01:12:29,000 --> 01:12:35,000
+tried it and then somebody had found an item with two two attributes and they're like wait a minute
+
+650
+01:12:36,000 --> 01:12:42,000
+and then we had to adjust rewind rewind this is one of those cases yeah yeah yeah oh that's good
+
+651
+01:12:44,000 --> 01:12:50,000
+well that is pretty cool there's a lot of stuff coming with the woven echoes you guys and i assume there's
+
+652
+01:12:50,000 --> 01:12:57,000
+there's a break we saw three break say again it seems ad break seems to be yeah going correct
+
+653
+01:12:57,000 --> 01:13:02,000
+oh an ad break oh dang okay can we stall for a few few yeah we can we can stall
+
+654
+01:13:05,000 --> 01:13:14,000
+i'll turn it into attunement in the meanwhile okay we did discuss adding a resistance swapper as well
+
+655
+01:13:14,000 --> 01:13:21,000
+uh uh i think it was it was it was it was divisive uh more so than the attributes that's what i remember
+
+656
+01:13:30,000 --> 01:13:33,000
+what are you guys uh starting on the 17th because you guys are going to log in right
+
+657
+01:13:35,000 --> 01:13:42,000
+any favorite class 100 percent i i'm so torn between heart seeker and either a piloting or
+
+658
+01:13:42,000 --> 01:13:48,000
+avoid night i can't i can't decide not having to stop to cast devouring orb sounds really fun
+
+659
+01:13:48,000 --> 01:13:57,000
+i really want to do that but i cannot i cannot do that over heart seeker yeah the uh the d2 bolazon is
+
+660
+01:13:57,000 --> 01:14:05,000
+is very deep on me as well yes yes yes you guys are drawing me with a sentinel yeah we're back okay they
+
+661
+01:14:05,000 --> 01:14:10,000
+didn't get to see what happens if there's two attributes you just get to choose the attribute
+
+662
+01:14:10,000 --> 01:14:17,000
+guys they were smart big shock ehg was smart everybody yeah and obviously all attributes
+
+663
+01:14:17,000 --> 01:14:25,000
+cannot be swapped because it's all attributes uh and vitality isn't valuable so there's a lot of reasons
+
+664
+01:14:25,000 --> 01:14:34,000
+for that but one being that it can already kind of roll everywhere uh and there's only like one or two
+
+665
+01:14:34,000 --> 01:14:42,000
+skills in the game that as a baseline scale with it uh so it's not like i don't say it's not a core
+
+666
+01:14:42,000 --> 01:14:50,000
+attribute but it's kind of not compared to the other four uh and we wouldn't be uh allowing you to get
+
+667
+01:14:50,000 --> 01:14:58,000
+vitality on basis that it wouldn't roll normally because that just puts more pressure onto your
+
+668
+01:14:58,000 --> 01:15:04,000
+previous as well because now your prefix can also provide you health through vitality so we don't
+
+669
+01:15:04,000 --> 01:15:13,000
+want to put too much uh pressure on there great all right well you just showed off three awesome woven
+
+670
+01:15:13,000 --> 01:15:20,000
+echoes no more spoilers for woven echoes that's the set the rest we can experience on game day
+
+671
+01:15:21,000 --> 01:15:27,000
+that seems we have a lot of good ones we have a lot of good ones for sure excellent okay all right
+
+672
+01:15:27,000 --> 01:15:33,000
+we're cutting you off sorry do you want to talk about quickly about the resistance i see he mentioned
+
+673
+01:15:33,000 --> 01:15:38,000
+the chat a couple times about the resistance weapon because we did discuss it uh but we didn't end up
+
+674
+01:15:38,000 --> 01:15:46,000
+uh allowing the resist swapping uh and then the main thing here is that we already have a very robust
+
+675
+01:15:46,000 --> 01:15:53,000
+very like a flexible crafting system there's a lot of different ways you can swap your uh your affixes
+
+676
+01:15:53,000 --> 01:16:00,000
+you have your rune removal you have your uh chaos so there's a way to seal off affixes to then make room
+
+677
+01:16:00,000 --> 01:16:08,000
+to craft stuff uh this is on the attribute specifically is a totally new way to create builds
+
+678
+01:16:08,000 --> 01:16:16,000
+that didn't really exist before uh versus resist fapping just makes it a lot easier to resist uh cap
+
+679
+01:16:16,000 --> 01:16:24,000
+your resistances which isn't really necessary due to the way our uh resistances work where enemies
+
+680
+01:16:24,000 --> 01:16:31,000
+penetrate some of your resistances which makes it a lot less deadly to not be address cap and then we also
+
+681
+01:16:31,000 --> 01:16:38,000
+have idols that are pretty flexible at providing resistances uh and the new weaver
+
+682
+01:16:38,000 --> 01:16:45,000
+um affixes also provide a decent amount of resistance you can see here and might be the first time
+
+683
+01:16:45,000 --> 01:16:52,000
+ever where you can get minion resistances too oh i don't think you really had minion physical resistances
+
+684
+01:16:53,000 --> 01:16:58,000
+like that there might be some very odd cases where you could provide them some resistances but yeah
+
+685
+01:16:59,000 --> 01:17:02,000
+minion players rejoice yeah
+
+686
+01:17:02,000 --> 01:17:12,000
+okay well i will take the magic away thank you carve that was beautiful
+
+687
+01:17:13,000 --> 01:17:15,000
+see yeah pleasure
+
+688
+01:17:17,000 --> 01:17:23,000
+okay we have a question right here it's kind of a philosophical question about itemization
+
+689
+01:17:23,000 --> 01:17:29,000
+uh in last epoch so how often do you expect players to be upgrading their items is it a goal to have
+
+690
+01:17:29,000 --> 01:17:34,000
+players find at least one or two gg items while leveling they'll end up using for a long time
+
+691
+01:17:34,000 --> 01:17:41,000
+or do you want players to be constantly churning uh and getting new item upgrades crafting different
+
+692
+01:17:41,000 --> 01:17:49,000
+affixes on them and the like yeah it's it's a good question um you know and it's different per
+
+693
+01:17:49,000 --> 01:17:54,000
+different stages of the game so for example like in your early game as you're going through the campaign
+
+694
+01:17:54,000 --> 01:17:59,000
+we of course want players to be exchanging their gear quite frequently and upgrading their gear quite
+
+695
+01:17:59,000 --> 01:18:03,000
+frequently um and you know that's healthy we want people to be experimenting with different skills
+
+696
+01:18:03,000 --> 01:18:08,000
+that they might enjoy they're unlocking their idle slots they're they're uh getting items that actually
+
+697
+01:18:08,000 --> 01:18:14,000
+go into their main uh slots and everything of that nature so in the early game it's very natural for
+
+698
+01:18:14,000 --> 01:18:21,000
+the amount of upgrades and the upgrading rate to be quite high uh that's healthy um when you get into
+
+699
+01:18:21,000 --> 01:18:25,000
+late game of course that slows down just a little bit uh but we do still want that frequency to be
+
+700
+01:18:25,000 --> 01:18:30,000
+at a decent pace because we don't want you to feel like you're hitting a gear plateau too early and
+
+701
+01:18:30,000 --> 01:18:34,000
+a lot of the things that we're adding with season two will help with that tremendously as you know
+
+702
+01:18:34,000 --> 01:18:39,000
+some of these things that we've been showing off uh show here um i think it's important that
+
+703
+01:18:40,000 --> 01:18:45,000
+even when you get into the late game uh there always feels like there is a significant
+
+704
+01:18:45,000 --> 01:18:50,000
+gap in power that you have versus what you could potentially obtain because when you get players to
+
+705
+01:18:50,000 --> 01:18:55,000
+you know maybe like an 80 maximum power threshold and your bill your build is online and you feel
+
+706
+01:18:55,000 --> 01:19:00,000
+like you kind of have what you uh want to have your bill at a complete state that's where players really
+
+707
+01:19:00,000 --> 01:19:06,000
+start to lose interest and so as long as you have things that you feel really excited to chase it can
+
+708
+01:19:06,000 --> 01:19:12,000
+keep the excitement and the enjoyability of the gear progression uh lasting for a lot longer than you
+
+709
+01:19:12,000 --> 01:19:16,000
+you know if you're plateauing early and that's one of the things that we're really focusing on with
+
+710
+01:19:16,000 --> 01:19:22,000
+the implementations that we have coming in season two um your question about do we want people to be
+
+711
+01:19:22,000 --> 01:19:31,000
+finding gg items in the uh i guess we'll kind of phrase it as the campaign experience um it's not
+
+712
+01:19:31,000 --> 01:19:37,000
+it's not necessarily a goal that we have i think if it were a goal we would probably pretty easily be
+
+713
+01:19:37,000 --> 01:19:42,000
+able to start to guarantee this to some extent which i believe would be actually very unhealthy
+
+714
+01:19:42,000 --> 01:19:47,000
+for the game you know the excitement of the game is the item chase and as soon as you start to
+
+715
+01:19:47,000 --> 01:19:52,000
+make it to where these things start to be guaranteed that starts to cheapen the experience overall and
+
+716
+01:19:52,000 --> 01:19:57,000
+that's not something that we want to do um now when you get into like the mid game say that you're
+
+717
+01:19:57,000 --> 01:20:04,000
+like level 40 plus it's very important that the potential to find a gg item exist uh because you always
+
+718
+01:20:04,000 --> 01:20:08,000
+want to feel like the next enemy that you're killing or the activity that you're participating in
+
+719
+01:20:08,000 --> 01:20:12,000
+has the chance to drop you something that's just going to really blow things out of the water and
+
+720
+01:20:12,000 --> 01:20:19,000
+make you feel way more powerful uh so i think it's it's important that the potential for that exist but
+
+721
+01:20:19,000 --> 01:20:25,000
+i think it's important also that we don't guarantee it uh when it comes to the campaign leveling
+
+722
+01:20:25,000 --> 01:20:32,000
+experience um instead of you know ensuring that the gg items or or making it very likely that gg items
+
+723
+01:20:32,000 --> 01:20:38,000
+drop that is something that our crafting system enables uh players to overcome challenges that
+
+724
+01:20:38,000 --> 01:20:44,000
+they would be facing in a much more uh directed manner uh so that's what we like to do to make
+
+725
+01:20:44,000 --> 01:20:49,000
+sure that you know there's not challenges presented at least in uh mid game or early late game that are
+
+726
+01:20:49,000 --> 01:20:57,000
+that are insurmountable yeah that's extremely sensible you know the only gg item i felt like i found
+
+727
+01:20:57,000 --> 01:21:01,000
+was the the beekeepers gauntlets when i was playing for the first time i mean i didn't replace those for
+
+728
+01:21:01,000 --> 01:21:06,000
+quite some time i couldn't get rid of them but yeah yeah it's a great feeling whenever you find
+
+729
+01:21:06,000 --> 01:21:10,000
+something like that and you're like heck this is this is awesome right this campaign experience is
+
+730
+01:21:10,000 --> 01:21:15,000
+going to be uh really unique because i found this thing and i'm really excited to have this but if we
+
+731
+01:21:15,000 --> 01:21:22,000
+were to guarantee that i think i think that you know that's that's not a good experience yeah totally
+
+732
+01:21:22,000 --> 01:21:30,000
+agree awesome thanks judd uh okay here's a fun one all right lots of games have items that
+
+733
+01:21:30,000 --> 01:21:37,000
+have huge downsides like they disable item slots they completely remove some vector scaling on your
+
+734
+01:21:37,000 --> 01:21:44,000
+build but they also come with tremendous upsides with you guys bringing in a lot of unique items
+
+735
+01:21:44,000 --> 01:21:50,000
+into the game with this patch with future patches and maybe set items in the future is that something
+
+736
+01:21:50,000 --> 01:21:58,000
+you might be looking into leaning into uh so uh i think it's fair to say we are keen on unique item
+
+737
+01:21:58,000 --> 01:22:03,000
+design that revolves around the problem solving aspect of balancing big downsides with powerful
+
+738
+01:22:03,000 --> 01:22:08,000
+upsides uh that just feels good when making a build it makes you feel smart when you're working around
+
+739
+01:22:08,000 --> 01:22:14,000
+those elements um you know we already have build enabling uniques with negative effects that you need to
+
+740
+01:22:14,000 --> 01:22:20,000
+work around uh for example zitharo's amulet which disables both health regen and leech uh for a more
+
+741
+01:22:20,000 --> 01:22:25,000
+multiplier for phase damage um i think it's fair to say though there that we don't have any uniques that
+
+742
+01:22:25,000 --> 01:22:31,000
+are truly wacky or iconic in that category you know where there are extreme downsides like you're talking
+
+743
+01:22:31,000 --> 01:22:37,000
+about like say disabling all of your idols and then a really game-breaking powerful benefit to offset that
+
+744
+01:22:37,000 --> 01:22:45,000
+um i think of the 25 new uniques in season two i don't think any of those rely around uh downsides
+
+745
+01:22:45,000 --> 01:22:52,000
+to work around um uh i can't say too much about it but in future seasons there may be more unique item
+
+746
+01:22:52,000 --> 01:22:57,000
+categories or systems that allow us to lean into more risky territory here um in terms of that design
+
+747
+01:22:57,000 --> 01:23:02,000
+space uh but you know a too early to share anything that on that at the moment unfortunately are those
+
+748
+01:23:02,000 --> 01:23:07,000
+the primeval items oh i'm going back to last year's is that what they're that that category
+
+749
+01:23:07,000 --> 01:23:14,000
+is called hey that was that was primordial i'm more oh i'm so upset at myself i was close okay
+
+750
+01:23:14,000 --> 01:23:23,000
+yeah well it's exciting me here there's a couple items in uh in the uh the season two that do have
+
+751
+01:23:23,000 --> 01:23:29,000
+a downside kind of stuff uh for example one of actually i'm thinking about four amulets there's
+
+752
+01:23:29,000 --> 01:23:35,000
+four amulets well one of them has like three different versions of it but all of those uh have
+
+753
+01:23:35,000 --> 01:23:42,000
+like downside of you have to curse yourself and then like to get a benefit and then there's a um
+
+754
+01:23:42,000 --> 01:23:53,000
+the the focus amulet that uh after some balancing during the uh the the ct testing and whatnot um
+
+755
+01:23:54,000 --> 01:24:00,000
+looks a bit different from what it was teased on the you know back in i don't know how long ago when
+
+756
+01:24:00,000 --> 01:24:09,000
+we just like showed a bunch of uh uniques on the original like season two uh teaser trailer uh so
+
+757
+01:24:10,000 --> 01:24:14,000
+you are like focus normally doesn't allow you to move while channeling so the amulet allows you to
+
+758
+01:24:14,000 --> 01:24:19,000
+move while channeling which is the big upside but then the downside is that uh you're gonna be
+
+759
+01:24:20,000 --> 01:24:24,000
+channeling you're getting less mana while you're doing that uh you're gonna have less armor while
+
+760
+01:24:24,000 --> 01:24:29,000
+doing that uh and then i think there's some probably another downside that i can't remember right now
+
+761
+01:24:29,000 --> 01:24:35,000
+but we do have these items but we don't have like like ross said we don't have like this crazy you know
+
+762
+01:24:36,000 --> 01:24:41,000
+nothing happened like you can't do anything if you have this item equipped i think the biggest
+
+763
+01:24:42,000 --> 01:24:48,000
+downside item that i can think of that doesn't really even have an upside would be the veteran boots
+
+764
+01:24:48,000 --> 01:24:56,000
+uh which is basically just a challenge item uh but yeah we don't we don't often make items that just
+
+765
+01:24:56,000 --> 01:25:04,000
+completely break your build like immediately or regard like absolute massive investment uh for it to
+
+766
+01:25:04,000 --> 01:25:11,000
+be good uh but a lot of the one of the uniques we do do change the way your uniques like you're sorry
+
+767
+01:25:11,000 --> 01:25:18,000
+not unique your skills work which then regards you to build them differently so yeah they're always exciting
+
+768
+01:25:19,000 --> 01:25:25,000
+i love having problems to to solve you know that's the i love that designing uniques you know so that
+
+769
+01:25:25,000 --> 01:25:31,000
+amulet sounds cool that's a new one you said the focus one yeah i can i can probably show it at some
+
+770
+01:25:31,000 --> 01:25:37,000
+point uh maybe maybe oh stall with one more question yeah there's there's probably something
+
+771
+01:25:38,000 --> 01:25:44,000
+other thing we want to show and i can oh okay well i have a great stalling question then okay i've seen
+
+772
+01:25:44,000 --> 01:25:52,000
+it spammed in the chat everybody is looking at carves shirt your hat judd real life merch store
+
+773
+01:25:52,000 --> 01:25:58,000
+when is this even a possibility in the future maybe associated with supporter packs which were actually
+
+774
+01:25:58,000 --> 01:26:04,000
+teased not released yet right just recently correct this is this coming maybe in the future
+
+775
+01:26:04,000 --> 01:26:09,000
+yeah yeah i i think the answer here is very likely yes uh it's something that really really
+
+776
+01:26:09,000 --> 01:26:16,000
+enjoy uh the team internally is always asking for additional merch for sure uh so it's something
+
+777
+01:26:16,000 --> 01:26:21,000
+that as the team grows in size and we're able to support the logistics of something like that i think
+
+778
+01:26:21,000 --> 01:26:26,000
+we're very keen as a studio to start to do that and if we do it will likely take shape in terms of
+
+779
+01:26:26,000 --> 01:26:32,000
+supporter packs um and you know t-shirts are kind of the bread and butter there but uh i would be really
+
+780
+01:26:32,000 --> 01:26:36,000
+interested to see if there's other cool unique physical type items that we could be creating
+
+781
+01:26:36,000 --> 01:26:41,000
+uh one one thing that i've had in mind and i this is not this is not happening this is not underway
+
+782
+01:26:41,000 --> 01:26:48,000
+so don't don't read into this too much uh but i really want a physical epoch and have you seen those
+
+783
+01:26:48,000 --> 01:26:55,000
+those little desk items that use uh use magnetism to float an item i really want one of those with a
+
+784
+01:26:55,000 --> 01:27:02,000
+little epoch artifact uh and and so uh if the dream comes true we'll have physical merch at some point
+
+785
+01:27:02,000 --> 01:27:05,000
+and maybe we can even have some some really cool uh items like that yeah
+
+786
+01:27:06,000 --> 01:27:11,000
+that sounds awesome gotta make the dream come true you guys we want our physical epochs
+
+787
+01:27:11,000 --> 01:27:17,000
+that's great absolutely we all we all want merch inside the company yes we do we do we do the uh
+
+788
+01:27:17,000 --> 01:27:22,000
+poor embroidery lady down the street you know we're still not like a a large operation in that manner
+
+789
+01:27:22,000 --> 01:27:26,000
+whatsoever so there's a little lady down the street that does our embroidery and we just give her so
+
+790
+01:27:26,000 --> 01:27:34,000
+much work just just for the team just for the team definitely all right carve did we stall long enough
+
+791
+01:27:34,000 --> 01:27:41,000
+with the merch question oh yes oh we did oh excellent okay i'm ready
+
+792
+01:27:50,000 --> 01:27:58,000
+go so first of all yeah we can take a look at the uh the i believe this has already been posted on on
+
+793
+01:27:58,000 --> 01:28:06,000
+reddit as a clarification because we had the old version in the like the mega thread so we have
+
+794
+01:28:06,000 --> 01:28:11,000
+shown this already i think this is actually the maximum roles you can get on the mana guide now
+
+795
+01:28:11,000 --> 01:28:15,000
+uh and this this basically turns focus into
+
+796
+01:28:16,000 --> 01:28:22,000
+you could say it's like a war path then because now you're channeling and things happened uh around
+
+797
+01:28:22,000 --> 01:28:28,000
+uh and this is this is a very this was very powerful in the original form like we had to nerf it
+
+798
+01:28:28,000 --> 01:28:39,000
+multiple times because how strong it was um but yeah that's it and then other things on the
+
+799
+01:28:39,000 --> 01:28:48,000
+teaser and somewhere else we might have uh shown cocooned items oh here we go yeah so cocooned uniques
+
+800
+01:28:48,000 --> 01:28:58,000
+uh i believe the only way to obtain these is just a it's a uh echo like objective uh so normally you're
+
+801
+01:28:58,000 --> 01:29:03,000
+one of your echo objectives like you know slay a champion or exalt mage oh yeah these are new ones uh
+
+802
+01:29:04,000 --> 01:29:12,000
+and then like the boss or complete uh like beacon and stuff like that so one of the new
+
+803
+01:29:12,000 --> 01:29:23,000
+new objectives is to slay enemies until you find these cocooned uniques and so when you try to put this on
+
+804
+01:29:25,000 --> 01:29:29,000
+it just reveals uh a random unique
+
+805
+01:29:31,000 --> 01:29:35,000
+and we're getting really lucky with just everything having uh lp it looks like
+
+806
+01:29:35,000 --> 01:29:47,000
+um damn wow these do have a slightly increased chance to roll lp oh yeah okay yeah i don't i don't
+
+807
+01:29:47,000 --> 01:29:55,000
+remember exactly how much but you are more likely to get lp on these um and yeah i can't wait to see
+
+808
+01:29:55,000 --> 01:30:06,000
+these uh you know reveal a full stash of cocooned items videos i'm ready oh there's some there's some
+
+809
+01:30:06,000 --> 01:30:11,000
+uniques here i see oh oh we got it we got to look at them yeah right i mean if they're they're rolling
+
+810
+01:30:11,000 --> 01:30:20,000
+it's like this looks like a new unique which was one of my mentioning where uh just stacking curses
+
+811
+01:30:20,000 --> 01:30:30,000
+helps and you can get curses on other masteries than being a warlock basically a lot of the uh
+
+812
+01:30:31,000 --> 01:30:36,000
+all of the curses and warlock basically regard you to be a warlock to get them uh because some of the
+
+813
+01:30:36,000 --> 01:30:44,000
+some things come skill trees or from the uh some skills so if if you are playing agolite but not a
+
+814
+01:30:44,000 --> 01:30:50,000
+uh warlock such as a necromancer for minions you can get some other cool curses for them
+
+815
+01:30:52,000 --> 01:30:59,000
+so yeah okay dude that that item art oh my gosh that's incredible oh yeah yeah yeah
+
+816
+01:31:01,000 --> 01:31:04,000
+there's a different there's a couple different versions i think there's a three different versions
+
+817
+01:31:04,000 --> 01:31:13,000
+of this uh oh so these yeah there's a bonkers inflix penance decryptify and then acid skin is the last one
+
+818
+01:31:14,000 --> 01:31:20,000
+of this is the last one so it's kind of cool uh and i think i think we uh might have mentioned
+
+819
+01:31:21,000 --> 01:31:28,000
+something about the weaver tree we might want to look oh yeah i mean go for it you need some time to
+
+820
+01:31:28,000 --> 01:31:40,000
+prepare no i can just just oh wow here we go okay yeah i can just open it um so yeah we have a lot of
+
+821
+01:31:40,000 --> 01:31:48,000
+cool customization and uh it might look like a small tree at first but most of these now just
+
+822
+01:31:48,000 --> 01:31:50,000
+have multiple points you can put in them uh so you can
+
+823
+01:31:56,000 --> 01:32:02,000
+did carp just freeze oh i think he did oh did you guys didn't shut him down did you
+
+824
+01:32:02,000 --> 01:32:07,000
+did you cut him off we pulled the plug on him we talked to hr we're like pull the plug he showed
+
+825
+01:32:07,000 --> 01:32:14,000
+too hard oh see he was unveiling everything i believe there's like here he is yep oh he's back and
+
+826
+01:32:14,000 --> 01:32:17,000
+since we are talking about itemization
+
+827
+01:32:21,000 --> 01:32:28,000
+carv can you go your back carve yes i can i can i can hear you okay you were away for about uh 20 30
+
+828
+01:32:28,000 --> 01:32:34,000
+seconds there oh he didn't you you had ended at like it looks like it's a small skilled uh small
+
+829
+01:32:34,000 --> 01:32:42,000
+tree okay okay multiple points yes most of these points you can put multiple points in them uh to
+
+830
+01:32:43,000 --> 01:32:52,000
+get higher benefits um of what the node provides like for example you have some loot lizard spawn rates
+
+831
+01:32:53,000 --> 01:33:00,000
+they come from caches you can get some more uh lizard tails and guaranteed you need kind of whenever you
+
+832
+01:33:00,000 --> 01:33:10,000
+you unburden loot lizards since we don't slay them have you help them um and uh since we are in an
+
+833
+01:33:10,000 --> 01:33:17,000
+itemized season discussion uh we might want to take a look uh or discuss some of these a bit so we have uh
+
+834
+01:33:18,000 --> 01:33:26,000
+we have these these cool nodes in the tree that allow you to imprint an item in there so for example
+
+835
+01:33:26,000 --> 01:33:34,000
+do i happen to have some some let's say let's say that for there so you can imprint these items um
+
+836
+01:33:36,000 --> 01:33:43,000
+into the weaver tree and then when you do specific things uh for example in this one um when you
+
+837
+01:33:44,000 --> 01:33:52,000
+when you get echo rewards you have a chance to get similar items to what you have imprinted here
+
+838
+01:33:52,000 --> 01:33:57,000
+for example it could provide bone amulets because that's the base it could provide uniques because
+
+839
+01:33:57,000 --> 01:34:05,000
+it's a unique uh in the cases of exalted items etc or like legendaries uh affixes that are there um
+
+840
+01:34:06,000 --> 01:34:12,000
+or a combination of them there's some limitations like for example you can't get boss specific uniques
+
+841
+01:34:12,000 --> 01:34:20,000
+like if you put uh the allies here or like one any of the uber uniques uh here they will not drop randomly
+
+842
+01:34:20,000 --> 01:34:29,000
+um i'm not sure if we currently are excluding them from here but uh it is explained here but so
+
+843
+01:34:29,000 --> 01:34:42,000
+these allow you to greatly enhance the ability to find uh not only the base types but also the item
+
+844
+01:34:42,000 --> 01:34:49,000
+type like the subtypes so not only not a ring but like a uh iron ring or or a silver ring for example
+
+845
+01:34:51,000 --> 01:34:58,000
+uh and uh i'd expect to see a lot of a lot of these imprints with some stuff like red rings and whatnot
+
+846
+01:35:00,000 --> 01:35:08,000
+in hopes of people getting getting those um and we have a so this is armor and jewelry uh then we have
+
+847
+01:35:08,000 --> 01:35:16,000
+one that is armor and weapon and then we have weapon and jewelry so you can't just put red ring on all of
+
+848
+01:35:16,000 --> 01:35:23,000
+them uh there's a we had a long discussions about how we want to do that or if you want to limit them
+
+849
+01:35:24,000 --> 01:35:30,000
+i think currently there isn't a node that would allow you to have uh an idol in here but that might
+
+850
+01:35:30,000 --> 01:35:36,000
+be something in the future we'll see uh and then this one on the top is a is an interesting one because
+
+851
+01:35:36,000 --> 01:35:44,000
+this is uh specific to slaying champions and the item that you have here uh has a chance to
+
+852
+01:35:45,000 --> 01:35:55,000
+drop the the item that comes out of it with one of the affixes as a sealed one so there's a some cool
+
+853
+01:35:55,000 --> 01:36:01,000
+potential stuff you can do here as well yeah worth noting that you're imprinting these items so you're
+
+854
+01:36:01,000 --> 01:36:05,000
+not losing the ability to equip them so if you've got your red ring you need to keep wearing it you
+
+855
+01:36:05,000 --> 01:36:12,000
+know it's it's imprinting it you're not losing it yeah as you can see uh oh okay let's take this
+
+856
+01:36:12,000 --> 01:36:19,000
+let's let's let's take this as an example uh for example here at the fang uh when i put it here it is
+
+857
+01:36:19,000 --> 01:36:26,000
+still here so you don't actually lose it so yeah it's just there which is cool and then you can uh
+
+858
+01:36:27,000 --> 01:36:33,000
+i think we revealed this already but you can uh imprint two woven echoes so if there's some
+
+859
+01:36:33,000 --> 01:36:41,000
+particular woven echoes that you really like you can imprint them um and then they will just spawn on
+
+860
+01:36:41,000 --> 01:36:50,000
+your echo web uh obviously more rare and rewarding ones have a lower chance but they are they're
+
+861
+01:36:50,000 --> 01:36:58,000
+pretty cool like uber aberrath you can put on here yes yes if you if you imprint two uber aberroth uh
+
+862
+01:36:58,000 --> 01:37:06,000
+known echoes here you are able to just randomly get uber aberroth hello in your web yes
+
+863
+01:37:06,000 --> 01:37:13,000
+well that's pretty i'd like to talk about the customization so a lot of things why i really
+
+864
+01:37:13,000 --> 01:37:22,000
+like this is you can do things like um you can you can convert some of the rewards like for example
+
+865
+01:37:22,000 --> 01:37:31,000
+this one um the cliff is no longer a reward it's not something else instead
+
+866
+01:37:31,000 --> 01:37:37,000
+uh then we have the obvious no longer getting arena echoes which is cool
+
+867
+01:37:39,000 --> 01:37:46,000
+there's a lot of interesting things here oh we're getting ads again it looks like
+
+868
+01:37:47,000 --> 01:37:53,000
+getting ads again oh okay yeah yeah stall for a sec spam i yeah dang i ran as many ads as possible
+
+869
+01:37:53,000 --> 01:38:00,000
+everybody i'll wait i'll wait to ask my next question then uh about this um
+
+870
+01:38:01,000 --> 01:38:06,000
+judd what games are you playing on your oculus you know i haven't touched that thing in a long
+
+871
+01:38:06,000 --> 01:38:15,000
+time no way no i haven't i haven't uh i have a an oculus 2 and that's the three and when i use those
+
+872
+01:38:15,000 --> 01:38:22,000
+i usually go into this app called wander which is basically like google maps but you can do it in vr
+
+873
+01:38:22,000 --> 01:38:28,000
+and so you can just like go anywhere in the world um it came with a it came with a specific game that was
+
+874
+01:38:28,000 --> 01:38:35,000
+cool it was a good dungeon hack and slash type game with some level of itemization um i have never
+
+875
+01:38:35,000 --> 01:38:44,000
+been so sick in my life i i like had to lay down i was so physically ill after playing that game
+
+876
+01:38:44,000 --> 01:38:51,000
+i want so badly to be able to enjoy those things but um yeah it's uh you get your vr legs after a
+
+877
+01:38:51,000 --> 01:38:57,000
+while apparently right right yeah eventually the tech will be there okay we're back thank thank you chat
+
+878
+01:38:57,000 --> 01:39:03,000
+we just stalled talking about vr for a second sorry car if the ads interrupted us let's go yeah
+
+879
+01:39:04,000 --> 01:39:10,000
+it's fine but yeah so one of the reasons i've well many of the reasons i'm very excited about
+
+880
+01:39:10,000 --> 01:39:17,000
+your trees being able to not only customize what content you get but also what you get out of the
+
+881
+01:39:18,000 --> 01:39:23,000
+you know just your normal everyday uh echoes because they still exist there
+
+882
+01:39:23,000 --> 01:39:29,000
+um so for example you can entirely remove all the group cliff rewards and it just gives you something
+
+883
+01:39:29,000 --> 01:39:34,000
+else instead and then you can do the same for arena keys and then you can do the same for experience
+
+884
+01:39:34,000 --> 01:39:43,000
+and then you can say the runes and suddenly you'll have a lot less uh possible rewards that most people
+
+885
+01:39:43,000 --> 01:39:51,000
+think are bad and we also have some new ones oh so if you want to like blast experience you could just
+
+886
+01:39:51,000 --> 01:39:56,000
+narrow everything down and like make experience one of the only rewards you can get yeah i don't
+
+887
+01:39:56,000 --> 01:40:02,000
+think you can quite remove everything everything you can you can you can increase uh the stuff you get
+
+888
+01:40:02,000 --> 01:40:09,000
+a decent amount and then memory amber you know the sink on your idols farming your you know perfect idols
+
+889
+01:40:09,000 --> 01:40:18,000
+and uh all that so you can now have a memory amber as a reward for completing echoes if you take this
+
+890
+01:40:18,000 --> 01:40:24,000
+yes uh and i think there's another one for bowen echoes as well and then i believe there's one
+
+891
+01:40:24,000 --> 01:40:33,000
+specific for dungeon keys yeah here so we have the one that provides just keys which can be dungeon
+
+892
+01:40:33,000 --> 01:40:38,000
+keys but this one is specific to dungeon keys can we talk about portal charms
+
+893
+01:40:38,000 --> 01:41:06,000
+yeah i mean yeah this can also give you those uh yeah we uh we're implementing portal charms and one of the ones that we think that people are really going to enjoy is uh it's a charm that you insert into the dungeon that allow you to portal uh directly to the boss of the dungeon and we're implementing a uh black market key trader in upper majelka and you can trade uh any three dungeon keys for a portal charm so uh people that have a whole lot of excessive
+
+894
+01:41:06,000 --> 01:41:14,000
+a lot of excessive dungeon keys will be uh lucky to go in and trade those things and uh be able to portal directly to the bosses
+
+895
+01:41:15,000 --> 01:41:20,000
+that's sweet infinite boss gauntlet just go in and blast the boss people love that
+
+896
+01:41:23,000 --> 01:41:32,000
+yeah there's a there's a lot of notes we could uh go over but i'm not sure if we have time or we want to do that is there any notes we should take a look at
+
+897
+01:41:32,000 --> 01:41:34,000
+anything you guys
+
+898
+01:41:34,000 --> 01:41:38,000
+let's kill nemesis notes carf
+
+899
+01:41:38,000 --> 01:41:45,000
+i think they are yeah here huh so yeah we got oh i like that highlight function i i just got to shout you guys
+
+900
+01:41:45,000 --> 01:41:52,000
+out that's very clear yeah so obviously just get more nemesis you want nemesis you can get more nemesis uh
+
+901
+01:41:52,000 --> 01:41:59,000
+there's i think two woe one echoes that have something to do with nemesis at least one that allows you
+
+902
+01:41:59,000 --> 01:42:02,000
+lets you farm them a bit more as well um
+
+903
+01:42:05,000 --> 01:42:11,000
+oh yeah nemesis escapes through a portal after being apart you know you get some uh this is specific to the
+
+904
+01:42:13,000 --> 01:42:21,000
+uh the nemesis uh weapon types like weapon bases that when you kill a harbinger it upgrades so
+
+905
+01:42:21,000 --> 01:42:25,000
+uh this was something that was quite hard to farm
+
+906
+01:42:26,000 --> 01:42:31,000
+previously because there weren't the only way to get the uh nemesis specific
+
+907
+01:42:32,000 --> 01:42:40,000
+weapons was by just getting them from nemesis so you had to banish them a lot to find hopefully get the correct base and then on top of that you
+
+908
+01:42:40,000 --> 01:42:45,000
+really needed to get lucky to get the good stuff on them as well so this is going to help you farm
+
+909
+01:42:45,000 --> 01:42:52,000
+the nemesis spaces if your build wants to use those um there's one scepter especially which is really
+
+910
+01:42:52,000 --> 01:43:02,000
+strong uh the base grid scepter uh and then um you can put them into your uh two cemeteries as well
+
+911
+01:43:02,000 --> 01:43:10,000
+the nemesis that is if you put three points here it's guaranteed that the uh two human cemeteries are
+
+912
+01:43:10,000 --> 01:43:19,000
+gonna have uh a nemesis that is possessed which makes it stronger one of my favorite woven echoes
+
+913
+01:43:19,000 --> 01:43:24,000
+is the uh nemesis tower where you're climbing the tower and you have back-to-back nemesis uh people
+
+914
+01:43:24,000 --> 01:43:28,000
+are people are really going to enjoy that one because you get to you know see the evolution of the items
+
+915
+01:43:28,000 --> 01:43:29,000
+very rapidly
+
+916
+01:43:29,000 --> 01:43:40,000
+my favorite by far just the abusul trap where shade just pops into your echo and uh wants to have a
+
+917
+01:43:40,000 --> 01:43:48,000
+chat that's cool yeah as i mentioned earlier on like the one of the one of the reasons we added
+
+918
+01:43:48,000 --> 01:43:53,000
+system like this is to you know ensure that when we're adding new seasonal mechanics that you know
+
+919
+01:43:53,000 --> 01:43:58,000
+we've got we've got a method they are ready to modify and interact with that um so that's that's
+
+920
+01:43:58,000 --> 01:44:03,000
+going to help us in the long term as well and do you think when you add a new seasonal mechanic you
+
+921
+01:44:03,000 --> 01:44:09,000
+might immediately add it to the weaver tree or will you wait to see if the community enjoys it and then
+
+922
+01:44:09,000 --> 01:44:15,000
+add it post season if it ends up staying in the game yeah i think um at the moment anything we're
+
+923
+01:44:15,000 --> 01:44:21,000
+adding a seasonally is added to the base game you know i don't think we're at a point where you know
+
+924
+01:44:21,000 --> 01:44:25,000
+we wouldn't add a system like nemesis and then take it away because it's too like it's too valuable the
+
+925
+01:44:25,000 --> 01:44:30,000
+the game needs more of those random encounters at a certain point that would be the case tried like
+
+926
+01:44:30,000 --> 01:44:35,000
+you know but we're we're probably uh a wee bit far out from doing that at the moment
+
+927
+01:44:37,000 --> 01:44:44,000
+nice now that i was on a shade i got another thing i wanted to really mention is uh and this is
+
+928
+01:44:45,000 --> 01:44:53,000
+pretty really relevant for items so farming items from shade uh when we added the
+
+929
+01:44:53,000 --> 01:44:59,000
+the the the or when we buffed the corruption catch up so if you have a one timeline at a very high
+
+930
+01:44:59,000 --> 01:45:04,000
+corruption and then you want to farm shade like a you know lower corruption because it's faster or
+
+931
+01:45:04,000 --> 01:45:12,000
+whatever safer um what ended up happening is your timeline went up in corruption because you killed shade
+
+932
+01:45:12,000 --> 01:45:18,000
+through the the corruption catch up and then what you had to do is you had to do the the echo in the
+
+933
+01:45:18,000 --> 01:45:26,000
+middle at the start to lower the corruption again and then go farm another shade and it was just really
+
+934
+01:45:26,000 --> 01:45:31,000
+tedious annoying little thing that we just we totally missed on that because we wanted to buff the
+
+935
+01:45:31,000 --> 01:45:37,000
+corruption catch up and there were people who wanted to farm shade at a very specific lower corruption than
+
+936
+01:45:37,000 --> 01:45:45,000
+their highest is so now if you take this node you can farm shade in that specific corruption and it
+
+937
+01:45:45,000 --> 01:45:51,000
+doesn't increase the corruption anymore with the catch up mechanic so any shade farmers who want to
+
+938
+01:45:51,000 --> 01:46:03,000
+do very specific corruption uh here's a node for you player agency gotta love it yeah a lot of good stuff
+
+939
+01:46:03,000 --> 01:46:09,000
+in here yeah there there is something maybe trivial popped into my head judd when you talked about climbing
+
+940
+01:46:09,000 --> 01:46:16,000
+the tower with the nemesis yeah are all of these woven echoes new environments like new maps i i know
+
+941
+01:46:16,000 --> 01:46:22,000
+that might seem like little i i'm just a big fan of new places and i saw one that looked like it was on
+
+942
+01:46:22,000 --> 01:46:28,000
+an like an island in the middle of the ocean or and some monster was swimming around are these all new or
+
+943
+01:46:30,000 --> 01:46:30,000
+a mix
+
+944
+01:46:33,000 --> 01:46:37,000
+i think the vast majority of them are brand new yeah oh the vast majority yeah the vast majority of them brand
+
+945
+01:46:37,000 --> 01:46:44,000
+new some of them are like that's been and also also in the sense of maybe using the ancient era um
+
+946
+01:46:44,000 --> 01:46:49,000
+which is you know uh more to come there um but yeah the you know i think their original plan um was
+
+947
+01:46:49,000 --> 01:46:56,000
+maybe to have more and reuse existing echo layouts however however um you know that didn't seem right to
+
+948
+01:46:56,000 --> 01:47:00,000
+do at the same time as adding potential generation things like that so yeah we we did put a bit more
+
+949
+01:47:00,000 --> 01:47:07,000
+effort into have them feeling much more unique i love that there's a couple very unique style
+
+950
+01:47:07,000 --> 01:47:14,000
+woven echoes that yeah and we we wanted to there's a there's a we had a lot of ideas for a lot of
+
+951
+01:47:14,000 --> 01:47:23,000
+different totally different mechanics and whatnot uh but i i'd expect some of those to come in the future
+
+952
+01:47:23,000 --> 01:47:30,000
+hopefully exciting because we obviously needed to get all of the the mode that the must-have kind of
+
+953
+01:47:30,000 --> 01:47:35,000
+of thing like all of the the new itemization related woven echoes and then just all the cool bosses and
+
+954
+01:47:35,000 --> 01:47:40,000
+and and what right but we have we have a couple really cool fun months there but yeah i think uh
+
+955
+01:47:40,000 --> 01:47:49,000
+it's time for me to take off the the the streaming again so you can see our uh there you go there we go
+
+956
+01:47:50,000 --> 01:47:56,000
+all right you guys that that was beautiful the weaver tree now before i i get to my final question for
+
+957
+01:47:56,000 --> 01:48:03,000
+all of you is there anything else you guys would like to show for tombs of the erased anything else
+
+958
+01:48:06,000 --> 01:48:12,000
+i think i think likewise the uh picking up crafting materials and having those automatically be sent to
+
+959
+01:48:12,000 --> 01:48:16,000
+your crafting panel is just one of my favorite things coming with this patch as somebody who plays
+
+960
+01:48:16,000 --> 01:48:23,000
+on gamepad um people people on on keyboard and mouse will also benefit greatly from that that's a very
+
+961
+01:48:23,000 --> 01:48:28,000
+very very good update and then the uh inventory tabs being able to have keys and woven echoes and
+
+962
+01:48:28,000 --> 01:48:32,000
+your items be stored in different inventory tabs is a really good quality of life thing definitely
+
+963
+01:48:34,000 --> 01:48:39,000
+all right yeah if you're a veteran player as well um your monolith progression through normal timelines
+
+964
+01:48:39,000 --> 01:48:44,000
+is shared with characters that have access to that stash so it's less of a slog to get through the
+
+965
+01:48:44,000 --> 01:48:48,000
+monolith you know if you know what you're doing on your alt characters you've already gear for them
+
+966
+01:48:48,000 --> 01:48:52,000
+um and you know you know how to play the game you'll be able to test more builds out very fast enough
+
+967
+01:48:53,000 --> 01:49:00,000
+did we mention that um you will be able to use keys to respawn in dungeons either at the floor
+
+968
+01:49:00,000 --> 01:49:08,000
+that you were on or at the boss oh i didn't know you know i have yeah yes that's uh that's a good one
+
+969
+01:49:08,000 --> 01:49:15,000
+that's a good one for all those people dying to that girl i can't her name is escaping me the chronomancer
+
+970
+01:49:15,000 --> 01:49:23,000
+girl jora yeah oh yeah yeah yeah yeah uh now again on hardcore don't do that uh it's not going to save
+
+971
+01:49:23,000 --> 01:49:31,000
+you it's not going to save you uh but for our soft core players it's helpful yeah all right we got some
+
+972
+01:49:31,000 --> 01:49:36,000
+other cool cool things coming in as well that we haven't revealed yet i think i mean it's going to be an
+
+973
+01:49:36,000 --> 01:49:42,000
+exciting day you guys and i think i think we all know you know there's going to be a lot of new
+
+974
+01:49:42,000 --> 01:49:48,000
+and returning players flocking to last epoch for this massive update you guys had i think it's nine
+
+975
+01:49:48,000 --> 01:49:56,000
+months to cook and you guys cooked a feast okay do you have any message to all these people that are
+
+976
+01:49:56,000 --> 01:50:02,000
+going to be trying out last epoch when it drops april 17th like what is your advice from you three
+
+977
+01:50:02,000 --> 01:50:10,000
+you're logging into le the first time character select you load in what do you tell them yeah i
+
+978
+01:50:10,000 --> 01:50:15,000
+think for me i've got a very specific way of playing rpgs where um you know a lot of people
+
+979
+01:50:15,000 --> 01:50:20,000
+recommend that you play last epoch um without a build guide just play yourself learn the game that
+
+980
+01:50:20,000 --> 01:50:24,000
+way and i think that's i think that's the that's the correct way to do it i like to hedge my bets though
+
+981
+01:50:25,000 --> 01:50:30,000
+in general i look up build gains and look up a you know skills being used to understand if i would
+
+982
+01:50:30,000 --> 01:50:34,000
+like to play that type of content and then i'll bookmark that guide but i won't use it
+
+983
+01:50:34,000 --> 01:50:39,000
+uh and then i'll proceed through the game myself and if things work out i make the same decisions
+
+984
+01:50:39,000 --> 01:50:45,000
+uh as that you know as the build build creator and i get to feel smarter about that or if i'm struggling
+
+985
+01:50:45,000 --> 01:50:49,000
+i get something to fall back on and i think for me that's that's the way to do it because you get to
+
+986
+01:50:49,000 --> 01:50:53,000
+feel smart if you make the right decisions there but you've also got a backup plan if things aren't
+
+987
+01:50:53,000 --> 01:50:59,000
+going so well and you're having trouble scaling into impaired models yeah piggybacking off that um
+
+988
+01:50:59,000 --> 01:51:04,000
+yeah getting in there and just following the fun with the skill system and the crafting system that
+
+989
+01:51:04,000 --> 01:51:08,000
+we have you should be able to go in there and make a build that will at least be able to get through
+
+990
+01:51:08,000 --> 01:51:12,000
+the campaign and if you end up finding that you're in a challenging position and you're just not
+
+991
+01:51:12,000 --> 01:51:18,000
+powerful enough to get past a certain uh progression point you can open the crafting panel and add some
+
+992
+01:51:18,000 --> 01:51:25,000
+add some shards to gear it's a very easy way to go and and uh get to the campaign without uh having to
+
+993
+01:51:25,000 --> 01:51:30,000
+follow a build guide or anything of that nature um also just in case people aren't aware we have
+
+994
+01:51:30,000 --> 01:51:36,000
+this really robust in-game guide press g to open that up it's got an absolute wealth of knowledge
+
+995
+01:51:36,000 --> 01:51:41,000
+and everything that you'll need to know to be successful uh in in the game uh so again yep
+
+996
+01:51:41,000 --> 01:51:45,000
+don't feel like you need to follow a build guide i will say that there are a lot of really fantastic
+
+997
+01:51:45,000 --> 01:51:50,000
+creators that put a lot of love and effort into making build guides that are really enjoyable and
+
+998
+01:51:50,000 --> 01:51:55,000
+really good uh really easy to follow so it's great if you do like to do that there's a lot of great
+
+999
+01:51:55,000 --> 01:52:04,000
+uh creators that you can go and support in that way as well my two things would be to go watch
+
+1000
+01:52:04,000 --> 01:52:12,000
+a streamer because there's twitch drops oh big some some some cool mtx and then the other one would be to
+
+1001
+01:52:12,000 --> 01:52:21,000
+keep your chat open to you know really like live the uh through the the all the fun and hype and
+
+1002
+01:52:21,000 --> 01:52:27,000
+everything that people are chatting on the uh and helping each other and uh even if you are an offline
+
+1003
+01:52:27,000 --> 01:52:34,000
+player instead of going full offline mode you could go just through offline while having a chat to uh be
+
+1004
+01:52:34,000 --> 01:52:40,000
+able to uh chat with people while playing to you know not feel so alone even though there's a lot of
+
+1005
+01:52:40,000 --> 01:52:46,000
+people who like to play alone but uh i especially like to just chat with people like i'm gonna be
+
+1006
+01:52:46,000 --> 01:52:54,000
+chatting in hardcore for sure awesome you got to share your drops in global you just have to do it
+
+1007
+01:52:54,000 --> 01:52:59,000
+it makes the game feel so much funner oh yeah just link all of the all the gg stuff that you get
+
+1008
+01:52:59,000 --> 01:53:05,000
+from nemesis early on because you can you can get tier sevens from nemesis with you know on legendaries
+
+1009
+01:53:05,000 --> 01:53:10,000
+and whatnot you just link those on chat and you're just like oh what is that it's good times
+
+1010
+01:53:10,000 --> 01:53:15,000
+your your hardcore deaths and or achievements will also be in chat via announcements as well
+
+1011
+01:53:15,000 --> 01:53:20,000
+that's something new to season two oh that's so you know that's awesome just so you can you can
+
+1012
+01:53:20,000 --> 01:53:25,000
+you know at the start of a season you can feel you know you can live vicariously through others
+
+1013
+01:53:25,000 --> 01:53:31,000
+that's that's how i do it that is exciting love those i'm not sure if that has been told before
+
+1014
+01:53:31,000 --> 01:53:36,000
+i'm not sure i think that's what car was kind of hinting around yeah yeah i was trying to go like go
+
+1015
+01:53:36,000 --> 01:53:40,000
+around the bar yeah yeah yeah yeah we're really excited to get that across the line for sure for
+
+1016
+01:53:40,000 --> 01:53:47,000
+sure uh it'll be a good one what's exciting you guys well if there's nothing else thank you so much
+
+1017
+01:53:47,000 --> 01:53:53,000
+for your time i i think the number one thing being spam right now is you know servers take our energy we
+
+1018
+01:53:53,000 --> 01:53:58,000
+are everybody's so excited to log in it's gonna be a really big day you guys congratulations on this
+
+1019
+01:53:58,000 --> 01:54:05,000
+this lead up and i hope launch day goes well i really do thanks thanks so much try it was an
+
+1020
+01:54:05,000 --> 01:54:12,000
+absolute pleasure getting to chat 100 i'll talk to you all later i'll see you in game as well
+
+1021
+01:54:13,000 --> 01:54:18,000
+all right that's the cut for the youtube you guys i'll i'll just take us off stream really quick
+
+1022
+01:54:18,000 --> 01:54:21,000
+thank you guys so much that was a lot of fun that was fun yeah thanks
+
+1023
+01:54:21,000 --> 01:54:23,000
+have a little
+
